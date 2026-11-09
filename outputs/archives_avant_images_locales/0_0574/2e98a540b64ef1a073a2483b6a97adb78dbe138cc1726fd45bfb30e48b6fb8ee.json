@@ -1,0 +1,168 @@
+{
+  "image_id": "0_0574",
+  "titre": "Vues d'architectures 4",
+  "artiste": "Lucien Hervé",
+  "room_id": "Room_3",
+  "sujet_existant": "Architecture",
+  "fingerprint": "a28ab99c77825cfa7321e3d8e7ad4c2ec2df590b7ddab93c4b735296c9bbf616",
+  "model": "gpt-4.1",
+  "prompt_version": "bird-vision-v1",
+  "date_utc": "2026-09-17T12:55:56.229804+00:00",
+  "statut": "a_verifier",
+  "motif": "Aucune correspondance suffisamment étayée.",
+  "nombre_candidats": 6,
+  "erreurs_telechargement": [
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:Musée_Beaux_Arts_-_Nancy_(FR54)_-_2022-02-26_-_2.jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:Une_salle_du_musée_de_sculpture_70_038_(cropped).jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:Une_salle_du_musée_de_peinture_70_038_(cropped).jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:F54_Nancy_Daum_CollectionMBA.JPG",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:F54_Nancy_escalier_Musée-Beaux-Arts.JPG",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:Musée_des_beaux-arts_de_Nancy-Péristyle.jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:Intérieur_musée_Beaux-Arts_Nancy.jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:F54_Nancy_Escalier-Musée-des-Beaux-Arts.jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:Mello_da_Gubbio_Cricifixion_0604.JPG",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:Mello_da_Gubbio_martyr_de_Jacques_et_Marien_0605.JPG",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:Mello_da_Gubbio_martyr_de_Jacques_ou_Marien.jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:Vierge_à_l'enfant_Taddeo_di_Bartolo_0603.JPG",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:Saint_Paul_Fracesco_Traini_0600.JPG",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:Vierge_à_l'Enfant_accompagnée_par_deux_anges.jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:Wilhelm_Stetter_Ecce_homo_0625.jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:Wilhelm_Stetter_Apparition_du_Christ_Marie_Magdeleine_0627.JPG",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:Wilhelm_Stetter_la_mise_au_tombeau_0626.JPG",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:Le_Tintoret,_La_déploration_du_Christ.JPG",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://musee-lorrain.nancy.fr/typo3/sysext/core/Resources/Public/Icons/Flags/FR.png",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://musee-lorrain.nancy.fr/typo3/sysext/core/Resources/Public/Icons/Flags/en-us-gb.png",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Lucien_Herv%C3%A9_autoportrait.jpg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Lucien_Herv%C3%A9_autoportrait.jpg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:Lucien_Hervé_autoportrait.jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/static/images/icons/wikipedia.png",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-fr.svg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/static/images/mobile/copyright/wikipedia-tagline-fr.svg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Lucien_Herv%C3%A9_autoportrait.jpg?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Info_Simple.svg/40px-Info_Simple.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Info_Simple.svg/20px-Info_Simple.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Circle-icons-camera.svg/60px-Circle-icons-camera.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Circle-icons-camera.svg/40px-Circle-icons-camera.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Ciudad.svg/60px-Ciudad.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Ciudad.svg/40px-Ciudad.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Heinkel_He_111_during_the_Battle_of_Britain.jpg/60px-Heinkel_He_111_during_the_Battle_of_Britain.jpg?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Heinkel_He_111_during_the_Battle_of_Britain.jpg/40px-Heinkel_He_111_during_the_Battle_of_Britain.jpg?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/120px-Flag_of_Hungary.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/60px-Flag_of_Hungary.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "error": "ValueError"
+    }
+  ]
+}

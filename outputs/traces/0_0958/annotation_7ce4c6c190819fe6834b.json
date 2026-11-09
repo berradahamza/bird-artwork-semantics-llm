@@ -1,0 +1,197 @@
+{
+  "signature": "90631bddc54c734fe9e831256f371f26d0a31132ea0d0dd6af76f6ee689f95de",
+  "response": {
+    "id": "resp_0794a45958eda9ee016aabec2bbd4487d29172d6617d01b4a7",
+    "created_at": 1789652011.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": "Analyse uniquement ce qui est visible dans cette image, sans recherche web ni identification de mémoire. Réponds en français. Décris précisément objets, personnages, décor et composition en 2 à 4 phrases. Pas de noms de personnes, dates ou récits non démontrables visuellement. Sujet principal parmi les neuf catégories ou NA. Religion/Mythologie/Histoire exigent des indices visibles, sinon NA ou catégorie plus générale. Culture : pratiques/symboles culturels identifiables ; Quotidien : activités ordinaires ; Objet : objets/nature morte ; Personnage : figure/portrait ; Nature : paysages/faune/flore ; Architecture : bâti. Style visuel probable en mots courts (ex. naturaliste, géométrique, impressionniste), sans affirmer une appartenance historique. Mets indéterminé si nécessaire. Ne confonds pas technique, sujet et style. Indique les limites et justifie les choix.",
+    "metadata": {},
+    "model": "gpt-4.1-2025-04-14",
+    "object": "response",
+    "output": [
+      {
+        "id": "msg_0794a45958eda9ee016aabec2c905887d2b9bb7204c3ced701",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\n  \"description_visuelle\": \"Un portrait montre une femme vue de profil, vêtue d'un manteau sombre avec un col en fourrure. Elle se tient devant un fond bleu clair parsemé de touches florales colorées et de motifs vaporeux, qui évoquent un décor abstrait ou stylisé. L'expression du visage est calme, le regard tourné vers la gauche. Le cadre doré accentue le caractère précieux de l'œuvre.\",\n  \"sujet_principal\": \"Personnage\",\n  \"sujets_secondaires\": [\"Objet\",\"Nature\"],\n  \"justification_sujet\": \"La figure féminine occupe clairement la position centrale du tableau et capte l’attention du spectateur ; les fleurs et motifs du fond évoquent la nature en élément secondaire, tandis que l'ensemble forme un objet artistique encadré.\",\n  \"style_visuel_probable\": \"impressionniste\",\n  \"justification_style\": \"Les touches libres dans le fond floral, associées à la lumière et aux contours doux, rappellent une approche impressionniste orientée vers la suggestion plutôt que la précision.\",\n  \"figuration\": \"figuratif\",\n  \"couleurs_dominantes\": [\"bleu clair\",\"noir\",\"brun\",\"rouge\",\"jaune\"],\n  \"elements_visibles\": [\"femme\",\"manteau noir\",\"sac sombre\",\"motifs floraux abstraits\",\"fond bleu clair\"],\n  \"composition\": \"Le personnage est placé de trois-quarts, principalement sur la gauche du tableau, laissant beaucoup d’espace au motif décoratif du fond à droite ; la composition privilégie le buste et le visage, encadrés dans un format vertical.\",\n  \"limites_visuelles\": [\"Pas d’inscription lisible dans l’image sauf sur le cadre.\",\"Le fond ne représente pas un lieu concret, éléments floraux suggérés mais non détaillés.\",\"Absence de détails contextuels concernant l’époque ou l’identité du personnage.\"]\n}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": null
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 1.0,
+    "background": false,
+    "completed_at": 1789652017.0,
+    "conversation": null,
+    "max_output_tokens": 3500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "in_memory",
+    "reasoning": {
+      "context": null,
+      "effort": null,
+      "generate_summary": null,
+      "mode": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "resultat",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "description_visuelle": {
+              "type": "string"
+            },
+            "sujet_principal": {
+              "type": "string",
+              "enum": [
+                "Architecture",
+                "Culture",
+                "Histoire",
+                "Mythologie",
+                "Nature",
+                "Objet",
+                "Personnage",
+                "Quotidien",
+                "Religion",
+                "NA"
+              ]
+            },
+            "sujets_secondaires": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "Architecture",
+                  "Culture",
+                  "Histoire",
+                  "Mythologie",
+                  "Nature",
+                  "Objet",
+                  "Personnage",
+                  "Quotidien",
+                  "Religion"
+                ]
+              }
+            },
+            "justification_sujet": {
+              "type": "string"
+            },
+            "style_visuel_probable": {
+              "type": "string"
+            },
+            "justification_style": {
+              "type": "string"
+            },
+            "figuration": {
+              "type": "string",
+              "enum": [
+                "figuratif",
+                "abstrait",
+                "mixte",
+                "indetermine"
+              ]
+            },
+            "couleurs_dominantes": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "elements_visibles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "composition": {
+              "type": "string"
+            },
+            "limites_visuelles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "description_visuelle",
+            "sujet_principal",
+            "sujets_secondaires",
+            "justification_sujet",
+            "style_visuel_probable",
+            "justification_style",
+            "figuration",
+            "couleurs_dominantes",
+            "elements_visibles",
+            "composition",
+            "limites_visuelles"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 850,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cached_tokens": 0
+      },
+      "output_tokens": 406,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 1256
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  }
+}

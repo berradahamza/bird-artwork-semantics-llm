@@ -1,0 +1,205 @@
+{
+  "signature": "f4900b83c0798e3b628661530cc6362dd6d1b2332ecb43fc3cfdfe4837da3365",
+  "response": {
+    "id": "resp_084c206fa76b9763016aad38b7aa4087d28de1e270a0c11361",
+    "created_at": 1789737143.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": "Analyse uniquement ce qui est visible dans cette image, sans recherche web ni identification de mémoire. Réponds en français. Décris précisément objets, personnages, décor et composition en 2 à 4 phrases. Pas de noms de personnes, dates ou récits non démontrables visuellement. Sujet principal parmi les neuf catégories ou NA. Religion/Mythologie/Histoire exigent des indices visibles, sinon NA ou catégorie plus générale. Culture : pratiques/symboles culturels identifiables ; Quotidien : activités ordinaires ; Objet : objets/nature morte ; Personnage : figure/portrait ; Nature : paysages/faune/flore ; Architecture : bâti. Style visuel probable en mots courts (ex. naturaliste, géométrique, impressionniste), sans affirmer une appartenance historique. Mets indéterminé si nécessaire. Ne confonds pas technique, sujet et style. Indique les limites et justifie les choix.",
+    "metadata": {},
+    "model": "gpt-5.6-luna",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_084c206fa76b9763016aad38b87ab087d28e3870288ab682e4",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTi-p4fnx8Lsroskdm3PT94B7Jjy6MxHSBvKwpSGK3UL4XQx9XSJFhwNhr4KpbU7LdT5YMxlpjh9Het8oIvb0pTsWhN8mp7a5ZtZwdqBD63X1T7EgKJDA_AeVMo484xb5AtG6Mb8wXDEezLDas8h9eldAsFlVpP7v7DtCZy-HPy66yDkliWb_EYlYrop-eWHciZQD2TEjSc8ScvvdsjRi__DhTaviicF2vLobaURzzARMDUou_Utb1TS8sTUIgrdXvURrHorXerVk7m0P-J7obcXrBAzgf_YiF-9CnR9ojE_saddlCQhL9Vqc3o0j2GN3tEnnE9i7r00YOq37ySTFZOlPm83NXEn6l-XZ88rSaVtaeXzOJlGHD1vEk0rQncEuL4qwKcBAWYFicBBeqba4aV3govbHpcq6v8GBuBKrwB9w2MLhT1pXFIsNem7SeKFJELL65ehs7C7YuzfCD4pMhiZTRVxNL6nCCUrgda1PoPkwRyNzwXoYU16ResTMMertsX86NKPQ_Yn8zMWDOnetG3O6yzQVhboQsuhfYZOKs78HyDzMTA5Bn7OJ7QO6dxdHhYG-R46td1sD4ro_LUAscF0kxr84ZltWl8uk5GiUglFo4IKKeTAYqbiAOJ1kGnPHl4RzrdhGY5aQCvxhE5F3rVzHmD8Khx9akbmZvkO_fj-kMzMwsmO8--OdxXRMGM2bU-ze0KDU8uHb5NT5Otuc2iy80PnhJbHC_nb4emEn0VY-ZbaRKDS29ewB4NFp_9D_PCmZ0dWPFvmp9iwQp_UcPujR2W7Xjzc_WrdmKqapRq8fyieVbpZN46arT8f9850twNuI2EiT2gAkXyud0lxrnA4cSfuT8RRL94QtTEfS1viUvGIHiQ1zd7Tx-hAmmEAnHFerXDRh21QNBuamG0Z-mlOv7fKAG4-FCc4UUNmFpVkav5Rp29UJRAf6dTAjG3a-OgoGjGwwmHTzoUQ6yVboOSZyt6qgJWnAQKfnI8IaqfiGB3EQE70cfBFowOhJuogh1OS_MJCq4NNbuuBZNw0OS2nWltCYdZJLyTanjeO6WF_2hho59biA3TYnF85h46MZ8xl-7khTAL4wWf-qvJuWed6Aila2LPOjN-R-duC6vD-dB0RyaewAei4POWQG_573OBn5xsSwHDqe9YNrcXZQu8HrTx3NueF3jUNwJ7gph9BkUPorIJc1HH19HGjGjTzTKxeDbxk4XRm9tv7T52H8ExeQfI8bDWauMfVamNUhHDrowvuJuQ1-OClLwT1ppJ1eA4jP2KkkFUdYglqf0B7XuVeLCviS-jZty9zC6s8WQE4_XxvXkNcppBwkKf6XRpEZQbZn9X90DRCW_DMZp9Crn1ywC8lBTDDQKB9Q5y45AAqNvVmQwrm8YIpq19XJ5C5p_llDchSfSiFYB8k2v2rKhV8V94cox9dAJR7lnZ3ZTve1z2HL3yPw6Ky_33b_m158h6TvfLDkFQUjsQqYfJsQ0b8aJry1zw9z6TBRTG-nQpv3nepEjxa_h7JExE-MGch0GFm7l7dieKENk9vssqlZc2GWpVzRdbCgPEYkR9158K5_zNKpFXYeD3P4o8xOzPsfj4SQfyhQxl-2noxtT14Fkv1KtztwcWLOO66rovqIFhZRk1HhxdbELcxGf0oeM3NsfERUNPIQ4_fVeCfnXawIJMCXV9Pd4IgV6gzldjbc_hulGKmnUAxFithyTXXYBPctqUHdKohEWUP_IVRmDUyTHsE1le5bZK6sukLhg1F4PoHyvqEKJ6OLaRBB-m4LE7h0A2E9SbyHhMxkwwcUtqpb9NvuQLj-OCTGLWovp-QQrqG2AvxfjLjIChsqalY6hwXPE7PKzmgRaFvtb8oCV-te0oSJ7D-PqDev5niFQg5jJIaNOHFQZ4EKNWZ_jNzp_btDVP3HChFMU9ziTpryryn_Utywj32K5F0cVCy4gdLJoDM-YBbjNBiqh_oWc3FrQ_l4Vb2CPjWRy51ACd9MIT3PjzCfAyoGg3km_v2Oi6sNWStvQyxCCcezau1SqtgYtPulAwl0AcH6C3i_vcXH_16FtctEFQScgLpgnKEjbtmdRPA6U2uYPJ_9FhOhH6yCNB4T3bz6rwQRZ0HN4uIGFN53MqatkOMp4TqiQIZWKeb6DkWlmDVMJUxDcgtslzNkX_wtBIkpuHuFAbwJROeFdQfxt3EgvjQGreFRzVy1SCd2u5s1nboihjYRQ1QUeXlfLCEIVNY7d6GBhmjfowut5inBCM2f9QfVKH_q5CbGoBwinci_ds=",
+        "status": null
+      },
+      {
+        "id": "msg_084c206fa76b9763016aad38b9e13487d2b744accc36e6b7ae",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\"description_visuelle\":\"La scène montre un groupe nombreux de personnages réunis sur les marches d’un édifice monumental, autour d’un homme en armure ou en costume militaire et d’une femme vêtue de clair. Des figures assises, agenouillées ou allongées occupent le premier plan, tandis que d’autres portent des étoffes, des récipients ou des objets indistincts. À l’arrière-plan apparaissent des colonnes, des sculptures monumentales, des draperies rouges et un bâtiment à gauche, sous un ciel lumineux.\",\"sujet_principal\":\"Personnage\",\"sujets_secondaires\":[\"Architecture\",\"Objet\",\"Culture\"],\"justification_sujet\":\"La composition est dominée par une assemblée de figures humaines aux attitudes variées, avec un groupe central mis en scène sur les marches. Aucun récit précis ni identité historique ou religieuse ne peut être démontré uniquement par les éléments visibles.\",\"style_visuel_probable\":\"Figuratif, théâtral, pictural, contrasté, d’inspiration baroque\",\"justification_style\":\"Les gestes expressifs, les diagonales, les draperies abondantes, les contrastes d’ombre et de lumière et l’accumulation de personnages produisent un effet dramatique et théâtral. Cette appréciation concerne l’aspect visuel et ne permet pas d’attribuer l’œuvre à une période ou à un artiste précis.\",\"figuration\":\"figuratif\",\"couleurs_dominantes\":[\"rouge sombre\",\"brun\",\"ocre\",\"bleu\",\"gris\",\"blanc cassé\"],\"elements_visibles\":[\"groupe central de personnages\",\"personnage en tenue militaire ou armure\",\"femme en vêtement clair\",\"personnages assis et agenouillés\",\"enfant ou petite figure au premier plan\",\"marches en pierre\",\"colonnes et façade monumentale\",\"statues ou figures sculptées\",\"grande draperie rouge\",\"récipients et objets au sol\",\"bâtiment à gauche\",\"ciel et paysage lointain\"],\"composition\":\"La scène est organisée selon une construction pyramidale et théâtrale : les personnages se concentrent au centre et s’étendent vers les deux côtés, tandis que les marches conduisent le regard vers le groupe principal. Les éléments architecturaux et les statues encadrent la scène, et le premier plan est occupé par des figures plus proches ainsi que par des objets posés au sol.\",\"limites_visuelles\":[\"Les visages et certains objets sont trop peu détaillés pour identifier précisément les personnages ou leurs fonctions.\",\"Les costumes et les sculptures évoquent un contexte ancien ou théâtral, mais ne suffisent pas à établir une scène historique, mythologique ou religieuse précise.\",\"La reproduction ne permet pas de déterminer avec certitude le titre, l’auteur, la date ou le lieu représenté.\"]}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1789737150.0,
+    "conversation": null,
+    "max_output_tokens": 3500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "medium",
+      "generate_summary": null,
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "resultat",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "description_visuelle": {
+              "type": "string"
+            },
+            "sujet_principal": {
+              "type": "string",
+              "enum": [
+                "Architecture",
+                "Culture",
+                "Histoire",
+                "Mythologie",
+                "Nature",
+                "Objet",
+                "Personnage",
+                "Quotidien",
+                "Religion",
+                "NA"
+              ]
+            },
+            "sujets_secondaires": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "Architecture",
+                  "Culture",
+                  "Histoire",
+                  "Mythologie",
+                  "Nature",
+                  "Objet",
+                  "Personnage",
+                  "Quotidien",
+                  "Religion"
+                ]
+              }
+            },
+            "justification_sujet": {
+              "type": "string"
+            },
+            "style_visuel_probable": {
+              "type": "string"
+            },
+            "justification_style": {
+              "type": "string"
+            },
+            "figuration": {
+              "type": "string",
+              "enum": [
+                "figuratif",
+                "abstrait",
+                "mixte",
+                "indetermine"
+              ]
+            },
+            "couleurs_dominantes": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "elements_visibles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "composition": {
+              "type": "string"
+            },
+            "limites_visuelles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "description_visuelle",
+            "sujet_principal",
+            "sujets_secondaires",
+            "justification_sujet",
+            "style_visuel_probable",
+            "justification_style",
+            "figuration",
+            "couleurs_dominantes",
+            "elements_visibles",
+            "composition",
+            "limites_visuelles"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 803,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cached_tokens": 0
+      },
+      "output_tokens": 758,
+      "output_tokens_details": {
+        "reasoning_tokens": 168
+      },
+      "total_tokens": 1561
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  }
+}

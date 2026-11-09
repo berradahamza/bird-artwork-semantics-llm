@@ -1,0 +1,55 @@
+{
+  "image_id": "0_0869",
+  "titre": "La douleur",
+  "artiste": "Emile Friant",
+  "room_id": "Room_13",
+  "sujet_existant": "Quotidien",
+  "fingerprint": "c795372113045c156453e6228049071f644af58ff7b883007a319a51cf646564",
+  "model": "gpt-4.1",
+  "prompt_version": "bird-vision-v1",
+  "date_utc": "2026-09-17T13:23:32.290425+00:00",
+  "statut": "ok",
+  "image_path": "images\\0_0869.jpg",
+  "source_page": "https://collections-mba.nancy.fr/fr/notice/947-la-douleur-cb543a2f-7f78-45eb-9cf2-ed6ca8c81af4",
+  "source_image": "https://d2lkryo36aywim.cloudfront.net/eyJidWNrZXQiOiJvcGFjLXByb2QtbWVkaWEiLCJrZXkiOiJiYW5hbmN5MDFcL21iYW5hbmN5b3cwMlwvODNmMjVlYTMtOGJlZC00ZjQ1LTgzOTEtNTdlNDI0ODUzN2FiLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NjUwLCJoZWlnaHQiOjY1MCwiZml0IjoiaW5zaWRlIn19fQ==",
+  "controle_identite": "retenu_par_IA_non_verifie_humain",
+  "raison_identite": "La notice rattache clairement l'image à l'œuvre 'La douleur' d'Émile Friant (1898), avec inventaire 947, musée de Nancy. Les dates, le titre, l'artiste, la description, les mesures et la provenance concordent parfaitement entre la notice de la source candidate et les métadonnées de l'œuvre recherchée.",
+  "original_width": 650,
+  "original_height": 432,
+  "download_url": "https://d2lkryo36aywim.cloudfront.net/eyJidWNrZXQiOiJvcGFjLXByb2QtbWVkaWEiLCJrZXkiOiJiYW5hbmN5MDFcL21iYW5hbmN5b3cwMlwvODNmMjVlYTMtOGJlZC00ZjQ1LTgzOTEtNTdlNDI0ODUzN2FiLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NjUwLCJoZWlnaHQiOjY1MCwiZml0IjoiaW5zaWRlIn19fQ==",
+  "sha256_download": "f9f87f6719d7a4d1994ea2c0ff99180160eb9ae6e503872c691d69d87f7b5601",
+  "description_visuelle": "Au premier plan, plusieurs femmes vêtues de grands voiles noirs, l’air accablé, se tiennent à côté d’un monticule de terre. L'une d'elles semble s’effondrer, soutenue par d’autres femmes. À l’arrière-plan, quelques hommes, également en habits sombres, se tiennent à distance, et on distingue des croix et monuments funéraires dans un paysage de cimetière. L’atmosphère est sombre et mélancolique.",
+  "sujet_principal": "Quotidien",
+  "sujets_secondaires": [
+    "Personnage",
+    "Histoire"
+  ],
+  "justification_sujet": "La scène représente un rassemblement autour d’une sépulture, évocation visuelle d’un enterrement ou d’un deuil, ce qui renvoie à une situation du quotidien ; la forte présence humaine motive aussi le choix « Personnage » en secondaire. Un sentiment historique se dégage par la mise en scène traditionnelle du deuil, mais sans indice visuel précis d’un événement historique donné.",
+  "style_visuel_probable": "naturaliste",
+  "justification_style": "Les formes et attitudes sont rendues avec précision, réalisme et finesse de détails, évoquant une scène plausible et fidèle à la réalité.",
+  "figuration": "figuratif",
+  "couleurs_dominantes": [
+    "noir",
+    "brun",
+    "vert sombre",
+    "gris"
+  ],
+  "elements_visibles": [
+    "femmes en deuil",
+    "hommes en arrière-plan",
+    "sol terreux",
+    "vêtements sombres",
+    "cimetière",
+    "croix funéraires",
+    "arbres"
+  ],
+  "composition": "La composition concentre le groupe de femmes au premier plan avec une diagonale suggérée par la position de la figure effondrée; l’arrière-plan est plus flou et porte sur le paysage du cimetière et les personnages secondaires.",
+  "limites_visuelles": [
+    "L’identité des personnages n’est pas discernable",
+    "Pas d’indice temporel précis",
+    "L'événement exact reste imprécisé, contexte limité à l’enterrement",
+    "L’arrière-plan est peu détaillé"
+  ],
+  "desaccord_sujet": false,
+  "erreurs_telechargement": []
+}

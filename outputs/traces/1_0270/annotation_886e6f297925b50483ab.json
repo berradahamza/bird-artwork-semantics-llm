@@ -1,0 +1,205 @@
+{
+  "signature": "f4870801bc32b0a83a6a2cf596cb8f4830d4c7e6002b5f2ffac34bd5d5b20d51",
+  "response": {
+    "id": "resp_0bbd3e58d2f3a05e016aad3fc5588087d2b56fea3d9e7957b0",
+    "created_at": 1789738949.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": "Analyse uniquement ce qui est visible dans cette image, sans recherche web ni identification de mémoire. Réponds en français. Décris précisément objets, personnages, décor et composition en 2 à 4 phrases. Pas de noms de personnes, dates ou récits non démontrables visuellement. Sujet principal parmi les neuf catégories ou NA. Religion/Mythologie/Histoire exigent des indices visibles, sinon NA ou catégorie plus générale. Culture : pratiques/symboles culturels identifiables ; Quotidien : activités ordinaires ; Objet : objets/nature morte ; Personnage : figure/portrait ; Nature : paysages/faune/flore ; Architecture : bâti. Style visuel probable en mots courts (ex. naturaliste, géométrique, impressionniste), sans affirmer une appartenance historique. Mets indéterminé si nécessaire. Ne confonds pas technique, sujet et style. Indique les limites et justifie les choix.",
+    "metadata": {},
+    "model": "gpt-5.6-luna",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0bbd3e58d2f3a05e016aad3fc64a2c87d2bf14bd16b78428a8",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrT_M_qZ9HvoCc6aMTsBgo81ovIibQHc20ZUmtY3nvN_NicLU2fENc4pKrQ0kz7sclQCUDDmYdR-wg7hB6Y6dhBIbIlFfI4jPDZZeHId4bu8QawQ35kChW-A8af_uWfDhXJLWXUKoagoXSQPVbQR9XWrv-bak16Ebwby2a46XfEDTS6gO-NeJNUfh4pISCnax00Pj-CWZcpTo3ZixRj_oymTQvv-YWDqnbbx9Ga5sNLY71VOEA9-MhSqNHplpAyPP2ZVstaMmkb3D70fe8merDuc0PORYYGYYdaCGIphZ7R8YDKoimDpcCmz5hAKxmcV3X18TgCzaOJYLcwNPopICtiSQuHwkNS9w9nZ4zVwKupofjZuEqel9e7y2bcZty-Lguan5CDjib5qX9cOn2rKEZ2-j4Nm6o8nd6EQfkngaAgnxSDelkJhNDjAzCX566oNb5MNUdrlO-DOfSbNyoXk9YpPZldf_of5dXjFldS_zGZd-P-rUQI61NYCQ_qCDwJehN1wwoag-jbtSDFX_zTNERSVOmvegmytk7mmWeTld-wlnkOG8WWulK9XniYt2vy3JztryrVPj4KOQSxoW8Ru1SSV5KqMSxBL4GuGMsQOt8-Gu8gQzaQwmR1ivDVmg1Bm7re4Exx7LPk02VFS-IA62yCnbVVmgAykqr0tz3GW0zpkIjPsCG_TyhZV00dGS5VG4LzfzI_sFkZCJ1QO-xVIyvO03oJqnlkY2-xPJDMVOq-L-HNN-S7-AfqQpZl2pVNftn-KU6s7-YYC7MuSBCIwP8qWPTSlvC7RgBWXRC8anAbWuZGb-3QPV3l7FIVpOwrRll0uxei9eOTpPqYQxxfw5BMgIA0C_k9HJtkxskuZIt0XCaKhP37-C_6RNI0qYX1D1exRmCgZpfyECnVc8-SM93Hn_Sf3CAwO5QIrwDto7bw1Ub1puXyDVQXRXz2ysC9tTwHTHKgFFUyGOhIr0VGM0Eqat4TGmHMukGhEGYooTCe9WhpKBcCKy1c96smdrwLUt3udsG5NhFuyUkQh0JirjJsbvKRmvPdppN3ad6XcRPe3M0dFr_FOD9_O6aWTD8jeGLccFZn1CeaIKRVD3SLboCtOOmH-WlaudU99_YDz9nunGIV4nq3OVwYfTyiLjt3xPKEHzyQ4PQdZXaZN2_Xu17wmchDVE-0ThcBbxzG4b4yAg4NxoOLOggwtllKqRbFqw1xdKjbx-ebMV0qrSmmN5AKhDqCSVwOXVthMexuWd4UjSHNcEVNxuYclpAgHYwqY_2Yssp7qlNNN6KVmhWGlUK8c-Gn3fFewpNkgLQJzb6u0kiW1cI_125GWCB1JQ9BrX8986kKxikHGXol6fwrN2yZ12C_e001J-BWupHJ5SsQw21Je6CjN7yOfnN75Mkg7q-SQC16Pkr1YFMJf-ICGxE9wBWMV_zDcVyjR41WgHaT58wv4aKR8LXXEKLgmB-3BA-njIlwMGo6hs4b6juNhJsVBktrQtwpTA_6HqHbay96Yl75OrgZs0Apbro1LfV3Loc5z5kxf5-yuIvLUv5m7b0zpEy0HT1kktfviuRkBe1X4ofMsXpx0XhB3gn47fC7C40TT4cyuzoCONzlohRTX0FDzq405btJGI8-g1rSr6hayXelb5k3KaTdnnu1LS-DjwW3zi-Y4I6nIerIyBeaIu5iv-TXtoYRji8Oo3ORW2FwE7b_NKftPFt9BH85CVa6z0f9_fbqXQY2k1C0ph_DqPYrYiwyOgWIwcatQVlQFL3etnynni2A3pdMNcC1YOGxfHfMYm4_-phZkmB4SjL_pfhTvqCFUTxUSmu88eOl5ODK5IIJZ8LrtQieh0_vLcag_WedCEaIfI1dbyC9dMDMxUbzWQ5bgcTW_HXDGnC22J6oEY5WSaC4qRCHFamT5WWrb7Be8kV-e7S-kjsBM5NOQrEd26Dl2mDMkzkVyi6ri_sqP4yaj7CzOvIuR8_1N50rLCjXyWgXO0Uqqo3H5Cdf1dO5Nd2wId71nrVI6V4LWo4oVVAyMhl8GN7nkLJZKscD5YMtMZLMzeef2P-yJI0G-bWfVIVHAO3s8GIuRUZWpa-SAXtCx1oTrB1Z_zNBN7X9bOKzlwFwNeoJOh3AI6nfrKeDjwNn3oHnZyTFCjROSNMU6Mrfi66AQN_SF49XPevvR5uXgQPuHGWKoYe_CYXRJY67NhNVlwhvzuMSASsQSvU0-WvAWl_IQO_qM6DbIH4ZMuGXibVQYGxkT2iRz6yPEk2gviVw==",
+        "status": null
+      },
+      {
+        "id": "msg_0bbd3e58d2f3a05e016aad3fc815fc87d29f83d5ac0986088f",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\"description_visuelle\":\"La scène montre trois figures humaines regroupées au premier plan : une femme vêtue de rouge et de bleu soutient un enfant nu enveloppé dans un linge clair, tandis qu’une seconde femme, parée de bijoux et de tissus sombres, se penche vers lui. L’arrière-plan est occupé par un ciel nuageux et sombre, avec quelques formes architecturales indistinctes à gauche. La composition est centrée sur l’enfant, éclairé par contraste avec les vêtements et le fond obscurs.\",\"sujet_principal\":\"Personnage\",\"sujets_secondaires\":[\"Objet\",\"Nature\"],\"justification_sujet\":\"Le contenu visible est principalement constitué de trois figures humaines engagées dans une interaction affectueuse autour d’un enfant. Aucun attribut religieux, historique ou mythologique suffisamment explicite n’est identifiable avec certitude.\",\"style_visuel_probable\":\"Figuratif, naturaliste, pictural, contrasté\",\"justification_style\":\"Les corps et les étoffes sont rendus de manière reconnaissable, avec une lumière concentrée sur les visages et l’enfant, des ombres profondes et une touche picturale visible. Ces éléments suggèrent une esthétique dramatique, sans permettre d’attribuer précisément une école ou une période.\",\"figuration\":\"figuratif\",\"couleurs_dominantes\":[\"brun sombre\",\"noir\",\"rouge\",\"bleu profond\",\"blanc cassé\",\"tons chair\",\"ocre\"],\"elements_visibles\":[\"trois figures humaines\",\"un enfant nu\",\"linge clair\",\"vêtements drapés\",\"bijoux ou ornements dans les cheveux\",\"ciel nuageux\",\"formes architecturales indistinctes\",\"fond sombre\"],\"composition\":\"Composition rapprochée et pyramidale, organisée autour de l’enfant placé au centre. Les deux femmes l’encadrent et dirigent leurs regards et leurs gestes vers lui, tandis que les masses sombres des vêtements forment un contraste avec les chairs et le linge clair.\",\"limites_visuelles\":[\"L’identité des figures n’est pas démontrable à partir de l’image seule.\",\"La signification exacte de la scène reste indéterminée, faute d’attributs ou d’inscriptions clairement visibles.\",\"Le décor arrière est trop sombre et indistinct pour être identifié précisément.\"]}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1789738956.0,
+    "conversation": null,
+    "max_output_tokens": 3500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "medium",
+      "generate_summary": null,
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "resultat",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "description_visuelle": {
+              "type": "string"
+            },
+            "sujet_principal": {
+              "type": "string",
+              "enum": [
+                "Architecture",
+                "Culture",
+                "Histoire",
+                "Mythologie",
+                "Nature",
+                "Objet",
+                "Personnage",
+                "Quotidien",
+                "Religion",
+                "NA"
+              ]
+            },
+            "sujets_secondaires": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "Architecture",
+                  "Culture",
+                  "Histoire",
+                  "Mythologie",
+                  "Nature",
+                  "Objet",
+                  "Personnage",
+                  "Quotidien",
+                  "Religion"
+                ]
+              }
+            },
+            "justification_sujet": {
+              "type": "string"
+            },
+            "style_visuel_probable": {
+              "type": "string"
+            },
+            "justification_style": {
+              "type": "string"
+            },
+            "figuration": {
+              "type": "string",
+              "enum": [
+                "figuratif",
+                "abstrait",
+                "mixte",
+                "indetermine"
+              ]
+            },
+            "couleurs_dominantes": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "elements_visibles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "composition": {
+              "type": "string"
+            },
+            "limites_visuelles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "description_visuelle",
+            "sujet_principal",
+            "sujets_secondaires",
+            "justification_sujet",
+            "style_visuel_probable",
+            "justification_style",
+            "figuration",
+            "couleurs_dominantes",
+            "elements_visibles",
+            "composition",
+            "limites_visuelles"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 828,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cached_tokens": 0
+      },
+      "output_tokens": 649,
+      "output_tokens_details": {
+        "reasoning_tokens": 173
+      },
+      "total_tokens": 1477
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  }
+}

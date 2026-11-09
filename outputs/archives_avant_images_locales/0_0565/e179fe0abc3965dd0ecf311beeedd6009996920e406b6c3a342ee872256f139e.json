@@ -1,0 +1,28 @@
+{
+  "image_id": "0_0565",
+  "titre": "Intérieur de palais",
+  "artiste": "Philippe Meusnier",
+  "room_id": "Room_0",
+  "sujet_existant": "Architecture",
+  "fingerprint": "3a9000189faba6ce32fab772d3bbe03876ca1b4812e779205eecc72b6ca6baba",
+  "model": "gpt-4.1",
+  "prompt_version": "bird-vision-v1",
+  "date_utc": "2026-09-17T12:53:30.920287+00:00",
+  "statut": "a_verifier",
+  "motif": "Aucune correspondance suffisamment étayée.",
+  "nombre_candidats": 8,
+  "erreurs_telechargement": [
+    {
+      "url": "https://musee-des-beaux-arts.nancy.fr/typo3/sysext/core/Resources/Public/Icons/Flags/FR.png",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://musee-des-beaux-arts.nancy.fr/typo3/sysext/core/Resources/Public/Icons/Flags/en-us-gb.png",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://musee-des-beaux-arts.nancy.fr/typo3/sysext/core/Resources/Public/Icons/Flags/DE.png",
+      "error": "ValueError"
+    }
+  ]
+}

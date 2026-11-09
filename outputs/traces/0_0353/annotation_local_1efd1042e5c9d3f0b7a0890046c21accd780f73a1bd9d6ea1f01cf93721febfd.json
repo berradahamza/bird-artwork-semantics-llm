@@ -1,0 +1,205 @@
+{
+  "signature": "50f3bf35f2036725d78a74f1c66267d8d49d50ca87618a830342cd3c91caee0d",
+  "response": {
+    "id": "resp_061203e1c6422a25016aae9bb06a9087d2826509076ad47780",
+    "created_at": 1789828016.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": "Analyse uniquement ce qui est visible dans cette image, sans recherche web ni identification de mémoire. Réponds en français. Décris précisément objets, personnages, décor et composition en 2 à 4 phrases. Pas de noms de personnes, dates ou récits non démontrables visuellement. Sujet principal parmi les neuf catégories ou NA. Religion/Mythologie/Histoire exigent des indices visibles, sinon NA ou catégorie plus générale. Culture : pratiques/symboles culturels identifiables ; Quotidien : activités ordinaires ; Objet : objets/nature morte ; Personnage : figure/portrait ; Nature : paysages/faune/flore ; Architecture : bâti. Style visuel probable en mots courts (ex. naturaliste, géométrique, impressionniste), sans affirmer une appartenance historique. Mets indéterminé si nécessaire. Ne confonds pas technique, sujet et style. Indique les limites et justifie les choix.",
+    "metadata": {},
+    "model": "gpt-5.6-luna",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_061203e1c6422a25016aae9bb14d9c87d28f9247386a79b070",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrpu1uhZUo_6KgjymoR6Di8jE40hrxlKhoy9zNZBIA5moCX-XbDRZwb8fEUUL0cbwsssL86a0DSACLkATH-SNh-gQrl5_4n2xfk8oN4PcuAsYyNImxr5SWBy-uX2h53ee0SXgOR1_jrx0JWjiX6BY3y_nNM0oE3IkaOQlfDZvrXwnmrn3EDUgR64hEnmia54A7gS-Q8_GN769CSL9MzypqrZZJjjUTYkVebQDISi4YCaIP-3qaVAfE96BiP0osdZ5ICRf7b5vFFkN1OyzCikaqIwK6X1rlKHA63dwUZh7uM2-97PIrXrrHu3ibR4UcBlP9W-0oALFeZUlSG9myX07Pr3eCt9_FeixRrUfF0gdj30ihEeRrSHKdVh1_KswiPAEpRtlfLlYT1ZjUDoGc1i9GJqlrzBuJRfdEGk-MVy8FMmyuNuZTDIj-kmVpAgRvmw07CDE1tghb7bJJxvvCegJjOCh0jHwXbnxEL9Rm3VvRwJ0mhMCQbq6Z37vrZGkoG6EidVKjWPVzpUUAGyo7lFfk3VxWJe7BEGiZJXvDcygWS8srs0c_h-rEjO1YK-JDOhSiImAivOJIm6tN0ja9riBn2PlVqk1apy768n3UJ4YYriFvchzYkC59KGaPILN-yicL-xVtIwwOGZafnUQ2onJG3guPjB0u57uxNz6GZhGiLX-3X_YwxHYlg8gxu2tWFzK-RAtp0SHT6rGKMN3gDRXhpGZ_OapP219Cr6cBpqb3jMf7dixS9Sn5L8Y8qA8jgx4wOcG9uDLrcyzi1WZxcvqrdXD8ld9djSWw7IOSIcoYSqPEWdMZSgcxc0k8EJ7GU5t9i6qVgB-Hq54d5Ae1A3NbHJp-HfCy9DXO4YQEj31cPSQYRJUj8MUqERgtHs7JUpyV4wyBIeui3o0120pkhNZmVKQC39woqdJjRx_FAvdgafcbo_JvR39JqPj747w7k7XTj13toHRlSmae4wrnmvEwYEDNnjR7GSSMfTBGl_Y7UNSAt_l30cabRkO8HVhNXw28FF0gi_1Fx2L00mcdqAsAZxaW1Y2qIBEAhB-7ZJotgx6L0P5pQYOJZGwNgoUJq8leUSkj5vlEonV9JCr0DVHV-f8Z9n-_tXZ7dK8XpB2khL162uHjT4aEHuxlIWVqPbk5mcX-B3fSfqAhCLJ44zsKKgpxpZgKROCROEbZ0sG7_84L2hLlPOR3klDI3NLa6Z8u3przg2vNfMY02CxyMtVbESqVvmXmz7mA-TNbSzfCyZG7JlUEbxCSv-sxe4nMR91TlXhiyILqHrnlbB8rRPV-6AHqyZXv6Omtn-_bnnmXRh2zLhmHJQu0Bd6-yxsYMn221Ipm9ZqniLUmGmVkugz47rVTMpK-HVN302LbB3cUKHzABftt3PgIfmqtRtbSn1FzsYogeaLiaHUDd1jUt5xfymhCALDYII3T6eeSMqIssv6bnI-WhgyKp2M4PcWZjrSbsK8-IKPTDIhiJv-NmgYQjrZk7BEwTLCi4K77TJyjFWTV6EUyxJXEnpqyyMeMYE9xqMYr9LJbHNvYhWAAJAwJ0tKcZ2Ff5ZKzxPzve-k2oelEgZGrN0SMZiSGooYb9BVn9jA_LtfHUrIFv1jRMFbF7E0AYMrwdO6FW5h0Haw8WJ0e8lViednIjXxZqv8sipcfRUWu6xUuQPjm9QWZU-EbftDt949vsciMOWSFjr3MTyxmwg476SxBp6Xg0Fql-79pP85uij7hqzufDFZ95ROp05CQd4oUOIeANmljLgzD2DzuhFDVblez4fmplkIU4j7BkZLnWNW74iE_lAm8jO4hrzR-BxK_EgIKqAHtWg1AfEZiR2JVxm2-aA-jipNP1MbrV7gGf1XkH8_Y2gocmDnqblyrw==",
+        "status": null
+      },
+      {
+        "id": "msg_061203e1c6422a25016aae9bb2100c87d299758d91a8278713",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\"description_visuelle\":\"Peinture représentant un jardin verdoyant traversé par un chemin, avec deux figures féminines vêtues de longues robes et portant des chapeaux : l’une est assise ou accroupie près d’un panier, tandis que l’autre se tient debout au centre avec un objet rouge au-dessus d’elle. Des massifs fleuris et des arbres occupent l’espace, et quelques maisons apparaissent à l’arrière-plan sous un ciel partiellement nuageux.\",\"sujet_principal\":\"Quotidien\",\"sujets_secondaires\":[\"Nature\",\"Architecture\",\"Personnage\"],\"justification_sujet\":\"La scène montre une activité ordinaire en plein air, vraisemblablement liée au jardinage, sans indice visuel suffisant pour établir un récit historique, religieux ou mythologique.\",\"style_visuel_probable\":\"Naturaliste, pictural, lumineux\",\"justification_style\":\"Les formes sont rendues par des touches visibles et des variations de couleur, avec une attention portée à la lumière, à la végétation et à l’atmosphère plutôt qu’à des contours strictement dessinés.\",\"figuration\":\"figuratif\",\"couleurs_dominantes\":[\"Vert\",\"Brun\",\"Bleu\",\"Rose\",\"Blanc\",\"Jaune\"],\"elements_visibles\":[\"Deux figures féminines\",\"Longues robes\",\"Chapeaux\",\"Objet rouge ressemblant à une ombrelle ou un parasol\",\"Panier ou récipient près de la figure de gauche\",\"Chemin de terre\",\"Massifs de fleurs et végétation\",\"Arbres\",\"Maisons à l’arrière-plan\",\"Ciel nuageux\"],\"composition\":\"Le chemin part du bas de l’image et conduit vers le centre, où se trouve la figure debout. La figure de gauche équilibre la scène au premier plan, tandis que les arbres encadrent la vue et les maisons ferment la profondeur à l’arrière-plan.\",\"limites_visuelles\":[\"L’action exacte des deux figures n’est pas entièrement identifiable.\",\"L’objet rouge peut être une ombrelle, un parasol ou un autre accessoire.\",\"Les détails des bâtiments et des vêtements restent partiellement indistincts en raison de la petite taille de l’image.\"]}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1789828021.0,
+    "conversation": null,
+    "max_output_tokens": 3500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "medium",
+      "generate_summary": null,
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "resultat",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "description_visuelle": {
+              "type": "string"
+            },
+            "sujet_principal": {
+              "type": "string",
+              "enum": [
+                "Architecture",
+                "Culture",
+                "Histoire",
+                "Mythologie",
+                "Nature",
+                "Objet",
+                "Personnage",
+                "Quotidien",
+                "Religion",
+                "NA"
+              ]
+            },
+            "sujets_secondaires": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "Architecture",
+                  "Culture",
+                  "Histoire",
+                  "Mythologie",
+                  "Nature",
+                  "Objet",
+                  "Personnage",
+                  "Quotidien",
+                  "Religion"
+                ]
+              }
+            },
+            "justification_sujet": {
+              "type": "string"
+            },
+            "style_visuel_probable": {
+              "type": "string"
+            },
+            "justification_style": {
+              "type": "string"
+            },
+            "figuration": {
+              "type": "string",
+              "enum": [
+                "figuratif",
+                "abstrait",
+                "mixte",
+                "indetermine"
+              ]
+            },
+            "couleurs_dominantes": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "elements_visibles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "composition": {
+              "type": "string"
+            },
+            "limites_visuelles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "description_visuelle",
+            "sujet_principal",
+            "sujets_secondaires",
+            "justification_sujet",
+            "style_visuel_probable",
+            "justification_style",
+            "figuration",
+            "couleurs_dominantes",
+            "elements_visibles",
+            "composition",
+            "limites_visuelles"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 482,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cached_tokens": 0
+      },
+      "output_tokens": 571,
+      "output_tokens_details": {
+        "reasoning_tokens": 113
+      },
+      "total_tokens": 1053
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  }
+}

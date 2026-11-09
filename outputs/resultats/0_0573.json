@@ -1,0 +1,54 @@
+{
+  "image_id": "0_0573",
+  "titre": "Vues d'architectures 3",
+  "artiste": "Lucien Hervé",
+  "room_id": "Room_3",
+  "sujet_existant": "Architecture",
+  "model": "gpt-5.6-luna",
+  "prompt_version": "bird-vision-v1",
+  "date_utc": "2026-09-19T14:27:14.512953+00:00",
+  "mode_acquisition": "image_locale",
+  "fichier_fourni": "0_0573.png",
+  "controle_identite": "association_par_id_fournie_par_utilisateur",
+  "raison_identite": "Image associée à cette œuvre par son nom de fichier ; identité non contrôlée automatiquement.",
+  "source_page": "",
+  "source_image": "",
+  "erreurs_telechargement": [],
+  "sha256_image_locale": "ac58ab9b7ae297784d1adb5a558cf08be0bf78220eb9ad8ece77cb3ed7e59f91",
+  "fingerprint": "44a48e2a41631b66a736d0ed5f4ab46907ee1ab6288ae15f00dc472980f1efed",
+  "original_width": 392,
+  "original_height": 415,
+  "statut": "ok",
+  "image_path": "images\\0_0573.jpg",
+  "description_visuelle": "Vue en contre-plongée d’un ensemble de volumes en béton brut formant des angles, des passerelles ou balcons superposés et de profondes ouvertures noires. On distingue plusieurs garde-corps métalliques, quelques fenêtres rectangulaires et une petite silhouette sombre près d’une ouverture, sans détails permettant de l’identifier. L’image est en noir et blanc, avec de forts contrastes entre les surfaces éclairées et les espaces plongés dans l’ombre.",
+  "sujet_principal": "Architecture",
+  "sujets_secondaires": [
+    "Objet"
+  ],
+  "justification_sujet": "Le sujet dominant est un bâtiment ou une structure construite, caractérisé par ses masses de béton, ses ouvertures, ses garde-corps et ses circulations en hauteur.",
+  "style_visuel_probable": "photographie architecturale, géométrique, contrastée, brutaliste",
+  "justification_style": "La composition insiste sur les formes angulaires, les diagonales et la texture rugueuse du béton, tandis que le noir et blanc accentue l’opposition entre lumière et ombre. Le terme brutaliste décrit ici l’apparence matérielle et massive visible, sans attribuer l’œuvre à un mouvement ou à un édifice précis.",
+  "figuration": "figuratif",
+  "couleurs_dominantes": [
+    "noir",
+    "blanc",
+    "gris",
+    "gris béton"
+  ],
+  "elements_visibles": [
+    "volumes en béton brut",
+    "passerelles ou balcons",
+    "garde-corps métalliques",
+    "fenêtres rectangulaires",
+    "ouvertures profondes",
+    "diagonales architecturales",
+    "petite silhouette sombre indistincte"
+  ],
+  "composition": "La vue en contre-plongée cadre les structures depuis un espace intérieur ou encaissé. Les poutres et passerelles traversent l’image en diagonale, créant une composition fragmentée et fortement géométrique autour d’un grand vide central sombre.",
+  "limites_visuelles": [
+    "La fonction exacte des volumes et des passerelles n’est pas déterminable avec certitude.",
+    "La petite forme sombre près de l’ouverture peut être une personne ou un élément architectural ; elle est trop indistincte pour être identifiée.",
+    "Aucun indice visuel suffisant ne permet d’attribuer l’image à un lieu, une époque ou un architecte précis."
+  ],
+  "desaccord_sujet": false
+}

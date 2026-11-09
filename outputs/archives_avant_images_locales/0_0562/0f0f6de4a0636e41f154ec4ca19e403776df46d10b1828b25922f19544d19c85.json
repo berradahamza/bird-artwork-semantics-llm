@@ -1,0 +1,76 @@
+{
+  "image_id": "0_0562",
+  "titre": "Galerie ouverte sur une terrasse",
+  "artiste": "Philippe Meusnier",
+  "room_id": "Room_0",
+  "sujet_existant": "Architecture",
+  "fingerprint": "c89794d8293512a3c9be76c825d1a119f9794ca0f77851a1c293748ee770f6ee",
+  "model": "gpt-4.1",
+  "prompt_version": "bird-vision-v1",
+  "date_utc": "2026-09-17T12:52:55.403316+00:00",
+  "statut": "a_verifier",
+  "motif": "Aucune correspondance suffisamment étayée.",
+  "nombre_candidats": 5,
+  "erreurs_telechargement": [
+    {
+      "url": "https://www.petitpalais.paris.fr/sites/default/files/m1111077084361-e14_sans_supplement.pdf?utm_source=openai",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:Philippe_Meusnier.jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/static/images/icons/wikipedia.png",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-fr.svg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/static/images/mobile/copyright/wikipedia-tagline-fr.svg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Info_Simple.svg/40px-Info_Simple.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Info_Simple.svg/20px-Info_Simple.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/2017-fr.wp-orange-source.svg/120px-2017-fr.wp-orange-source.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/2017-fr.wp-orange-source.svg/60px-2017-fr.wp-orange-source.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Mona_Lisa_detail_eyes.jpg/120px-Mona_Lisa_detail_eyes.jpg?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Mona_Lisa_detail_eyes.jpg/60px-Mona_Lisa_detail_eyes.jpg?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Adam_Frans_van_der_Meulen_-_Louis_XIV_at_the_taking_of_Besan%C3%A7on_%281674%29.jpg/60px-Adam_Frans_van_der_Meulen_-_Louis_XIV_at_the_taking_of_Besan%C3%A7on_%281674%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Adam_Frans_van_der_Meulen_-_Louis_XIV_at_the_taking_of_Besan%C3%A7on_%281674%29.jpg/40px-Adam_Frans_van_der_Meulen_-_Louis_XIV_at_the_taking_of_Besan%C3%A7on_%281674%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/D%27apr%C3%A8s_Jean-Marc_Nattier%2C_Portrait_de_Pierre-Augustin_Caron_de_Beaumarchais_%28Biblioth%C3%A8que-mus%C3%A9e_de_la_Com%C3%A9die-Fran%C3%A7aise%29_-001.jpg/40px-D%27apr%C3%A8s_Jean-Marc_Nattier%2C_Portrait_de_Pierre-Augustin_Caron_de_Beaumarchais_%28Biblioth%C3%A8que-mus%C3%A9e_de_la_Com%C3%A9die-Fran%C3%A7aise%29_-001.jpg?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "error": "ValueError"
+    }
+  ]
+}

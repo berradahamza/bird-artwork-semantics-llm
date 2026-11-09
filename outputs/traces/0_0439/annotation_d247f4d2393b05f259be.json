@@ -1,0 +1,197 @@
+{
+  "signature": "7f5ae22e42ca596dd037cfef77146607edf21cd61eebcec8f0046260f9306b16",
+  "response": {
+    "id": "resp_0a6bd76044abf10e016aabe296d0e887d28f6c2b6158d670a9",
+    "created_at": 1789649558.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": "Analyse uniquement ce qui est visible dans cette image, sans recherche web ni identification de mémoire. Réponds en français. Décris précisément objets, personnages, décor et composition en 2 à 4 phrases. Pas de noms de personnes, dates ou récits non démontrables visuellement. Sujet principal parmi les neuf catégories ou NA. Religion/Mythologie/Histoire exigent des indices visibles, sinon NA ou catégorie plus générale. Culture : pratiques/symboles culturels identifiables ; Quotidien : activités ordinaires ; Objet : objets/nature morte ; Personnage : figure/portrait ; Nature : paysages/faune/flore ; Architecture : bâti. Style visuel probable en mots courts (ex. naturaliste, géométrique, impressionniste), sans affirmer une appartenance historique. Mets indéterminé si nécessaire. Ne confonds pas technique, sujet et style. Indique les limites et justifie les choix.",
+    "metadata": {},
+    "model": "gpt-4.1-2025-04-14",
+    "object": "response",
+    "output": [
+      {
+        "id": "msg_0a6bd76044abf10e016aabe297708c87d2bfe6246806472a53",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\n  \"description_visuelle\": \"L'image montre un homme debout dans une barque échouée au bord d'une rive, semblant pensif ou préoccupé. Juste derrière, une femme vêtue d'une robe sombre s'agenouille dans l'herbe, tandis qu'un enfant portant une robe claire et rougeâtre est allongé ou assis nonchalamment sur le sol, entouré de végétation basse. Le paysage est dépouillé, avec un plan d'eau calme, une lumière diffuse et quelques îlots en arrière-plan.\",\n  \"sujet_principal\": \"Quotidien\",\n  \"sujets_secondaires\": [\n    \"Personnage\",\n    \"Nature\"\n  ],\n  \"justification_sujet\": \"La scène représente des activités humaines simples et contemplatives en bord de rivière ou de lac, sans indication explicite de récit historique, religieux ou mythologique.\",\n  \"style_visuel_probable\": \"naturaliste\",\n  \"justification_style\": \"Les formes et les personnages sont représentés de manière reconnaissable avec des proportions réalistes et une attention aux détails de la posture et du cadre naturel, même si la palette est sobre et légèrement stylisée.\",\n  \"figuration\": \"figuratif\",\n  \"couleurs_dominantes\": [\n    \"beige\",\n    \"vert olive\",\n    \"gris\",\n    \"ocre\",\n    \"rose pâle\"\n  ],\n  \"elements_visibles\": [\n    \"homme debout dans une barque\",\n    \"femme agenouillée\",\n    \"enfant allongé dans l'herbe\",\n    \"barque\",\n    \"rivière ou étang\",\n    \"végétation basse\",\n    \"ciel nuageux\"\n  ],\n  \"composition\": \"La barque occupe le tiers gauche du cadre, avec l'homme placé verticalement au centre gauche. Les deux autres personnages forment une diagonale partant du centre vers la droite, créant un équilibre visuel avec l'eau en arrière-plan et la berge en premier plan.\",\n  \"limites_visuelles\": [\n    \"Aucune indication précise sur l'époque ou l'identité des personnages.\",\n    \"Pas de détails narratifs permettant d'attribuer une référence religieuse, mythologique, ou historique.\",\n    \"L’arrière-plan sobre limite la contextualisation géographique.\"\n  ]\n}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": null
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 1.0,
+    "background": false,
+    "completed_at": 1789649563.0,
+    "conversation": null,
+    "max_output_tokens": 3500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "in_memory",
+    "reasoning": {
+      "context": null,
+      "effort": null,
+      "generate_summary": null,
+      "mode": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "resultat",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "description_visuelle": {
+              "type": "string"
+            },
+            "sujet_principal": {
+              "type": "string",
+              "enum": [
+                "Architecture",
+                "Culture",
+                "Histoire",
+                "Mythologie",
+                "Nature",
+                "Objet",
+                "Personnage",
+                "Quotidien",
+                "Religion",
+                "NA"
+              ]
+            },
+            "sujets_secondaires": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "Architecture",
+                  "Culture",
+                  "Histoire",
+                  "Mythologie",
+                  "Nature",
+                  "Objet",
+                  "Personnage",
+                  "Quotidien",
+                  "Religion"
+                ]
+              }
+            },
+            "justification_sujet": {
+              "type": "string"
+            },
+            "style_visuel_probable": {
+              "type": "string"
+            },
+            "justification_style": {
+              "type": "string"
+            },
+            "figuration": {
+              "type": "string",
+              "enum": [
+                "figuratif",
+                "abstrait",
+                "mixte",
+                "indetermine"
+              ]
+            },
+            "couleurs_dominantes": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "elements_visibles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "composition": {
+              "type": "string"
+            },
+            "limites_visuelles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "description_visuelle",
+            "sujet_principal",
+            "sujets_secondaires",
+            "justification_sujet",
+            "style_visuel_probable",
+            "justification_style",
+            "figuration",
+            "couleurs_dominantes",
+            "elements_visibles",
+            "composition",
+            "limites_visuelles"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 850,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cached_tokens": 0
+      },
+      "output_tokens": 489,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 1339
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  }
+}

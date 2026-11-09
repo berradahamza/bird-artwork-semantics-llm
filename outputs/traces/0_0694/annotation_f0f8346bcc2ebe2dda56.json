@@ -1,0 +1,197 @@
+{
+  "signature": "55ceb57e5ab11079b5c97544666d0f530b13ebf2620d2e61b2668dab529dd447",
+  "response": {
+    "id": "resp_06c1ef21fe6621fd016aabe500077c87d2b808645905e90801",
+    "created_at": 1789650176.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": "Analyse uniquement ce qui est visible dans cette image, sans recherche web ni identification de mémoire. Réponds en français. Décris précisément objets, personnages, décor et composition en 2 à 4 phrases. Pas de noms de personnes, dates ou récits non démontrables visuellement. Sujet principal parmi les neuf catégories ou NA. Religion/Mythologie/Histoire exigent des indices visibles, sinon NA ou catégorie plus générale. Culture : pratiques/symboles culturels identifiables ; Quotidien : activités ordinaires ; Objet : objets/nature morte ; Personnage : figure/portrait ; Nature : paysages/faune/flore ; Architecture : bâti. Style visuel probable en mots courts (ex. naturaliste, géométrique, impressionniste), sans affirmer une appartenance historique. Mets indéterminé si nécessaire. Ne confonds pas technique, sujet et style. Indique les limites et justifie les choix.",
+    "metadata": {},
+    "model": "gpt-4.1-2025-04-14",
+    "object": "response",
+    "output": [
+      {
+        "id": "msg_06c1ef21fe6621fd016aabe500abac87d2ad1baeab7092d1cf",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\n  \"description_visuelle\": \"La scène représente une figure nue allongée de manière étirée en premier plan, occupée principalement par des formes volumineuses et courbes, stylisées. La lumière provient du centre supérieur, derrière la silhouette, suggérant une fenêtre ou une ouverture. Les traits sont accentués par des touches colorées et des aplats sombres qui fragmentent la composition, donnant un aspect presque cubiste ou déstructuré. L'arrière-plan évoque un espace intérieur avec des éléments géométriques et abstraits.\",\n  \"sujet_principal\": \"Personnage\",\n  \"sujets_secondaires\": [\"Objet\", \"Quotidien\"],\n  \"justification_sujet\": \"Le sujet central est la représentation figurative d'un corps humain, identifiable par ses formes anatomiques, traitée dans un style stylisé. On devine un cadre domestique par la présence de motifs rectilignes et de possibles objets autour du personnage.\",\n  \"style_visuel_probable\": \"cubisant, stylisé, expressionniste\",\n  \"justification_style\": \"La fragmentation des formes, l’accentuation des contours et l’utilisation de motifs géométriques évoquent une influence cubiste ou une stylisation proche de l’expressionnisme.\",\n  \"figuration\": \"figuratif\",\n  \"couleurs_dominantes\": [\"ocre\", \"rouge\", \"noir\", \"brun\", \"beige\", \"blanc\"],\n  \"elements_visibles\": [\"personnage nu allongé\", \"fenêtre ou ouverture lumineuse\", \"formes géométriques\", \"aplats de couleurs sombres\", \"objets abstraits\"],\n  \"composition\": \"La composition est centrée sur le corps en diagonale, occupant presque toute la surface, tandis que l'arrière-plan est structuré en cases et formes géométriques contrastant avec les courbes du personnage.\",\n  \"limites_visuelles\": [\"absence de détails fins du visage\", \"contours estompés ou stylisés\", \"certaines formes difficiles à identifier dans le fond\", \"manque de clarté sur l'environnement exact\"]\n}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": null
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 1.0,
+    "background": false,
+    "completed_at": 1789650180.0,
+    "conversation": null,
+    "max_output_tokens": 3500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "in_memory",
+    "reasoning": {
+      "context": null,
+      "effort": null,
+      "generate_summary": null,
+      "mode": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "resultat",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "description_visuelle": {
+              "type": "string"
+            },
+            "sujet_principal": {
+              "type": "string",
+              "enum": [
+                "Architecture",
+                "Culture",
+                "Histoire",
+                "Mythologie",
+                "Nature",
+                "Objet",
+                "Personnage",
+                "Quotidien",
+                "Religion",
+                "NA"
+              ]
+            },
+            "sujets_secondaires": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "Architecture",
+                  "Culture",
+                  "Histoire",
+                  "Mythologie",
+                  "Nature",
+                  "Objet",
+                  "Personnage",
+                  "Quotidien",
+                  "Religion"
+                ]
+              }
+            },
+            "justification_sujet": {
+              "type": "string"
+            },
+            "style_visuel_probable": {
+              "type": "string"
+            },
+            "justification_style": {
+              "type": "string"
+            },
+            "figuration": {
+              "type": "string",
+              "enum": [
+                "figuratif",
+                "abstrait",
+                "mixte",
+                "indetermine"
+              ]
+            },
+            "couleurs_dominantes": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "elements_visibles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "composition": {
+              "type": "string"
+            },
+            "limites_visuelles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "description_visuelle",
+            "sujet_principal",
+            "sujets_secondaires",
+            "justification_sujet",
+            "style_visuel_probable",
+            "justification_style",
+            "figuration",
+            "couleurs_dominantes",
+            "elements_visibles",
+            "composition",
+            "limites_visuelles"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 1190,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cached_tokens": 0
+      },
+      "output_tokens": 443,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 1633
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  }
+}

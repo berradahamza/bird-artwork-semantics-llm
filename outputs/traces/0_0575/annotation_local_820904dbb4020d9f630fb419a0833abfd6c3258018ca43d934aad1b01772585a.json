@@ -1,0 +1,205 @@
+{
+  "signature": "5bdc26bbbb35e96c9a74813e0293dd5f9d3657b737eff5697fd9cf0bb1296af6",
+  "response": {
+    "id": "resp_01c260b558ec1b2d016aae9bccff3c87d287f7b44f541def30",
+    "created_at": 1789828045.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": "Analyse uniquement ce qui est visible dans cette image, sans recherche web ni identification de mémoire. Réponds en français. Décris précisément objets, personnages, décor et composition en 2 à 4 phrases. Pas de noms de personnes, dates ou récits non démontrables visuellement. Sujet principal parmi les neuf catégories ou NA. Religion/Mythologie/Histoire exigent des indices visibles, sinon NA ou catégorie plus générale. Culture : pratiques/symboles culturels identifiables ; Quotidien : activités ordinaires ; Objet : objets/nature morte ; Personnage : figure/portrait ; Nature : paysages/faune/flore ; Architecture : bâti. Style visuel probable en mots courts (ex. naturaliste, géométrique, impressionniste), sans affirmer une appartenance historique. Mets indéterminé si nécessaire. Ne confonds pas technique, sujet et style. Indique les limites et justifie les choix.",
+    "metadata": {},
+    "model": "gpt-5.6-luna",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_01c260b558ec1b2d016aae9bcdc4d487d280684f0f8d646c5f",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrpvRHhCaHUErFIVNPkTSbhvJbKKQfCBhKjExE3Aem73qAmUmT9RGcDQityXmVwCVkHKMMEo6NHVD9r0PMEAvtc6WUVFVzHZP50AxIDNRu2RaySVjjrtK92YTZAEjNGX1DD2gyKg8f_mUuXvkXEADHRyJ9QpayLm-Eeth8pc8SuQ70fDn9tqX_Q0QxjySx4iDp-ApOCu178rB8HniREvkYGBJYVzTLW1ZltHTCcx0EZ19tVJtwqNGeQ43Aqjoc_VHHqVK3fsmCs0_u6sNQh1mH_Ok6i2DfUbtOdXNduizyYM7QFWhF25bKa0qo6KHQtVsIpnpFEu1MS1O70KC3iISe8h54KQjNhnUY_n6eDXM6xQJ1QHGMMto_2NCYHxfdOZc6uKA3mFba_W2fLTqieyNGklb-aPz8sfHVdrNrC4JdTipg5xvyh_puTDuFytwsSrq95b3GkfJr1Q6wkBLAJLEEKBTCNm_o66QoqIKQkNhWocSKmvK1RFG2HQvGL06klwdL1Yu7ZPlDWSwwuxEONZMDCSCO2_WGzseUoNuYF96lNadQDooQsGAk_Z21_jBy9PQltqNVoiQ4L3BxqlftglTDuZGX-Il04NIw1EMuRZmeorsuDj7AJIJ1_Naphue88hFdKGEWlJhlGfa-UfGwr05ixoPHzWdOWQL4LDpBEm3jC2zVm0hh9TG-oo2PmBJZAC4-H_ndjUm0dZrqiQ2GS0jdeNIUiZf6LhsJ-YoACmgZ_8XF5LD2aknfIyi8z_OVHAiY8W50rlRsSzYdsabmyE3v9ijBTC2fXDQKhvdO4vJMkzTMAktnp0e2P7VpdjoxzIOGIFOwxLHoaFwqVvttsTXzKMikh5jZ9b9Tm2iHN1lF-ARnsqhkRyVfsYbxqT6aKymVoozOFO1bJqeEDzUtZ0XvFmsQBv8NKkrpb8shnPbhXyYoQxaAUQj2SABuzu6Vog_7KfJbVhp0jDnd_Zp2uuhE01D4PsPQbzksvBN8-rZd9V27S5KB3TRav9rOuOe7HIUDfEZIF_D3GQeCr1Bkz87_jELEit-s-P5e_JX02Akh111prUfjP5JAPHeGzWdV00aOPsH-wsqMxZaJ3l2fhjV9b7jY5ISgWo-9a0vp9QGB5aUiOf3PosL6EIuROV059D9B_8T8uJKmbtiH-RvOnPiPBG7v26gBmFA4XGa1GDm7dpvaCVQos0wSo0AvtsYmSaBbCcyZrgl3xCdOhjPz7g6mPT1nYIwv1EpCgMwPvCcm_GyA53kFdydhu23xqN25alDM0QDnPv5iIZOLqg0HoO-ykIo8SausBJe8v0AWPyjF7n68Jsx7ZcgF75ImjCqJx6RQvAw572J8zaooeDLdm9s7Vw5opBS4FBmuBU06urw2n7jF6LIFDMOVlFjiH6XRiXqFBIeQUjOMZtRlyBR2jAJT_vboixtLmCe07uEK8NfSk2ppJru0E80zkW4ynfvuG2XssYyMnanH1MKrJo6A50Z0U5xDPMXP1Duwyxz8hd0GX9zUPwy3jcBjAt2RfGp8cmlMnSU7hOAETVgcgo_h6nh0nFaAhKFKqI6rcYcq5xoaqIan30-QlSEgwKt8Q2mbCD7pTb_8ryGKuCsIQqDCoIAqubsl8dO88aA8pAiiYilZbW2yB4uEPJ_HfkUUIlVRTN1T8xdkmGIGaPBFCnaBO2RkNnwMg4kG13wBR6VLoBa6hD5bkurF5CCdzEu0rKruAWPemtPY9ahSK4wiisVEtrH8HjPntqY8tXrr-_whsVGWds2edc35asc8EQTUBm30_TC-GoMd1PMgriWB7bJdhNUKWTEXWasEExTg9yNhWoTRj5nbRxOWJCf0tHN__d4sX5jU9c5",
+        "status": null
+      },
+      {
+        "id": "msg_01c260b558ec1b2d016aae9bce906c87d29b4cf0ad7a62b444",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\"description_visuelle\":\"Photographie en noir et blanc d’un bâtiment urbain à plusieurs niveaux, construit en briques apparentes avec de larges éléments horizontaux et verticaux en béton. La façade présente des fenêtres rectangulaires, une porte sombre, des volumes en retrait et des saillies géométriques ; un passage ou une entrée apparaît à gauche, tandis que des dalles composent le sol au premier plan. Quelques feuillages se découpent dans le ciel au bord supérieur de l’image.\",\"sujet_principal\":\"Architecture\",\"sujets_secondaires\":[],\"justification_sujet\":\"Le sujet dominant est une façade bâtie, dont les matériaux, les ouvertures et les volumes structurent toute l’image.\",\"style_visuel_probable\":\"géométrique, moderniste, documentaire\",\"justification_style\":\"La composition repose sur des formes rectangulaires, des contrastes d’ombre marqués et l’association de brique apparente et de béton brut ; le cadrage photographique reste descriptif.\",\"figuration\":\"figuratif\",\"couleurs_dominantes\":[\"noir\",\"blanc\",\"gris\",\"gris sombre\"],\"elements_visibles\":[\"façade en briques apparentes\",\"éléments en béton\",\"fenêtres rectangulaires\",\"porte sombre\",\"volumes en saillie\",\"dalles au sol\",\"feuillage partiel\",\"entrée ou passage à gauche\"],\"composition\":\"Le bâtiment occupe presque toute l’image et est vu en contre-plongée légère, avec des lignes horizontales et verticales qui compartimentent la façade. Les ombres profondes accentuent les retraits et les saillies, tandis que le sol en diagonale au bas de l’image crée une ouverture vers l’architecture.\",\"limites_visuelles\":[\"L’usage précis du bâtiment n’est pas identifiable avec certitude.\",\"La fonction des volumes et des ouvertures ne peut pas être déterminée uniquement à partir de l’image.\",\"La photographie est monochrome, ce qui empêche de décrire les couleurs originales des matériaux.\"]}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1789828049.0,
+    "conversation": null,
+    "max_output_tokens": 3500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "medium",
+      "generate_summary": null,
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "resultat",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "description_visuelle": {
+              "type": "string"
+            },
+            "sujet_principal": {
+              "type": "string",
+              "enum": [
+                "Architecture",
+                "Culture",
+                "Histoire",
+                "Mythologie",
+                "Nature",
+                "Objet",
+                "Personnage",
+                "Quotidien",
+                "Religion",
+                "NA"
+              ]
+            },
+            "sujets_secondaires": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "Architecture",
+                  "Culture",
+                  "Histoire",
+                  "Mythologie",
+                  "Nature",
+                  "Objet",
+                  "Personnage",
+                  "Quotidien",
+                  "Religion"
+                ]
+              }
+            },
+            "justification_sujet": {
+              "type": "string"
+            },
+            "style_visuel_probable": {
+              "type": "string"
+            },
+            "justification_style": {
+              "type": "string"
+            },
+            "figuration": {
+              "type": "string",
+              "enum": [
+                "figuratif",
+                "abstrait",
+                "mixte",
+                "indetermine"
+              ]
+            },
+            "couleurs_dominantes": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "elements_visibles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "composition": {
+              "type": "string"
+            },
+            "limites_visuelles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "description_visuelle",
+            "sujet_principal",
+            "sujets_secondaires",
+            "justification_sujet",
+            "style_visuel_probable",
+            "justification_style",
+            "figuration",
+            "couleurs_dominantes",
+            "elements_visibles",
+            "composition",
+            "limites_visuelles"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 623,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cached_tokens": 0
+      },
+      "output_tokens": 536,
+      "output_tokens_details": {
+        "reasoning_tokens": 108
+      },
+      "total_tokens": 1159
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "signature": "09ab269373983f8e02a083475d2eb1257ff0d9d002e29b803820b9ba1dfd288e",
+  "response": {
+    "id": "resp_0f5194fb209832a4016aad419f5cec87d29fce19efe9c2af2b",
+    "created_at": 1789739423.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": "Analyse uniquement ce qui est visible dans cette image, sans recherche web ni identification de mémoire. Réponds en français. Décris précisément objets, personnages, décor et composition en 2 à 4 phrases. Pas de noms de personnes, dates ou récits non démontrables visuellement. Sujet principal parmi les neuf catégories ou NA. Religion/Mythologie/Histoire exigent des indices visibles, sinon NA ou catégorie plus générale. Culture : pratiques/symboles culturels identifiables ; Quotidien : activités ordinaires ; Objet : objets/nature morte ; Personnage : figure/portrait ; Nature : paysages/faune/flore ; Architecture : bâti. Style visuel probable en mots courts (ex. naturaliste, géométrique, impressionniste), sans affirmer une appartenance historique. Mets indéterminé si nécessaire. Ne confonds pas technique, sujet et style. Indique les limites et justifie les choix.",
+    "metadata": {},
+    "model": "gpt-5.6-luna",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0f5194fb209832a4016aad41a0107087d2ac18e6ac684e80b6",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrUGlO6P8hBpEEhDkqHcTxyq44LvsYlvJPzWeIhsnKTuF9zwXwAiVDJ6AlMZ7LwXMBCgftoJ3DIVfNaEnVFa_a1E7DdD0ATgfXocesPGVBbEDhaX-_Bn1iLy-URnldscSr9Y4KkOQ6EvdcNLtTcoAJ_xKbFKG0qput3W5BBfuKJpMB8WnWrqIXnnEKJ6MiSi1VfHv1I72e1C1xq5HvQkXFzp3izzPuah3P5faLHLuCsn2cMPwbn8VHyW7lNralNI50tCcx31x-uzMJjUNe_T4IRaLmgJFpkJ5WLt5q7zoDCSe_uLXO55zUoxP1sxnXmAuesCvDELRs4r55LhLN9SuAPN6VhSJd38AlZHPO3zhZqgXbYzPNtT3DTMQeAaGw-wXrPqYfPHayORQr72rf7W3Y6ACOHr3EUlPTdZK20q2-bEcOnZLXFSa7DeVnYRj2UIuYMVx2sLTKbiTYWSO8a7EQhUiE-xrDxc1KAgyHqqjjAgOoSBglYGln8aDqyThH5eVmYYj_EdHLopiJbAUDcW0ipfMi9Z8rN798sNYmX011H-EKvul2l9w9hjZoVXCV29IySgWJ-kDbF-tAN1YtSe5CevETKT7660U_fEFauuDq5gaGGfgAHbN2Smh_nlVP610HNsREApI7JH5SnVC_NX90_kzE0cv1yZnLHYiolpOAmgo1pQfzuQ2Zps4gpEDAsXp11nyu1ckBhNY7o2vUT016b9EW_YcYWAxBj5Af6BWj4B90E-McyITzK_eGDEqhigLikTD9-06prT6TchYN5HTH0DbQALs57fOB2-C7A-P94aTXLd0hi8EZPppLFaooZQGnkVkVfQZ6WgALrnevKsiTMIVhBIc81hzVNsmOOesOLzdKizYnfo-Egjmu93mxrWuJ-Czd801C1uHM5jUkIrnjnq-zko7fztZ4daZ1-TdT3Sa8tLKsg8XS1dXv3LoHE-5nkXaxzQ_2nSPw8T48hdU09WQOGSJRdvt9yZsBW9jM3TMYcHJoWgIsnwejp18BK_OC0jbM0Os5_Eq23oVL_cBTCg8fgDS-Ydzplk_qC4J0R7lAEECOHDlMfPRs2yHhNUqDMtBVcqiYYBa0ejjne2gcoKtVuY3hvjE4zxVe1xjzJd0U0zXhaNDrIZ2l5KffOe5NIVyqOWnTjOojHR9iGxkD0S6LHq3jP3IA4cJTu0bGJpXJsqChXLe_7jkxEgKGVG_3X6FEiF3Jkj3aqgrN8fpN3h09dxWBiRAlGG8D20pCaXBok37UQoFviXciDqqf8nCTzid7AUkajBAgXmHd6ezwVwropPaZmUVcCPgz1bFRLkx51Udvs8j62_cZ-G5TUXlOViiZ4SU_m5TOc8VemTsKFtCCoWrpJpnjjpAXKcf6NOWBXwAoINooSdyezcEuSOpPv5fZ2mdh3XuGpGebklPYFMnJ8pVf6EPquYh-ZPKm12jrJ8PcpHNiz8GBPnXkeVTf5lmyhJctwt9nFgr6wHHzs1LK9gTRiDjUNcS5T2X3nTwYYL5qUuSlVhaDdzkZ1BMeU3K1Od6LCq20EhJPrqvEcXts2jcogAN5HGtlK_L9BWzGlSt41uATDyamPXi6nv9dkpJPtwqarWKE9r5fdMwQXR6mb_YwAlVfx0rk1HdAoNhzfAhWoEnORQ2N2OnC-KwjW6fLBRAX74OOXaIRKEwwqDl7eDpegKoeWzbiMCd01LVKP3JVCIhEkcOupFougsWQ7Hryp4ADk7geggdt9o10VCHgvQb5SR8w1vj0QrbJXas86p06X8u6rtbpkSsd80SPsLt7XGic-A4Kh49LKgsKL_RIXeHX2QqtkjSKNRanE1MkL-CYWKjDDDWIRFtACXixIKn",
+        "status": null
+      },
+      {
+        "id": "msg_0f5194fb209832a4016aad41a1282087d286e9a8ee2e908057",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\"description_visuelle\":\"Une grande ouverture de grotte encadre un paysage lumineux composé d’un chemin, de collines, d’arbres et d’un ciel clair. Au premier plan, plusieurs personnages vêtus de costumes anciens marchent, se tiennent debout ou sont assis près des rochers; l’un porte un panier ou un paquet. La lumière venant de l’arrière-plan contraste avec les parois brunes et ocres de la grotte.\",\"sujet_principal\":\"Nature\",\"sujets_secondaires\":[\"Personnage\",\"Quotidien\"],\"justification_sujet\":\"Le paysage et la grotte occupent la majeure partie de la scène et structurent la composition. Les personnages sont secondaires et semblent participer à une promenade ou à une halte, sans indice visible permettant d’identifier un récit précis.\",\"style_visuel_probable\":\"Paysage peint, naturaliste, contrasté\",\"justification_style\":\"La profondeur est construite par la succession de plans, avec un premier plan sombre, une ouverture centrale lumineuse et un arrière-plan brumeux. Les formes sont modelées par des transitions douces et une palette terreuse opposée aux bleus et verts du paysage lointain.\",\"figuration\":\"figuratif\",\"couleurs_dominantes\":[\"brun\",\"ocre\",\"terre cuite\",\"vert sombre\",\"bleu pâle\",\"blanc cassé\"],\"elements_visibles\":[\"grotte rocheuse\",\"ouverture centrale\",\"chemin ou sol rocheux\",\"arbres et végétation\",\"collines lointaines\",\"ciel lumineux\",\"groupe de personnages\",\"petit objet ou paquet au sol\"],\"composition\":\"La grotte forme un cadre naturel autour d’une ouverture centrale presque circulaire. Les figures sont disposées dans la bande inférieure, tandis que le regard est conduit du premier plan sombre vers le paysage éclairé, puis vers les collines et le ciel.\",\"limites_visuelles\":[\"Les détails des visages et des objets portés sont trop petits pour être identifiés avec certitude.\",\"La fonction exacte du lieu et la signification de la scène ne sont pas démontrables visuellement.\",\"Aucun indice suffisamment précis ne permet d’attribuer la scène à un épisode religieux, mythologique ou historique.\"]}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1789739429.0,
+    "conversation": null,
+    "max_output_tokens": 3500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "medium",
+      "generate_summary": null,
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "resultat",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "description_visuelle": {
+              "type": "string"
+            },
+            "sujet_principal": {
+              "type": "string",
+              "enum": [
+                "Architecture",
+                "Culture",
+                "Histoire",
+                "Mythologie",
+                "Nature",
+                "Objet",
+                "Personnage",
+                "Quotidien",
+                "Religion",
+                "NA"
+              ]
+            },
+            "sujets_secondaires": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "Architecture",
+                  "Culture",
+                  "Histoire",
+                  "Mythologie",
+                  "Nature",
+                  "Objet",
+                  "Personnage",
+                  "Quotidien",
+                  "Religion"
+                ]
+              }
+            },
+            "justification_sujet": {
+              "type": "string"
+            },
+            "style_visuel_probable": {
+              "type": "string"
+            },
+            "justification_style": {
+              "type": "string"
+            },
+            "figuration": {
+              "type": "string",
+              "enum": [
+                "figuratif",
+                "abstrait",
+                "mixte",
+                "indetermine"
+              ]
+            },
+            "couleurs_dominantes": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "elements_visibles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "composition": {
+              "type": "string"
+            },
+            "limites_visuelles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "description_visuelle",
+            "sujet_principal",
+            "sujets_secondaires",
+            "justification_sujet",
+            "style_visuel_probable",
+            "justification_style",
+            "figuration",
+            "couleurs_dominantes",
+            "elements_visibles",
+            "composition",
+            "limites_visuelles"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 803,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cached_tokens": 0
+      },
+      "output_tokens": 569,
+      "output_tokens_details": {
+        "reasoning_tokens": 102
+      },
+      "total_tokens": 1372
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  }
+}

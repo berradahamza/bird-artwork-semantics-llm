@@ -1,0 +1,56 @@
+{
+  "image_id": "0_5840",
+  "titre": "L'Aube",
+  "artiste": "Victor Prouvé",
+  "room_id": "Room_5",
+  "sujet_existant": "Nature",
+  "model": "gpt-5.6-luna",
+  "prompt_version": "bird-vision-v1",
+  "date_utc": "2026-09-19T14:28:29.784144+00:00",
+  "mode_acquisition": "image_locale",
+  "fichier_fourni": "0_5840.JPG",
+  "controle_identite": "association_par_id_fournie_par_utilisateur",
+  "raison_identite": "Image associée à cette œuvre par son nom de fichier ; identité non contrôlée automatiquement.",
+  "source_page": "",
+  "source_image": "",
+  "erreurs_telechargement": [],
+  "sha256_image_locale": "a94204ddb759d941e04eac98dd305c29eccd80e2aa76f46753a9f8f522eac4cb",
+  "fingerprint": "aff6fd5323a20de0134a987c12f322dc1f8a9411397e882817877f6726cc4aef",
+  "original_width": 250,
+  "original_height": 610,
+  "statut": "ok",
+  "image_path": "images\\0_5840.jpg",
+  "description_visuelle": "Peinture verticale montrant deux figures féminines nues ou très peu vêtues, allongées dans une végétation sombre et fleurie. La figure principale occupe le centre, le corps arqué et les bras levés vers plusieurs oiseaux clairs, tandis qu’une seconde figure apparaît au bas de l’image, la tête inclinée parmi des fleurs et des feuilles. L’ensemble est baigné d’une lumière diffuse, avec des formes végétales et animales esquissées dans un décor brumeux.",
+  "sujet_principal": "Personnage",
+  "sujets_secondaires": [
+    "Nature"
+  ],
+  "justification_sujet": "Les figures humaines, particulièrement le corps central et le visage visible au premier plan inférieur, dominent la composition. Aucun indice visuel suffisamment précis ne permet d’attribuer la scène à une religion, une mythologie ou un épisode historique.",
+  "style_visuel_probable": "pictural, vaporeux, naturaliste stylisé",
+  "justification_style": "Les contours sont fondus, les détails peu définis et les couleurs appliquées en touches douces, créant une atmosphère lumineuse et brumeuse. La composition privilégie l’élan des corps et les effets décoratifs de la végétation plutôt qu’une représentation strictement réaliste.",
+  "figuration": "figuratif",
+  "couleurs_dominantes": [
+    "bleu gris",
+    "vert sombre",
+    "ocre doré",
+    "rose pâle",
+    "rouge brun",
+    "blanc lumineux"
+  ],
+  "elements_visibles": [
+    "deux figures féminines",
+    "bras levés",
+    "oiseaux clairs",
+    "fleurs",
+    "feuillages",
+    "tiges végétales",
+    "fond sombre et brumeux"
+  ],
+  "composition": "La composition est très verticale et organisée autour d’une diagonale ascendante formée par le corps central et ses bras. La lumière se concentre au milieu et sur les figures, tandis que les bords et le bas s’assombrissent; la seconde figure inférieure crée un contrepoint visuel aux oiseaux placés vers le haut.",
+  "limites_visuelles": [
+    "Les oiseaux et certains éléments végétaux sont partiellement fondus dans le fond et difficiles à compter précisément.",
+    "La posture exacte de la figure centrale et la nature de ses éventuels vêtements ou attributs ne sont pas entièrement discernables.",
+    "L’image ne permet pas d’identifier avec certitude un récit, une personne ou une signification symbolique précise."
+  ],
+  "desaccord_sujet": true
+}

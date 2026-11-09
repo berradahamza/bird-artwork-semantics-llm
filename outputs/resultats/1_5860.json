@@ -1,0 +1,58 @@
+{
+  "image_id": "1_5860",
+  "titre": "Portrait de Barthélémy Guibal",
+  "artiste": "Jean Girardet",
+  "room_id": "Room_27",
+  "sujet_existant": "Personnage",
+  "fingerprint": "006046b6d33db3547d4d1b94ab4eb6074681ef36ec55c61c673b520b02a6b380",
+  "model": "gpt-5.6-luna",
+  "prompt_version": "bird-vision-v1",
+  "date_utc": "2026-09-18T13:59:09.742518+00:00",
+  "statut": "ok",
+  "image_path": "images\\1_5860.jpg",
+  "source_page": "https://fr.wikipedia.org/wiki/Fichier:Barthelemy_Guibal.jpg",
+  "source_image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Barthelemy_Guibal.jpg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
+  "controle_identite": "retenu_par_IA_non_verifie_humain",
+  "raison_identite": "La notice et la page candidate identifient clairement la même œuvre : « Portrait de Barthélémy Guibal », réalisé par Jean Girardet. La page précise qu’il s’agit du portrait de Barthélemy Guibal au Musée lorrain de Nancy, ce qui correspond à l’acquisition indiquée dans la notice. La date vers 1750 est compatible avec la date de 1756 fournie par la notice, et l’image montre bien le portrait en question.",
+  "original_width": 508,
+  "original_height": 645,
+  "download_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Barthelemy_Guibal.jpg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
+  "sha256_download": "3cfdd58d6767c16e72ec1e3a7345234f3f647d42c2e0dd3856203f4265bf207f",
+  "description_visuelle": "Portrait peint d’un homme âgé, en perruque claire et habit sombre richement orné de galons dorés, placé au premier plan. Il tient ou présente une petite statue claire représentant une figure humaine drapée, debout sur un socle, tandis qu’une inscription en lettres capitales apparaît dans la partie supérieure de l’image. Le fond est sombre et peu détaillé, ce qui concentre l’attention sur le personnage, ses vêtements et la statue.",
+  "sujet_principal": "Personnage",
+  "sujets_secondaires": [
+    "Objet",
+    "Culture"
+  ],
+  "justification_sujet": "La composition est dominée par une figure humaine représentée en buste et en costume, ce qui justifie la catégorie Personnage. La statue et l’inscription constituent des éléments secondaires visibles, sans permettre d’identifier avec certitude leur origine ou leur signification.",
+  "style_visuel_probable": "Portrait peint, naturaliste, contrasté",
+  "justification_style": "Le visage, les mains, les étoffes et les ornements sont rendus de manière figurative avec un modelé par la lumière et des ombres marquées. L’image présente une finition picturale ancienne, mais son appartenance à une école ou à une période précise ne peut pas être établie uniquement visuellement.",
+  "figuration": "figuratif",
+  "couleurs_dominantes": [
+    "noir-brun",
+    "bleu-vert sombre",
+    "or",
+    "rouge",
+    "beige clair"
+  ],
+  "elements_visibles": [
+    "homme âgé",
+    "perruque claire",
+    "habit sombre à galons dorés",
+    "gilet ou veste rouge et or",
+    "col clair",
+    "épée ou accessoire doré à la taille",
+    "petite statue figurant une personne drapée",
+    "socle ou table",
+    "inscription en lettres capitales en haut de l’image"
+  ],
+  "composition": "Composition verticale en portrait rapproché : le personnage occupe la majeure partie de la moitié gauche et du centre, tourné vers le spectateur, tandis que la statue est placée à droite et légèrement en retrait. Le fond sombre crée un contraste avec le visage, les vêtements dorés et la statue claire.",
+  "limites_visuelles": [
+    "L’inscription supérieure est partiellement floue et difficile à lire avec certitude.",
+    "La fonction, l’identité et le statut du personnage ne sont pas démontrables à partir de l’image seule.",
+    "La statue ne peut pas être attribuée visuellement à une divinité ou à un personnage historique précis.",
+    "Les détails de l’arrière-plan sont largement masqués par l’obscurité."
+  ],
+  "desaccord_sujet": false,
+  "erreurs_telechargement": []
+}

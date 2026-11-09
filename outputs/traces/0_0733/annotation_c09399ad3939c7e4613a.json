@@ -1,0 +1,197 @@
+{
+  "signature": "eaf8998e9f39003e0d14b508671ce33a0ed1b62c38d8ae7c5b2887cc2a0b4c7c",
+  "response": {
+    "id": "resp_0c30380a3026c221016aabe639acc487d2bb31ff2bfc787e01",
+    "created_at": 1789650489.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": "Analyse uniquement ce qui est visible dans cette image, sans recherche web ni identification de mémoire. Réponds en français. Décris précisément objets, personnages, décor et composition en 2 à 4 phrases. Pas de noms de personnes, dates ou récits non démontrables visuellement. Sujet principal parmi les neuf catégories ou NA. Religion/Mythologie/Histoire exigent des indices visibles, sinon NA ou catégorie plus générale. Culture : pratiques/symboles culturels identifiables ; Quotidien : activités ordinaires ; Objet : objets/nature morte ; Personnage : figure/portrait ; Nature : paysages/faune/flore ; Architecture : bâti. Style visuel probable en mots courts (ex. naturaliste, géométrique, impressionniste), sans affirmer une appartenance historique. Mets indéterminé si nécessaire. Ne confonds pas technique, sujet et style. Indique les limites et justifie les choix.",
+    "metadata": {},
+    "model": "gpt-4.1-2025-04-14",
+    "object": "response",
+    "output": [
+      {
+        "id": "msg_0c30380a3026c221016aabe63b73a487d2b3b99f4dae614552",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\n  \"description_visuelle\": \"L'image montre une composition verticale dominée par un fond gris sombre, parcouru d'effets vaporeux. Au centre, deux formes allongées et stylisées, proches d'animaux ou de silhouettes hybrides, se superposent : l'une est traitée en blanc et noir, l'autre en orange vif et blanc. Les deux semblent en mouvement, avec des membres tendus évoquant des pattes ou des bras, s'entrecroisant de façon dynamique au milieu du cadre. Le bas et le haut de l'image sont fermés par des arcs gris foncé, renforçant l'effet d'encadrement ou de profondeur.\",\n  \"sujet_principal\": \"Nature\",\n  \"sujets_secondaires\": [\"Objet\"],\n  \"justification_sujet\": \"La présence de formes évoquant des animaux, probablement stylisés ou hybrides, oriente majoritairement vers la nature. Leur traitement graphique épuré laisse aussi penser à une représentation d'objets ou de figures abstraites.\",\n  \"style_visuel_probable\": \"abstrait-figuratif, stylisé\",\n  \"justification_style\": \"La composition simplifie les formes animales par la stylisation et la superposition, tout en conservant certains éléments reconnaissables (membres, têtes, museaux). L'utilisation de couleurs vives en contrastes accentue le caractère abstrait.\",\n  \"figuration\": \"mixte\",\n  \"couleurs_dominantes\": [\"gris\", \"noir\", \"blanc\", \"orange\"],\n  \"elements_visibles\": [\"formes animales stylisées\", \"fond vaporeux\", \"arcs sombres haut et bas\"],\n  \"composition\": \"Centrée et verticale, avec les formes principales occupant la hauteur du cadre, et des encadrements incurvés en haut et en bas qui accentuent la profondeur.\",\n  \"limites_visuelles\": [\"Difficulté d’identifier avec certitude les espèces ou objets représentés\", \"Ambiguïté intentionnelle des formes\", \"Absence de contexte de lieu ou d’environnement naturel explicite\"]\n}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": null
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 1.0,
+    "background": false,
+    "completed_at": 1789650496.0,
+    "conversation": null,
+    "max_output_tokens": 3500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "in_memory",
+    "reasoning": {
+      "context": null,
+      "effort": null,
+      "generate_summary": null,
+      "mode": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "resultat",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "description_visuelle": {
+              "type": "string"
+            },
+            "sujet_principal": {
+              "type": "string",
+              "enum": [
+                "Architecture",
+                "Culture",
+                "Histoire",
+                "Mythologie",
+                "Nature",
+                "Objet",
+                "Personnage",
+                "Quotidien",
+                "Religion",
+                "NA"
+              ]
+            },
+            "sujets_secondaires": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "Architecture",
+                  "Culture",
+                  "Histoire",
+                  "Mythologie",
+                  "Nature",
+                  "Objet",
+                  "Personnage",
+                  "Quotidien",
+                  "Religion"
+                ]
+              }
+            },
+            "justification_sujet": {
+              "type": "string"
+            },
+            "style_visuel_probable": {
+              "type": "string"
+            },
+            "justification_style": {
+              "type": "string"
+            },
+            "figuration": {
+              "type": "string",
+              "enum": [
+                "figuratif",
+                "abstrait",
+                "mixte",
+                "indetermine"
+              ]
+            },
+            "couleurs_dominantes": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "elements_visibles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "composition": {
+              "type": "string"
+            },
+            "limites_visuelles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "description_visuelle",
+            "sujet_principal",
+            "sujets_secondaires",
+            "justification_sujet",
+            "style_visuel_probable",
+            "justification_style",
+            "figuration",
+            "couleurs_dominantes",
+            "elements_visibles",
+            "composition",
+            "limites_visuelles"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 850,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cached_tokens": 0
+      },
+      "output_tokens": 440,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 1290
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  }
+}

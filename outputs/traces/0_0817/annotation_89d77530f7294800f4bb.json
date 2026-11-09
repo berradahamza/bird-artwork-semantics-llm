@@ -1,0 +1,197 @@
+{
+  "signature": "c08ec52baefab26b2bc7c5df33c168dcd05cf3e8b2f93794e85d546f72013106",
+  "response": {
+    "id": "resp_0a9243d1c22897ae016aabe87ca59887d2a224d43b7cba903b",
+    "created_at": 1789651068.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": "Analyse uniquement ce qui est visible dans cette image, sans recherche web ni identification de mémoire. Réponds en français. Décris précisément objets, personnages, décor et composition en 2 à 4 phrases. Pas de noms de personnes, dates ou récits non démontrables visuellement. Sujet principal parmi les neuf catégories ou NA. Religion/Mythologie/Histoire exigent des indices visibles, sinon NA ou catégorie plus générale. Culture : pratiques/symboles culturels identifiables ; Quotidien : activités ordinaires ; Objet : objets/nature morte ; Personnage : figure/portrait ; Nature : paysages/faune/flore ; Architecture : bâti. Style visuel probable en mots courts (ex. naturaliste, géométrique, impressionniste), sans affirmer une appartenance historique. Mets indéterminé si nécessaire. Ne confonds pas technique, sujet et style. Indique les limites et justifie les choix.",
+    "metadata": {},
+    "model": "gpt-4.1-2025-04-14",
+    "object": "response",
+    "output": [
+      {
+        "id": "msg_0a9243d1c22897ae016aabe87d718887d283b46e6a29051398",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\n  \"description_visuelle\": \"L'image représente un paysage rural vu en surplomb, avec des champs colorés de façon vive et dynamique, alternant des touches de vert, ocre et bleu. Au loin, on distingue une ligne d'arbres, quelques formes évoquant des bâtiments, et des structures élancées peuvent suggérer des meules de foin ou des éléments agricoles. Le ciel occupe la partie supérieure et est traité par de larges coups de pinceau bleu clair. Les lignes sont esquissées, la composition reste gestuelle et expressive.\",\n  \"sujet_principal\": \"Nature\",\n  \"sujets_secondaires\": [\"Quotidien\",\"Architecture\"],\n  \"justification_sujet\": \"La scène montre un paysage champêtre, clairement associé à la nature, tandis que les indices de vie rurale (meules, champs travaillés) relèvent du quotidien ; des silhouettes de bâtiments indiquent une présence architecturale secondaire.\",\n  \"style_visuel_probable\": \"expressionniste\",\n  \"justification_style\": \"Les couleurs sont appliquées en aplats vifs et non nuancés, les formes sont stylisées et esquissées, donnant un aspect vivant et subjectif au paysage.\",\n  \"figuration\": \"figuratif\",\n  \"couleurs_dominantes\": [\"bleu\", \"vert\", \"ocre\", \"orangé\"],\n  \"elements_visibles\": [\"ciel\", \"champs\", \"lignes de végétation\", \"bâtiments au loin\", \"arbres\", \"structures agricoles\"],\n  \"composition\": \"Le champ de vision s'étend du bas vers l'horizon en couches successives, dessinant une perspective profonde ; l’animation est apportée par la direction courbe des formes de champs, la bordure sinueuse et les marques rapides dans la végétation.\",\n  \"limites_visuelles\": [\"absence de détails fins\", \"formes schématisées\", \"aucune indication chronologique\", \"pas de personnages identifiables\", \"technique picturale libre éloignée du réalisme\"]\n}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": null
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 1.0,
+    "background": false,
+    "completed_at": 1789651072.0,
+    "conversation": null,
+    "max_output_tokens": 3500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "in_memory",
+    "reasoning": {
+      "context": null,
+      "effort": null,
+      "generate_summary": null,
+      "mode": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "resultat",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "description_visuelle": {
+              "type": "string"
+            },
+            "sujet_principal": {
+              "type": "string",
+              "enum": [
+                "Architecture",
+                "Culture",
+                "Histoire",
+                "Mythologie",
+                "Nature",
+                "Objet",
+                "Personnage",
+                "Quotidien",
+                "Religion",
+                "NA"
+              ]
+            },
+            "sujets_secondaires": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "Architecture",
+                  "Culture",
+                  "Histoire",
+                  "Mythologie",
+                  "Nature",
+                  "Objet",
+                  "Personnage",
+                  "Quotidien",
+                  "Religion"
+                ]
+              }
+            },
+            "justification_sujet": {
+              "type": "string"
+            },
+            "style_visuel_probable": {
+              "type": "string"
+            },
+            "justification_style": {
+              "type": "string"
+            },
+            "figuration": {
+              "type": "string",
+              "enum": [
+                "figuratif",
+                "abstrait",
+                "mixte",
+                "indetermine"
+              ]
+            },
+            "couleurs_dominantes": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "elements_visibles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "composition": {
+              "type": "string"
+            },
+            "limites_visuelles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "description_visuelle",
+            "sujet_principal",
+            "sujets_secondaires",
+            "justification_sujet",
+            "style_visuel_probable",
+            "justification_style",
+            "figuration",
+            "couleurs_dominantes",
+            "elements_visibles",
+            "composition",
+            "limites_visuelles"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 1190,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cached_tokens": 0
+      },
+      "output_tokens": 432,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 1622
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  }
+}

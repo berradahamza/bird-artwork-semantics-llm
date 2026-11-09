@@ -1,0 +1,60 @@
+{
+  "image_id": "1_5846",
+  "titre": "Le Souffleur à la pipe",
+  "artiste": "D'après Georges de la Tour",
+  "room_id": "Room_34",
+  "sujet_existant": "Personnage",
+  "fingerprint": "aa5dd380f4cc93b7924edf7a3cc7b9f9a66b2ff2bba9d53612a41b7a98117eac",
+  "model": "gpt-5.6-luna",
+  "prompt_version": "bird-vision-v1",
+  "date_utc": "2026-09-18T13:58:14.139871+00:00",
+  "statut": "ok",
+  "image_path": "images\\1_5846.jpg",
+  "source_page": "https://www.museesgrandest.org/les-collections/le-souffleur-a-la-pipe/",
+  "source_image": "https://www.museesgrandest.org/wp-content/uploads/2022/11/le-souffleur-a-la-pipe.jpg",
+  "controle_identite": "retenu_par_IA_non_verifie_humain",
+  "raison_identite": "La page Musées Grand-Est rattache explicitement l’image à l’œuvre « Le Souffleur à la pipe », d’après Georges de La Tour, datée du XVIIe siècle. Le musée, l’inventaire Inv. D.51.2.1 (MNR.10), la technique et les dimensions sont compatibles avec la notice fournie, et l’image montre bien le tableau correspondant.",
+  "original_width": 693,
+  "original_height": 800,
+  "download_url": "https://www.museesgrandest.org/wp-content/uploads/2022/11/le-souffleur-a-la-pipe.jpg",
+  "sha256_download": "bbaeac2c779874a0c9ca7b95b323fe346e7afe7e8f75a3f44c00f1839fe0dad0",
+  "description_visuelle": "Une figure féminine est représentée de profil, tournée vers la droite, dans un espace presque entièrement sombre. Elle porte un vêtement sombre à manches rouges et un col clair, et tient devant elle un petit objet rougeâtre surmonté d’une forme pâle ainsi qu’un long objet mince terminé par une extrémité arrondie. La scène est peinte dans un format vertical et entourée d’un cadre en bois doré orné de motifs géométriques.",
+  "sujet_principal": "Personnage",
+  "sujets_secondaires": [
+    "Objet"
+  ],
+  "justification_sujet": "La présence centrale et détaillée est une figure humaine, dont le visage, les vêtements et les mains structurent la composition. Les objets tenus sont secondaires et leur fonction exacte n’est pas démontrable avec certitude.",
+  "style_visuel_probable": "Figuratif, naturaliste, ténébriste",
+  "justification_style": "Le visage, les mains et les étoffes sont rendus de manière reconnaissable, avec un fort contraste entre les zones éclairées et un fond très sombre. La lumière semble concentrée sur le profil et les mains, mais l’appartenance à une période ou à une école précise ne peut pas être déduite uniquement de l’image.",
+  "figuration": "figuratif",
+  "couleurs_dominantes": [
+    "brun sombre",
+    "noir",
+    "rouge",
+    "ocre doré",
+    "blanc cassé"
+  ],
+  "elements_visibles": [
+    "figure féminine de profil",
+    "cheveux ou coiffe sombre",
+    "visage éclairé",
+    "col clair",
+    "vêtement sombre",
+    "manches rouges",
+    "mains tendues",
+    "petit objet rougeâtre",
+    "forme pâle ressemblant à une flamme ou une plume",
+    "long objet mince à extrémité arrondie",
+    "fond noir ou brun très sombre",
+    "cadre en bois doré"
+  ],
+  "composition": "Composition verticale et resserrée, avec la figure placée à gauche et orientée vers la droite. Le profil, les mains et les objets forment une diagonale centrale éclairée, tandis que le fond sombre isole la silhouette et accentue le contraste. Le cadre doré entoure entièrement la scène.",
+  "limites_visuelles": [
+    "La faible luminosité masque une partie des vêtements et du décor.",
+    "La fonction exacte des objets tenus n’est pas identifiable avec certitude.",
+    "Aucun récit, personnage historique ou contexte religieux n’est démontrable visuellement.",
+    "La reproduction ne permet pas d’évaluer précisément la matière picturale originale."
+  ],
+  "desaccord_sujet": false,
+  "erreurs_telechargement": []
+}

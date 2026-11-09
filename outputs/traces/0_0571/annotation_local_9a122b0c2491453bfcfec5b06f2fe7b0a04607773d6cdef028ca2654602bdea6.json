@@ -1,0 +1,205 @@
+{
+  "signature": "5aedd592f18433864c8d1b4ade1680f3252123aff3016b2c422e521412a7921e",
+  "response": {
+    "id": "resp_0bb134b6ca30c075016aae9bb70b6c87d2b3024149adfc1050",
+    "created_at": 1789828023.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": "Analyse uniquement ce qui est visible dans cette image, sans recherche web ni identification de mémoire. Réponds en français. Décris précisément objets, personnages, décor et composition en 2 à 4 phrases. Pas de noms de personnes, dates ou récits non démontrables visuellement. Sujet principal parmi les neuf catégories ou NA. Religion/Mythologie/Histoire exigent des indices visibles, sinon NA ou catégorie plus générale. Culture : pratiques/symboles culturels identifiables ; Quotidien : activités ordinaires ; Objet : objets/nature morte ; Personnage : figure/portrait ; Nature : paysages/faune/flore ; Architecture : bâti. Style visuel probable en mots courts (ex. naturaliste, géométrique, impressionniste), sans affirmer une appartenance historique. Mets indéterminé si nécessaire. Ne confonds pas technique, sujet et style. Indique les limites et justifie les choix.",
+    "metadata": {},
+    "model": "gpt-5.6-luna",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0bb134b6ca30c075016aae9bb7da8087d2aed046b7467232eb",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrpu77yiD7ivl-hbSI5rC8GxB0Thjc7-Q2D5kGRq4edoUubbigvdbFQ3mMpGP9M8Fy1Wc0qZw7xrZ_WBrls9q4r4-S3Lfuk6xTkwk4iqjj_5YubucM9RxVZGkat3-RX_nWRjwqZwco_1Z_abA0jcbgYIIw8wvUwofzIVs6iz8DUDHP59Pw8LcH4SNc5_UzVxCIKsP8j4dTkX1ElM_lGSU2UYn3jWOtQQCDulMmGQojP6oPd-zUU6zMon0AIe7z_Uw4mgiGtmapyV43nQNfg8iX736Pk-sr1ULUUNauMVYCD52W3pkpYS2m2ASOID2bmPXMV8b_nnE9eY1etOVZG5RqU_tAKE1zTWAA2AEdTJbrimIXBq8n94vdhiQZ4vAUN4JzuGT6ArvPBnPxjW-VnmES_DJ-069dg5qj9A15903vJ97Gstc8yD777PCMR72sOjql2VE8a-GL4ya7OzthAaTx1Vwzhe5isOZaffAwXXQWcnz_z_yE54IdKUPBIFau4cEidw03zsm8aRrQkkEKgpVaaB2l_xy4nyEfOd2xPwVTY_0_Bq9FKR2w-VgSqdlikCMoRrVYr_gLetC3ay8ov7jYA2IQAAANKzmKqwZnN38qU10oVASW7CJCmwIATQFk52QwDAAw0IUsSKplNwvUzZmylnVljlCtdg0CUYkh7wfK0bsave3uyw3GzOwah4iHPOYMSVJc1y7MTwGo1HwESAL-p2le9JTlWsHREmq9sCvu2KbFSrGTg6eOrALLEa6C62u4TJDVrM555H0ndRmBmGZ1tkA1Llu8ETRRU3OtKFkbXKNFMsVSstZRMbEO8LDsPI5HF4eEiaL-BHx586M1UG4yAVmuPgB2f9612-sLdy_2bq32zAufvfGer96xNfiNr1z31lKF6Om0yye1m4pm-CpI4eV6dou2NhiPK7UiD4G-Qbhqdhxkv2B8-w2J8WqTkpNKTUgzchTwPO8k4naaAeoKYd9PMC46BI1JClCqrt8BLtRjMz9s2KlgvqeeUntm-H0hHQs6FnrQs7ZEY2VieBLf8yn3IU6g-LHlykg1IUpVKJwdvCVcgUQmunagAhtItrssWXcIiDiRLzlkU01R8IeZcAKKEflTVEFnCMrBQGB-ZHPk8B-Dy7tssU6q8-Xew2WYlVY_Eh_S96m_OQM2-r3sXarcQq0nIMzjZelfsGiABgCt_NgCZIMPL4laO3yHpVmjjMvFabXIOQhVpDoGM1_oF9Xn1UmWdRYMv56C9Yx4cqsonILacSli7zkYp9xpUADrf6M8H5PvaJDMQhpt87UThFhsYOPIC9uh8p1ssjafJQaxvTvdl82SmwKTpE-HAhHLfSbZV0nQDHAVOqBcltEJR1KG2s-PeWFTRuaoRzM6kuXW7xMRij9gqIDYOpip9gz4F7VSI9E9WxeWJsQ2Wxdm4ToLF9c5IBP3GW-3nXmP08Mj_AyKrLN6Gg2j6Tuu-889HC5g7t3S1C6dOdyQBVR1w-F8hWh_iQfbzgVphDFsOyJT7veb57XJYGGDck9PkRisPVgSw6YUIYv0ujjhYWItXWn1d8KSWDqTh-k3S5szy0pvLgJTv7VLnSkrdzjxUrHbHBMS1B8y8qbAaTl8qq2f3ZAH6y5kiAri6dinNaz3HoiHyY-aQVrywWVYAZxPnUkA7IVfYLTV2twl5-TdekziplGZqsqI0emJJCxGjjcurKcaBZE9gvyGBNqoQwdWj4T0ZUfRh-Bb4Iye50DQiSUghr5TOU6ekrm4WInNSM5j5wfF8z70MXaYtyFuOOaCuKPdqES3QJudpVIe1LfpaGyInxlF3hE3qHg1is0A4pUMS9dFYihb9xEZJurfs3zlFiL_YW_WE5tl_9e8cyo4mEXRlICpJRPpjLpU4fR2pmXc2o4IfJTa4zRrbKQCNLZKcSznf6uF1qsEq3-CxUcj5yoBwPBlPgLk8AiqgpRac_g8_qTyZB4NfCV-55blQZOM1EbIPlMGkQWzuMMkYBzqQSK06iJ18VeGJJTgpnqtPX6EwpHO134b5VzqOuwPu8zgcyBfT_P59YcF5OEebr9hV-i0q6P-HBLskhGe7vv3iapZap8i5Y=",
+        "status": null
+      },
+      {
+        "id": "msg_0bb134b6ca30c075016aae9bb8cc8087d288fec358059b823a",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\"description_visuelle\":\"Une grande haie dense, taillée en forme de trapèze inversé, occupe le centre et le bas de l’image, devant des herbes et des talus. À l’arrière-plan, plusieurs immeubles résidentiels de grande hauteur présentent des façades quadrillées par des balcons, fenêtres et lignes horizontales. L’ensemble est rendu en noir et blanc, avec un contraste marqué entre la végétation sombre et les surfaces claires des bâtiments.\",\"sujet_principal\":\"Architecture\",\"sujets_secondaires\":[\"Nature\"],\"justification_sujet\":\"Les immeubles collectifs à balcons structurent nettement l’arrière-plan et constituent le principal élément bâti identifiable; la haie et les herbes forment un environnement végétal secondaire.\",\"style_visuel_probable\":\"Photographique, documentaire, noir et blanc, contrasté\",\"justification_style\":\"L’image montre une scène figurative observée directement, avec une gamme monochrome, une texture très présente dans la végétation et un contraste accentué entre ombres et lumières.\",\"figuration\":\"figuratif\",\"couleurs_dominantes\":[\"noir\",\"blanc\",\"gris foncé\",\"gris clair\"],\"elements_visibles\":[\"haie dense taillée en forme géométrique\",\"herbes et végétation basse\",\"talus ou sol végétalisé\",\"immeubles résidentiels collectifs\",\"balcons répétés\",\"fenêtres et ouvertures rectangulaires\",\"lignes horizontales de façade\"],\"composition\":\"La haie forme une masse centrale sombre au premier plan et masque partiellement les bâtiments. Les immeubles occupent la bande supérieure, tandis que les diagonales des talus et la forme évasée de la haie conduisent le regard vers le centre inférieur.\",\"limites_visuelles\":[\"Aucun personnage ni objet domestique distinct n’est visible.\",\"La fonction précise des bâtiments et le contexte géographique ne peuvent pas être déterminés à partir de l’image seule.\",\"Les détails architecturaux sont partiellement masqués par la végétation et le rendu monochrome.\"]}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1789828027.0,
+    "conversation": null,
+    "max_output_tokens": 3500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "medium",
+      "generate_summary": null,
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "resultat",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "description_visuelle": {
+              "type": "string"
+            },
+            "sujet_principal": {
+              "type": "string",
+              "enum": [
+                "Architecture",
+                "Culture",
+                "Histoire",
+                "Mythologie",
+                "Nature",
+                "Objet",
+                "Personnage",
+                "Quotidien",
+                "Religion",
+                "NA"
+              ]
+            },
+            "sujets_secondaires": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "Architecture",
+                  "Culture",
+                  "Histoire",
+                  "Mythologie",
+                  "Nature",
+                  "Objet",
+                  "Personnage",
+                  "Quotidien",
+                  "Religion"
+                ]
+              }
+            },
+            "justification_sujet": {
+              "type": "string"
+            },
+            "style_visuel_probable": {
+              "type": "string"
+            },
+            "justification_style": {
+              "type": "string"
+            },
+            "figuration": {
+              "type": "string",
+              "enum": [
+                "figuratif",
+                "abstrait",
+                "mixte",
+                "indetermine"
+              ]
+            },
+            "couleurs_dominantes": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "elements_visibles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "composition": {
+              "type": "string"
+            },
+            "limites_visuelles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "description_visuelle",
+            "sujet_principal",
+            "sujets_secondaires",
+            "justification_sujet",
+            "style_visuel_probable",
+            "justification_style",
+            "figuration",
+            "couleurs_dominantes",
+            "elements_visibles",
+            "composition",
+            "limites_visuelles"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 627,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cached_tokens": 0
+      },
+      "output_tokens": 563,
+      "output_tokens_details": {
+        "reasoning_tokens": 131
+      },
+      "total_tokens": 1190
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  }
+}

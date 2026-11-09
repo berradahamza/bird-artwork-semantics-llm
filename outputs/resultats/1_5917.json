@@ -1,0 +1,62 @@
+{
+  "image_id": "1_5917",
+  "titre": "Repos d'Arabes",
+  "artiste": "Charles-Théodore Frère",
+  "room_id": "Room_18",
+  "sujet_existant": "Personnage",
+  "model": "gpt-5.6-luna",
+  "prompt_version": "bird-vision-v1",
+  "date_utc": "2026-09-23T13:36:42.562277+00:00",
+  "mode_acquisition": "image_locale",
+  "fichier_fourni": "1_5917.jpg",
+  "controle_identite": "association_par_id_fournie_par_utilisateur",
+  "raison_identite": "Image associée à cette œuvre par son nom de fichier ; identité non contrôlée automatiquement.",
+  "source_page": "",
+  "source_image": "",
+  "erreurs_telechargement": [],
+  "sha256_image_locale": "2d475b3d70cf960e0bbfc831037ecffe2954d045aab75ffe11eff6e8f44661b2",
+  "fingerprint": "eb039b7f97da62d9ffca58956b4ed9bc1be3c43d66b8050c2962e46606da13a1",
+  "original_width": 908,
+  "original_height": 567,
+  "statut": "ok",
+  "image_path": "images\\1_5917.jpg",
+  "description_visuelle": "La reproduction montre un paysage fluvial au crépuscule, avec une rive sablonneuse, une végétation dense dominée par plusieurs palmiers et une étendue d’eau réfléchissant la lumière. Au premier plan, plusieurs figures vêtues de drapés se tiennent près d’un animal chargé ou sellé, tandis qu’une autre forme allongée repose sur le sol. À l’arrière-plan, la rive opposée présente quelques silhouettes de bâtiments ou de végétation, sous un ciel lumineux où volent de petits oiseaux.",
+  "sujet_principal": "Nature",
+  "sujets_secondaires": [
+    "Personnage",
+    "Quotidien",
+    "Architecture"
+  ],
+  "justification_sujet": "Le paysage, le cours d’eau, la végétation et l’atmosphère lumineuse occupent la majeure partie de la composition. Les personnages et l’animal introduisent une scène d’activité ordinaire, tandis que les formes lointaines évoquent des constructions sans être suffisamment détaillées pour une identification précise.",
+  "style_visuel_probable": "Pictural, atmosphérique, tonaliste, naturaliste",
+  "justification_style": "La scène repose sur des contours peu nets, des transitions de lumière douces et une gamme de tons dorés, bruns et verdâtres. La profondeur est suggérée par la brume, les contrastes décroissants et les reflets sur l’eau.",
+  "figuration": "figuratif",
+  "couleurs_dominantes": [
+    "ocre",
+    "brun",
+    "vert sombre",
+    "jaune doré",
+    "bleu gris",
+    "rose pâle"
+  ],
+  "elements_visibles": [
+    "cours d’eau",
+    "rive sablonneuse",
+    "palmiers",
+    "arbres et arbustes",
+    "trois figures humaines environ",
+    "animal au centre",
+    "forme allongée au premier plan",
+    "oiseaux dans le ciel",
+    "silhouettes lointaines de bâtiments ou de végétation",
+    "reflets lumineux sur l’eau"
+  ],
+  "composition": "La rive traverse horizontalement le bas de l’image et conduit le regard vers le groupe central. La masse sombre des arbres et des palmiers équilibre la grande zone claire du ciel et de l’eau, tandis que les personnages et l’animal forment un point focal au premier plan, légèrement décalé vers la droite.",
+  "limites_visuelles": [
+    "L’animal central est difficile à identifier avec certitude en raison de l’ombre et de la faible définition.",
+    "Le nombre exact de personnages et la nature de la forme allongée au sol restent incertains.",
+    "Les silhouettes de l’arrière-plan ne permettent pas de distinguer précisément des bâtiments, des arbres ou d’autres éléments.",
+    "Aucun lieu, événement historique ou récit précis n’est démontrable à partir de l’image seule."
+  ],
+  "desaccord_sujet": true
+}

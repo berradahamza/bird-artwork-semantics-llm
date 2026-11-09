@@ -1,0 +1,205 @@
+{
+  "signature": "aee1ffeca8abd7bdc7a160133c09106c35a74dbc2cc038e96e4d6263cbcedf72",
+  "response": {
+    "id": "resp_00b1499850e24191016aad413e1ff087d2ae3777a9d45f6205",
+    "created_at": 1789739326.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": "Analyse uniquement ce qui est visible dans cette image, sans recherche web ni identification de mémoire. Réponds en français. Décris précisément objets, personnages, décor et composition en 2 à 4 phrases. Pas de noms de personnes, dates ou récits non démontrables visuellement. Sujet principal parmi les neuf catégories ou NA. Religion/Mythologie/Histoire exigent des indices visibles, sinon NA ou catégorie plus générale. Culture : pratiques/symboles culturels identifiables ; Quotidien : activités ordinaires ; Objet : objets/nature morte ; Personnage : figure/portrait ; Nature : paysages/faune/flore ; Architecture : bâti. Style visuel probable en mots courts (ex. naturaliste, géométrique, impressionniste), sans affirmer une appartenance historique. Mets indéterminé si nécessaire. Ne confonds pas technique, sujet et style. Indique les limites et justifie les choix.",
+    "metadata": {},
+    "model": "gpt-5.6-luna",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_00b1499850e24191016aad413efab487d2b7ed6e1565f14e65",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrUFFiMsIjFU3tUwmdpEowgRuhSI7UtHaBg3VxQjrthzNdFQmFLmZZn731HNpx22ElHc1CjqB-X4d0nlGGCcKrRJIhAgITf0VFj2rVP0eTy6o4Ad5mc0XJXgrxnXj2yPD1HRAf9CE879Vz2AvmnTiVeTrPChdIG487crrybXdSNcWOz2Osx3eFjw8mJwPy74ZewslBtCEKSe4sF43zR7shPKN2HT7DAFTyMOVg_uSinSk5URUfrn2i7ofli7-aSCYNuMzQGaSEaOLCiXTpCuR2HAxTzmSHIWiLTBrNzXqH1_IrcjF95O6PJTxmdgWojE6oa_PAqc8Ro45h7w7vbvCRhDIlfzYWoNms5Y0MKmeI8As9yfn4fOG8ncvtBghoSZkedBYkjURcdUVmYRK042NthUff9CnS_dL241oyKJRQWKYhUjYDdTAmPqqafQhFrnzrA_-1fsU5Wvjk5we9vy1abmSLsAsIVk6YzGmSZTAE-4bdAds9ELMLrpzDpPZwZYT3s4KN9ddfmLBBDX1_quRgtIFExAHKUn3VW5MnInVR6nTILzXQtlH6mxGk4J0E93OC_u61GoheAURMIEBKkXYJSM0Z0-N_sC54j0bA19caq7m6d7S_JVHmAj7ZjaNSOctP5WfFwCRb3jYhyCL3U-GGaKDatX5M1p-nx7wSMB5XHeb6uLqT22bI0BDyv2GBwbEwNVeMo9TVUu4jowjk5OxSG1FSLpKc-pFuTpYuC0H1p40UTyqiMYP1UZTO2DWzkMKiPV3pvSmbI1XqEkbH-ynGOPaAz0F56xVxeCElb5FkuCCjNINqCIylFPRjk0zcm9XBcBripYnP6mtWfB4GJP4vZ8qFFVdgmjm27AwApCmTyF1tOqEPIvkLRnMQ9UdIrFGJTzBOVLgweQzVyqN8e2rHQOZvfEdaZPqQX9bYbYSXeP5BT_kUoXqlmttCyYC1g8gmH4yGqOYnkvQ1kLUgfn13yySkoANiSX50nENS2Xs77ZF_y4cTnrk-8F8i4iWSMeWdBVXdTqhXFar5oMZdXtL15nbyQ9eAbLuoePWr2qra9u4GJLiV7Ah8M0m8PjBAG5pukyavuRyvqowbFjK6FHTgPkro06EYfFrtu_cj0lU5lenrQ8nm7DleJYFZe_LOoVLgLPouKlcTf29BazNWVyAfAHb1Y2TMit84ryS38_G_M9aZSMRIobo1Icvusc-NfMroeWYzhoNB6krfDfCSVilOyJVySNi_EK7vffBTav4adJvNGKQST9kBpO1Aou-51R65jLXPrYKHadI5GK_-hlgPnzufqh2pbQBA-cSJbq2MWEUwpMlGAAOHIcHuxadrUKrlnFdB44em-7_RicT7L6yQHvdSqk2X1DNz7nRp9-ZyDqbHqEHOBeUmSp5ZTCi64oMhiKLGQKDrdlzALxR2OOQoMGYrhcCdPjo4pUn6Eais3LTQRJ_Evwq_23ncnYFROXKZ15AVMdqVF8zBooKKz3x6eu2BHqOYKOhVu7RVUeHHyP2eBQvUBUoAe-GW3jOoGGYazAGZiSRc9P6GE8TN02XgmjKjKhnKHPExDk2UNRQMq1XKTM_dN2Uc1tt6sjVt_ycTLfnAjmYriijE_x3453qpUPUldQD3xwEL6sGK-67icAftBykBFrp98yZut8g_6dmnidM4vJrErZv-B9s8_3V7KXSUzc6AKsTUKmG-yQHu8AErQ7NSkHZx6NHg8z2Nn7mogdMhC1ccdJvWLF-ULtpBl0xLbB289NYB79_TO9xQlvsO7eLDi-hQOJk9iixyy52PxMLkvTOOA8WTyjrPohYCpFfs74H4GPEFFnwUBIDIjgEeovsPS8jDrXryXlVuYTilqx2PRCIWdt6MAyjLsAgUP5WVUCwcDgRoLjk5GK-kgGR-TovhD7Y9QbJn0dEfhmr8UOB59oa-oGJUvr5C5EqYaaUlDrK0ZEZ7I9iC4j8_gIDK05i1xzhfNMLFLM67W-2VRxBI1zQaR3fCByjt2jbZ19yNfl91TyZsiv2IN9RLKoaF08=",
+        "status": null
+      },
+      {
+        "id": "msg_00b1499850e24191016aad4140970487d28a4afd028c1dc6f2",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\"description_visuelle\":\"La reproduction montre une mer très agitée, avec de fortes vagues et des écumes blanches, plusieurs voiliers et une embarcation renversée ou en difficulté. Des personnages se trouvent sur le rivage rocheux au premier plan et sur la droite, tandis qu’une haute falaise surmontée de constructions apparaît à l’arrière-plan. Le ciel très nuageux et contrasté occupe une grande partie de la composition et accentue l’impression de tempête.\",\"sujet_principal\":\"Nature\",\"sujets_secondaires\":[\"Objet\",\"Quotidien\",\"Architecture\"],\"justification_sujet\":\"Le motif dominant est un paysage maritime soumis au mauvais temps, avec la mer, les rochers, le ciel et les vagues au centre de la scène. Les navires et les figures humaines complètent ce paysage sans permettre d’identifier un événement historique précis.\",\"style_visuel_probable\":\"Figuratif, pictural, dramatique, atmosphérique\",\"justification_style\":\"Les formes sont reconnaissables mais traitées par des coups de pinceau visibles, des contrastes de lumière et une forte opposition entre les zones sombres et les écumes claires. Le ciel et la mer privilégient l’effet d’atmosphère plutôt qu’une description géométrique détaillée.\",\"figuration\":\"figuratif\",\"couleurs_dominantes\":[\"bleu gris\",\"gris violacé\",\"brun\",\"noir\",\"blanc écumeux\",\"ocre pâle\"],\"elements_visibles\":[\"mer agitée\",\"vagues et écume\",\"ciel chargé de nuages\",\"grand voilier à gauche\",\"plusieurs petites embarcations\",\"barque échouée ou renversée au centre\",\"personnages sur les rochers au premier plan\",\"personnages sur la droite\",\"rochers et rivage\",\"falaise à droite\",\"constructions indistinctes au sommet de la falaise\",\"mât ou débris incliné dans l’eau\"],\"composition\":\"La scène est organisée selon une diagonale allant du grand navire à gauche vers la falaise à droite. Le premier plan sombre est occupé par les rochers et les personnages, le centre par les vagues et les embarcations, tandis que le ciel monumental forme l’arrière-plan et concentre la lumière autour des nuages.\",\"limites_visuelles\":[\"Les constructions au sommet de la falaise sont trop petites pour être identifiées précisément.\",\"Les actions des personnages ne sont pas déterminables avec certitude.\",\"La scène évoque une situation maritime dangereuse, mais aucun événement historique, lieu ou récit précis n’est démontrable uniquement à partir de l’image.\"]}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1789739333.0,
+    "conversation": null,
+    "max_output_tokens": 3500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "medium",
+      "generate_summary": null,
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "resultat",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "description_visuelle": {
+              "type": "string"
+            },
+            "sujet_principal": {
+              "type": "string",
+              "enum": [
+                "Architecture",
+                "Culture",
+                "Histoire",
+                "Mythologie",
+                "Nature",
+                "Objet",
+                "Personnage",
+                "Quotidien",
+                "Religion",
+                "NA"
+              ]
+            },
+            "sujets_secondaires": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "Architecture",
+                  "Culture",
+                  "Histoire",
+                  "Mythologie",
+                  "Nature",
+                  "Objet",
+                  "Personnage",
+                  "Quotidien",
+                  "Religion"
+                ]
+              }
+            },
+            "justification_sujet": {
+              "type": "string"
+            },
+            "style_visuel_probable": {
+              "type": "string"
+            },
+            "justification_style": {
+              "type": "string"
+            },
+            "figuration": {
+              "type": "string",
+              "enum": [
+                "figuratif",
+                "abstrait",
+                "mixte",
+                "indetermine"
+              ]
+            },
+            "couleurs_dominantes": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "elements_visibles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "composition": {
+              "type": "string"
+            },
+            "limites_visuelles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "description_visuelle",
+            "sujet_principal",
+            "sujets_secondaires",
+            "justification_sujet",
+            "style_visuel_probable",
+            "justification_style",
+            "figuration",
+            "couleurs_dominantes",
+            "elements_visibles",
+            "composition",
+            "limites_visuelles"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 853,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cached_tokens": 0
+      },
+      "output_tokens": 685,
+      "output_tokens_details": {
+        "reasoning_tokens": 132
+      },
+      "total_tokens": 1538
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  }
+}

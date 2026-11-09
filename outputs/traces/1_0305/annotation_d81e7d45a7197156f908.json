@@ -1,0 +1,205 @@
+{
+  "signature": "06cf256937832f3c87379253f7a521f717c509d120c9b3980f98e49441a84464",
+  "response": {
+    "id": "resp_0e1494139e2e79a9016aad4057d9f087d2bc3f04851c9e028c",
+    "created_at": 1789739095.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": "Analyse uniquement ce qui est visible dans cette image, sans recherche web ni identification de mémoire. Réponds en français. Décris précisément objets, personnages, décor et composition en 2 à 4 phrases. Pas de noms de personnes, dates ou récits non démontrables visuellement. Sujet principal parmi les neuf catégories ou NA. Religion/Mythologie/Histoire exigent des indices visibles, sinon NA ou catégorie plus générale. Culture : pratiques/symboles culturels identifiables ; Quotidien : activités ordinaires ; Objet : objets/nature morte ; Personnage : figure/portrait ; Nature : paysages/faune/flore ; Architecture : bâti. Style visuel probable en mots courts (ex. naturaliste, géométrique, impressionniste), sans affirmer une appartenance historique. Mets indéterminé si nécessaire. Ne confonds pas technique, sujet et style. Indique les limites et justifie les choix.",
+    "metadata": {},
+    "model": "gpt-5.6-luna",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0e1494139e2e79a9016aad40584ce887d2ab4561620fff05ed",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrUBdtS2_weWs3Yy2FaXKQSBLIPotdjaWjY65DksmMcEb2LBh1brDKy6QwW2K9UGXgy25DLZfznuifXAP76MSNTwWFwCVFNyTyN93oHL8lhu-Hz3T9fWjQJYsaf7TTHGEOCXPKoOziAxZ6Tg-eZNNWMwM0-NaiSp8nKVUsXw6teaEuYZu-VJMWYEYAANwlIhUeIlJ09F_ph4Un4CmLtO35u538tCT5wWMO9KNxjKvnDEfF2hEcYne89OSFeNmqRiOROBd8SUGceinrLaw4D0kpvWIhx5ixWPLcrbnJE9eorz4Xa_oI7tuxtqqsDBGtkCoTBCAvudwttpj7OEwVLaadlMjpbQ--Lc0gGHCmJjhLbbktDflSm2s1RPWNDgfzPzjv2JDa4at4oi9jnLqhTec2XtvdbZLJ4H2QbMu1pKmFFln5yLiOgoGyyRdDwba_Eit2UafgzdRIo06CgcXPfc0LkOdFBQi0pNtH9ZOS0JKkVqFXzrwRvl4yGUoGZpyZZ5o4YqoCYGg2k1wYBWMcnJ0dYombHZlK2OEG6iabvp-tiekPzmvKXxju3kIsgQo6dvNhUnZynL1ksbeU0FkRbYC79bf6fP88ADJ2kdZKYieZJXBh9bipFj2aR9Oj2bY_e5YnMBhAUOy97bnvcfloXX41AKGNEH_CzuKsF7Q2B-a7W77VcElQDr0eplRg3csoLG1V1FF-jpXkUNUqUZ2zJyRJM-KWWXoVh27BCZ7UvD81YA9w6eDQF2QMCMgxvPR1rpNmvqSFdpdGXxzUP47vF8-e20fiWvKRC74Zp7XYwfZp_lNBz1WP1X6YCVYIv0whpsfGLnOc5Ldp5jUU5cj5aTLvMtBl2vmijfA8umQ4cYJM6BaZeA7NffRJQi-_SOPiuJJzvUpKY5Ls0S6ZVv1XzWveN_wbEM_92s9NtZS7V22Qde5wWtckgJiFB_at1m2UXFGyNDOHWb1cOn3shHJbYP-mwnGUoIW3LhcC47RpKrvGPiTFe23A_WZp5UXxYe1eQPPN-gmm8KnG2D1cjZL9g1ufMPONiAIZREkKgMEOjMNrENh-TYLIcGoaXBMx5LgJkLjQAJEsL-6YccH8zYvtuvAatHM5y2epJ7DvuBlZjYVx29FQOyuM_td6Hsmg1EQ_6wVqMkWl70ri6BN9y4JF3JKmD0NUKusKW2UJFxSpJ4xvE_pPsHwIPSFCwrVMhKCKdf_OW0eP8NNh3Ud9s31znSYo31rzaGr7aJ04pkt331nEswgwWu9fzbBDr_QDcD0eYs47u_OIMVF_shs7UUard5IMqDfIs5cRNTSHNa6Hk0f1otLVIo1y_FZ6HYbYlOOCFKiM093nnePi_JJObL0cNsDVlskM9cxvXwyW1kpnnEwlGV9KrMYa7nLKG9vNG_NaqrySg9YnuYexdjJs-xWeTCpZlQLeEcVuIDwrN2nmUYQxrUOt4WkrAOqBI8Q35XDMjKN7z7i3NcvPc_vGrKEq5DFEU13Ty8HWcuZrx9OLM3X5oRKYXGnd_PS_CqpC27bkQ_Q-kQyJc7h4fQ5GYobSFM1t3kAiKq6cUW7ElvTOVmSiCCD4xhK5eces0g3KytiDUlQDDuz9Q8POKka_mv3uFxHVnnZ9LcWhRV7xJp9qWHuZbHtX7tqSeK3ejvXDYq9Zys7GmmXTJI0RnBrA3msuoPKx5U7JR5MQyS0fsILTBYciWMGVAOk-Jk4GpwOJ7tCGQdsADyxxmUJy4rKZ6E3Dj11pJ3OZR2eTL3DmIuvp5j89pVwlnc=",
+        "status": null
+      },
+      {
+        "id": "msg_0e1494139e2e79a9016aad4059151887d2bdf4bf854bd58b03",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\"description_visuelle\":\"Nature morte composée d’un bouquet de fleurs variées dans un vase ornementé, de fruits disposés à gauche et au centre, ainsi que d’un grand plat ou disque décoratif en arrière-plan. Un tissu bleu richement brodé et bordé de franges dorées recouvre la table et tombe au premier plan, tandis que le fond sombre fait ressortir les formes éclairées.\",\"sujet_principal\":\"Objet\",\"sujets_secondaires\":[\"Nature\",\"Culture\"],\"justification_sujet\":\"La scène est dominée par une réunion d’objets, de fruits, de fleurs et de textiles, sans personnage visible. Les fleurs et les fruits constituent des éléments naturels intégrés à une composition de nature morte, tandis que les ornements et les broderies renvoient à un décor luxueux.\",\"style_visuel_probable\":\"Naturaliste, décoratif, clair-obscur, richement détaillé\",\"justification_style\":\"Les volumes, les textures des étoffes, les reflets métalliques et les pétales sont rendus avec un modelé réaliste. Le contraste entre le fond brun très sombre et les zones éclairées produit un effet de clair-obscur, avec une composition dense et ornementale.\",\"figuration\":\"figuratif\",\"couleurs_dominantes\":[\"Brun sombre\",\"Bleu profond\",\"Or\",\"Rouge\",\"Blanc cassé\",\"Rose\",\"Vert foncé\"],\"elements_visibles\":[\"Bouquet de fleurs blanches, roses et rouges\",\"Vase ou récipient décoratif\",\"Fruits variés, dont des raisins et des fruits ronds rouges et jaunes\",\"Grand plat ou disque circulaire ornementé\",\"Étoffe bleue brodée de motifs dorés\",\"Franges et passementeries dorées\",\"Table ou support en bois\",\"Fond sombre\",\"Petits objets métalliques et décoratifs à droite\"],\"composition\":\"La composition est organisée en diagonale ascendante, des fruits et du tissu à gauche vers le bouquet placé au centre-droit. Le disque décoratif forme un large arrière-plan circulaire, tandis que le tissu déployé crée une base horizontale et guide le regard vers les objets centraux.\",\"limites_visuelles\":[\"La fonction exacte du grand objet circulaire à l’arrière-plan n’est pas certaine.\",\"Certains fruits et petits objets sont partiellement masqués par le tissu ou plongés dans l’ombre.\",\"Aucun contexte historique, lieu, auteur ou récit précis n’est identifiable avec certitude à partir de l’image seule.\"]}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1789739101.0,
+    "conversation": null,
+    "max_output_tokens": 3500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "medium",
+      "generate_summary": null,
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "resultat",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "description_visuelle": {
+              "type": "string"
+            },
+            "sujet_principal": {
+              "type": "string",
+              "enum": [
+                "Architecture",
+                "Culture",
+                "Histoire",
+                "Mythologie",
+                "Nature",
+                "Objet",
+                "Personnage",
+                "Quotidien",
+                "Religion",
+                "NA"
+              ]
+            },
+            "sujets_secondaires": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "Architecture",
+                  "Culture",
+                  "Histoire",
+                  "Mythologie",
+                  "Nature",
+                  "Objet",
+                  "Personnage",
+                  "Quotidien",
+                  "Religion"
+                ]
+              }
+            },
+            "justification_sujet": {
+              "type": "string"
+            },
+            "style_visuel_probable": {
+              "type": "string"
+            },
+            "justification_style": {
+              "type": "string"
+            },
+            "figuration": {
+              "type": "string",
+              "enum": [
+                "figuratif",
+                "abstrait",
+                "mixte",
+                "indetermine"
+              ]
+            },
+            "couleurs_dominantes": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "elements_visibles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "composition": {
+              "type": "string"
+            },
+            "limites_visuelles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "description_visuelle",
+            "sujet_principal",
+            "sujets_secondaires",
+            "justification_sujet",
+            "style_visuel_probable",
+            "justification_style",
+            "figuration",
+            "couleurs_dominantes",
+            "elements_visibles",
+            "composition",
+            "limites_visuelles"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 903,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cached_tokens": 0
+      },
+      "output_tokens": 620,
+      "output_tokens_details": {
+        "reasoning_tokens": 93
+      },
+      "total_tokens": 1523
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  }
+}

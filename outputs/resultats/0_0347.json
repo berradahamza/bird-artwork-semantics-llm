@@ -1,0 +1,88 @@
+{
+  "image_id": "0_0347",
+  "titre": "Les bouleaux",
+  "artiste": "Charles Peccatte",
+  "room_id": "Room_9",
+  "sujet_existant": "Nature",
+  "fingerprint": "66e201c739aca220473691786c00148057fcb45a2be1775c600353b1280e46f4",
+  "model": "gpt-4.1",
+  "prompt_version": "bird-vision-v1",
+  "date_utc": "2026-09-17T12:49:50.765468+00:00",
+  "statut": "ok",
+  "image_path": "images\\0_0347.jpg",
+  "source_page": "https://fr.wikipedia.org/wiki/Charles_Peccatte_%28peintre%29?utm_source=openai",
+  "source_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Peccatte_Les_Bouleaux_%28cropped%29.jpg/500px-Peccatte_Les_Bouleaux_%28cropped%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+  "controle_identite": "retenu_par_IA_non_verifie_humain",
+  "raison_identite": "La notice mentionne clairement une œuvre intitulée 'Les Bouleaux' de Charles Peccatte, dont le sujet privilégié est le bouleau, et elle mentionne le même lien Webmuseo que celui de la collection du musée (http://webmuseo.vosges.fr/ws/webmuseo/app/collection/record/172). L’image est bien celle d’un paysage de bouleaux dans un style conforme à la description. L’artiste, le titre, le style et la période sont cohérents. L’identification est donc certaine.",
+  "original_width": 500,
+  "original_height": 403,
+  "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Peccatte_Les_Bouleaux_%28cropped%29.jpg/500px-Peccatte_Les_Bouleaux_%28cropped%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+  "sha256_download": "2e5c14e179fb58c2dffe06df477b6a868578c82e4ca195df35f97fc4ebd154db",
+  "description_visuelle": "Le tableau représente un groupe d'arbres élancés, probablement des bouleaux, au centre de la composition. Le feuillage est rendu avec des touches de couleur automnales, variant dans des tons de jaunes, oranges, rouges et verts. Le paysage en arrière-plan est brumeux et diffus, avec des formes floues suggérant d'autres arbres et des plaines, sous un vaste ciel nuageux. Les bords du tableau sont estompés et l'ensemble a une atmosphère douce et poétique.",
+  "sujet_principal": "Nature",
+  "sujets_secondaires": [
+    "Objet"
+  ],
+  "justification_sujet": "Les arbres et le paysage sont le sujet central, typique de la catégorie 'Nature'; l'accent mis sur la végétation donne éventuellement un aspect 'objet' à ces arbres, représentant une nature morte.",
+  "style_visuel_probable": "impressionniste",
+  "justification_style": "Les touches visibles de pinceau, les contours flous, l’utilisation de la lumière et des couleurs suggèrent une approche impressionniste.",
+  "figuration": "figuratif",
+  "couleurs_dominantes": [
+    "jaune",
+    "orange",
+    "vert",
+    "bleu",
+    "rose",
+    "blanc"
+  ],
+  "elements_visibles": [
+    "arbres",
+    "feuillage",
+    "plaine",
+    "ciel",
+    "nuages"
+  ],
+  "composition": "Composition centrée autour d’un groupe d’arbres verticaux au premier plan, avec un arrière-plan diffus et des couleurs fondues en dégradé.",
+  "limites_visuelles": [
+    "Signature peu lisible en bas à droite",
+    "Flou des éléments du second plan",
+    "Absence de détails sur la faune",
+    "Impossible d’identifier l’emplacement précis",
+    "Aucune présence humaine visible"
+  ],
+  "desaccord_sujet": false,
+  "erreurs_telechargement": [
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:Charles_Peccatte_-_son_atelier_755_814_(cropped).jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:Peccatte_Les_Bouleaux_(cropped).jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/static/images/icons/wikipedia.png",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-fr.svg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/static/images/mobile/copyright/wikipedia-tagline-fr.svg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Info_Simple.svg/40px-Info_Simple.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Info_Simple.svg/20px-Info_Simple.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "error": "ValueError"
+    }
+  ]
+}

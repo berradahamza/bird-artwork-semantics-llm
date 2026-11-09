@@ -1,0 +1,197 @@
+{
+  "signature": "695f23cccdfb76ff4b89fcb9f7e77151ac611fb6852ec00854dec40b5174bf51",
+  "response": {
+    "id": "resp_016c04aee529a957016aabe6adfb0887d280fbcc418eb85d34",
+    "created_at": 1789650606.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": "Analyse uniquement ce qui est visible dans cette image, sans recherche web ni identification de mémoire. Réponds en français. Décris précisément objets, personnages, décor et composition en 2 à 4 phrases. Pas de noms de personnes, dates ou récits non démontrables visuellement. Sujet principal parmi les neuf catégories ou NA. Religion/Mythologie/Histoire exigent des indices visibles, sinon NA ou catégorie plus générale. Culture : pratiques/symboles culturels identifiables ; Quotidien : activités ordinaires ; Objet : objets/nature morte ; Personnage : figure/portrait ; Nature : paysages/faune/flore ; Architecture : bâti. Style visuel probable en mots courts (ex. naturaliste, géométrique, impressionniste), sans affirmer une appartenance historique. Mets indéterminé si nécessaire. Ne confonds pas technique, sujet et style. Indique les limites et justifie les choix.",
+    "metadata": {},
+    "model": "gpt-4.1-2025-04-14",
+    "object": "response",
+    "output": [
+      {
+        "id": "msg_016c04aee529a957016aabe6af0fe887d2947f65133ad28b22",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\n  \"description_visuelle\": \"La scène montre une salle à manger d'intérieur, dominée par une grande table couverte d'une nappe à motifs rouges. Une personne, sans doute une jeune fille, est assise à la table, penchée sur un livre. L'ambiance de la pièce est feutrée, décorée de plusieurs tableaux et statuettes sur un buffet, et éclairée par une imposante lampe suspendue. Les murs sont ornés et colorés, participant à une atmosphère chaleureuse et domestique.\",\n  \"sujet_principal\": \"Quotidien\",\n  \"sujets_secondaires\": [\"Personnage\", \"Objet\", \"Architecture\"],\n  \"justification_sujet\": \"L'activité centrale, lire dans une salle à manger, illustre une scène de vie ordinaire ; la présence marquée du personnage, du mobilier, objets décoratifs et du décor intérieur complète la scène.\",\n  \"style_visuel_probable\": \"impressionniste\",\n  \"justification_style\": \"Les touches de couleur visibles, la lumière diffuse et le traitement non détaillé des formes rappellent un style impressionniste.\",\n  \"figuration\": \"figuratif\",\n  \"couleurs_dominantes\": [\"rouge\", \"ocre\", \"brun\", \"bleu\"],\n  \"elements_visibles\": [\"table\", \"nappe\", \"chaises\", \"livre\", \"lampe\", \"cadres\", \"statuette\", \"buffet\", \"porte\"],\n  \"composition\": \"La composition est centrée sur la table occupant la majeure partie du premier plan, avec le personnage légèrement décalé à gauche. L’arrière-plan est richement décoré et le regard est guidé vers le fond par le contraste d’éléments verticaux et horizontaux.\",\n  \"limites_visuelles\": [\"Le visage et les détails du personnage sont peu précis à cause du style pictural.\", \"On ne distingue pas explicitement le contenu des tableaux accrochés ni des objets sur le buffet.\", \"L'identité du personnage ou le lieu exact ne sont pas discernables.\", \"Impossible de dater précisément la scène.\"]\n}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": null
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 1.0,
+    "background": false,
+    "completed_at": 1789650613.0,
+    "conversation": null,
+    "max_output_tokens": 3500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "in_memory",
+    "reasoning": {
+      "context": null,
+      "effort": null,
+      "generate_summary": null,
+      "mode": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "resultat",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "description_visuelle": {
+              "type": "string"
+            },
+            "sujet_principal": {
+              "type": "string",
+              "enum": [
+                "Architecture",
+                "Culture",
+                "Histoire",
+                "Mythologie",
+                "Nature",
+                "Objet",
+                "Personnage",
+                "Quotidien",
+                "Religion",
+                "NA"
+              ]
+            },
+            "sujets_secondaires": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "Architecture",
+                  "Culture",
+                  "Histoire",
+                  "Mythologie",
+                  "Nature",
+                  "Objet",
+                  "Personnage",
+                  "Quotidien",
+                  "Religion"
+                ]
+              }
+            },
+            "justification_sujet": {
+              "type": "string"
+            },
+            "style_visuel_probable": {
+              "type": "string"
+            },
+            "justification_style": {
+              "type": "string"
+            },
+            "figuration": {
+              "type": "string",
+              "enum": [
+                "figuratif",
+                "abstrait",
+                "mixte",
+                "indetermine"
+              ]
+            },
+            "couleurs_dominantes": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "elements_visibles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "composition": {
+              "type": "string"
+            },
+            "limites_visuelles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "description_visuelle",
+            "sujet_principal",
+            "sujets_secondaires",
+            "justification_sujet",
+            "style_visuel_probable",
+            "justification_style",
+            "figuration",
+            "couleurs_dominantes",
+            "elements_visibles",
+            "composition",
+            "limites_visuelles"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 1190,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cached_tokens": 0
+      },
+      "output_tokens": 444,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 1634
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  }
+}

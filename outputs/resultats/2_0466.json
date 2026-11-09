@@ -1,0 +1,55 @@
+{
+  "image_id": "2_0466",
+  "titre": "Portrait de jeune homme",
+  "artiste": "Corneille de Lyon",
+  "room_id": "Room_38",
+  "sujet_existant": "Personnage",
+  "model": "gpt-5.6-luna",
+  "prompt_version": "bird-vision-v1",
+  "date_utc": "2026-09-23T13:37:13.366448+00:00",
+  "mode_acquisition": "image_locale",
+  "fichier_fourni": "2_0466.jpg",
+  "controle_identite": "association_par_id_fournie_par_utilisateur",
+  "raison_identite": "Image associée à cette œuvre par son nom de fichier ; identité non contrôlée automatiquement.",
+  "source_page": "",
+  "source_image": "",
+  "erreurs_telechargement": [],
+  "sha256_image_locale": "0b9eb7516683ac9c0d8ac7c99d812e6771d94c6844df0f37f91e59c7aca32750",
+  "fingerprint": "2bad36b2802b1000e4be37a43d8a7dbd85bb1fef3dc8e4edce9a60f2acf43421",
+  "original_width": 540,
+  "original_height": 650,
+  "statut": "ok",
+  "image_path": "images\\2_0466.jpg",
+  "description_visuelle": "Portrait en buste d’un homme barbu, représenté de face avec le regard légèrement dirigé vers la droite. Il porte un vêtement noir volumineux et un large couvre-chef noir, sur un fond vert uni. L’image est présentée dans un cadre sombre et semble être une reproduction photographiée.",
+  "sujet_principal": "Personnage",
+  "sujets_secondaires": [
+    "Culture",
+    "Objet"
+  ],
+  "justification_sujet": "La figure humaine occupe presque toute la composition et constitue le sujet central. Le vêtement et le couvre-chef sont des éléments vestimentaires culturellement marqués, tandis que le cadre est un objet visible entourant l’image.",
+  "style_visuel_probable": "Figuratif, portraitiste, naturaliste, fond uni",
+  "justification_style": "Les traits du visage, la barbe et les vêtements sont rendus de manière reconnaissable et détaillée, avec un modelé doux. La composition frontale et le fond monochrome sont caractéristiques d’un portrait peint ou reproduit, sans permettre d’identifier précisément une école ou une période.",
+  "figuration": "figuratif",
+  "couleurs_dominantes": [
+    "Noir",
+    "Vert olive",
+    "Brun",
+    "Beige clair"
+  ],
+  "elements_visibles": [
+    "Homme barbu",
+    "Large couvre-chef noir",
+    "Vêtement noir",
+    "Fond vert uni",
+    "Cadre sombre",
+    "Buste frontal"
+  ],
+  "composition": "La figure est centrée, cadrée en buste, et occupe la majeure partie de la surface. Le visage constitue le point focal, placé au-dessus du vêtement sombre et détaché du fond vert.",
+  "limites_visuelles": [
+    "L’identité du personnage n’est pas déterminable à partir de l’image seule.",
+    "La date, l’auteur, l’original et la technique exacte ne sont pas vérifiables visuellement.",
+    "Les détails du vêtement inférieur sont peu lisibles en raison des tonalités très sombres.",
+    "La photographie du cadre et les reflets ou irrégularités de surface peuvent altérer l’apparence de la reproduction."
+  ],
+  "desaccord_sujet": false
+}

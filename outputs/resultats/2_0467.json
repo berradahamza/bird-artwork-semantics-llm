@@ -1,0 +1,54 @@
+{
+  "image_id": "2_0467",
+  "titre": "Portrait du comte de Nanteuil",
+  "artiste": "Corneille de Lyon",
+  "room_id": "Room_38",
+  "sujet_existant": "Personnage",
+  "fingerprint": "1b9218c6a9f130733d4949a933e3d1a7ca7ba832d2f3ff34e50282b0c7b84241",
+  "model": "gpt-5.6-luna",
+  "prompt_version": "bird-vision-v1",
+  "date_utc": "2026-09-18T14:20:37.705690+00:00",
+  "statut": "ok",
+  "image_path": "images\\2_0467.jpg",
+  "source_page": "https://fr.wikipedia.org/wiki/Fichier:Corneille_de_Lyon_comte_de_Nanteuil.jpg",
+  "source_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Corneille_de_Lyon_comte_de_Nanteuil.jpg/1280px-Corneille_de_Lyon_comte_de_Nanteuil.jpg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+  "controle_identite": "retenu_par_IA_non_verifie_humain",
+  "raison_identite": "La notice de l’image rattache explicitement la reproduction au « Portrait du comte de Nanteuil », attribué à Corneille de Lyon. Elle indique également une peinture à l’huile sur bois conservée au Musée des Beaux-Arts de Nancy, avec le numéro d’inventaire Inv. 757, ce qui correspond au titre et à l’artiste de l’œuvre fournie.",
+  "original_width": 1280,
+  "original_height": 1417,
+  "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Corneille_de_Lyon_comte_de_Nanteuil.jpg/1280px-Corneille_de_Lyon_comte_de_Nanteuil.jpg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+  "sha256_download": "c1979d46e176c3f31485e4407ba9b0115bec74920fa403d24c056c98cfc3952c",
+  "description_visuelle": "Portrait en buste d’un homme barbu, vu presque de face, portant un large couvre-chef sombre et un vêtement brun très volumineux. Son visage éclairé se détache sur un fond vert uniforme, tandis qu’une étroite bande claire apparaît au centre de sa tenue. L’image est sombre, floue et marquée par une texture de reproduction ou de vieillissement.",
+  "sujet_principal": "Personnage",
+  "sujets_secondaires": [
+    "Objet"
+  ],
+  "justification_sujet": "La composition est dominée par une figure humaine représentée en portrait, avec un visage, une barbe et une tenue clairement visibles. Le couvre-chef constitue un objet vestimentaire secondaire identifiable, sans permettre d’en déterminer précisément la fonction ou l’origine.",
+  "style_visuel_probable": "Portrait peint, naturaliste, tonal, fortement texturé",
+  "justification_style": "Le visage et les vêtements sont rendus par des modelés picturaux et des contrastes de lumière plutôt que par des formes géométriques. Les contours restent adoucis par le flou, la dominante brune et verte donnant à l’ensemble un aspect ancien ou patiné, sans permettre d’attribuer une école ou une période précise.",
+  "figuration": "figuratif",
+  "couleurs_dominantes": [
+    "brun foncé",
+    "ocre doré",
+    "vert olive",
+    "noir",
+    "beige"
+  ],
+  "elements_visibles": [
+    "homme barbu",
+    "visage en gros plan",
+    "large couvre-chef sombre",
+    "vêtement brun",
+    "bande claire au centre de la tenue",
+    "fond vert uni",
+    "bord sombre autour de l’image"
+  ],
+  "composition": "Le personnage occupe presque toute la surface, centré dans un cadrage en buste. Le visage est placé dans la partie supérieure centrale et constitue le principal point lumineux, tandis que la barbe et le vêtement forment une masse sombre dans la moitié inférieure. Le fond vert, peu détaillé, crée un contraste simple avec la figure.",
+  "limites_visuelles": [
+    "L’image est floue et fortement granuleuse, ce qui limite l’identification des détails du visage et des vêtements.",
+    "Aucun indice visuel suffisamment net ne permet d’identifier la personne, l’époque, le lieu ou la signification du couvre-chef.",
+    "La reproduction est recadrée et ne montre ni inscription, ni attribut, ni décor permettant une interprétation historique, religieuse ou culturelle précise."
+  ],
+  "desaccord_sujet": false,
+  "erreurs_telechargement": []
+}

@@ -1,0 +1,197 @@
+{
+  "signature": "7b9619d39e90d19f8e3c46ee34535c4d654ad4a45bf87ffe321acf155b318346",
+  "response": {
+    "id": "resp_0cf337f120fbb7bc016aabee1d730887d28d3ea3f56e388239",
+    "created_at": 1789652509.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": "Analyse uniquement ce qui est visible dans cette image, sans recherche web ni identification de mémoire. Réponds en français. Décris précisément objets, personnages, décor et composition en 2 à 4 phrases. Pas de noms de personnes, dates ou récits non démontrables visuellement. Sujet principal parmi les neuf catégories ou NA. Religion/Mythologie/Histoire exigent des indices visibles, sinon NA ou catégorie plus générale. Culture : pratiques/symboles culturels identifiables ; Quotidien : activités ordinaires ; Objet : objets/nature morte ; Personnage : figure/portrait ; Nature : paysages/faune/flore ; Architecture : bâti. Style visuel probable en mots courts (ex. naturaliste, géométrique, impressionniste), sans affirmer une appartenance historique. Mets indéterminé si nécessaire. Ne confonds pas technique, sujet et style. Indique les limites et justifie les choix.",
+    "metadata": {},
+    "model": "gpt-4.1-2025-04-14",
+    "object": "response",
+    "output": [
+      {
+        "id": "msg_0cf337f120fbb7bc016aabee1ec59487d2b47dd123baef8c5e",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\n  \"description_visuelle\": \"L'image montre deux personnages nus dans un paysage naturel baigné de lumière, assis ou couchés sur l'herbe parmi une végétation dense. L'un des personnages est assis et semble jouer d'une flûte, l'autre est allongé à côté d'une chèvre. Un arbre élancé occupe la gauche de la composition, tandis que le fond montre des collines et un personnage indistinct, à moitié dissimulé dans la pénombre du paysage.\",\n  \"sujet_principal\": \"Mythologie\",\n  \"sujets_secondaires\": [\"Nature\",\"Personnage\"],\n  \"justification_sujet\": \"Les éléments visibles tels que les personnages nus en interaction avec une chèvre, l'un jouant d'une flûte, ainsi que la pose et l'environnement pastoral, suggèrent une scène mythologique inspirée de la représentation de divinités ou créatures champêtres (type faune ou satyre). Ce ne sont pas des scènes du quotidien et la posture, ainsi que l'animal, renforcent l'idée d'iconographie mythologique.\",\n  \"style_visuel_probable\": \"impressionniste\",\n  \"justification_style\": \"Le traitement de la lumière, la vibration des couleurs, les bords flous et la matérialité visible de la touche évoquent un style impressionniste, sans recherche du détail minutieux.\",\n  \"figuration\": \"figuratif\",\n  \"couleurs_dominantes\": [\"vert\",\"jaune\",\"ocre\",\"rose\",\"bleu\"],\n  \"elements_visibles\": [\"deux personnages nus\",\"chèvre\",\"flûte\",\"arbre élancé\",\"végétation luxuriante\"],\n  \"composition\": \"Scène centrée sur une clairière lumineuse, avec les personnages regroupés sur la droite et au centre inférieur, le décor naturel enveloppant la scène et créant une profondeur vers l'arrière-plan.\",\n  \"limites_visuelles\": [\"Difficulté à identifier les traits précis du personnage dans l'ombre à l'arrière-plan\",\"Certains éléments restent esquissés ou flous, notamment dans le paysage\",\"L'absence de détails empêche l'identification certaine des personnages\"]\n}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": null
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 1.0,
+    "background": false,
+    "completed_at": 1789652518.0,
+    "conversation": null,
+    "max_output_tokens": 3500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "in_memory",
+    "reasoning": {
+      "context": null,
+      "effort": null,
+      "generate_summary": null,
+      "mode": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "resultat",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "description_visuelle": {
+              "type": "string"
+            },
+            "sujet_principal": {
+              "type": "string",
+              "enum": [
+                "Architecture",
+                "Culture",
+                "Histoire",
+                "Mythologie",
+                "Nature",
+                "Objet",
+                "Personnage",
+                "Quotidien",
+                "Religion",
+                "NA"
+              ]
+            },
+            "sujets_secondaires": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "Architecture",
+                  "Culture",
+                  "Histoire",
+                  "Mythologie",
+                  "Nature",
+                  "Objet",
+                  "Personnage",
+                  "Quotidien",
+                  "Religion"
+                ]
+              }
+            },
+            "justification_sujet": {
+              "type": "string"
+            },
+            "style_visuel_probable": {
+              "type": "string"
+            },
+            "justification_style": {
+              "type": "string"
+            },
+            "figuration": {
+              "type": "string",
+              "enum": [
+                "figuratif",
+                "abstrait",
+                "mixte",
+                "indetermine"
+              ]
+            },
+            "couleurs_dominantes": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "elements_visibles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "composition": {
+              "type": "string"
+            },
+            "limites_visuelles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "description_visuelle",
+            "sujet_principal",
+            "sujets_secondaires",
+            "justification_sujet",
+            "style_visuel_probable",
+            "justification_style",
+            "figuration",
+            "couleurs_dominantes",
+            "elements_visibles",
+            "composition",
+            "limites_visuelles"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 850,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cached_tokens": 0
+      },
+      "output_tokens": 459,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 1309
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "signature": "816d5d3abf4700f926f29192d76317f5330ef7679a64e2e755786fa914eed94f",
+  "response": {
+    "id": "resp_058c6110e96c5375016aad31af207887d1a09c84824bbb4521",
+    "created_at": 1789735343.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": "Analyse uniquement ce qui est visible dans cette image, sans recherche web ni identification de mémoire. Réponds en français. Décris précisément objets, personnages, décor et composition en 2 à 4 phrases. Pas de noms de personnes, dates ou récits non démontrables visuellement. Sujet principal parmi les neuf catégories ou NA. Religion/Mythologie/Histoire exigent des indices visibles, sinon NA ou catégorie plus générale. Culture : pratiques/symboles culturels identifiables ; Quotidien : activités ordinaires ; Objet : objets/nature morte ; Personnage : figure/portrait ; Nature : paysages/faune/flore ; Architecture : bâti. Style visuel probable en mots courts (ex. naturaliste, géométrique, impressionniste), sans affirmer une appartenance historique. Mets indéterminé si nécessaire. Ne confonds pas technique, sujet et style. Indique les limites et justifie les choix.",
+    "metadata": {},
+    "model": "gpt-5.6-luna",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_058c6110e96c5375016aad31afa21c87d1ae0a05e63a804bfe",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTG0j3cnlESYchOrNE4u76svJZ-molFsUtZBU1wb_kgYAwoT1aKnCLNuMI5rrx2NTc8SahO9klS-SXbnv9AC7_3h6haaoh9SYuJ2UMvAqMOuqv3m2awZhJ9HiK_sxY8irKP8ere4g4Ghk_pd-zbDfv8nJEKX-DWN9dp27JEfg254m-SwkZ7GrkimMfSrpTLH4ZO5zMuuMdmN8WBB6wS2Uf5qWjQr0qZOwvEdls7hy4CVRUSCsQEnLTFjfspGWAVXCFPJuA-sdj74HZrcnBI-40LvK0aP_o6GAOXOrzHSc1tXBTtFCufuO1B-2Gx2UDX_UOkyx0fWiecdnpsf2ZKXNRF4TMXoE2qnpSGAdNRiqzB7olqGQa_GLBYTAQwRLTGOkZ3tQVxpkqj53-ptz3ty1dGW6OGJgAzTZ9n4jC6sZeNyEkZdiNKwwVh6vP5fTdNzS2pgKKdZq-DKvMugkS3uDqi2H61bIKn4nYcO995JunJf_27J5eljPMMY1jKH98j_mQrtt4O947qr4nDG8iFMDMSGBlYVdaIuCED8wh6Pd9ZRcnYWXr8SL9unUbeLXk4VEugrZVRioAJ2bIyOByz5toyOIJmFKODdiqtEzfMkud2QEfbNssPfiNfl_sn66l49WhoLDCa4wG6mOc1hWEGJjDnkU7ThhP-lqI7ofXrBUdIoxZMnrTdwTzbfoT168Fmy8wNZXVFJLYqUEFNDt8ifj63jAnGgvlZZvlwKiMq_r1gdmmVN07M5sXsF2xXBLtMgMjT3RB2bbmhwGLyFSEXwomj961kN3lsYuhukWKEnhFyZw9Qpvx40zFAn-AHwxFrDguwMOCtjQkTtNuW3pSCp5YKY0FYqNEKnCTVG9Jtwv2t3pSA5Xhk9HditDvHFY_So_3AGxponqlaxWZDTBaY9li7-SgohUhTcQIWKi5r4Kmttw23tippN-K6whK4GVhAl5D9Fs4ebr3UnSqFHVvNq6BcxLK64XzOtQOLhyYs5Z6XLyfqRL5b_uHgEcPp45v1YXMvlnzMYmZXw10t2r_-FB5PMSnHFSMJ2MpAMkuLKC_3WWuLW-zqXXIBOI6XaneIWWhTASfT5946FYSzcOXSydiSwp60Vd_Pec0BcdaXhBRieCzGCrph86_NcF3gKZOlnne-Fh1R4Pe3XyS6IhiD9lNU4ue5FeoGgc9_-XjITFyLgufT_beSfSNPXc845qk7PO0wDBrh69b1EnL_VkzrWv1qYQkWnLQM4rKMimZIxhMaWNTFYi7-d1EoKaaDNd75wrx-twYPuGw3TTBOErhuRAIH6elfWGjmWC8TUXweaXERG3uRaYjKpmwuszzALOZbv60QvGq-83XYk6oumqDIMzNwM56Ejt5nqk_GcAho4RNitYx_R9FZyIhtoCpRoLiif2YHy2lzKYh5hHcmcowSWrPbnWsk6mUHXIft7VEw-VFD3Q1qOMnNG5aDiohE0bRnboBfXe-WDRj9E_JagcRI1t_IPRZveynCfIrhGNbY5e0dL_GHXXs27Obtn0UuGf2EjEGP4KzgXjSUrdkKNAme3i7PTVCS99zhK4DZaWIVMDOdhnhGdGo-4PHdOXG7aMxnGQF4Nsf9M4doSi_yh4Cy0PfSHKLnxwMbfTdBTV4HAZnzh6-tWokgQY0U1leJ7wZFqYCoMB4OAk0k6I3QzeAwb8IY4f44GE8btLAjfboFBtDVkaYlluLepmqo__KjGli4YiX3pmaGsc_Vfr8MDk7xO19XSYI6KaTPtYNWq8ddWr7RULwJLGdRvxT_7K01rg0tjH5e3zo84nffdDyq8EVl74r29RVoHimPEsWZB8BMEimR5WTg=",
+        "status": null
+      },
+      {
+        "id": "msg_058c6110e96c5375016aad31b0bf2487d1a70ef9553280faec",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\"description_visuelle\":\"La scène montre un monument architectural très vertical, composé de colonnes, d’arcs, de niches, de volutes et de nombreuses sculptures, en partie entouré d’arbres. Plusieurs figures humaines vêtues de robes sont placées dans les niches et au pied de l’édifice, tandis que de petits groupes de personnages colorés circulent au premier plan. Le ciel nuageux et la lumière contrastée créent une atmosphère sombre et théâtrale.\",\"sujet_principal\":\"Architecture\",\"sujets_secondaires\":[\"Personnage\",\"Nature\",\"Objet\"],\"justification_sujet\":\"L’élément dominant est un vaste édifice ornementé qui occupe presque toute la composition ; les personnages et la végétation servent surtout d’échelle et de cadre.\",\"style_visuel_probable\":\"figuratif, théâtral, détaillé, contrasté\",\"justification_style\":\"La représentation est reconnaissable et précise, avec une mise en scène spectaculaire, une forte verticalité et des contrastes marqués entre les zones éclairées et les parties sombres. L’appartenance à une période ou à une école précise n’est pas déterminable uniquement à partir de l’image.\",\"figuration\":\"figuratif\",\"couleurs_dominantes\":[\"brun\",\"gris sombre\",\"vert foncé\",\"bleu gris\",\"blanc cassé\",\"rouge et bleu atténués\"],\"elements_visibles\":[\"édifice monumental très élancé\",\"colonnes et arcs superposés\",\"niches ornées de statues\",\"volutes et frontons décoratifs\",\"figures sculptées en hauteur et au pied du monument\",\"arbres et feuillage\",\"ciel nuageux\",\"petits groupes de personnages au premier plan\",\"sol sombre et chemin\",\"petit animal clair près du bas de l’image\"],\"composition\":\"L’architecture forme un axe vertical central et domine la scène, encadrée par les arbres et resserrée vers le sommet. Les personnages du premier plan occupent une bande basse et donnent une indication d’échelle, tandis que les statues organisent la profondeur à différents niveaux de l’édifice.\",\"limites_visuelles\":[\"La fonction exacte du monument n’est pas identifiable avec certitude.\",\"Les statues et les figures sont trop petites pour permettre d’identifier précisément leurs attributs ou leurs sujets.\",\"Les détails de l’arrière-plan et du petit animal au premier plan restent partiellement indistincts.\",\"Aucun récit, personnage historique ou contexte religieux précis n’est démontrable visuellement.\"]}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1789735348.0,
+    "conversation": null,
+    "max_output_tokens": 3500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "medium",
+      "generate_summary": null,
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "resultat",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "description_visuelle": {
+              "type": "string"
+            },
+            "sujet_principal": {
+              "type": "string",
+              "enum": [
+                "Architecture",
+                "Culture",
+                "Histoire",
+                "Mythologie",
+                "Nature",
+                "Objet",
+                "Personnage",
+                "Quotidien",
+                "Religion",
+                "NA"
+              ]
+            },
+            "sujets_secondaires": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "Architecture",
+                  "Culture",
+                  "Histoire",
+                  "Mythologie",
+                  "Nature",
+                  "Objet",
+                  "Personnage",
+                  "Quotidien",
+                  "Religion"
+                ]
+              }
+            },
+            "justification_sujet": {
+              "type": "string"
+            },
+            "style_visuel_probable": {
+              "type": "string"
+            },
+            "justification_style": {
+              "type": "string"
+            },
+            "figuration": {
+              "type": "string",
+              "enum": [
+                "figuratif",
+                "abstrait",
+                "mixte",
+                "indetermine"
+              ]
+            },
+            "couleurs_dominantes": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "elements_visibles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "composition": {
+              "type": "string"
+            },
+            "limites_visuelles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "description_visuelle",
+            "sujet_principal",
+            "sujets_secondaires",
+            "justification_sujet",
+            "style_visuel_probable",
+            "justification_style",
+            "figuration",
+            "couleurs_dominantes",
+            "elements_visibles",
+            "composition",
+            "limites_visuelles"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 828,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cached_tokens": 0
+      },
+      "output_tokens": 625,
+      "output_tokens_details": {
+        "reasoning_tokens": 99
+      },
+      "total_tokens": 1453
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  }
+}

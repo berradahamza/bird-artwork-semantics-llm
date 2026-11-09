@@ -1,0 +1,130 @@
+{
+  "image_id": "1_0210",
+  "titre": "La Nymphe Nébula verse la pluie sur les fleurs",
+  "artiste": "Henri-Léopold Lévy",
+  "room_id": "Room_28",
+  "sujet_existant": "Mythologie",
+  "fingerprint": "daf1e589cd2e5af9584b49441419a1b8b316f1834f08cfa1fb5d445714e34358",
+  "model": "gpt-5.6-luna",
+  "prompt_version": "bird-vision-v1",
+  "date_utc": "2026-09-18T13:25:21.673255+00:00",
+  "statut": "ok",
+  "image_path": "images\\1_0210.jpg",
+  "source_page": "https://commons.wikimedia.org/wiki/File%3ALa_nymphe_N%C3%A9bula_H-L_L%C3%A9vy_0725.JPG?utm_source=openai",
+  "source_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/La_nymphe_N%C3%A9bula_H-L_L%C3%A9vy_0725.JPG/500px-La_nymphe_N%C3%A9bula_H-L_L%C3%A9vy_0725.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+  "controle_identite": "retenu_par_IA_non_verifie_humain",
+  "raison_identite": "La notice Wikimedia rattache explicitement l’image à « La nymphe Nébula » d’Henri-Léopold Lévy, œuvre de 1876 conservée au Musée des Beaux-Arts de Nancy. Ces informations correspondent à la notice cible « La Nymphe Nébula verse la pluie sur les fleurs », avec le même numéro d’inventaire 1364. L’image montre bien le panneau vertical peint correspondant.",
+  "original_width": 500,
+  "original_height": 1412,
+  "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/La_nymphe_N%C3%A9bula_H-L_L%C3%A9vy_0725.JPG/500px-La_nymphe_N%C3%A9bula_H-L_L%C3%A9vy_0725.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+  "sha256_download": "4dc661d4ed62ea3991426897ac48947f59d6821d1716df8632ff3615f165bb5e",
+  "description_visuelle": "Peinture verticale encadrée de bois, montrant plusieurs figures humaines nues ou partiellement drapées dans un paysage sombre et végétalisé. Une figure semble flotter ou descendre dans la partie supérieure, tandis qu’une autre occupe le centre, entourée de feuillage, de fleurs et d’un écoulement ou d’une gerbe d’eau ; deux petites figures apparaissent sur les côtés et une forme animale ou végétale indistincte se trouve en bas à droite. L’ensemble est organisé selon un axe vertical animé de diagonales et de mouvements ascendants.",
+  "sujet_principal": "Personnage",
+  "sujets_secondaires": [
+    "Nature",
+    "Objet"
+  ],
+  "justification_sujet": "Les figures humaines, leurs corps et leurs gestes occupent la majeure partie de la composition. Aucun attribut visuel suffisamment net ne permet d’identifier avec certitude une scène religieuse, historique ou mythologique.",
+  "style_visuel_probable": "Figuratif, pictural, tonal, mouvementé",
+  "justification_style": "Les formes sont reconnaissables mais fondues dans des touches visibles, des contours souples et une gamme sombre et chaude. La composition privilégie les effets de mouvement, de lumière et d’atmosphère plutôt que des contours géométriques précis.",
+  "figuration": "figuratif",
+  "couleurs_dominantes": [
+    "brun",
+    "ocre",
+    "vert sombre",
+    "gris bleuté",
+    "beige",
+    "noir"
+  ],
+  "elements_visibles": [
+    "cadre rectangulaire en bois",
+    "plusieurs figures humaines",
+    "corps nus ou partiellement drapés",
+    "végétation sombre",
+    "fleurs sur la gauche",
+    "écoulement ou gerbe d’eau dans la partie supérieure gauche",
+    "fond paysager indistinct",
+    "forme animale ou végétale indéterminée en bas à droite"
+  ],
+  "composition": "Format très vertical avec une succession de figures réparties du haut vers le bas. La figure centrale forme le principal axe visuel, tandis que les bras, les jambes, la végétation et l’écoulement d’eau créent des diagonales et conduisent le regard à travers la scène.",
+  "limites_visuelles": [
+    "La reproduction est sombre et de définition limitée.",
+    "Les détails des visages, des objets et de la forme située en bas à droite sont difficiles à distinguer.",
+    "La fonction exacte de l’écoulement d’eau et l’identité éventuelle des figures ne sont pas démontrables visuellement."
+  ],
+  "desaccord_sujet": true,
+  "erreurs_telechargement": [
+    {
+      "url": "https://www.wikidata.org/wiki/File:Les_compteurs_d%27argent_Nancy_3018.jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/File:Le_Sauveur_du_monde_Nancy_250808.jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/File:La_Femme_brune.jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/File:Anonyme_-_Int%C3%A9rieur_d%27%C3%A9glise_dans_les_Flandres_au_XVII_si%C3%A8cle.jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/File:Fanny_de_Pixerecourt.jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/File:Crucifixion-Morot.jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/File:Aime_Morot,_1902,_Retour_de_chase_au_lion._Oil_on_canvas_(cropped).jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/File:Aim%C3%A9_Morot,_Sc%C3%A8ne_du_d%C3%A9luge,_Nancy.jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/File:The_Seine_at_Pont-Neuf,_Fog_Effect_Albert_Marquet_(1907).jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/File:L%27Automne_MBA.jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/File:Six_oiseaux_de_diverses_esp%C3%A8ces_-_Desportes_Alexandre-Fran%C3%A7ois.jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/File:Alphonse_Osbert_-_Chant_du_soir_1906.jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/File:La_Femme_Blonde_-_MBAN.jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/File:M0512_172_CP.jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/File:Panier_de_raisins_de_Mlle_Vallayer_(1774).jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/File:Van_Dyck_Anton_(atelier_de)_-_Le_peintre_Van_Opstal,_Nancy,_mus%C3%A9e_des_Beaux-Arts.jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/File:Gros_-_G%C3%A9n%C3%A9ral_G%C3%A9raud_Duroc,_Grand_Mar%C3%A9chal_du_Palais,_duc_de_Frioul_(1772-1813)-2.jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/File:Nancy_(Meurthe-et-Moselle)_-_Mus%C3%A9e_des_beaux-arts_-_%22Le_Pauvre_p%C3%AAcheur%22_(Aristide_Maillol,_copie_d%27apr%C3%A8s_Pierre_Puvis_de_Chavannes,_1881)_(46883821382).jpg",
+      "error": "UnidentifiedImageError"
+    }
+  ]
+}

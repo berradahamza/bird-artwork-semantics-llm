@@ -1,0 +1,450 @@
+{
+  "signature": "aa2fb67c2a274c34a5e24d6e23cf94c5020acebafb7a7beacb4e4e1de99c9c31",
+  "response": {
+    "id": "resp_06db570754b90596016aad38090d7887d2bb545e84877eaf33",
+    "created_at": 1789736969.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.6-luna",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_06db570754b90596016aad380a2c4087d2a1af9c3de38e62f5",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTgwNPq-mI3BfkR7q8RyBZES8drji547xGwuFatnwB49Uwv0Ln9dOLVSq-Rm1tGdYI_5ltVptRymp5Z6FnKXHm5z3X-JhfHX5_X3jv2szEzslnmSkuo8okioTSxVd6C3CdZv3Yb71dPbvgb7qV9I8ThJFx19Tt1u-9rNF_QT27bQaYW3zl_ybV6qc4Km_kDQI2IuDUwQvzA0j0jnBju7nvLT3ktpIfWphVdVA5oVj9CHCcjhfIDU9ab4Z1uhVqo1qq2BM57Jee8M-ALsB1122wRpGd3AHtNyRMRwhNVthmagt4sbrCEUgPPx3E3AUKB2u1yYOSMltbyZxmYJt9pQ3pTZs3unAy71DRlpG0Rm6_JMv_AnRBqv3t8F4zP1h-hWmryBiE9x4zpq0218PJ-uiW76YHj8qN7OzaUw0nbsSJIbM3O8V7r2k9Z_8iw___8vv78YUttd3Px5Lg64nsKbowxaEu_3mOucu6Uc6mQD_tLrooCFuuDlOKizWQ4TwdlaFh94FwTgVteOdLOpLnEe6npKDqKPuSjVp_ZzGQUDp_ySxrviurp-HScu1XfB945fFzt7VkDeJz1VI-UvrFtHlu08zLVcApC_xBDbO5b_dpvu4PGBmXFIctgR852NKxGFpRVFtyOledxqioD1GfP7W0rbnjD7cjmQWCgj14qT5uzHj9MZemPX2huZ6iwDePBHMVcsxRjl4IxTolBTuu-T4-u88ZTB_t5gGc0ClKwA3aoDZ0Q3lXryVRdhVlEDx6qlEHckaqLRFa5PSTdtWCjW78rPDzxA8PSQYbCSxlOn7XIFUPsGy513z1ATCxVPPP-iqDhu-l1zXIWW6qeNDNcguZhI2pyowdRjFotZkza9LsxDXjzUkrcyUxlNH1bfDkQGPK8SDPFJjlqPPCmRP4lLhedpUqXMpnBlyFcSQrjuLQEmmcxn73pwEJX2abCJDWKkC1uGVzPQNw3NQq08wwHldF4a3SVqEgodGuzJFlKMegWUxtWmE_zNGfAvammVnWX_5UZY3bN8lPKO-xTppnJXHPzLwH5EA8i0XNGCCmsotKxpgX4U6umY9PL-oXargaKgfE2FsQXGv9Dv6iWYutkv8Yqe8uCTKMoxNPSEX_1ex54Qx9NPWbPVg3wQWriCAW9s6wLZfyDn6Yp41yafXFfqzlufW-H6iwu5JPba4bQdkfq-EkXLvnWCQxvDJUUtsW3WpGgVOdw-lPQWHePZrnPbm7koD9jr5zhh-PMtx4SRAqCLod87gFXXYf09aMzfx6_4HBrbRv4lnxW5T8tMbkM-0VYmcVmDY9DsCDxB-jFGfzEhczw45gNJiRNbeK31hpt4soHz0VMiTFrALm8JKPuclJuEWw==",
+        "status": null
+      },
+      {
+        "id": "ws_06db570754b90596016aad380a8a6887d28f4fcd05eedac583",
+        "action": {
+          "type": "search",
+          "queries": [
+            "site:mba-nancy.fr \"La Continence de Scipion\" \"François Lemoyne\"",
+            "site:collections.musees-nationaux.fr \"La Continence de Scipion\" Lemoyne",
+            "\"La Continence de Scipion\" \"François Lemoyne\" 1727 246",
+            "\"La Continence de Scipion\" \"François Le Moyne\""
+          ],
+          "query": "site:mba-nancy.fr \"La Continence de Scipion\" \"François Lemoyne\"",
+          "sources": [
+            {
+              "type": "url",
+              "url": "https://collections-mba.nancy.fr/fr/notice/246-la-continence-de-scipion-b38460c1-bf59-4886-b10f-44a7f1b8bf1d"
+            },
+            {
+              "type": "url",
+              "url": "https://dessins-magnin.fr/notice/notice.php?id=446"
+            },
+            {
+              "type": "url",
+              "url": "https://musee-des-beaux-arts.nancy.fr/les-collections/peinture/peinture-du-xviiie-siecle"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/La_Continence_de_Scipion_%28Lemoyne%29"
+            },
+            {
+              "type": "url",
+              "url": "https://commons.wikimedia.org/wiki/Category%3AContinence_of_Scipio_by_Fran%C3%A7ois_Lemoyne"
+            },
+            {
+              "type": "url",
+              "url": "https://musee-des-beaux-arts.nancy.fr/en/the-collections/painting/paintings-from-the-18th-century-in-europe"
+            },
+            {
+              "type": "url",
+              "url": "https://www.clavim.asso.fr/wp-content/uploads/2025/06/16_Grand-Est-NUM.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Liste_de_peintures_de_Fran%C3%A7ois_Lemoyne"
+            },
+            {
+              "type": "url",
+              "url": "https://utpictura18.univ-amu.fr/notice/1006-continence-scipion-lemoyne"
+            },
+            {
+              "type": "url",
+              "url": "https://cdn-actus.bnpparibas.com/files/archives/wcorporate/wCorporate/wCorporate.nsf/viewAllPRelCodes/PSON-4WCBPG/%24FILE/compres_expo.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://www.wikidata.org/wiki/Q3207777"
+            },
+            {
+              "type": "url",
+              "url": "https://odnb.odessa.ua/gravures/gravure_francia.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://www.utb-chalon.fr/media/files/Documents_conferenciers/Pinette/Concours-de-1747.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://www.patrimoine-histoire.fr/P_Lorraine/Nancy/Nancy-Musee-des-Beaux-Arts.htm"
+            },
+            {
+              "type": "url",
+              "url": "https://musee-des-beaux-arts.nancy.fr/de/die-sammlungen/malerei/malerei-im-18-jahrhundert-in-europa"
+            },
+            {
+              "type": "url",
+              "url": "https://docs.prod-indb.io/2026/01/22/235138_316057180_205cc3b323081666d552b468e4d564e5.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://app.fta.art/fr/artwork/db27e349770c5a04939e4cd35a5a210ec2dd1224"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Lemoyne"
+            },
+            {
+              "type": "url",
+              "url": "https://pop.culture.gouv.fr/notice/joconde/05120000061"
+            },
+            {
+              "type": "url",
+              "url": "https://www.niceartgallery.com/Francois-Lemoyne/La-Continence-De-Scipion.html"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Allutius"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/La_Cl%C3%A9mence_de_Scipion"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Jean-Charles_Le_Vasseur"
+            }
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_06db570754b90596016aad380e157887d28e30854c56339b6d",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTgwIPkEe-HvhWeTxbm0t5htZEG1J1B90uOUN5NPtrQASDWT7iZIWuIT1uQBy79Ry5M8TyRnel5tfOJKC2Zqfvp-goaRBUjZE_PSe2DPKyqSuaVHtVGUGJar9e_nqqwQoBcGRt4vxZQFbw3iJyn-FOwKkDkpCQUW9aRwnSnHvYdlJJIJ7HDN8qKj7PQogH8x06JDI74VNEbmKWvkQxPU6Syyr8n__JenDovffNgjtG4zAsx9Cc1o-3WfPMqveRhAvPsAD6-kbD520VODaaa3-RP8C5p4yntWOIotiH29gLUzWnHi-dRmVuJkp59Bk1hHqe61T87u4z-fAtrtPNI8rOsXNPt-npTd0Sm91q6ZQOcaIV-z6OBbBJZ7VRyc1xmzmITSbuMy359FzAigXb8kt8Pc_qK99aF1IN1qXffzBVoJ9gOgI67Q4_wyH47fA1pV7zavsW1NIwvWHI1ousW9ToNucqxUqj6AfDPNLnhUmvqMzgzclRH9lgvfBhWm3UXlJyqZRMnOuHkpBpgFVzFsUVxAkR2BZmSYsfS7q3Re0ZLOBFVmkdD7XfyWlnGNyCjWTjUTAJsvrE73aCYc5xNJmoRLa0UCCArpeyyJ9UrM1ahwJWyEX2YAfsycoR0exNKJCL1dHOm_3juOZvn6iDxUei2hPK7VHZhdp11_F570nZJTv5r70w8dkUwywEhibEdNXN_V1WfWTNxSakSg8UVBeUNnL4-EqA3P0-43DgbhCeilmvCjlCoZ8KXb3wXJf3pZHumQFt2TYh75m5Nka_oFDbIg4qgd8d53p_gAmtXqCa_X8oUkixUY-BGiXTFgwi_se1HqGpTidT2EUnXpk-CVuG3vdVqxD_9-QAFR7v6rEdtktpj1vUBXGdSw0kkRUET5lE7Dk8InfVNfRSqX-UEWj_N0oPuNqSVVGPZN7LiW9gnL9tHaeWzRG3zobXEZ2bzbwij7LYikIrxosMF4WK6erjWqaeV1TrNk1nHfa9esW3N0ESa7i2p8m26LO2nzQa8MWM3Na8fVZrTaiKOV0a3akMNumy6CW4ZbBkkspHs2Z8T79f_3HsspHdw9L_soR3HuV37ddC9q0sOgBDqX7ypMwmmafzlJpmFvdwyYXnrCcRLTJ7gd--W8Jz1fg3AffQBjlIVbqaduec5-L1B0Wa7TdwbBy221I4jJLnRJARW1urC7kqfhydeovXd4RKtMtwDTBo_f8fhmSFoOWLOXj0DmGG79eQQSgJ3xgpaR41y5P3TJ-W7D4i5i6Q6xJg01mj9UpZ3LVUB6_UHqb7FAsqYxfjPsGj3SEeEOnCeIkTeRk7oH_e8=",
+        "status": null
+      },
+      {
+        "id": "ws_06db570754b90596016aad380e59d487d2b293d7b0b5118129",
+        "action": {
+          "type": "open_page",
+          "url": "https://collections-mba.nancy.fr/fr/notice/246-la-continence-de-scipion-b38460c1-bf59-4886-b10f-44a7f1b8bf1d"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_06db570754b90596016aad3814962887d2b764a6df54f3f599",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTgwZXHlXgu9u6cUcg-gABVqkeARr6Gt5Vj2reK5Z2f9IjbNd258N9tJAufl4g4MeD1QT39EudlP0b-Hrw0hrIn2rP_6jQf41K423qSNF-eG-wqxh_FmGPWwRwoY2FlrLxcW-NT0D6ZikWNPYhO_48pVScfVlQ-W2xEIoV7AVsoyIuVgYe5VtOCkTs75G9b1kIf78d6hoxL9omcBQmkGynQE2ioQtQ0T0u4Kyp8ftx27EoQSwWVhyfWPazj39uFEF-Lk4Yu3EE0F3TjtfC1LjwsCq9JYhucmsbx_La58-9SdP8KdJPAICN7SVZ8-K06HcAozfzTgyMngKSn2EuAFgUfLCtVpqhUVkU_SGstqvnqRl3aqOxO-AK6DhnrxoAw6tucPh13kETwZ6vzF01J-P_KTj1gFWV0fNDZsVUuYjtk9J-365VJS6gANQGFoUhE3YU3noCYxNI9YNbXflN9Sk-qyFc9KMXo1Bf3jFIY_lN7KCzwHDzwC3P-1ZYb6923usTQwOALacmaWkt9dk-Nx_VWK20aXISALE2PzXH6m-VlWMJrO8cKrzcIdDUoZ8tnAAEp7vuQ1FdxkEc61SebOR7lYCnABbyXF4-f5lCnap4zNJxQiCxa59gKOilQVkxptTeCMr2P0uoQJhDqhXATR46mN2npWcz5GR90gL9XI3ZAIgkJc9W1_tKSTxuJVPBkH9ujiiJcTkJr-uz-xHiY3HM1tKHpAuXEjWBgXIS5ff4g4nhCMfBiQVFnRm9we2k-uZ5aARxt7FY-gOfw76qID7vSga9H9L4FwFuS_9X-c3Cpbf7EsJ3qCNGsv1y610osQ6_AvPiNH1MdiD0NW77wkeiF9qBnqKelh8UI3GndMmNx6AJfsPRbOV5wGxXfLz51rNbRvjeZyvzUn7xW_GJOWVCVETZk6fY43zYUtcWzUclJc_3CwDCM3dusOO4fP-iNraH16WIW1fw_7JjhR21veY64DfP6hDgaS2roj6KxCdNHA9kyrxcRSm-P9d3uGZlQO2MxxC3nLv_7sJ2p83eb8kDQEZAJTMA7RG98aNbT_beBt6kSVfe7y6b_yXoFp2S4dTelQPktjz74jH6E3JWqXp0QUOt_E0t9hiO0epZ1Or_cYBUrK7Vydmg2tdbdsZrJTVHhXZTGlHJae9KM1-f21uobZgVH8amPu2N8FhTPWHkVOgB6jnGfzxMVRerZPuhH5ioXr_CdzWkTy65ty8N4D0tG_NeKkXmRlcbUnRp2hLS9rD9eiUnLByTEDW4hg7Y2n5ARNX9dVxciT8ueWwMhJj9wh2tr9rvF4pY79asJc53Sk7Do5q2UN1FLbytedOncg2ivLPu1jXb5kLIS2muTuTpOVPLm5ACLc1g24o0ixZ18XNwPpFc3_6AGi11yM8NbLlqwOWfXlkzhNdnvTY8apfS4S9_eJYOz6zxCEQPBGCfgJ_X18fJRGYVVhQOnCclcTCvWTfTlPF_fU4i4jiPXwOC9kpCW8HXMsaDLkoIHWboeQMkZR5wh5w1s2k50w1xwt128Nr5jft2BMVMmeapMEaP7syvDr0RyFuL0t2xpAceRWTz4s0x2c2D3Ud8tI9_oXGE4C3KG6JyZloW8uKCUKUTPGhfbE0445gIqeuPuKPO-_aezSsoyeyJTvV3v09cWQp3IQRwXjgkgelZfM7EfvSPsJ1hEwzPuXfycbxoNqG6XH03A3UwCYgVo7CRbtCqzHMILvVwO8IDjLcTKz2-auoGLzWeGLLgKdWnH5PpPKQz5f9XgNKBGxxTJlqFibWIFW6N1f_4uIxNC5dhMHfgVvRKxpoH7tLEkFNzqY6rq1QWKJt0iklip7557TY53ixdEjFB7Rg1uW9k6t19CX9drrekjHgtJIXtNbxQzjcEqdJnPLvgJXIahHHz-t7ttU4GQwU09e0eqrIVsYr8PBVstiKcBBAM-LHnSfR5DFBti1e7I5laU=",
+        "status": null
+      },
+      {
+        "id": "ws_06db570754b90596016aad38168a3887d28e9cd8f59f8cc268",
+        "action": {
+          "type": "search",
+          "queries": [
+            "site:britishmuseum.org \"Continence of Scipio\" Lemoyne",
+            "site:collections.louvre.fr \"Continence de Scipion\" Lemoyne",
+            "site:pop.culture.gouv.fr \"Continence de Scipion\" \"Lemoyne\"",
+            "site:collections.britishart.yale.edu \"Continence of Scipio\" Lemoyne"
+          ],
+          "query": "site:britishmuseum.org \"Continence of Scipio\" Lemoyne",
+          "sources": [
+            {
+              "type": "url",
+              "url": "https://pop.culture.gouv.fr/notice/joconde/05120000061"
+            },
+            {
+              "type": "url",
+              "url": "https://collections.louvre.fr/ark%3A/53355/cl020110058"
+            },
+            {
+              "type": "url",
+              "url": "https://collections.louvre.fr/en/ark%3A/53355/cl020007778"
+            },
+            {
+              "type": "url",
+              "url": "https://collections.louvre.fr/ark%3A/53355/cl020100938"
+            },
+            {
+              "type": "url",
+              "url": "https://collections.louvre.fr/ark%3A/53355/cl020209276"
+            },
+            {
+              "type": "url",
+              "url": "https://collections.louvre.fr/en/ark%3A/53355/cl020005873"
+            },
+            {
+              "type": "url",
+              "url": "https://collections.louvre.fr/en/ark%3A/53355/cl020208325"
+            },
+            {
+              "type": "url",
+              "url": "https://collections.louvre.fr/ark%3A/53355/cl010066761"
+            },
+            {
+              "type": "url",
+              "url": "https://collections.louvre.fr/ark%3A/53355/cl010054465"
+            },
+            {
+              "type": "url",
+              "url": "https://collections.louvre.fr/ark%3A/53355/cl020208341"
+            },
+            {
+              "type": "url",
+              "url": "https://collections.louvre.fr/en/ark%3A/53355/cl010056388"
+            },
+            {
+              "type": "url",
+              "url": "https://collections.louvre.fr/en/ark%3A/53355/cl020627107"
+            },
+            {
+              "type": "url",
+              "url": "https://www.britishmuseum.org/sites/default/files/2019-11/British_drawings_with_uncertain_1933-45_prov_020316.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://www.britishmuseum.org/sites/default/files/2019-11/Continental_drawings_with_uncertain_1933-45_prov_020316.pdf"
+            }
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_06db570754b90596016aad381a74d887d2b06d37bad8af4cca",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTgwPkwAvlFEpvw2ZuuNIhe_u6QCJMYGaZdPIDO8QxUay6uDvRS3V_OXG_p7-VJUSIZNvZzEmMFAnk_tR9DppjSXH5ud98wTofRGLU4fa1W_p3rbmUzzkfiIRMMPKSZNNIEBcG8Va3EBWjUhfu44bUKS8gN-CYY8Sgjw-wD_R6SfD1pWIrlN3VJC1iILCyYDu3EU-4cQ9j90u-j2VE9_qKLqiLIcG71c4ii8gFCzjc-SLAJxVJptzlR9m2g5E9E4CN27oK1siz0sJNlk6rB4XLffjLFuGlDq6tydg26ES2LLHbYI92d-0sycrSjoEsanfzRMv-IuqKWwnr7Hla1gguIS68vmd7qN5vf9Aww8EujvfkhxnqAEZhD9ExGSgTWl-u_WgK_pRMmFSz6fCycjpLf3jHL37--qPQT0GC9lKFz1yJuuQGN1qHMnMEOg5JDqy6bT6vapAIUmDZIhLyCk1saibSVFeMxXNGnLF-XGaaSFfISclVETmO92GB-2390z9M8oAmDwPvWRvKP80Bk0TPX-xyTkXcS3APlJWE-qel-gExBU2NTyVuHXPD1jwZX4q4skC90pYUhyeVsIQ97n3kDUxdOwdCwEyrSkRT-f5zLdFgCJIlaRIRM3SgugnvBJeaHgCo9cX-sK_ftHX_3hCh-lH7q4fSqdvxoKShdD6jC2Ap37GxS-6HNY1iFFf_HbAqOsKahn4FbE9rgoaTH7COPtLSoVx1CpSndZIstsOEL-9Ltjo5W-Zod589VmteEDKH-PTBNmQzzLt5atOGnl2GZp0b7T3fCar397YT9cQ_7QXspukMnNxi2zB1OrrQY4M9v7gZMNgDB2T5yyA0_vtiWCPEtuz1FkxUI7aLfpuhl-_YF3Et5-lpKF56Sqk8HvqZconqzkHjkW_ShNpoYE28NLsPeZ9YrqjchX1C41UrEhlGKXAWHOHqTXV5yWGi7QLXbsAlYmCAd2RqRCHOwnDdhrZPom52oqd4gbcXhOX6QQ22AxakBb5V5CbdZAt2_9XsNpFt0Xu4-D35dqFk5BZvPaPeMrRXdSI0yv8GGdpCujVI44DrPmgs9FhVpPQ_5FRPL0bBRGrkyQYUaFHobqM6hnh4nmLYK2Cr2ZEEWyUkHuzVwFi5PkVz5l9d-EGZAz4nSzFJxgH2i79NctnUEakoRdVtgAm_b-bDdteUV-V5VunS6ipvXm380y8QhuU5Db_nwU8E5OCGG4ObGWHEZjcDv8_hc0kZRcm3gAjhK6_qH41h1JdZ-HyHHs8F5biQAa4eil-27l_69KqX05A_8mGDn9rl0zeD4jPslCP3KtbSuY8dYsn1QgNdXSse8xt9Q4XXuNTI4m0Ls7cquNmNmHadNrLaq1J-7dv3WGGVZHCqWJ5OAF1fkcBF-yHSNqZa1_RM3nwnTbhtxag0VqtvCH1_GUkwxZbeB1LR00eqMJi9uqvBhVD7RRRVZvWE9DX2wRDYA1k_KhewyJopBwc2dehxJhEDtU6WJTMgCX7d8I24U6kot-joDWfxI8MmkFxUPTkTVXw1V0JqxO2wcfacQwSpznBqRXbwyG4KbWX3vU2ZDeNOYs89HgGccBMB-4WKzH84SQ3TEUj7YRBAOn3P9I2xz4OAE_DslquJViolI53uue_xY-bKKMfoE_H43vYmPrPqildtjw-6jnN_Vzt_byc-3gUO-NmXg_TDEoQpTpX3qtgn6NXS83-PwDkzD1dKmyFvf03L03d2fqenGnTD2YmxwEvaVVlSQ3TOifWRTrzuU476mYn5mL3vvf7XQR9yclwoY5Bz-R6OJQIeabRhhaH_hwEH6Fup3CIFJkk2KP_gfP-dkz_6exLcryQgCSTFRHYXDQA178fgZMYfTXZ2yFW2jfXF9ZtX4OiOjBnRDfSE8ubt9LSEyGOQYRCyobz98pfRlN5AnpKtHqW0cycWjOBy89Gm9iw4GJFWpAyBa8UgXkMHTEVZYz7j873x0Nw3N7fPWNdGJLamc8CtZnPhVR6PapMoIs16F86ARTRueFH47fvXFu0gfDcKuKdQPDQV3d8Wks-j2cp0QqmWM2qry7v_KBlWNgl7EJHXJMzopII_OKnudpC2BnNlNQfEHzPw1xxXS2wwzABq1gSJjTbz7K81ZPfdgaa4CtRIbTefFeiivZbeQDtg1tDQUvx4-cwQO-VjRKHQSJPX4yZpjWam23jzecBAPhltG220yJ8DVPMySBSrCH0F1bul-oxCKgOXUHIWk5UHV2IbLXl28wnj94-KBXd3KiPtzlqNn8_2A-Y8rO-yPbmij26UPyevy25JDztD0c9zfEo-esnr6ErRLMku4DLMAXHcZcLnMhsldjEX3OoWpidX3yHsoXQ6KdYivDQ4dbRHoqAmLQWPOTsM4pnFrEfKEx3S5336oKEauK8GVMYOphrFpUQWg1bvx1qdpAfZsJqurxAWBdEinXN4GSFNRmcaEXAjdV6VKvuJIYFJ-MrCC3FFHg8Wq4o6--KSNX_hVFR1mYur0NEcOnzL6RZuZTMs9Bzhrxy6zvanotwZF5Ns4dTxhLIh-4RahxIu9HwYc4zv6JA7FDcOVhmabL_QxK8F2qY7PwPbzrPb29-IN4iLBOjeENuRXiMp4gKCHLutZd352RrVIGjMGaBM3nbdK1BZkYi3kA_KNL_dhJHuLL_BhWuAineYDY1mibNh8ZBINNC-fVdJSItqiPiLFGcU_T182qBSDcZNySfNODpFo8rZuBs6ZQX3OTJBC7_KNAwhfZfPGuMM_LzxMb21mt3NkbVkm9exzwi1jXTLmY0SgFc2vdlRNdqPi72kXDbH0MIUce2dsSSMKV-8vz24t8tJDN386ZGoSyCiYdojPShQ1qEtwDplVZtb_DRAGiX4g-cKPUIXR5MMO38tcy3VvV_J4QTA==",
+        "status": null
+      },
+      {
+        "id": "ws_06db570754b90596016aad381d008487d29ee0f710441abc77",
+        "action": {
+          "type": "open_page",
+          "url": "https://collections-mba.nancy.fr/fr/notice/246-la-continence-de-scipion-b38460c1-bf59-4886-b10f-44a7f1b8bf1d"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_06db570754b90596016aad381ea11087d2a5d9feb418d588e2",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTgwT8ujFQTZnhnon6RUL_ko9PVVnpSfmtXrCPdLUfwuzlgS4_jJa8S3dgrXIwp78XDOkqokaftkIeM8OtQpzXjUjSusGQL-0CU8EiwjxeksJaE192bO9G-ezjtYmrcSrmyYr5DUSq-bh6PqbKk9DZhU631fRow4eZgG2KnokVpZFP76xmSnFBLvjnka6woKrdG7Epo8YzqkXycP6oArPqLZtJSkp9V0fsZ5A-1QBhWCJlhS1xjYMm7p8yrEQ1VTxHvmVylUV0LioejlJ6aAdWi8jLbjix78alY4Drub_8ZkFYnu6iSMX6JhkJdK4TGylXNyxfO6EPTGgxyCSisSh7yqWEqibQSgn7y3CD2JFB_hd4PnaeLh8sTwPG7M70fQraiC2c671G7YMtrpKVhZNi6NzP8xoIlSqV54rGc1_knFwc6vYIEpZRDB9MRxxuEBLOyGRooC7xCQOCHJcw3eI-QJL7yGcduO-oVbHpCY55iCSF1j3E40KtLg-uoNw4hFtd0XlWkJD_sa5s-lhcnWwW-GpFhJyGtmaRzsF6urIjXLtSZ1HQPVnP5LkTsP1PEI5LNQ1I4TjOXXrAezvWjq3NKJRl5sgq-nZJXmd27NmzHU2Z2kW3DQ8zUlkgNveC2bmga-AXkypB6GdbXYXYOtSotV44Dn5KjmCCsWd14k3-cYk3MquTnbFJwti5JJSlcvrALR84Kfy_h7cJupwrEjzaKXntVCP3dwV4D1sUFu0gFdFSY_kNTvIldM10_N_z7zsk8Vk-38i4pA9c5EfHiCi4PbV_nP_RSAmSU2xg9jNRtSwaCJF5fUKjFd3vE-R3brRMGoG6qxYkcGu89ibgsWsLJTjvHyzXyJlngjN2s0Nhmryx7WH8b1dB31Jd_OuE4se05ebQJiZPuXsO9H3OQateFI6UfRsetjsqhu69EPG8aumAmbqakpGh4ARegEQlRWW1Qwo5ubqkRD_aXf6lfW7MwLanszu-FItZVrjz3fKnzC4yMMQL-1clQms-1T2kcvEoQG3pG5YihyxnzEvdLuPdQZ8t2cjSE-Iw-E6ysuzlMr6ByhF4jUkcAVjmuHkbt9IIUhM5Ho7fZO2JC9SUW8bxZ4_dztnGTVHByR1ntz1a1k86omhiYv4Lr79YFGI-5pd6iflvo0pz3WYU6cDF8m-KOlqiWnNYwfZfoB8tC-rwqjL3d6vtyuMfvAjKMpClwxWgEE1JzcybHDQwqkDpXHl2H3VnchOhX-8eg9Q3YL4ObHKS4x9pbOsT4kpftSS4cznH8ohMQT2ZG0eSYWL_UGE8tBYiZl7XpQo5b0Jkfa2IcKAOETy2_De_QpgsXO_EJ-BY2bp0gI7EnkRY8Na4Q-xNMLtpdzJZboebCHRYvgh1mslX1m9OLxstu4H7siPgu4Ad50iIv7eeCMfs0CK6NS7AVFKsJBqB5Gg1agS5_7UwdZYm9S1NnFZsYZRTB2idHmXlGsbgKGMC9phKDYqUhGIF74FcLxdsWARUBYZ21MqSF6W8jwCXgJX4jm8qdpeUbQP4aAWiPWXvAaY_bU39UCMDOi7oKTou-tQiLuvGI240AAOpD0jahgOUmcs24FWwUxB0qGiR81OKew_up4guqYOgYO8noIVr5ECOqfX0XQYPgG4nzP1EiwOfnLmjXdlBKtFj68Z0cwGzYu7eUN4PjOFLN-CT_mLet-UHTbox-uZQ-ASrSUGjVpCxIzmfoqLw3YQYIg5S5a1J66lYCxepmnF0TnMuZb7J0gEsQgr9JZEM5gBD5KCtTNElwpxFSZtZUFRTFWAI5d5WF9WglUfgSpH9H33uXd567khJejEzpnX2tYzvfmncTnGsbkuK6UzVBG_EXCDvg8F-wHt-GbKWjQMSwboMvS5Mj69pBuGGqVJ7Cp0QFNowe_tYOhIjuFn_tvWFuM",
+        "status": null
+      },
+      {
+        "id": "msg_06db570754b90596016aad3820572087d2af4bf42f644e422b",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 613,
+                "start_index": 475,
+                "title": "La Continence de Scipion - Lemoyne François",
+                "type": "url_citation",
+                "url": "https://collections-mba.nancy.fr/fr/notice/246-la-continence-de-scipion-b38460c1-bf59-4886-b10f-44a7f1b8bf1d"
+              },
+              {
+                "end_index": 1074,
+                "start_index": 936,
+                "title": "La Continence de Scipion - Lemoyne François",
+                "type": "url_citation",
+                "url": "https://collections-mba.nancy.fr/fr/notice/246-la-continence-de-scipion-b38460c1-bf59-4886-b10f-44a7f1b8bf1d"
+              },
+              {
+                "end_index": 1440,
+                "start_index": 1317,
+                "title": "Peinture du XVIIIe siècle - Les collections — Musée des Beaux-arts de Nancy - Ville de Nancy",
+                "type": "url_citation",
+                "url": "https://musee-des-beaux-arts.nancy.fr/les-collections/peinture/peinture-du-xviiie-siecle"
+              },
+              {
+                "end_index": 2077,
+                "start_index": 1980,
+                "title": "",
+                "type": "url_citation",
+                "url": "https://pop.culture.gouv.fr/notice/joconde/05120000061?utm_source=openai"
+              },
+              {
+                "end_index": 2571,
+                "start_index": 2472,
+                "title": "La continence de Scipion - Lemoyne | Utpictura18",
+                "type": "url_citation",
+                "url": "https://utpictura18.univ-amu.fr/notice/1006-continence-scipion-lemoyne"
+              },
+              {
+                "end_index": 3571,
+                "start_index": 3498,
+                "title": "François Lemoyne | La Continence de Scipion",
+                "type": "url_citation",
+                "url": "https://dessins-magnin.fr/notice/notice.php?id=446"
+              },
+              {
+                "end_index": 4038,
+                "start_index": 3939,
+                "title": "Tête de jeune femme, vue de trois quarts, tournée vers la gauche - Louvre site des collections",
+                "type": "url_citation",
+                "url": "https://collections.louvre.fr/ark%3A/53355/cl020209276?utm_source=openai"
+              },
+              {
+                "end_index": 4237,
+                "start_index": 4135,
+                "title": "Homme nu, debout, vu de face, la tête tournée vers la gauche - Louvre site des collections",
+                "type": "url_citation",
+                "url": "https://collections.louvre.fr/en/ark%3A/53355/cl020208325?utm_source=openai"
+              },
+              {
+                "end_index": 4475,
+                "start_index": 4376,
+                "title": "Homme nu, debout, tourné vers la gauche et regardant à terre - Louvre site des collections",
+                "type": "url_citation",
+                "url": "https://collections.louvre.fr/ark%3A/53355/cl020208341?utm_source=openai"
+              },
+              {
+                "end_index": 4911,
+                "start_index": 4812,
+                "title": "La Continence de Scipion - Louvre site des collections",
+                "type": "url_citation",
+                "url": "https://collections.louvre.fr/ark%3A/53355/cl010066761?utm_source=openai"
+              },
+              {
+                "end_index": 5105,
+                "start_index": 5003,
+                "title": "La Continence de Scipion - Louvre site des collections",
+                "type": "url_citation",
+                "url": "https://collections.louvre.fr/en/ark%3A/53355/cl010056388?utm_source=openai"
+              },
+              {
+                "end_index": 5303,
+                "start_index": 5204,
+                "title": "La Continence de Scipion - Louvre site des collections",
+                "type": "url_citation",
+                "url": "https://collections.louvre.fr/ark%3A/53355/cl010054465?utm_source=openai"
+              },
+              {
+                "end_index": 5509,
+                "start_index": 5410,
+                "title": "Continence de Scipion - Louvre site des collections",
+                "type": "url_citation",
+                "url": "https://collections.louvre.fr/ark%3A/53355/cl020110058?utm_source=openai"
+              }
+            ],
+            "text": "## Identification vérifiée\n\nL’œuvre correspond bien à :\n\n- **Titre :** *La Continence de Scipion*\n- **Artiste :** **François Lemoyne** — parfois indexé *Le Moyne*\n- **Date :** **1727**\n- **Technique :** huile sur toile\n- **Dimensions :** 147 × 207 cm\n- **N° d’inventaire :** **246**\n- **Conservation :** Musée des Beaux-Arts de Nancy\n\nLa notice du musée donne également la signature, en bas à gauche : **« f. Lemoyne. fe. 1727 »**. Elle comporte une reproduction de l’œuvre. ([collections-mba.nancy.fr](https://collections-mba.nancy.fr/fr/notice/246-la-continence-de-scipion-b38460c1-bf59-4886-b10f-44a7f1b8bf1d))\n\n## Notices avec reproduction, par ordre de pertinence\n\n### 1. Musée des Beaux-Arts de Nancy — notice de référence\n\n**La Continence de Scipion — Lemoyne François**, notice n° 246.  \nC’est la source prioritaire : titre, artiste, date, numéro d’inventaire, dimensions, technique, signature et reproduction sont concordants. ([collections-mba.nancy.fr](https://collections-mba.nancy.fr/fr/notice/246-la-continence-de-scipion-b38460c1-bf59-4886-b10f-44a7f1b8bf1d))\n\nLe site général du musée reprend également l’œuvre dans la section consacrée à la peinture française du XVIIIᵉ siècle et l’identifie comme une réalisation de **François Lemoyne, 1727**, issue du concours de peinture organisé cette année-là. ([musee-des-beaux-arts.nancy.fr](https://musee-des-beaux-arts.nancy.fr/les-collections/peinture/peinture-du-xviiie-siecle))\n\n### 2. Ministère de la Culture — base Joconde / POP\n\n**La Continence de Scipion**, notice Joconde **05120000061**.  \nCette notice confirme les éléments essentiels :\n\n- inventaire : **246** ;\n- titre : *La Continence de Scipion* ;\n- auteur : **LEMOYNE François** ;\n- date : **1727** ;\n- lieu de conservation : **Nancy, musée des Beaux-Arts** ;\n- dimensions : 147 × 207 cm ;\n- crédit photographique : **Nancy, musée des Beaux-Arts**.\n\nLa notice comporte une rubrique « Image » et constitue la notice nationale de référence pour le tableau. ([pop.culture.gouv.fr](https://pop.culture.gouv.fr/notice/joconde/05120000061?utm_source=openai))\n\n### 3. Utpictura18 — notice iconographique avec reproduction\n\n**La continence de Scipion — Lemoyne**, notice **001006**.  \nLa page reproduit l’image du tableau et l’identifie comme une peinture de **François Lemoyne**, conservée au **Musée des Beaux-Arts de Nancy**, de dimensions 147 × 207 cm. Elle fournit aussi une version « Image HD », dont l’accès est toutefois protégé par mot de passe. ([utpictura18.univ-amu.fr](https://utpictura18.univ-amu.fr/notice/1006-continence-scipion-lemoyne))\n\n**Réserve :** cette base indique **1726**, alors que la notice du musée et Joconde donnent **1727**, date corroborée par la signature visible et par le contexte du concours. Pour la notice principale, je retiendrais donc **1727**.\n\n### 4. Musée Magnin / GrandPalaisRmn — estampe d’après le tableau\n\n**La Continence de Scipion — François Lemoyne**, notice du *Catalogue des dessins et estampes français du musée Magnin*.  \nIl ne s’agit pas du tableau lui-même, mais d’une **eau-forte gravée par Jean-Charles Le Vasseur en 1767 d’après la composition de Lemoyne**. La notice reproduit l’estampe et précise explicitement que le tableau original était alors au Cabinet du Roi au Luxembourg. Elle renvoie à l’œuvre de Nancy :\n\n> F. Lemoyne, *La Continence de Scipion*, huile sur toile, 147 × 207 cm, Nancy, musée des Beaux-Arts, inv. 246.\n\nC’est donc une reproduction graphique ancienne directement associée au tableau recherché. ([dessins-magnin.fr](https://dessins-magnin.fr/notice/notice.php?id=446))\n\n### 5. Louvre — études préparatoires de François Lemoyne\n\nLe Louvre conserve plusieurs dessins préparatoires liés explicitement à la *Continence de Scipion* de Nancy, avec reproductions dans les notices :\n\n- **Tête de jeune femme, vue de trois quarts**, François Lemoyne : étude pour la femme agenouillée au premier plan de la composition de 1727 conservée à Nancy. ([collections.louvre.fr](https://collections.louvre.fr/ark%3A/53355/cl020209276?utm_source=openai))\n- **Homme nu, debout, vu de face**, François Lemoyne : étude pour une figure de la composition. ([collections.louvre.fr](https://collections.louvre.fr/en/ark%3A/53355/cl020208325?utm_source=openai))\n- **Homme nu, debout, tourné vers la gauche**, François Lemoyne : première idée pour une figure située à droite dans le tableau de Nancy. ([collections.louvre.fr](https://collections.louvre.fr/ark%3A/53355/cl020208341?utm_source=openai))\n\nCes notices ne reproduisent pas le tableau complet, mais des **études préparatoires directement documentées comme liées à l’œuvre n° 246**.\n\n## Homonymes écartés\n\nIl existe plusieurs œuvres portant le même titre, mais qui ne sont pas celle de Nancy :\n\n- **Giambattista Pittoni**, *La Continence de Scipion*, au Louvre, vers 1732–1735. ([collections.louvre.fr](https://collections.louvre.fr/ark%3A/53355/cl010066761?utm_source=openai))\n- **Joseph-Marie Vien**, *La Continence de Scipion*, 1779, dépôt du Louvre au musée Fabre. ([collections.louvre.fr](https://collections.louvre.fr/en/ark%3A/53355/cl010056388?utm_source=openai))\n- **Pierre Joseph Verhagen**, *La Continence de Scipion*, 1771, déposée au musée de Valenciennes. ([collections.louvre.fr](https://collections.louvre.fr/ark%3A/53355/cl010054465?utm_source=openai))\n- Plusieurs dessins anciens du Louvre portant le même titre mais attribués à d’autres écoles ou artistes. ([collections.louvre.fr](https://collections.louvre.fr/ark%3A/53355/cl020110058?utm_source=openai))\n\n### Conclusion\n\nLes notices les plus sûres pour l’œuvre demandée sont :\n\n1. **Musée des Beaux-Arts de Nancy**, notice n° 246 — reproduction du tableau original.\n2. **POP / Joconde**, notice 05120000061 — reproduction et données nationales concordantes.\n3. **Utpictura18**, notice 001006 — reproduction iconographique du tableau.\n4. **Musée Magnin / GrandPalaisRmn**, notice de l’eau-forte de Le Vasseur — reproduction ancienne directement dérivée du tableau.\n5. **Louvre**, notices des études préparatoires — reproductions de dessins liés à la composition de Nancy.",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "required",
+    "tools": [
+      {
+        "type": "web_search",
+        "filters": null,
+        "search_context_size": "medium",
+        "user_location": {
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null,
+          "type": "approximate"
+        },
+        "return_token_budget": "default",
+        "search_content_types": [
+          "text"
+        ]
+      }
+    ],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1789737008.0,
+    "conversation": null,
+    "max_output_tokens": 2500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "medium",
+      "generate_summary": null,
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 31376,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cached_tokens": 4341
+      },
+      "output_tokens": 2308,
+      "output_tokens_details": {
+        "reasoning_tokens": 874
+      },
+      "total_tokens": 33684
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 2
+      }
+    }
+  }
+}

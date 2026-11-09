@@ -1,0 +1,73 @@
+{
+  "image_id": "1_0235",
+  "titre": "Portrait équestre de Madame de Saint-Baslemont",
+  "artiste": "Claude Déruet",
+  "room_id": "Room_30",
+  "sujet_existant": "Personnage",
+  "fingerprint": "71c3a860850ace619941c55e6d0e3b0c900bc071cf51136012384c59caf3e5b6",
+  "model": "gpt-5.6-luna",
+  "prompt_version": "bird-vision-v1",
+  "date_utc": "2026-09-18T13:38:07.797070+00:00",
+  "statut": "ok",
+  "image_path": "images\\1_0235.jpg",
+  "source_page": "https://musee-lorrain.nancy.fr/les-collections/catalogues-numeriques/la-lorraine-pour-horizon/les-duches-de-lorraine-et-de-bar-occupes-par-la-france-1632-1697/portrait-equestre-de-madame-de-saint-baslemont",
+  "source_image": "https://musee-lorrain.nancy.fr/fileadmin/ML/images/catalogue_numerique/La_Lorraine_pour_horizon/image_src_cat43.jpg",
+  "controle_identite": "retenu_par_IA_non_verifie_humain",
+  "raison_identite": "La notice du Musée lorrain rattache explicitement l’image à l’œuvre « Portrait équestre de Madame de Saint-Baslemont », de Claude Déruet, datée de 1646. Le musée, le numéro d’inventaire, les dimensions et la description correspondent aux métadonnées fournies, et l’image montre bien le portrait équestre monumental décrit.",
+  "original_width": 779,
+  "original_height": 708,
+  "download_url": "https://musee-lorrain.nancy.fr/fileadmin/ML/images/catalogue_numerique/La_Lorraine_pour_horizon/image_src_cat43.jpg",
+  "sha256_download": "0fe41c27fdb8d9c04031f889ad317ee629c476f7c9c688e372998d5cd84d98f2",
+  "description_visuelle": "Une figure masculine richement vêtue chevauche un grand cheval brun cabré, au-dessus d’un paysage vallonné animé de bâtiments, de petits groupes humains et d’une scène de combat. Dans les nuées, plusieurs figures ailées et de petits personnages célestes entourent des objets et des emblèmes, tandis qu’une femme tenant un enfant apparaît dans l’angle supérieur gauche. Le premier plan est occupé par des armes, des étoffes colorées et des éléments évoquant un affrontement militaire.",
+  "sujet_principal": "Religion",
+  "sujets_secondaires": [
+    "Personnage",
+    "Histoire",
+    "Nature",
+    "Architecture",
+    "Objet"
+  ],
+  "justification_sujet": "La présence visible de figures ailées, de petits êtres célestes et d’une femme avec un enfant dans les nuées fournit des indices religieux explicites. La scène associe toutefois cette dimension céleste à un personnage équestre et à une représentation de conflit terrestre.",
+  "style_visuel_probable": "Figuratif, narratif, richement ornementé, contrasté",
+  "justification_style": "La composition privilégie une représentation détaillée des corps, des étoffes, du harnachement et du paysage, avec une organisation théâtrale en registres superposés : ciel, cavalier central et bataille au premier plan. Les couleurs soutenues et les drapés accentués renforcent l’effet solennel et spectaculaire.",
+  "figuration": "figuratif",
+  "couleurs_dominantes": [
+    "brun",
+    "ocre",
+    "rouge",
+    "gris nuageux",
+    "vert sombre",
+    "blanc"
+  ],
+  "elements_visibles": [
+    "cavalier au centre",
+    "grand cheval brun",
+    "harnachement décoré",
+    "arme longue ou lance",
+    "figures ailées dans les nuées",
+    "femme tenant un enfant",
+    "petits personnages célestes",
+    "paysage vallonné",
+    "habitations et bâtiments",
+    "groupes de combattants",
+    "armes et armures au premier plan",
+    "étoffes rouges et orangées"
+  ],
+  "composition": "Le cavalier et sa monture occupent la plus grande partie du centre et structurent l’image en diagonale ascendante. Le ciel supérieur rassemble les figures ailées, tandis que l’arrière-plan inférieur s’étend en profondeur avec un paysage habité et une scène de bataille ; les armes et tissus du premier plan forment une base dense et sombre.",
+  "limites_visuelles": [
+    "Les petits éléments du paysage et de la bataille sont trop détaillés ou éloignés pour être identifiés précisément.",
+    "La fonction exacte des objets portés par les figures ailées n’est pas toujours discernable.",
+    "Aucun nom de personnage, lieu ou épisode précis n’est attribué, car ces informations ne sont pas démontrables uniquement par l’image."
+  ],
+  "desaccord_sujet": true,
+  "erreurs_telechargement": [
+    {
+      "url": "https://musee-lorrain.nancy.fr/typo3/sysext/core/Resources/Public/Icons/Flags/FR.png",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://musee-lorrain.nancy.fr/typo3/sysext/core/Resources/Public/Icons/Flags/en-us-gb.png",
+      "error": "ValueError"
+    }
+  ]
+}

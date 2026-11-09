@@ -1,0 +1,51 @@
+{
+  "image_id": "0_0574",
+  "titre": "Vues d'architectures 4",
+  "artiste": "Lucien Hervé",
+  "room_id": "Room_3",
+  "sujet_existant": "Architecture",
+  "model": "gpt-5.6-luna",
+  "prompt_version": "bird-vision-v1",
+  "date_utc": "2026-09-19T14:27:20.099909+00:00",
+  "mode_acquisition": "image_locale",
+  "fichier_fourni": "0_0574.png",
+  "controle_identite": "association_par_id_fournie_par_utilisateur",
+  "raison_identite": "Image associée à cette œuvre par son nom de fichier ; identité non contrôlée automatiquement.",
+  "source_page": "",
+  "source_image": "",
+  "erreurs_telechargement": [],
+  "sha256_image_locale": "099b8309342415045a14ceff54761f4864ac00cf434051bf4510acabe0eac220",
+  "fingerprint": "f10d16c43699429aee398b1ede401ca582ad13245ca5e97d44ce2030312b6473",
+  "original_width": 400,
+  "original_height": 403,
+  "statut": "ok",
+  "image_path": "images\\0_0574.jpg",
+  "description_visuelle": "Reproduction en noir et blanc montrant plusieurs poutres ou planches rectangulaires, claires et texturées, qui se croisent en diagonale sur un fond noir. Des formes planes ou cubiques sombres apparaissent entre les éléments, tandis que l’ensemble est cadré de très près et partiellement coupé par les bords de l’image.",
+  "sujet_principal": "Objet",
+  "sujets_secondaires": [],
+  "justification_sujet": "Les éléments visibles ressemblent à des pièces de bois ou à des structures rectangulaires, sans indice suffisant pour identifier un bâtiment ou un contexte architectural précis.",
+  "style_visuel_probable": "abstrait, géométrique, monochrome, contrasté",
+  "justification_style": "La composition privilégie les lignes diagonales, les formes anguleuses, les textures de surface et le contraste marqué entre les éléments clairs et le fond noir, au détriment d’une représentation figurative identifiable.",
+  "figuration": "abstrait",
+  "couleurs_dominantes": [
+    "noir",
+    "blanc",
+    "gris",
+    "gris clair"
+  ],
+  "elements_visibles": [
+    "plusieurs poutres ou planches rectangulaires",
+    "surfaces claires présentant des stries et des irrégularités",
+    "formes cubiques ou planes sombres",
+    "fond noir",
+    "intersections et superpositions diagonales"
+  ],
+  "composition": "Les pièces s’entrecroisent selon plusieurs diagonales et forment un réseau de lignes obliques. Une longue poutre traverse l’image du bas gauche vers le haut droit, tandis que d’autres éléments convergent vers le centre ; plusieurs extrémités sont tronquées par le cadrage.",
+  "limites_visuelles": [
+    "La fonction exacte des pièces n’est pas identifiable.",
+    "Le matériau semble être du bois, mais la reproduction en niveaux de gris ne permet pas de le confirmer avec certitude.",
+    "Aucun personnage, paysage ou symbole culturel reconnaissable n’est visible.",
+    "La profondeur et le contexte spatial restent ambigus en raison du fond très sombre et du cadrage rapproché."
+  ],
+  "desaccord_sujet": true
+}

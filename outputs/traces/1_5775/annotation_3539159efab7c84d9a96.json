@@ -1,0 +1,205 @@
+{
+  "signature": "773c83eb68d17cc2af4749f626d0aaf38ec10a466c4e7f12d2da5a6711ae69a4",
+  "response": {
+    "id": "resp_0c59ae043ce0b38e016aad42e5afcc87d2a69098c456757d3e",
+    "created_at": 1789739749.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": "Analyse uniquement ce qui est visible dans cette image, sans recherche web ni identification de mémoire. Réponds en français. Décris précisément objets, personnages, décor et composition en 2 à 4 phrases. Pas de noms de personnes, dates ou récits non démontrables visuellement. Sujet principal parmi les neuf catégories ou NA. Religion/Mythologie/Histoire exigent des indices visibles, sinon NA ou catégorie plus générale. Culture : pratiques/symboles culturels identifiables ; Quotidien : activités ordinaires ; Objet : objets/nature morte ; Personnage : figure/portrait ; Nature : paysages/faune/flore ; Architecture : bâti. Style visuel probable en mots courts (ex. naturaliste, géométrique, impressionniste), sans affirmer une appartenance historique. Mets indéterminé si nécessaire. Ne confonds pas technique, sujet et style. Indique les limites et justifie les choix.",
+    "metadata": {},
+    "model": "gpt-5.6-luna",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0c59ae043ce0b38e016aad42e679e487d28c30d96f786b14d0",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrULt-UnQY6gumVqfv8XvxxLjweCCc0ZltvOA5f5EruWh4IwPli4KYslHtWZ-fCOHkTCft7O4kP6gMvp_04HVzy-vrPBvUlfe0oCnfQevHpvB3HgBmSw6AbNahaBoWRoLVANVvnYCXq73v5WYX5Q-PV225e1IxWMM3qHNWCmRBgMJZWPH8W-2VP7Hwf7QZyQzXMD19Ay7quQ7BD_ZLyjpnES0V075X5_8ah4cradifU0qE4PrCjnPZRFV4LZXglmqX6ne07EPaB-jHtf0NPZ8htyR6OanTIUoVCbURjS2XcNL4ilyQ68SC9_4tWe_aIHBA9nx-9ZUiTvpQqs_u1K2E0pAaaUAPF-UxKGUpEKuvCPobfLQbPDTCbYSlIaB-zU4x_3-OjWpNjg2mY7sx3wViYU2fTTKQAe4B7v1aZlBU68KSEgjxmnWBQITH_IqCZYb8fymHEQpj0r9hDznUwQzDiBDRKHfiPi1hiSR1fF_V0Mig5ZYOT5NV2wS79myhtaRhJPpcQTMsKtft3W3BxpkTbGtUCZ-eoEKhv76RgZkldhBj5fjRHsTan2mbEcUsdMERoGYeks-Fxx4OFEZWnL0nMF66CNNUPvAiWc41HvKrvBPvZO5IarQxzXDimO3rtLnKihYgBQh5iVx8iDLCCVbeGeaPM2KrEtP_JB7EIdYgZ3t8D60Nt5aZE60IL8bSeJ8zcALDx2AFf_QLNBcDubPPgyoi3ge2fr5mxt9JevkfW_qR1LQC9_HzW0hUZ8uy6MFul1bFaYm7ZpaU5qbHHmswHquh0XsGzFsMVszz2FZ21JJKJYjLdgrVUgX9No6_GwlEM6-BspBNIWiIKDiQgznZ9N9uL4VGlArV7qz05WjURhrB0C6yHYXkcltturKdaHdmqPL3RBwE0_OzES17C6Yvzw21t0inirWsEmTtvwIitEbu3v753yQb7fgSkSu2NoYGouCFPxpXQzRi0Z23TfTgSj--Y5qpuGeDbVfIU1nEiA4qT1XPYq5Y8TZqmKzeAgEr86Zy_qhtWpLEgUlwjw-yonehpo4b0gr9dUWVBUX53T5YTJIL9v6RjdeQPE6fLOz5ANRm4Ph3YG1mE3UyE2D37DbjOoTSaSG12iFU-7YRl9nZZFNs1DAXYYxmsXNPR1rJ82RnRxXYRyaqeiamKYMMHGC9XkvV4I4g7Ac0Mxk05kvDz6EgPx_Mzx3PXLOGzqbngbruqK_G-yQ6zQIots-JarJBovY3EuejWaCYAmtwqTd6GJNZ1pBXJ25LSXqCQt_maIdbCOV-5xftQ1qtYwkGpM1nlqK4rA_gXmbNSUQ5-O6Nx1BVnz5v0deOE1iK3sEBaG6bIYfNkAMinIl1pWfwif9LwrT4N7B6UyJpFV3VYpOV0gH7tI7Ewxh1Ko1NFCIw4jHLLK_xBK9EjjNtTl9pEkbvtf9cBcdQt_y-7puhGK7Y1Z5YpLR6eI9Ff1Kcdv2DjJcixM0HAaOSTniow61Zt1HXBW4iLF0GyB8ayqIY9n5x3MfmSHK3OYsGvExqycpIPs-DAQ_ibAgn8OihOklSMAfcQ7LWiqlHzkAXFWDMGafbqwllwxrZ8nZHHqmLuOaYtMQ7Hsi4W34SHbCMdBLUEJpa-C_Q1mOqR9w1WLzcGSYoegIQrUKUwETYBJARtQgxy5GijxiW0iUnAsQndQrGVHIBs7WpIwYnWZOqGXKwUiawheHKw9Fwqs2XTddBaYQ2mvzBs9uRcjplxmI5N7gHnLVpR0IctonFli4TE2e-MlF4OzST0hdDIexFqMCheoI4VRXVmsXXH5jT8Ae-9j6a9nXwNWvzrbpxrHnDSdldudEo8YFIT2X_n1k2mT59rcXvk6j2kwYxt2f3cA8U3zbLBv1q1Iw27rqcbd7e2fJcYLO0bsK_5QcvoMyoYNGlIubZwbBTvyvqr-WmZTmtcugsiWc_pdaDtWWHghlHbfKpmC5fFM6_Ejf8bAWjYMjhVs2SRoE",
+        "status": null
+      },
+      {
+        "id": "msg_0c59ae043ce0b38e016aad42e9ad0487d28582fa94ad9244cf",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\"description_visuelle\":\"Une plaque décorative allongée, en relief, est fixée sur un mur rouge orangé. Elle montre deux créatures serpentiformes à têtes cornues et griffes, disposées autour d’un motif central, dans un cadre sombre abondamment orné de volutes. L’éclairage latéral projette une ombre nette sous l’objet.\",\"sujet_principal\":\"Mythologie\",\"sujets_secondaires\":[\"Objet\",\"Culture\"],\"justification_sujet\":\"Les créatures représentées possèdent une apparence fantastique de dragons, ce qui fournit un indice visuel de registre mythologique, sans permettre d’identifier un récit précis.\",\"style_visuel_probable\":\"Relief ornemental, figuratif, très détaillé\",\"justification_style\":\"Les formes sont sculptées ou modelées en volume, avec des motifs symétriques, des contours décoratifs et une représentation reconnaissable des créatures.\",\"figuration\":\"figuratif\",\"couleurs_dominantes\":[\"rouge orangé\",\"brun sombre\",\"gris bronze\",\"beige\",\"vert olive\"],\"elements_visibles\":[\"plaque allongée\",\"deux créatures serpentiformes\",\"têtes cornues\",\"griffes\",\"motif central\",\"volutes et motifs en spirale\",\"mur rouge orangé\",\"ombre portée\"],\"composition\":\"La plaque est centrée horizontalement dans l’image ; les deux créatures s’enroulent dans la partie centrale, tandis qu’un cadre épais et symétrique entoure la scène.\",\"limites_visuelles\":[\"La matière exacte de la plaque n’est pas certaine à partir de l’image seule.\",\"Les détails du motif central et la signification précise des créatures ne sont pas entièrement lisibles.\",\"Aucune provenance, date ou attribution ne peut être déduite visuellement.\"]}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1789739757.0,
+    "conversation": null,
+    "max_output_tokens": 3500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "medium",
+      "generate_summary": null,
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "resultat",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "description_visuelle": {
+              "type": "string"
+            },
+            "sujet_principal": {
+              "type": "string",
+              "enum": [
+                "Architecture",
+                "Culture",
+                "Histoire",
+                "Mythologie",
+                "Nature",
+                "Objet",
+                "Personnage",
+                "Quotidien",
+                "Religion",
+                "NA"
+              ]
+            },
+            "sujets_secondaires": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "Architecture",
+                  "Culture",
+                  "Histoire",
+                  "Mythologie",
+                  "Nature",
+                  "Objet",
+                  "Personnage",
+                  "Quotidien",
+                  "Religion"
+                ]
+              }
+            },
+            "justification_sujet": {
+              "type": "string"
+            },
+            "style_visuel_probable": {
+              "type": "string"
+            },
+            "justification_style": {
+              "type": "string"
+            },
+            "figuration": {
+              "type": "string",
+              "enum": [
+                "figuratif",
+                "abstrait",
+                "mixte",
+                "indetermine"
+              ]
+            },
+            "couleurs_dominantes": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "elements_visibles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "composition": {
+              "type": "string"
+            },
+            "limites_visuelles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "description_visuelle",
+            "sujet_principal",
+            "sujets_secondaires",
+            "justification_sujet",
+            "style_visuel_probable",
+            "justification_style",
+            "figuration",
+            "couleurs_dominantes",
+            "elements_visibles",
+            "composition",
+            "limites_visuelles"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 777,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cached_tokens": 0
+      },
+      "output_tokens": 501,
+      "output_tokens_details": {
+        "reasoning_tokens": 119
+      },
+      "total_tokens": 1278
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  }
+}

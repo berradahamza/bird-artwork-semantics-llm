@@ -1,0 +1,197 @@
+{
+  "signature": "abe5878f0d995dda805568e4e08a798f3256dd63529eb1eeb26f775e9baa5b01",
+  "response": {
+    "id": "resp_030cf5b7b4756e9d016aabea53221c87d28e62be1e71db23c9",
+    "created_at": 1789651539.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": "Analyse uniquement ce qui est visible dans cette image, sans recherche web ni identification de mémoire. Réponds en français. Décris précisément objets, personnages, décor et composition en 2 à 4 phrases. Pas de noms de personnes, dates ou récits non démontrables visuellement. Sujet principal parmi les neuf catégories ou NA. Religion/Mythologie/Histoire exigent des indices visibles, sinon NA ou catégorie plus générale. Culture : pratiques/symboles culturels identifiables ; Quotidien : activités ordinaires ; Objet : objets/nature morte ; Personnage : figure/portrait ; Nature : paysages/faune/flore ; Architecture : bâti. Style visuel probable en mots courts (ex. naturaliste, géométrique, impressionniste), sans affirmer une appartenance historique. Mets indéterminé si nécessaire. Ne confonds pas technique, sujet et style. Indique les limites et justifie les choix.",
+    "metadata": {},
+    "model": "gpt-4.1-2025-04-14",
+    "object": "response",
+    "output": [
+      {
+        "id": "msg_030cf5b7b4756e9d016aabea54f79c87d295b5af6f4020b09b",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\n  \"description_visuelle\": \"L'image montre un paysage portuaire au crépuscule ou à l'aube, avec au premier plan deux barques ou petits bateaux à voile sombre amarrés sur l'eau calme. À l'arrière-plan, on distingue une rangée de maisons aux formes anguleuses et aux toits pentus, derrière un quai. Quelques lumières sont allumées à l'intérieur ou devant les maisons, et le ciel est occupé par des nuages bleu-gris diffusant une lumière douce.\",\n  \"sujet_principal\": \"Architecture\",\n  \"sujets_secondaires\": [\"Nature\", \"Objet\"],\n  \"justification_sujet\": \"L'accent est mis sur les bâtiments reconnaissables en arrière-plan, tandis que les bateaux (objets) et l'eau (nature) tiennent une place importante dans la scène.\",\n  \"style_visuel_probable\": \"synthétique, simplifié, atmosphérique\",\n  \"justification_style\": \"Les formes sont épurées, les couleurs limitées et subtiles, et l'ambiance générale privilégie une impression poétique plutôt que le réalisme des détails.\",\n  \"figuration\": \"figuratif\",\n  \"couleurs_dominantes\": [\"bleu\", \"gris\", \"noir\", \"rose pâle\", \"jaune doux\"],\n  \"elements_visibles\": [\"bateaux\", \"mâts\", \"eau\", \"reflets\", \"maisons\", \"quai\", \"ciel nuageux\", \"lumières de fenêtres\"],\n  \"composition\": \"La composition superpose horizontalement trois plans : le premier plan avec les bateaux, le second avec l'eau et ses reflets, et l'arrière-plan avec la rangée de maisons et le ciel.\",\n  \"limites_visuelles\": [\"Absence de détails précis sur les maisons et bateaux\", \"Atmosphère brumeuse ou nocturne rendant flou certains contours\", \"Pas d'indice direct sur le lieu ou l'époque\", \"Aucun personnage visible\"]\n}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": null
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 1.0,
+    "background": false,
+    "completed_at": 1789651545.0,
+    "conversation": null,
+    "max_output_tokens": 3500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "in_memory",
+    "reasoning": {
+      "context": null,
+      "effort": null,
+      "generate_summary": null,
+      "mode": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "resultat",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "description_visuelle": {
+              "type": "string"
+            },
+            "sujet_principal": {
+              "type": "string",
+              "enum": [
+                "Architecture",
+                "Culture",
+                "Histoire",
+                "Mythologie",
+                "Nature",
+                "Objet",
+                "Personnage",
+                "Quotidien",
+                "Religion",
+                "NA"
+              ]
+            },
+            "sujets_secondaires": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "Architecture",
+                  "Culture",
+                  "Histoire",
+                  "Mythologie",
+                  "Nature",
+                  "Objet",
+                  "Personnage",
+                  "Quotidien",
+                  "Religion"
+                ]
+              }
+            },
+            "justification_sujet": {
+              "type": "string"
+            },
+            "style_visuel_probable": {
+              "type": "string"
+            },
+            "justification_style": {
+              "type": "string"
+            },
+            "figuration": {
+              "type": "string",
+              "enum": [
+                "figuratif",
+                "abstrait",
+                "mixte",
+                "indetermine"
+              ]
+            },
+            "couleurs_dominantes": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "elements_visibles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "composition": {
+              "type": "string"
+            },
+            "limites_visuelles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "description_visuelle",
+            "sujet_principal",
+            "sujets_secondaires",
+            "justification_sujet",
+            "style_visuel_probable",
+            "justification_style",
+            "figuration",
+            "couleurs_dominantes",
+            "elements_visibles",
+            "composition",
+            "limites_visuelles"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 850,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cached_tokens": 0
+      },
+      "output_tokens": 427,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 1277
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  }
+}

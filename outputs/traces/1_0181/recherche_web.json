@@ -1,0 +1,731 @@
+{
+  "signature": "1b29f516a836b8e50b22923fb2351eb8e4b6dc6beec2a03e1465f664b15a1b0b",
+  "response": {
+    "id": "resp_0ce227e534a7433b016aad39488c2487d28d7a09d80a8aa1b3",
+    "created_at": 1789737288.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.6-luna",
+    "object": "response",
+    "output": [
+      {
+        "id": "ws_0ce227e534a7433b016aad394919c487d2a55228f2baa91c7d",
+        "action": {
+          "type": "search",
+          "queries": [
+            "site:mban.nancy.fr \"La mort de Didon\" \"2000.7.2\"",
+            "site:collections.musee-des-beaux-arts.nancy.fr \"2000.7.2\"",
+            "\"La mort de Didon\" \"2000.7.2\"",
+            "\"La mort de Didon\" \"Musée des Beaux-Arts de Nancy\""
+          ],
+          "query": "site:mban.nancy.fr \"La mort de Didon\" \"2000.7.2\"",
+          "sources": [
+            {
+              "type": "url",
+              "url": "https://www.nancy.fr/fileadmin/NAN/culture/scolaires/2017/2017-la_mythologie.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://www.patrimoine-histoire.fr/P_Lorraine/Nancy/Nancy-Musee-des-Beaux-Arts.htm"
+            },
+            {
+              "type": "url",
+              "url": "https://sites.ac-nancy-metz.fr/langues-anciennes/de-leneide-aux-images-venus-anchise-enee/"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.scribd.com/document/994273266/Petit-Fute-Les-Plus-Beaux-Musees-de-France-2025-WebZone"
+            },
+            {
+              "type": "url",
+              "url": "https://pop.culture.gouv.fr/notice/joconde/06570008035"
+            },
+            {
+              "type": "url",
+              "url": "https://www.wikidata.org/wiki/Wikidata%3AWikiProject_sum_of_all_paintings/Location/France/Missing_inventory_number"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.scribd.com/document/623737560/Dictionnaire-de-La-Peinture-PDFDrive"
+            },
+            {
+              "type": "url",
+              "url": "https://recherche-archives.nancy.fr/document/FRAC054395_4-104Fi"
+            },
+            {
+              "type": "url",
+              "url": "https://cnum.cnam.fr/pgi/redir.php?ident=8XAE786&onglet=c"
+            },
+            {
+              "type": "url",
+              "url": "https://cnum.cnam.fr/pgi/redir.php?ident=8XAE143&onglet=c"
+            },
+            {
+              "type": "url",
+              "url": "https://www.hotelslitteraires.fr/chroniques/visite-de-l-exposition-salammbo-fureur-passion-elephants-par-solveig-conrad-boucher-5223"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.scribd.com/document/985609641/revista-de-Francia-de-arte"
+            },
+            {
+              "type": "url",
+              "url": "https://quilesfrederique9.e-monsite.com/pages/catalogue-des-auteurs-classiques/theophile-gauthier.html"
+            }
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ce227e534a7433b016aad394bab8c87d2a1fe97017207c36d",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTl_cO2VcP2BrOCT3kVo87ToldrG3LngkpNbcwKD8LgKrwL5KGjsHnnWNd9Y_GPkQQ4E2MRL-yhqZP2f4yi6b6QmrcOEAhsFXB5OOiPgZyBinWVzAvQRdqp-BoGCyX8gG7wKz7u2CHVm7hrf42dAcRJGhnJGSaOquJJX0DnUfV0cAvjgVfelO1KlKALme1hN5MSOcff5P9tfixI3Lkn1yo-HuQZvVNKmv6jOpJ-7jspLCyoiGFvTjXeDPA-dJdPwTrVhWflKywZ7O_FMeqlc5YJG-kRQMXL32UGhICUr73RQy5ZWdGSycqJmRvw-tm7DLr4DW99VYjvMEDjXZgvQjAuUM512faJTKEimSvwXQXCfQjP5ahzLb0BUxpmUPvrdRtuesEBnt8jlGkCQIiDlea_BFGtvzVwJyqxMShPRu9vEF49lLIDXYt7ndrPMPVAHvJEvxl32khCCJ2lg66G6caGRDOyOcosK6gzQzL73qhsIi0QXAbYQjcZdevyVAKNHWoLdyYazkV60Uzr24lNNjBwiVtn1bdpjJ6ENGHEvJqur3RX_X1m2AObeXOjRFhOlQobG06t1VEpQVZ5cuRHRm7-PC5NtHK6QRbvjAiemP8fcqvpH0lZELxPpBORHoq2ouT09Sqb4NoXksFeuig5kU5rKiMVrLagzV5c7RcFQ6ZJDR9kIPVt68zmFKTwm3nd78d9U3d9S29S1nKhesKqu8EJA6Tg_hmtDSmBcJTWcvu23wc-TEns5x3E817joemrJtaBUXB7JEfX9S1BwJl3LFdddIY2Ckhsa67vqR3hQsSr3tKj_OVQWcEaMZ_6m1Jh0iF-Nxc4DNASasbvTi8KmrCQOjr4z9ksApIe4flLxkXdqKF1FhdG-g1se_7PhUITUTtbCO4n_Uw6VkydGrVd6uZ9JJIidC-OLCx-iNTPhaMhRQhKxZSBQHKT1Wdqg6kcY2Kf02mzEC41NrRB4a7-pn320ZbUr8LmBDNcThK55eInt1bnlcsRk29I-VOLsFacGUpY8gasIEEtrYq4ifvNI2Me3MFbDQuGNvNklruCULMVH_5Smr6WWWHuCbyTKC7WizrA1VKxngYGyQNPP_hmPzRjxME06HfJa21ppNxaZt2ujok3rGstkeikcfeRwaVoz98iKIu28KJtK4yrO_gDYzrE-u-r4Xa5PZDhj9uom6Tl_OAiMaeEwnCXSyLqSrhVAVab_Thdl1hz2Qerok9Lri9xQ3kE-h1tHiylj1hPUIpmHkOWVEKqGgLDmt_b1c9tWOxG-2XeIAm8t9C57VAl_7QXj-IMlHEkaPZCYkhNHNCQuLDCiY3Cqzhz_OMOiR-1JkhOHTpnmpirRBt9nNMDtB5JyFQ==",
+        "status": null
+      },
+      {
+        "id": "ws_0ce227e534a7433b016aad394c5e1887d296d962a160292253",
+        "action": {
+          "type": "open_page",
+          "url": "https://pop.culture.gouv.fr/notice/joconde/06570008035"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ce227e534a7433b016aad394d4d5887d28bb62b1b44c00844",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTl_Wdmb9qhcHqfrYmNFxZo890RXgxdxnEvcx6FU3Z0GvP0oCDL7-AnMfalWdPTgyVXHLpMfDvPB8QCD71-9r255_03Mc7BSd7fV6BPE3TE1pSZNd-PVWN2jTU63sUOozM8P-q2vazUi_e5sP4b5UPc1HnuSrUXTiKqcwQrF2YSBeRJVIXk55iKWvgko-JQM-4h8ed0eqsKgeNTpQjpJaXgm39WYOeud2mXeBSneyK_IkEiUJQJkTCfQiKD1LJz1yP9CKBpfB2QXl0ZGK3HBsD2wMIjIl8uuFxtYsqA8Nwt2S3X9nklRFUGOB2LxLqAIefepql9aBlqOqN0KBGZMrraIN3mB9VseUwB6Hr3BmiCnYDs5yaxxW_vIyFGr95TsxIgmfgO7mG9h0Xutp5OjvxZ1kGqr5dg6dAERWREmCaAAsnv-q-yNyTrn9F1y-0N-T11SIxmv-tuQjwaHVnxXQs3wXo5bDLZNloAJdO_R6CnM2oihGIXZgUEM7HPPqd-ld0c0YaveJhz0B4adgOeLgFzu2q6VBh13_6-hXqrS7RW9D9fsfHmzmZSYqh-PHyC6QTslaXE_cQ-ziulPqsQb-000D_W_3-uc5cMhsDHVywXN8bt8pji6-U2XVdIDM3xekngllataL6xUTFkdL3RqViCJG8rx6-O2BqRc6bfxgVHPtWG3pd7RwvowOZWmiRPG9ipTxxM-Ee7h7dMU04hr4vg_1erqsTAdlPzQsBEUeTX0IuL7Zyuome7rgp9jbo41TvbyWqxh6ZckQEHlngVDADornQF2N5lThuYSM6NEu-u2vnovLD0gBFt080p45AdGHGnKPKeqOlsroI-Nvios5SFq34UCkXdMLupCaHJ9TY0it2-_mQSaf-tkTeoYlRYehGNGKCq89D57IP-UENiQVNaDCNxQP32Q4skEfPedCO4UTZgZ6W5J43q_0hRctOdVZvmKDueZDtWr-0YxQuD5tUIE6KlFuKNOCjo3WRYVYtTVc0auYNLrPNosM5EkzjYa9cFhimW0afu1UuRNNGlB-xeBiZmpUP5nZkXHxNswIEb1A2Bvdb5YtCNjl66p3vvThR4bCoYHaCXf3wJmNKfJ_qAkZjG-Ccu707NmqwGwaGfo3UiRs-6d7LatsDWV3Hr6lXVJg8YdK0AZ-wjFLy84yn0uh-xFIWSLSs88mR261Bpv3TtA5jelqRc3hR_varjQzfnAHksuOJRTO1RSO99f0dvd7OjKdgYou8feH38NtXXU78LA5IV_xLiEwvl2Tk4USVMc",
+        "status": null
+      },
+      {
+        "id": "ws_0ce227e534a7433b016aad394da6bc87d29b53b32235c47e4e",
+        "action": {
+          "type": "open_page",
+          "url": "https://www.patrimoine-histoire.fr/P_Lorraine/Nancy/Nancy-Musee-des-Beaux-Arts.htm"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ce227e534a7433b016aad3950553c87d2ac53d1169a60e6e2",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTl_G9HKm8aj9lj-iriE6tZOn_xQOpUiLXhe_egjBZKLzLO-UytIiETJwEphUPgPhNmOa79UYsEGo6Sor-ZciTN-IZOBq4hjimDcYYPIV6wl05_W0AA09NrRROMRs6P40Cu0_9kPylPT2Onn9noFm8J3G_6ubkDquCA-fEbNHuLM05P06DM0GCPKRua1AAe2TzR8HRpEYsQBWTh3d-Vn1VpwC7FApKhuUg6Yz9878fpdyeoDo07EunoY1XuI-UI3UILzwF12rk9PszmksZ6NNFSKHSoYxB4m-VuGf5swhdpGLkjLBnhI8RAEpOpdYH7s_kpPBAPpKV52JprS-YB0nw8EPrYpVOtcS99a8309ShKZ0bOTSAXcn-oMGwIj4ocPPwreLxJfXc2VCnpeXAxpIMhdG4ax8D47xOPgwc6M5zv7Pyv072ofKWJlcQHt0kYO4D9ovyvcQz0pcR9j6sNKsYe0W0MxdffSSEFD8ne6C4pCnebGMGUGCFAxubJpmW0tcn80f9NEK1pb5SbbGVHXOvex6lH-9Cljl20fWKtiuvbC0CWv9A9kH4NMidx1T1UQ9UAn0_7RJnFzLJv9u75TdlINrTOgXACKwQTmrSW7367BDguZj9Fk7jM1GmpyHopfqQTCmKw4xLR48bZn6MT6SAy8NmJSqXJUkfNmAnuXV9rns3VfNa9Z4rI1Oc6hSCg3xtVsbBIvmXxlAWB-aftH9j669yYvlIDwJTQV1lCj2RWHAp-WV0AePAQXGW69XukvPsMPppGL1WK7E7D16n4E_Z4uNPb4zCQqRy8Xq3Drxrj7zmjf6UFnu9FCQPXUHfXLznmZrObqlyJaaPYQEN3uMcqcmsZ1f3GRbbEj0-KBokmfqL36XMQmvxn7pDtrgOTA8A0KR8VPGuacwkf72PcN5Cf9nqHIO5zJVVfCQCjE7cQIp7B75WgnQVVuj-Ii6_5Ij3PJEWMqqKRZqcZZ7-VtvNg0KP29FoTr8ZFqTjnR-vBIboJqqVgMO1vmry6QXwmtCc1yFGQwolcMicGdy8RH7V56Z0hyFm4KUdRYDpajLS6UziVatS8Spo-Hgx6lBC1087PQh25ilXXSNFcgslATOJ5ndCTyZ6htJgicMuSdtkKijm2ZXJfAls_DrlFnl7j9fvIfRJ3lFVEZWuDO67cqXe8mLH3q_CS5I8ukfZHwkiZoTacKFKrYwtDD9JOtbSNl70yrx_law3OEd0ioGMbwCR2fV0D2bcY-MN3ZVVjRlnxUsyQ-FfjIUOJUU_U0Q20NIuiOlGOX_G5I0WoMxjtffkyrmlbc_QlZ47th1d_aF4ZRoFnnf4eO8EelKamTDwtwttZYD098ehKgovBulvOzbr99NcnGf5FYBEZUsmuLubF2ge0gc3juRnS6kU0ypfAl6Y8T",
+        "status": null
+      },
+      {
+        "id": "ws_0ce227e534a7433b016aad3950ec0887d2a3cc6f542e148a56",
+        "action": {
+          "type": "search",
+          "queries": [
+            "\"2000.7.2\" musée",
+            "\"2000.7.2\" peinture",
+            "site:pop.culture.gouv.fr/notice/joconde \"Mort de Didon\" Nancy",
+            "site:pop.culture.gouv.fr \"La Mort de Didon\" \"Nancy\""
+          ],
+          "query": "\"2000.7.2\" musée",
+          "sources": [
+            {
+              "type": "url",
+              "url": "https://pop.culture.gouv.fr/notice/joconde/M5037010449"
+            },
+            {
+              "type": "url",
+              "url": "https://pop.culture.gouv.fr/notice/joconde/01370001337"
+            },
+            {
+              "type": "url",
+              "url": "https://pop.culture.gouv.fr/notice/joconde/06570008035"
+            },
+            {
+              "type": "url",
+              "url": "https://pop.culture.gouv.fr/notice/joconde/08080000716"
+            },
+            {
+              "type": "url",
+              "url": "https://ecomusee.grandorlyseinebievre.fr/cassette-de-tryo"
+            },
+            {
+              "type": "url",
+              "url": "https://sam.nmartmuseum.org/objects/16554/running-rabbit"
+            },
+            {
+              "type": "url",
+              "url": "https://www.museefabre.fr/recherche-bibliographique/default%3AUNIMARC%3A4595"
+            },
+            {
+              "type": "url",
+              "url": "https://app.pch.gc.ca/application/artefacts_hum/liste_list.app?in=Mus%C3%A9e+historique+des+Soeurs+de+l%27Assomption+de+la+Sainte+Vierge&l=l&lang=en&pID=265&r=10&t=0"
+            },
+            {
+              "type": "url",
+              "url": "https://bma-collections.brent.gov.uk/Details/collect/2480"
+            },
+            {
+              "type": "url",
+              "url": "https://calendar.8s8s.net/calendar/2000/auspicious.time.2000-7_2.html"
+            },
+            {
+              "type": "url",
+              "url": "https://donghong.info/blog/?p=859"
+            },
+            {
+              "type": "url",
+              "url": "https://xaie.tripod.com/works/v-on/HeartThrob/hosoku.html"
+            },
+            {
+              "type": "url",
+              "url": "https://real-j.mtak.hu/19291/1/KRRMK_2020_7.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://dl.ndl.go.jp/view/prepareDownload?contentNo=6&itemId=info%3Andljp%2Fpid%2F1247201"
+            },
+            {
+              "type": "url",
+              "url": "https://nds.dent.niigata-u.ac.jp/journal/311/w311_full.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://ejournal.undip.ac.id/index.php/ijms/article/download/2218/1940"
+            },
+            {
+              "type": "url",
+              "url": "https://www.novalaranjeiras.pr.gov.br/licitacoes/%5B1526061596%5D.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://chrysler.org/wp-content/uploads/CMA_CreativeWriting_EkphrasticPoetry.pdf"
+            }
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ce227e534a7433b016aad3954856087d2b1c51983440011a4",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTl_rlIaGC-8vgblotNskjGZJFHdZL6OzJQtDNR1dk052TMA298A0eYpUdCVOUaaIgyfPi5hgcXgoyHabTbOhmGtKVxI08VRcgB08rvgGlFosKLqYCd-pf5E5s2HVQoPrcoNu4kpdNvsHecgWulCp6gQXE4PrSkKuOHbD1vndKgACuZl9N03DaTlC65AeL0Dpf80YThoqVD4ysFxAxgFyaQOgvZW1yKCo_0aVWcqfMokkWgVno03I7GTWDoa6JGUbgtKA2RGi_jkMJRacbA0qiOm91HRAFhPleLZGU7jKaXY2yOy6j6VbZ_rjvz4Y8xSx4WKUy4k1R4XzCI01WbiZnxNCs6U-_calI2y7ZJiW64Eyf7H3ZEoSuVM6Um5iYE7k7SaihvUZaLp2s7UOfRmpDRbDoH0uTmVO7KNRX8fMZ4Blu6QP-oFYLH7m1H_KPNjYfQNAG6NQIMZ_RLbquSoG9167LEjGdPX3EKl4A6bEh8vHmwiEdEC_mod0aZ9ToLbtED6ShRUPLlRn3PUI0ura_eI9-lCLQScLQO7kmjHnZTL769QAKKEi3ijevl4QVZLh3eNcZnDqSp3sD3q20vfnvc4gJ0F7YnSogIwDaEjGruW8j6706SJGOPTPvH9lOs0hNTeHKeY7BSqAecSjVbEyUDu01vMyE7oM0jaGYwGJp2-d-F3n7MDoQBhtsnO9RYSKxDkKC9vzlcbAQnYmaqHu-QG7WJkWX9M_SSDOEhXDXcJ44sCRrkqtKM3exM1zGZOiUF7JN5QiikEVw3mj04tAZv2xm2-wDApc0BnsfMXjB3wX9oWEfcfv1CAzdglDhOIYq_wAMJvag2N_M9ZohH08ODgHLDXMzenhvYB2sul2e2eaf0PRSXUd10Yi2H_t6BRKG-ULHa0L0zwLCFUaRxFCPKMp3V2k7TkQWT0SLsUfBP_tF_1o7oCoB8a06Uei2wB_R-Ia8QdowqVFfAQQIjvKm1yyD-jFZpYaJN_lrEmFBkyB4_UxivgTqeD79nMSYFiZ1798LRe2pRmBIQM71RrSeg_LbpKpcF5zNmBXxyTQpiylRwUHalOtlB2EWf3G7T7lRlv0DVY8IerSK0pC0DMfizfZYt0lB4KielVT6TtyTdNQtoHLdWwf7bKVOCb4TWzIS7cX_tk2cTYNmqCqrgkE7vbAOWdt9J-mDPOoW-nByAoE6hedh3fWbcRhcSmxXhS0haCNmwh70Li5GkmjrupzPr2J6CRr4L3qZZJmoC_23H1gxYALo9q4eEY6biXNdyEN0BJAjUJhtbW-4qg2NDA2Uw5S1lm1UI59isKHQp26uG70D8mIQUR3ZpDBoPhGvGuw8XS",
+        "status": null
+      },
+      {
+        "id": "ws_0ce227e534a7433b016aad3954c25c87d2840a1728dea2321a",
+        "action": {
+          "type": "search",
+          "queries": [
+            "Musée des Beaux-Arts Nancy collections œuvres en ligne La mort de Didon",
+            "site:musee-des-beaux-arts.nancy.fr \"Mort de Didon\"",
+            "site:collections.musee-des-beaux-arts.nancy.fr Didon",
+            "site:openagenda.com \"La Mort de Didon\" Nancy musée"
+          ],
+          "query": "Musée des Beaux-Arts Nancy collections œuvres en ligne La mort de Didon",
+          "sources": [
+            {
+              "type": "url",
+              "url": "https://musee-des-beaux-arts.nancy.fr/les-collections"
+            },
+            {
+              "type": "url",
+              "url": "https://musee-des-beaux-arts.nancy.fr/les-collections/peinture"
+            },
+            {
+              "type": "url",
+              "url": "https://musee-des-beaux-arts.nancy.fr/"
+            },
+            {
+              "type": "url",
+              "url": "https://musee-des-beaux-arts.nancy.fr/les-collections/peinture/peinture-des-xixe-et-xxe-siecles"
+            },
+            {
+              "type": "url",
+              "url": "https://musee-des-beaux-arts.nancy.fr/les-collections/peinture/peinture-du-xviie-siecle"
+            },
+            {
+              "type": "url",
+              "url": "https://musee-des-beaux-arts.nancy.fr/fileadmin/MBA/Scolaires/2017/2017-dossier-enseignant-la-nature-morte.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://www.nancy.fr/culture/education-artistique-et-culturelle/ressources-pedagogiques"
+            },
+            {
+              "type": "url",
+              "url": "https://musee-des-beaux-arts.nancy.fr/accueil"
+            },
+            {
+              "type": "url",
+              "url": "https://musee-des-beaux-arts.nancy.fr/les-collections/sculpture"
+            },
+            {
+              "type": "url",
+              "url": "https://www.culture.gouv.fr/thematiques/musees/pour-les-professionnels/conserver-et-gerer-les-collections/numeriser-les-collections/plan-de-numerisation-les-collections-en-ligne"
+            },
+            {
+              "type": "url",
+              "url": "https://pop.culture.gouv.fr/notice/joconde/M0347001812?base=%5B%22Collections+des+mus%C3%A9es+de+France+%28Joconde%29%22%5D"
+            },
+            {
+              "type": "url",
+              "url": "https://pop.culture.gouv.fr/notice/joconde/05120008641"
+            },
+            {
+              "type": "url",
+              "url": "https://collections.louvre.fr/ark%3A/53355/cl010064303"
+            },
+            {
+              "type": "url",
+              "url": "https://musee-des-beaux-arts.nancy.fr/fileadmin/MBA/Scolaires/2017/2017-dossier-enseignant-la-sculpture.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://www.nancy.fr/fileadmin/NAN/culture/scolaires/2017/2017-la_mythologie.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://musee-lorrain.nancy.fr/fileadmin/ML/images/Expositions_passees/fichier_src_dp.lorrains.ss.fronti.res_17.10.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/%C3%89mile_Friant"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_des_Beaux-Arts_de_Nancy"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Salon_de_1822"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Didon"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/La_Mort_de_Didon_%28Preti%29"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Aim%C3%A9_Morot"
+            },
+            {
+              "type": "url",
+              "url": "https://www.reddit.com/r/SurLeBoutDeLaLangue/comments/1mywr5v"
+            }
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ce227e534a7433b016aad3959abfc87d2bda720c0d824581b",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTl_L0eZWd-X9QXmt-x-AP05Ys4vqyMRVXxvaZF49NkoyR0Bof_zP3gVAItYzRkGAj4-faoIk_CrJ_mMzqQVWa8Rss-9f9kUu71I_cT6xd4R_WEP6K_faiLmtaH1Np0dbCZPUk2g3C1XP6NQM5a8MeG0OSMHsvBUfijwOjPdCBkAmeBlXqkHq6q4YO3Wa7Kw37UAHoWS1IgZ0HllbBThMJXNrRluCoSOHd3bGTmc4BQT9xA4AmD0hyIiZn3qP1UC56LXoKe5lGSnzPbuPL4srimKJsWG_u3B6nR-8etlkhrbRZmLkdb5wv7d7eFsMuYZrrO1QQiKoosgGt7Mhc_yAxX7G6mT1bfhc1NcLwrWRWlxAC3GaghdAY0dab3BO21ldqKpWXjrhC1eF0l7h5HXd_KnEa5iwtuCp-HiXzeJdAoLvJiI7In8Od2iRoOFkf2TX-fr3S3LrZD4Q7rGULTu8NQ6cPbZdIQjSTwCzfGMkJJzLu1ERqimJ59SoZO2Qvumlx2_5Ztv9khXqEnSD06wAWgQVQ3GqntRBwa86B9L2WFc-YOI7QmF-9WIVKm0EKp0abI9wPHGJC6REO43TcNYcqYWr8Vq2CZ4y8luHqM2MX9ZcimPKqS_F5K1GLzmu1FWi0zIuaCFMFUue-uL_-dX26fDJosHZx9CHxblb-bAFrFHjnY78Y3C0pRV8xQQSdI0sCKkLGkSgWU7SoRcHS6LCT4mYX1XNHqTaGqD3Smo3UXN3rSWjZtNc6ldSLwD7YzSPAbwgYvEjA5RUYZnINBoBp-09-exIalxgk0CtBuEcBcQ0nCd1qKtcsxXYHQqblzj86YAmfLKtvVUSfxLXHAlUQMrq93sR6FEs2kD1Pc3Qr0U0t6Yvb21h3hqML0sI00ng_qIWmWViHMhgRGrYFeOyCPTnwhmsjz6Ek8k5tpbi4xBOg5dj8wsq9I332JMlbVjvUthkqIzGTYBXsmswEuwya49_a4JJrgAsEjq8VIv2dCJg5hGsbLu-96xjDgYEPUzvnYLSXNbigLTrYBXf_aBkW-f_3iOWl8XWsnq3JNzPn9zH9A4O4eGlWBueBr-dh5ZFBmZp4UHmSw-GAwff5HPKHXq5F7A__XF1rsgCFilzQrQulzMzFH_0Z3t0smODG6knKesiqeufpdkuHATtV3bbVmT_w2WqkQLmTE253nM91YfgaqijfdzpH7PFRbhzu7n9yT2YYcnZKZawTo4ZLgiZ7M40_PTznU8H5dnuSWDSjKPfdbfvbBbvO3uMVkcns8fFvcu69DqR9ShT1MZJZ3itKp6K94OpYW6Tqt-BXUHNbOfaDNGar3i_ZZwpMFHADtmX_oi",
+        "status": null
+      },
+      {
+        "id": "ws_0ce227e534a7433b016aad3959d6c087d2967c2ef7e1cae765",
+        "action": {
+          "type": "open_page",
+          "url": "https://musee-des-beaux-arts.nancy.fr/les-collections"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ce227e534a7433b016aad395c2dc087d2b616480e4dd195cf",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTl_VaZ3FkFs3izYXwhM8_G7QLG0vqWSuG3q7B8sGhTRRP7SUm5THNV3GEnNseQoVWSag_pDFOkvD-7DOwr6sOurTXQIT6QZpH6QssnElJ8-PMA-XYYBsP4z_p4TtT5huRqWfNxs09KVuEWdSvbKitXeXeMA9ReL8mLpGn4L8V20fkWJMpxsQjM1qjsK5rAt_HH2414bVMi9aUNjFeKkCxP-7Mn27M2c8YJ8D5Aye0xzc9eMQRziXfmM-NsofMkxA4S2YpawkCdUusLUQ4K18JLRTsWMsU1-Q0bZiqEEr10dAv58GvRrK1-4HR-r5Ei_P_3_EBnUu9EUSskQ_TSntoVr25ZQ0bHwIu9frS0hqHot4dCXkQcUNQ5k53cLFSrG78XPbRqASlJBZpZH66GFuc5C0PiFXxxFOQzb9UVEDymC0_MB6NElJ-i8Y_goMXV4ySEN2JThrO_uiCOGxACRr2y43LAcReHAI_e8tJVxaXHhFyfvw63Q8V6WO9IrntlHtnGxeb__pxCa4rfjxk1Ex8abPvfCMYsH33kbEh7fVg06UKNRp0-I-gB58SlYkfTpL_LoROTVTI_TalmqORFK5OVRb1JoY5yy76IuRU1tXgKZsxYOJQmZYqtyWXBzvTt8stg0p5gpDoPmctPijJw1sFHD_nBOdys43s-Siqlx2d9tttLxAlxGiOBRedc1KpYG7cuQl20zAM8NcPJqmG09K6T4bKnOHUdiGdts7M5PeGrMrrc1Zn0VA9KfbVvV44WU-SgVNI43XPy4rfFPb2OLqjPqzes_gqH34Q8y9e-LZmUS3dHTE8FYZUKm7bNJyLR70tqCIfdQkfqLbUjwfuVPGDuFemrFmjOYofY2H4kvxGhKcsZ5c54IZMgVoUp6XF4S_tTU1BVCKhiJrU6K3GUOZJ9PMS0OZDLvjfrf3CATsx86qIuAK-8tfpFWZuYp4cUfg7Yg-zbexT0HBAYFfy9k9fjm_XbIULtozU2a8twqAl6G1nsURMvpeHrok4PCI_D4vO4wjADXK1HiqanTwZ_n7Ybuvci5kj-s0trlx3tZuq4h4Wf9IVFONMYkQIxrHdhj42698H1eW-TPxt3vD3WLCEgxWBN03zfHewjC3JBuPiaLIu0SjRxVrL3H2DErNlWa5kIorDsPFCg_6yyiFo78pbrtul_FMnboQeOEry7m5NIuWyQak6k8qZgPy6ijt7LEiZHY",
+        "status": null
+      },
+      {
+        "id": "ws_0ce227e534a7433b016aad395c592487d2b98edf38c04712ff",
+        "action": {
+          "type": "open_page",
+          "url": "https://musee-des-beaux-arts.nancy.fr/les-collections"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ce227e534a7433b016aad395d484887d2946707cd76cf37d5",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTl_SpEL_HwliaDDxoC4edcr26Y35NWYjuEaXkgndO96HAf5kBjFRlQjMw1OezIWpupaNymW3NypDHyxQv5KMil5IZIyMXnUVgt9gdaXQWTrD36Z9hrmDx0gheHOfgiHntvDDrlgbf2eHhXaqI57JPObzuA_rgXKKAhL9O9DnY9xeVmfyl4oqBm5U33qeC2V4hgtzYXMnRa14WRpGAzX_9gB8pmykx5igbZXdYDfYeDjO_8s_ufcPB4ywNg3gKIZ3USoDFDvjentrzoewpH6BkGLF9Ue68eDauu0fCJJdk9JZrZZ8EP_VUsn9gJLcYnpeVucyhaeMcTm1beG6gMAZ6DjMiIlyNWmXLWQKfX8p14fdZBe98Rc41CrdnF9wg0ro5Svv9CqgX7BUJcr3h4__0fP8_tMEM4f7arTU5qKxF1LW8A9NUjlXcVK5RlCrJwp-XWhVMeGXmhK5bJDbl7DWWNJDucKtHLUiAa4kG-nWaI4mSfytjm1pf5-40jl1CN_Qf9ohW2RDJu6eTxzXPUPxpR-qYcA-2YQcSouyrjscU4KJ6E_x9qQOnEfYz121MuvPdB5F9wbGsnYQ8izv-JuST9_DzKVdAhzQfFguQoPYukvhMwySqKBP-jT3nZNRHSK1_o0TwKIl7laLHp42HJNFVAKIaj4Az4YWS-C_yCOARydwIKgTxv3mUxS3KWITCl-b8Cm7WE9gP3EBfeVqzIjWFhUVvZDdsE6zM1ej0YVNvg36S7oJZAdbVJCngwJUQJlnr67DQp_7o0yQvoVzkk_TKUiDdEA6AKJHrAH1LacxNQZoQI44GLnd0SBNedbMduS_r2qAQjxDW_0HBJ_EdKb4z1D70_7QLLoQB_l4WCJlE3a4cvV-pS0OYjWfmSmTMf734kf-qypvlXqjfBNmBJDDaOrKFNvoSvFxzATEPwUoUk2UFpeQw3JxmcatWPkdzQHXOiLmJdMe67Zt7--pld9gz7NL9u4-0_ihBT9XBJhNxsMli1nGMKbXIkFVOFlJX5v2FGupCNu5tBpyyfJCyJVagLpKhGj1k0XPacKb9xSTadPJ68Ss3shYOojV9hZbZ0jd7G-feC2hDfXWthkm7gJ0T7yZhRDp6GHarFms-kQA6OQlOuwKTHJ3zGwRgB_RX2cMp5wKO6Or2dEjxyPAn2zvb9CnNnQS97Zr-BH9Li0TTd1isuA92Iapv9QQhPoYpM_NyZ1J9lMPFRNtQOJCQkpoyNMya-kQgl4i7DLlpgn2QSJUaaeGWwFd_UMOpBou9OApFzDGC9i1PIZABxoqeobxEMOu-810FPdXa8_AlVS_UYEojg=",
+        "status": null
+      },
+      {
+        "id": "ws_0ce227e534a7433b016aad395deca487d28e83f594bb652082",
+        "action": {
+          "type": "search",
+          "queries": [
+            "site:collections-mba.nancy.fr/fr \"La mort de Didon\"",
+            "site:collections-mba.nancy.fr/fr \"2000.7.2\"",
+            "site:collections-mba.nancy.fr \"Didon\" \"Anonyme\"",
+            "site:collections-mba.nancy.fr \"Mort de Didon\""
+          ],
+          "query": "site:collections-mba.nancy.fr/fr \"La mort de Didon\"",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ce227e534a7433b016aad395f8ed087d2806442042ac8c8ac",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTl_9o2SldjTlVeeyrcwmdApXriShaddf4PZwfuCG8-ft4Et_hDJyA6JwnVWSvnxiytm8HaZoY5UY0AaOZPIsMSk_5B_eqbExWifai3sGC85Q-WoVl6f0O26bZHBLPqd6-6tm2iwMJZ57cOcpSnAQS0-cBKGFffat-23y4J2ipEIaUVqj2IUMrcEqM4MQu4yKyCAvIJ_XVVxbl8-f7wueDikt0QeDa8AZhHG3UM_tWRmth5wctSv1D-ZRgD5PfDOqBDDW1Clq2D3RpLwMr_SxrZdiz2l0C77Lugbcll2IoV90i1OtkqNn_8osot7LBD9i-S7J5SWHSkJ_fACeJh8392iHbegcZmdXC-r4Zd4aGKhL5j8ZXqWFsetWwhMx_DOt-42OKUJzC-KGOvF95NgGqF-rU3n1QiD7P9OJBkZxI0JP57QT7SS9LgRjWPdE3_B_uU8BC6tBW-lN9zhT0pIt3pjmxItWEDC_V1QMzzYOk2Pp-AA-aNDVWp9EG_wgBhzHLx4SsBFTp8NG0V9ItlOyHUVeS3QSeABgj31VHNDoSW-zssPbAKy-6WVwoNDq3ZQW_kLMfF3B1U9qUaiIA-O3Dj-ICJrkaNbd3z8yC11Wy95hmerEc6fxizymFPYOQ64qhaLvw0N0k6-fZRseOX7s2PeDqRyRTFRwj9VIlmF8NrHAcd_Jsy9FKl5ct6pXIQyQQIo7Pc00OlZCUqsnzs_HNOKBsc_oOWqLoGv-rhNeV8j1Tdn0lGBVmvzlBmk_YIpqX-Rx9rzPDVj8tDQbiaWXRKKsF5IA8zH-TSm8DqM_2YKZcNKaL6QXHqr1JD-wfVYu85M2iSu3geHIJ4ggQagxuAnzcawM3R91daaox3vBeaOLk7l6ChvkhYuFoS73x1LD62LDg5-7H2dI2VwG5IlMqPOVbmSEDW9E8aOKjTi7OMBTqQuevN6UPvN72cn4QrfRigvvJKtLqXtqc3LNaH9Ryr3XsspSDWAVVNt3yWWl8IbuEFTkm-kFBkftyN07cdK2gtlo-zJTCFl5hVR4e6kjcTuQqSaYSCUNK-YziEfjg2qCgclVjrkkTsKTKdiAV-VOPYW5j4PzAzEPLzXv1KMGzGIg2Z0hUC469_Zl5YvlsnVEjQRPfFbxqF2O2I-QyXqlv3N8DC7dD4aZbX8_CP4yP0ni6BYEiuyhx1_ydlunjUUbIuqyy6mfCDrC7qESeqe26ar-xG0lXAiHGOT_HtFKkqkjcwSqjwWtQsCRM8RT__lDIY9W3ICHNWtjbqjJn6FgjoTv6ingITcyoHqlbrKIU1XrodLY6s8wcI2xR6p4GLuxV-hIA6cD65ZDBUOAHDA3WU3C4DKwbfdVZzzrz612tcOS7iyoThc8t6y_Xa7SgDdygXof5IFEGpKPorwcreLhIJxH1A-xMvf_q3mONaxWtwWPP3d1XTvmCyy5wnJa-nKdH4PVnZIhlHFBVQ1WsmT7FcxAQx25TzFi4FDzct51kcQus9Zs8bOgU_zuBQbVKrUDFFrl-SkvrVv0_FJjzmM5b4dWtmiE8sk_SlKDuXYGZCiHdGx6bs-aNHVH_kwyY8qpRg=",
+        "status": null
+      },
+      {
+        "id": "ws_0ce227e534a7433b016aad3960786887d2a71490ed6bc88582",
+        "action": {
+          "type": "search",
+          "queries": [
+            "\"La Mort de Didon\" \"Anonyme\" \"Nancy\" peinture 1750",
+            "\"Mort de Didon\" \"Anonyme France\" Nancy",
+            "\"La mort de Didon\" \"vers 1750\" Nancy",
+            "\"La Mort de Didon\" \"huile sur toile\" Nancy"
+          ],
+          "query": "\"La Mort de Didon\" \"Anonyme\" \"Nancy\" peinture 1750",
+          "sources": [
+            {
+              "type": "url",
+              "url": "https://www.nancy.fr/fileadmin/NAN/culture/scolaires/2017/2017-la_mythologie.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://collections.louvre.fr/ark%3A/53355/cl010064303"
+            },
+            {
+              "type": "url",
+              "url": "https://www.patrimoine-histoire.fr/P_Lorraine/Nancy/Nancy-Musee-des-Beaux-Arts.htm"
+            },
+            {
+              "type": "url",
+              "url": "https://www.molon.fr/EITL/Amours/Amours_antiques_et_modernes.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/La_Mort_de_Didon_%28Le_Guerchin%29"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Didon"
+            },
+            {
+              "type": "url",
+              "url": "https://manualzilla.com/doc/6405166/la-mythologie---mus%C3%A9e-des-beaux"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Liste_de_peintures_de_S%C3%A9bastien_Bourdon"
+            },
+            {
+              "type": "url",
+              "url": "https://www.mcours.net/fra14/ibssmfra14asm245.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://www.christies.com/en/lot/lot-5839024"
+            },
+            {
+              "type": "url",
+              "url": "https://www.finoreille.com/fichier/o_media/9227/media_fichier_fr_dp.didon.et.ena.e.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://agorha.inha.fr/recherche?affichage=cartouche&facets=eyJCYXNlcyBkZSBkb25uXHUwMGU5ZXMiOnsiZmlsdGVycyI6WyJSXHUwMGU5cGVydG9pcmUgZGVzIHRhYmxlYXV4IGl0YWxpZW5zIGRhbnMgbGVzIGNvbGxlY3Rpb25zIHB1YmxpcXVlcyBmcmFuXHUwMGU3YWlzZXMgKFhJSUllLVhJWGUgc2lcdTAwZThjbGVzKSwgUkVUSUYiXSwiZmllbGQiOiJjb250ZW50LnJlY29yZE1hbmFnZW1lbnRJbmZvcm1hdGlvbi5kYXRhYmFzZUxhYmVsLnZhbHVlIiwicGF0aEhpZXJhcmNoaWNhbCI6ZmFsc2UsImZhY2V0T3JkZXIiOjMsImZhY2V0U2NvcGUiOiJnZW5lcmFsIn19&fieldSort=&filters=&noticeType=&page=328&pageSize=20&selectionId=&sort=&terms=&type=simple&withAttachment=false"
+            },
+            {
+              "type": "url",
+              "url": "https://onnestpasdesmachines.wordpress.com/wp-content/uploads/2012/10/didon_latin.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/La_Mort_de_Didon_%28Preti%29"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/La_Mort_de_Didon_%28F%C3%BCssli%29"
+            },
+            {
+              "type": "url",
+              "url": "https://clespourlhistoire.ac-besancon.fr/la-mort-de-didon/"
+            },
+            {
+              "type": "url",
+              "url": "https://musees.dijon.fr/artworks/iris-coupe-le-cheveu-fatal-a-didon-sur-le-bucher/"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Liste_de_peintures_d%27Antoine_Coypel"
+            },
+            {
+              "type": "url",
+              "url": "https://www.musicologie.org/sites/d/didon_et_enee.html"
+            },
+            {
+              "type": "url",
+              "url": "https://www.bridgemanimages.com/fr/guercino-giovanni-francesco-barbieri-1591-1666-after/the-death-of-dido-1650-66-oil-on-canvas/oil-on-canvas/asset/7210228"
+            },
+            {
+              "type": "url",
+              "url": "https://commons.wikimedia.org/wiki/File%3ABesan%C3%A7on_%28Doubs%29_-_Mus%C3%A9e_des_Beaux-Arts_et_d%27Arch%C3%A9ologie_-_%22Sc%C3%A8ne_de_l%27histoire_antique_%28La_Mort_de_Didon%29%22_%28%C3%A9cole_fran%C3%A7aise_du_XVIIIe%29.jpg"
+            },
+            {
+              "type": "url",
+              "url": "https://zone-critique.com/critiques/delightful-horror-fussli-a-couper-le-souffle/"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.scribd.com/document/534712989/Etude-de-la-poetique-de-l-u2019ambivalence-dans-Au-Commencement-etait-la-mer-de-Maissa-Bey-pdf"
+            }
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ce227e534a7433b016aad396750c887d2800d809a1b245d56",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTl_9ADXPTysxCQJN6o8COart_OHD6vu2N_IF2_J-Ad4376KPJY41him1SSHacLVq4SCfc5Z1dJwmn2oHUM-SB9L7TQQJp4wcc6pXglI3OrYJP0lwD0rFH70lSq8MKDUYAzSCtj8_s4QtneRDBOOqPLMctsw7nkI3jNlEofa2KGv8u7n7T15-EGeK1wgzk8Oo6vxhMnljff-c5BGykgojomLaHJTrVKMvy3O4s1OV9shFzNUaTsxna_81SBiXK6BL70Y_bbolzfD_BOogVC8gJLqqotapZV8sq7JvPBupxrLYR5rJSsfRc3hfjJ3X7dFsYv3M5En5KAwxrn6vcGF8rmpkS4JLhV2jO1yk0OsYEWredZ2sJHtVha_zs4_1fDkGB87H4uj4V4ZuK_5BqBcy33iRKCQLR1QZnZbYCMoqCy8ipBklr6ITm0CBzS6psopUSDNpL5DkvIn4jC7XB7eA-Tu1S5TyX_Ae2hNt0EOqeSffIwP-ZTgtYjhVhzQQhMCJGodOKumvTIxDwO0wok0XjbgVydjbglIi6xQL07zeZpO3rqNI2bKvRUWpBmtSHi7aDvV9SYbtizLQyRMO0PecI-qC_2uxZuGyKF5OMrcW79SrIsPjm7BGT7sz9UIpDGSO3WReXWzE9SNeHvI3d5mFzlWWvcRh8K1gUQTecF-bFG-9NWQTr8shrDmuM1lQ_liRrn8tS0RsSFfpbxRzAqOskvIxnjRaj61fCO4TGBUIKeBtqkeOqJ9B1gSu9NmWT8SQmvjm1xy0wKtrd_qWvZbRaem1qV0yRgGRg_cyGBlhPq39WUiyaX6dBfYvTADx_oRHjP1TE4vHiDiMhR1e1b6w_x6v7B-SpZKRM8kV0wZCHODAMduFtoh1xg-7aQOMLjz9JNnmZGTp2UCzDjGaOgxkedS89A9UEXc9PGKGvWgdJDhzNYoWR2-9efGeqTbCShYKu-XM3GHowYVaWeOpWBxuvPfM-lmzsxYBluEIdP7qW_CVOjPUFrg5OWZYZBbcywFfLOixDXoXdofZ1aPznDo5YrJVcSz82RAbKGPGnX22MYkxCUU3sdnJ3cfCwmfs3UX28cMaYy5A2DXtAc_59R2vj4U6kl8m8Ah_iipMekWPSmPeK8xIRM2H3tfd27rT4n2U99E0Oz3O3qdymL3ozo4ud-F9MW2l6LhpxG7JUyOdxsnwmq6i0sZNtdfLK5KjL5kt0zlH9Z0Aq0rdZ8h3fywKyxDDbw9p8Ld80XzMfXmuz8URp0-h-g9aa6xhlrkQy3CZJlxvyqQTgsff8kuLyLYVGF8KkElUbxc5R8C_ddJmuz5HrBhLyJIF346Qndear20Rz6w0Uidu_wt8j73tc0_u82mcNDj8Opz1wZmGg1TTFH9oWRTTzli8jcMrkXIApqI1kK3mVfElWhcN3Qi02gBjWg9KbMsThaUJAosGrT9JBRxvUqCeqWyEh9OSsWADMjKlCi4cQsmAm-RXKjk7GPK6b6fSuZW4gPO6upwNYK0CUISfgiBJwJB37X0Zh8H7PyNz5D_7kfeUDcgWRHf0G65l5ytHoQ8B1SCI6WHCEIO8-W-VDQiSh7eR0jBYKsZXNR79ZtB_ZjENlMmc2bce7U5G_r6rJALyIgMvbs8jvDAALlc_4cXKrkaR9y0Q6Vcl7TlSGJ5_0Phudb3VCtL-w_MEXut-9h0DjdGH1AKNk9VlBwaMrAfxZzM6aGrQh51Z-WqbUKYUejaTB3DzCjiquwnxjviwA==",
+        "status": null
+      },
+      {
+        "id": "ws_0ce227e534a7433b016aad39687f8087d2ab48ddf198b43b01",
+        "action": null,
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ce227e534a7433b016aad396b329887d29b52a8f033a92d6d",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTl_S_DI7FM13kZMAyk-6D98x1iH1aiAXyW_heZpi5EXXs34tB0lGyZcJ4LK6PpamHXewNgUjNSDkZVn2B5yyBmzfDiTBnSkiT9rtdjWisBNA2d0nnIUosgSb7iWSyLvTmLDAQVeuqqd3MDzhhymYuOMcvl0suWLI8NhcQxTw-6mi3fE4qKTL2ceyK1gdn801p5v-8Oe7hGJTA4Bo_2L9LQT-idR3Uokyt5-wvVG8M8EafkHMu0TXxysTID0WC1Crc_d5o6XymzVLT-wjw3z9uCzqW6FyRcTXbAXU4RhdEJzSwUJS1rkiQ89VjXKaBoqWC5TGFdcEmLVEwxuSd4zy1Xz_uRmYOpX0MFjKUYy3FWvc8c0HS2OnGdF3dmjgUJT1phIGj1wXbfm78oGGJfROFdpSpdIY5P9HqBGU8ZK0v7hkoXpaTkKteLAzdoWax7l08y6a5oh9gIwxaoLDynx1IyellNqCkGjVUx9m0s6Q_Dq6dIBGBpmKKngfpk6f1X5myE_y5DhOYHmEIkWv9qlsJzZulYkLQlV49I2WRp6KrzCWlaZPyLs7s3qdUucfC4gqJxhqdavb2COg2_kn6OSf0IcPU2ghJnrlg3D82yKaHQjmCE7c7LCkF03V8H2ACDDuZ0-L4GX-Rhs0j97b_Z31Yv36iZD-U8aakaIW442yclyAr7HHy0PeooOfO1gnGmSEO7GjpMkYX38_X_UPzGRDWYG-ne4QYpx4z-zmTG5700I_XElhS9be44_KhWC-lbVYGAReb3n4KxEmvaqdG8CkOmiJX6rQ0Z39LPemil7AoFqmkwdslPce7O_FZenPim9YmydSr05CizBxpvba15Oa_wLXlOIddoICMktaw3RxvIxBbfNc2-dHxuor1nHoTZoljhqoEGODzavrVIg8pmbcj3xbrm6gV6bl98Y_qYcWIfDeKE-jHF7xUjStCcxHHC-GA5ZnY3IoCwaPIbOqu_u0jgdmTxm_EocvNF2X1ILhrGyM3PwXr14_ujHGSqQI-0pJBYKiWqj8V9PgnanNVa3DcqJ1-XjSYaHSe2WyTKc-uVJ6ZLsu2VIvh6q-0JjmuKfF3VI0M0l5M_Og1N86t2fkQeob_cRa4zgEF-5apIdHsk3ZFqX6XeYBx64u4JvE7_IV2Ohr9VG7H8mCo0DgTmljYOH2ixcg-3xs3rvcA4oBZ3fGu2kZp9Sad1K5PMXPmS5rRkfnzndeTrAEm2V4AqwcidAvhHR4AUYPhjCGVobRo-UXeu0Zw6wu7uamraaVygIkGdn_6gt9nM9LE9pqZCjWuXglC_yBrFlQi77QuA2TRvvivPUcxxDABHIbWh22aqWAAefobMkEiw4EYq5CaJC9E1gKQ==",
+        "status": null
+      },
+      {
+        "id": "ws_0ce227e534a7433b016aad396be94487d28a332eb43c67cb95",
+        "action": null,
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ce227e534a7433b016aad396f1c0c87d29149ea2bd2c05c43",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTl_V_OL4waEkGhz71g-NQ-XDZtSUJJSBYa-WKgcl_9mBc1IYXSFSwMbQX6o5Gd_CpFAOWRPBX2ROLkvEYEpZkN3r8-URVg2oShaQkVEekEdwhx9lU6nfTSzMvctYZ4DFHeYUAZi3HLvLv4uTtKhU345mdYLOgos8CeCHPcUYX_KgWpmMy0Zifq28AJpSRvlM6T64bdiy_lxNmf-rjc600MMo7XoqdSbHeW1logdEuUy8j4CR-n5PKWhOrJsBGZQtkmrHf7Js4ID9Bh39NJy0zvjx7nptYi_SOt0Bfz32SUuJ2Yyj8BSjKZUt2qRlMUiVdQqT0kSPreGQK0PS7AtUjPiOOHllGmW8DsYeYu8l_kX-GSkl1s1UEvAYuuGpLrGEUHV8qV8lXYZvIbSvdjr9Zcj8-jMNaCKQEd6AAW23MuwxRIarX7vWlqAgAz12TRuoYRhMPNEeDzcTnabglj2AXxiv5joRYm7y5LHDtHGpSeQq73N5lFqmpp300O27kFhGop9ehbaWoNyKA9RxSAS44bNdbgfiG2DvPv7P3_p-6xNil0VXmvcilzKV0SPhmXEr3JH7z0UVhg5XtBCKIWg6DXMw6t_e-M8Naiy0aOlRjTTbh6lHzEM5v4qxVyHyGmb--13kyv9S_3r4JkXlbnbSuZpwZV1GipsmiZNMUW5qHSdXOK0Os1h9kbL83ernqhfH8-1Q0ARFLRez5vUcXONa7xBlyso4umtlsh06Eyyhh1Q23tJAbScdSaXXveSlSPZ7qggnhljAr9FS680G3jzKlBeHpZrjYibIcIOxRGQu2-D6FCWX068fwEs_4lOjIKgC-AWG8_iqasmT67qeomDT6HryPuza5YexUI0eMEMsqUb6zJriRcR3K76ucfDvo75TnTX6lBIKY-PqmdgED5yH9K5lM1fA1OMGYD78bpXZWE22_DlUDN_53xI3LPUTrZkSxmBcDWXxd8-vr-NO2VcyHQkYnA4n6A_Z-g8dIySyY9Wxtmua240VioA3b8RTKHKEDuirZaA-deV80zBKGM2vYtbe_qLQ-7z5dWX9JCXUNcGmYfBmz2ThUYlsUlH3H_yd6FrShaWZJTk7N0TRR88qCTydd2GLpU20f5rvcqBVTLGyyb8wLnhHbth_Q_NZGrbaes0pcvGa4Be6O2_uy3ddvwYl11eRnZkNYj9u_2jBJ-U4Iw7srJJLzP31hJi1HD824cP34HDwuCQsTJc9ymuON9_KN3UCeFWKSbJA9qWJFHPjjT02r89H2YSwBrkmOuE7mkGKpoQ_pAnRfMklNHwzZhMoU-qPizMiVOpfZCxdUvv6v3EzTp0FrMd_wRfvbULoAdT--UuoCjQdoeVpnv9nPa4xtTojaAl1q0aRknuSjaQ0808kTg_GyTSyqc0NCgrcSwVnsq0ZIqIukuEm8OidZzJ_luVFsLPErHMHFQz-_UyFJ2JwMYmcJrEgToZ2_BnihADX_AEccD1xwsiYi5O2QNrGVz2QtPPJX2FANOMyagfFur66Kvrk9LTR7v4Q7pkCH9C7xG39cBLjkUTeg8bbtT04rmHez5i2kmXR_Fg_zLuEvvUZ-PRe9Uj10r71apoN4lZWhoWp9V1rqXpUhiykxMgqaZqeSZk-YDYyudXBYjbOXDbeQLMIjGKPBekWcJ2q1wsZrwJdy5ReD47lGRTGYbb3w==",
+        "status": null
+      },
+      {
+        "id": "ws_0ce227e534a7433b016aad39705ee087d29058283b44c5ffe3",
+        "action": null,
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0ce227e534a7433b016aad3973bb5487d29c0141d71fba8ab8",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTl_kbTa3vw5tUFIr7_4WXXmpXglBvJBkUU2xo-ehG23iQVXfeJ4D81g12SaRe_y7c1bNmNDlNgr30b_vHVp7Jaf_f3aThPiziu-9yddXpattipDaDJt-TF2lVhNHrs496dVj_q6Rm-MEePJatVVTfhbnT3RDNKG7WUGDXPm82fkxFuNzYVZ1jQQG6jNx1_h1dK6yFkUR4tv06Dg8bsqjDdEEMC3OV90J0x9pphKfi09OVIf_OC1J_OSXb4Gdgu5N_Lb_QMPRCB5o8RpRZWzBM8BXnEZ_ARFGJ6dvAJLH_7Y81yP8j4hNMZpkM8QHKh7rtZZkvjNJD_F3J-tQUh5n7fzpc1t80pms3E1dH1SBK6r-ycw9qCuI6yTC7zzosO_-PklMMKL5EwmPVWrPpGzgidwgnvJ7VsT3rZQguIKe7f3m2O2nrEYh3tbZbqMV752GT4uLt9eGOk5gcNfbvWwRcOeSls6aLhhhN_AA-eVjnMfNPPgkrTEz_6lsGvSItN1aXYsReiQgC10KO8_2VMDAwa0iUvlz7oYHpfEe5HylyM2-JjCT8cC2a5gekCu42ffRLT1QWkyb-wP7ZMThD4nqiCzhbvkNB-fGj_xtZUhc2MgCHXoIFLZR0VsbMRJ1s8KtoQPUBW-OGbLFQcLv7IUHL_oU1ms7ywVHuhZRTwi-mcL-JQ-MCvcybua2qvlB9X_737isTkSGs03HeQ_HjxTdIwdNqm_smcy4tuhShF6kyTkgIYInAPReT6yGKeKrOq-tqNSh1xLaamH_5o3H3somEDFC6gVk5rhQKFN3vWZZxH3oLFpQeRAp8oFPBCxFwKb5ZiJyOzKMGQjERngywcH2Ji9nmGel-luPwKL5ofKTSt48adtNgIka6FcnsP4kL_Evf5D1ebEjxmD5NhVwDAGitDerlIi97DEX0VW0ShZjRO28nFyRKecd0_Z2Ob2cwc8cgyldlJLr4dA6rLV7RHNvmz3MKH-qhQ5ZzgaKe9wCQf2vtF-55kAkbXQGFkc67BxivD-P6h7Jk66Q4t89w5c4tWj0TgmGTwWmZoodEH_eIkWZW_0HbMIN-KGRQdXSLGqDJIoWaUu6NpZ9LMbeiE4XfBAKjgUMaVbOmU_gPpJXNSNs8oDqDzuSwSnqso1qK9twd4Fi9tnWd-IGbGD6bmhgnUgAx4mzNxwq8zc8y1uTbDC7aKjlFC54iNtBJKM-z7-jV4uvjnNKuWdkMF7Qv6oIKrfZos8bR8KzYQbLNhRqWc38tkgYqVG45Ure7rdQgyswBkXcXtySo2vgCjhDRKZguNzW60r7rBrnxleuMPBpbu5j9dw83vcos3o_U7-BvI9OHppChFPEtsMU0AYgc6f1SHBjPA8ttBhHbAmxf5fgpg28gDq7COtVeXYpNGoEl2iAcBlPOrZpzN1SMXx74OuDWvsSZRDCr6eE-fKqhjw_rm1EoeHOMa_MFmpIF2WfFwiCauhm5iEXe0qK0hD6a9VVra1MNk5OStrh0yELaz4NK2mIugt0QlnzhzDI8G-hPh0svbj2Lzw-k_t5-uealgjSTEaE4lIZiZJtxgV6ni-kR58XwrcvMiFDELQaOqw6HUXf1Q6D1R8AEa8E89htYOCgr7LBL0tMoLwconbpbC-tsevRQL6zthB1zryJOHEEBgwKBvhpb6LWkalcQXMuqQsCjMEYGswAyTAH0SVxVO8e4USbuPtEC_I4VZrKm3hbgro2OLOJHSOs1z9lhv2IIOyfKptea_qGU46zfm0_wUSHtrz1MAKqVv4I1IGFfsuNgIBPji-J-bqVv81gJr9Wadunlrc5vl0mjV6M9F0d4l2epVNM7XVHsZM6TjvG-OcP-bhEYRU60_i2VVjUb42sbo00AYXHaE5isEl3BXVMTVUyO-MKIRTxwaG76s3GDwCzpHEkJfZYpCtKnYhQvrSZYam9EGrLeR9oTrONqKqAOp0qvM-7mzl5n43DKC9KjmYFiQ3m-7Qmm9OcMGYL5mAFb6jeJL1y22T4Fzc_FacjVSrRKpZva2G2kKOQyOqULo8BArfjhJUwi58lYZVHj_4QDFrli3GGOzhikshXSZfJ6i3aC9Z-r9bgmtfN973e9gEsvEjagNI1RltfKo-JHeVVNb54whfyg4Pqd2LXz1bqfJrd6x--nQnc72X2amAHHneBccfq1O0S3b4smrdE8VWf16EZCOhTQVEd73MZUI2jaAkIUhK4g0lGVgph1iDIA9BEw7JQpROxcAiwrXWrTmp3kwOg2JXZgmrK3viqltFzoriSma-sBpPoT-Og7pIe5jSp6OScweEYA6BzLT81bnCis_komfzUYJ2jbkVA_KOtYFMBGLRX5Kku-7W7aCvR-nI-y_h62X8bgiFN7A4ONX-FFNw3evoM-rySc0cYSHwQlZNTPwe-2KXek3ed1Y_2gzhZuZVz17j",
+        "status": null
+      },
+      {
+        "id": "msg_0ce227e534a7433b016aad3976fe3087d292341db48fa1b409",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 694,
+                "start_index": 584,
+                "title": "Musée des Beaux-Arts de Nancy",
+                "type": "url_citation",
+                "url": "https://www.patrimoine-histoire.fr/P_Lorraine/Nancy/Nancy-Musee-des-Beaux-Arts.htm"
+              },
+              {
+                "end_index": 1072,
+                "start_index": 962,
+                "title": "Musée des Beaux-Arts de Nancy",
+                "type": "url_citation",
+                "url": "https://www.patrimoine-histoire.fr/P_Lorraine/Nancy/Nancy-Musee-des-Beaux-Arts.htm"
+              },
+              {
+                "end_index": 1499,
+                "start_index": 1405,
+                "title": "La mythologie 1er dossier_mythologie.qxd",
+                "type": "url_citation",
+                "url": "https://www.nancy.fr/fileadmin/NAN/culture/scolaires/2017/2017-la_mythologie.pdf"
+              },
+              {
+                "end_index": 1695,
+                "start_index": 1601,
+                "title": "La mythologie 1er dossier_mythologie.qxd",
+                "type": "url_citation",
+                "url": "https://www.nancy.fr/fileadmin/NAN/culture/scolaires/2017/2017-la_mythologie.pdf"
+              },
+              {
+                "end_index": 1993,
+                "start_index": 1905,
+                "title": "Les collections — Musée des Beaux-arts de Nancy - Ville de Nancy",
+                "type": "url_citation",
+                "url": "https://musee-des-beaux-arts.nancy.fr/les-collections"
+              },
+              {
+                "end_index": 2261,
+                "start_index": 2195,
+                "title": "Rechercher dans la collection",
+                "type": "url_citation",
+                "url": "https://collections-mba.nancy.fr/fr/"
+              },
+              {
+                "end_index": 2867,
+                "start_index": 2768,
+                "title": "La Mort de Didon, reine de Carthage - Louvre site des collections",
+                "type": "url_citation",
+                "url": "https://collections.louvre.fr/ark%3A/53355/cl010064303?utm_source=openai"
+              },
+              {
+                "end_index": 3056,
+                "start_index": 2981,
+                "title": "Didon",
+                "type": "url_citation",
+                "url": "https://fr.wikipedia.org/wiki/Didon?utm_source=openai"
+              },
+              {
+                "end_index": 3264,
+                "start_index": 3166,
+                "title": "La Mort de Didon (Preti)",
+                "type": "url_citation",
+                "url": "https://fr.wikipedia.org/wiki/La_Mort_de_Didon_%28Preti%29?utm_source=openai"
+              },
+              {
+                "end_index": 3517,
+                "start_index": 3396,
+                "title": "Iris coupe le cheveu fatal à Didon sur le bûcher - Dijon Musées",
+                "type": "url_citation",
+                "url": "https://musees.dijon.fr/artworks/iris-coupe-le-cheveu-fatal-a-didon-sur-le-bucher/?utm_source=openai"
+              }
+            ],
+            "text": "## Résultat vérifié\n\nL’œuvre correspond bien à une peinture du **Musée des Beaux-Arts de Nancy**, et non aux nombreuses œuvres homonymes conservées ailleurs.\n\n### 1. Notice avec reproduction — Musée des Beaux-Arts de Nancy\n\n- **Titre :** *La Mort de Didon*  \n- **Artiste :** Anonyme, France  \n- **Datation :** milieu du XVIIIᵉ siècle ; vers **1750–1760**  \n- **Technique :** huile sur toile  \n- **Lieu :** Musée des Beaux-Arts de Nancy  \n- **Reproduction :** oui — la page contient une photographie de l’œuvre, légendée « Anonyme France, milieu du XVIIIe siècle : La Mort de Didon ». ([patrimoine-histoire.fr](https://www.patrimoine-histoire.fr/P_Lorraine/Nancy/Nancy-Musee-des-Beaux-Arts.htm))\n\nLa notice en ligne donne la même identification générale que les données fournies : titre, auteur anonyme, peinture française du XVIIIᵉ siècle et sujet mythologique. Elle ne fait toutefois pas apparaître le numéro d’inventaire **2000.7.2** dans le texte accessible. ([patrimoine-histoire.fr](https://www.patrimoine-histoire.fr/P_Lorraine/Nancy/Nancy-Musee-des-Beaux-Arts.htm))\n\n### 2. Notice officielle / dossier du musée — Ville de Nancy\n\nLe dossier pédagogique officiel du musée consacre une entrée à cette œuvre :\n\n- « **La Mort de Didon, Anonyme, vers 1750** »\n- L’œuvre est placée dans la section consacrée à l’**Énéide**.\n- Le document renvoie explicitement au tableau du musée des Beaux-Arts de Nancy. ([nancy.fr](https://www.nancy.fr/fileadmin/NAN/culture/scolaires/2017/2017-la_mythologie.pdf))\n\nLa légende récapitulative du dossier confirme également : « La Mort de Didon, Anonyme, vers 1750 ». ([nancy.fr](https://www.nancy.fr/fileadmin/NAN/culture/scolaires/2017/2017-la_mythologie.pdf))\n\n### 3. Portail officiel des collections\n\nLe site du musée indique que ses collections sont consultables sur son portail en ligne **Collections MBA Nancy** et renvoie également vers la base nationale Joconde. ([musee-des-beaux-arts.nancy.fr](https://musee-des-beaux-arts.nancy.fr/les-collections))\n\nLe portail officiel est donc la source institutionnelle à privilégier pour contrôler le numéro **2000.7.2**, même si la fiche exacte n’est pas indexée par les moteurs de recherche textuels consultés. ([collections-mba.nancy.fr](https://collections-mba.nancy.fr/fr/))\n\n## Identification retenue\n\n> **Anonyme, *La Mort de Didon*, vers 1750–1760, huile sur toile, Musée des Beaux-Arts de Nancy, inv. 2000.7.2.**\n\nLa date « vers 1750 » du dossier pédagogique est compatible avec la datation plus large « vers 1750–1760 » donnée par la notice illustrée.\n\n## Homonymes écartés\n\nJ’ai écarté plusieurs œuvres portant le même titre :\n\n- **Pierre Paul Rubens**, *La Mort de Didon, reine de Carthage*, au musée du Louvre — œuvre du XVIIᵉ siècle, sans rapport avec l’œuvre nancéienne. ([collections.louvre.fr](https://collections.louvre.fr/ark%3A/53355/cl010064303?utm_source=openai))\n- **Simon Vouet**, *La Mort de Didon*, au musée des Beaux-Arts de Dole — autre tableau, signé et daté vers 1640. ([fr.wikipedia.org](https://fr.wikipedia.org/wiki/Didon?utm_source=openai))\n- **Mattia Preti**, *La Mort de Didon*, au musée des Beaux-Arts de Chambéry — autre tableau du XVIIᵉ siècle. ([fr.wikipedia.org](https://fr.wikipedia.org/wiki/La_Mort_de_Didon_%28Preti%29?utm_source=openai))\n- **Thomas Blanchet**, *La Mort de Didon*, au musée des Beaux-Arts de Dijon — autre composition, attribuée à un artiste identifié. ([musees.dijon.fr](https://musees.dijon.fr/artworks/iris-coupe-le-cheveu-fatal-a-didon-sur-le-bucher/?utm_source=openai))\n\nCes œuvres ne correspondent ni à l’artiste **Anonyme**, ni à la datation **vers 1750**, ni au musée et au numéro d’inventaire fournis.",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "required",
+    "tools": [
+      {
+        "type": "web_search",
+        "filters": null,
+        "search_context_size": "medium",
+        "user_location": {
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null,
+          "type": "approximate"
+        },
+        "return_token_budget": "default",
+        "search_content_types": [
+          "text"
+        ]
+      }
+    ],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1789737343.0,
+    "conversation": null,
+    "max_output_tokens": 2500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "medium",
+      "generate_summary": null,
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 55567,
+      "input_tokens_details": {
+        "cache_write_tokens": 90,
+        "cached_tokens": 4251
+      },
+      "output_tokens": 2224,
+      "output_tokens_details": {
+        "reasoning_tokens": 1342
+      },
+      "total_tokens": 57791
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 5
+      }
+    }
+  }
+}

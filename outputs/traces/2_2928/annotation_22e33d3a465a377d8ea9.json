@@ -1,0 +1,205 @@
+{
+  "signature": "169fe040f80b8fd58ea546bed2f5a9524c306ee55a94fb3190c590c0f729523c",
+  "response": {
+    "id": "resp_0db476e32df29e78016aad4c53b2a487d295dce594710db9bb",
+    "created_at": 1789742163.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": "Analyse uniquement ce qui est visible dans cette image, sans recherche web ni identification de mémoire. Réponds en français. Décris précisément objets, personnages, décor et composition en 2 à 4 phrases. Pas de noms de personnes, dates ou récits non démontrables visuellement. Sujet principal parmi les neuf catégories ou NA. Religion/Mythologie/Histoire exigent des indices visibles, sinon NA ou catégorie plus générale. Culture : pratiques/symboles culturels identifiables ; Quotidien : activités ordinaires ; Objet : objets/nature morte ; Personnage : figure/portrait ; Nature : paysages/faune/flore ; Architecture : bâti. Style visuel probable en mots courts (ex. naturaliste, géométrique, impressionniste), sans affirmer une appartenance historique. Mets indéterminé si nécessaire. Ne confonds pas technique, sujet et style. Indique les limites et justifie les choix.",
+    "metadata": {},
+    "model": "gpt-5.6-luna",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0db476e32df29e78016aad4c545d2c87d2a8548ce21366232a",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrUxaZMLasg5WUkEpUntJy2jkJZkUYFpOCFPfDTC58XX8HdNnoEZ9fZM17aAJfy_Ndeh8ONFehQaCycFyFrR3WbagfcISpGIZS4TMdHokz71p7PRfms20uqFko_Wj52bR2_23QOaep6tT4SKtvKCoBl2iizVG8by5uu1kQ3X4cgYE1qgHpuU1JGkwxPHxVzub6vkWIFUyS85Ju7-EdTeq-3b2YR95wRo-_Wy9dtM8LgPLX2L080H_bvnck9VZQ_pD0HL9dQ_zTXxOc5Ba1Q6c4jkLYpwjWdTzhAHUKvonezZ8SMAo_m7-c3_cGWlnhmF3DuTP9Ilb4GzH7l6dI3SfBbLhPqu8I7AypOK3VwmHFvMcsCvY1LYVZZCQWr0g2tB9s44wl3VqUjcUjCO9wDv50G1XE1cCgEoKIw5fS3Xk7UDWfImCp22WXt8pTA4SVUwXPKzkwSy7VHOJpW7ouaXlYWokPiqZOTlrbBHoKkKIwtolT5Ut_8DMqz4XPyRXxcWE3JOYrq7BjN-EZujYg1Aqi-kc3Am_hG-shOtI6nlh-SinVyPSNy6DLVtm0NltnSHTKBuRxHpaW868F0QZlW1POWfRK96munWZOPEnvZ5jlzoRcjbYHbxGERMT3qSKrQhIE8Cqy_SfRRqtIxuFRdLTE6Jr06x82YxdvFvLDPYfp0ucaTY_JWT5Xdr7X78TxdcZha_weR8LI7hoooGwGbzaKyTjFrnOMeU-S90CdsoUiDBMg-3yaUTBg3zgn_n0iJ6gsWEJkjAPRP1yPWQq15PsPD9vLRnW81uxfHPDs7erFgv_rY6QPg5y8uQVCtLOpm92yibA3VdEc29PRCptCbk7PGcTgMo9xggCqncb-LuraviSiA07UiSw-1Qkq3lCOqgF5aQZJTKHRF8qrpT-qzt9Kj_kLKO8lSOvckDmRjsVm5Zu0iAZ2GstBYaUmi6i3pgLwEzj-yK7lTcdvr06zh1_6t97w2yNomakvYOInxYdDf54Z_zJgUPITHfgQQrm51AcmFyqg9gOAmjt8PpuHAlB5SHwlOtGWDkoCPVSiMhKSsOjZ_Dk4jgl6mavCHuoXDpdCbT9Ji_Bxp9KS50YhbUwYuzwfsYndb0XySJ_URHRdEzG0_vOnNTYhxy4MqHw0nwQ2tII4T-5-oh4IvYwagOkky95-KYsteyuL6SftyJb3ah0snRBJhg8rH3YpmWAmsDliaTUs76dnIK3WeoDVljOvhYdly2m-9CkM_piZXTP4kxa9bscWhZhI587c1d5cGBEMvP2bOjla1aD3WftfGL39e2TEH2bV3Uk0jOl06nNRTBXm1GSLXYVSLauqwVAUGQ8iTzE2qrQL6IOHVDV9QKC7l9A-hrGnvPh4Mlu-wmzQNx37Y6uznXPaKKI5Qo3ZfymrlC7bItz0CGyUfn-G3mc9Zemr6kdpZEZRM0_M20LH_-_xZfEx9Som1NTn1oVaUXAGlkUMnYpHMNt-4vYaQmsZyZIay6hl5F8R3fEMAbQJSUfOQ53KHDclmn8rf9MI2ra89vBu2OlBIjVZHLUGFQaf6jgeLgX6rGMP30ffzr99Y6ZL0N8VUcCT1CqSiuCeGEpdb6coIC57B7GjYLw8QP8zVbN_XnTaF0ZLQ2IEKLWD0dwNtaRrRILpdmmmnVsvvYLxvP_VFxRBg-GsNVmOmDGtCk75grezkU8uPrUtjh54wYR3v-KFtaHbsRSPwW6-6QWopGi9pzmOUIN7iXzrz6Zp78muRHxRqJVVsA82jCfwCXCUN--f2tEva3H0WuA0B0-ZMvsv-QB-PnAP2aGMEFHP6E8d5GYejaLXEbj5MDmaW_Q2Kk=",
+        "status": null
+      },
+      {
+        "id": "msg_0db476e32df29e78016aad4c556ef887d2b1c923c3442ed3a9",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\"description_visuelle\":\"Reproduction d’une peinture sombre montrant plusieurs hommes entassés sur une embarcation ou une structure flottante instable, dans une mer agitée. Au centre, des figures aux torses nus et vêtues de drapés tendent les bras et semblent se soutenir, tandis qu’un homme en rouge occupe le premier plan ; une grande forme sombre semblable à une voile ou à un tissu domine la partie supérieure, sous un ciel obscur et tourmenté. L’ensemble est présenté dans un large cadre en bois sombre à filets dorés.\",\"sujet_principal\":\"Personnage\",\"sujets_secondaires\":[\"Nature\",\"Objet\"],\"justification_sujet\":\"Les figures humaines, leurs gestes et leur interaction structurent la scène ; le paysage marin et l’embarcation constituent des éléments secondaires visibles. Aucun attribut clairement identifiable ne permet d’affirmer un sujet religieux, mythologique ou historique précis.\",\"style_visuel_probable\":\"Dramatique, figuratif, clair-obscur, composition dynamique, touche picturale\",\"justification_style\":\"Les contrastes marqués entre les zones lumineuses et le fond sombre, les corps fortement modelés et les diagonales de gestes donnent à l’image un effet théâtral et mouvementé. Il s’agit d’une description stylistique visuelle, sans attribution historique.\",\"figuration\":\"figuratif\",\"couleurs_dominantes\":[\"brun très sombre\",\"noir\",\"ocre doré\",\"orange\",\"rouge\",\"gris verdâtre\"],\"elements_visibles\":[\"groupe de plusieurs hommes\",\"homme au vêtement rouge au premier plan\",\"figures partiellement dénudées\",\"bras et mains tendus\",\"embarcation ou radeau indistinct\",\"grande voile ou drapé sombre\",\"eau ou rochers agités\",\"ciel obscur\",\"cadre en bois sombre\",\"filets dorés\"],\"composition\":\"La scène est organisée autour d’une diagonale ascendante allant du personnage rouge au premier plan vers les figures placées en haut à gauche. Les corps forment un amas central, entouré de grandes masses sombres ; les touches plus claires sur les visages, les bras et les drapés attirent le regard au centre et dans la moitié supérieure.\",\"limites_visuelles\":[\"La faible luminosité masque une partie des détails du décor et des personnages.\",\"La nature exacte de la structure flottante n’est pas certaine : elle peut être une embarcation, un radeau ou un élément scénique.\",\"Les gestes suggèrent une action collective, mais l’événement représenté ne peut pas être identifié avec certitude à partir de l’image seule.\",\"La photographie montre la peinture derrière un cadre et ne permet pas de distinguer précisément la technique originale.\"]}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1789742170.0,
+    "conversation": null,
+    "max_output_tokens": 3500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "medium",
+      "generate_summary": null,
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "resultat",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "description_visuelle": {
+              "type": "string"
+            },
+            "sujet_principal": {
+              "type": "string",
+              "enum": [
+                "Architecture",
+                "Culture",
+                "Histoire",
+                "Mythologie",
+                "Nature",
+                "Objet",
+                "Personnage",
+                "Quotidien",
+                "Religion",
+                "NA"
+              ]
+            },
+            "sujets_secondaires": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "Architecture",
+                  "Culture",
+                  "Histoire",
+                  "Mythologie",
+                  "Nature",
+                  "Objet",
+                  "Personnage",
+                  "Quotidien",
+                  "Religion"
+                ]
+              }
+            },
+            "justification_sujet": {
+              "type": "string"
+            },
+            "style_visuel_probable": {
+              "type": "string"
+            },
+            "justification_style": {
+              "type": "string"
+            },
+            "figuration": {
+              "type": "string",
+              "enum": [
+                "figuratif",
+                "abstrait",
+                "mixte",
+                "indetermine"
+              ]
+            },
+            "couleurs_dominantes": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "elements_visibles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "composition": {
+              "type": "string"
+            },
+            "limites_visuelles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "description_visuelle",
+            "sujet_principal",
+            "sujets_secondaires",
+            "justification_sujet",
+            "style_visuel_probable",
+            "justification_style",
+            "figuration",
+            "couleurs_dominantes",
+            "elements_visibles",
+            "composition",
+            "limites_visuelles"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 2297,
+      "input_tokens_details": {
+        "cache_write_tokens": 2294,
+        "cached_tokens": 0
+      },
+      "output_tokens": 677,
+      "output_tokens_details": {
+        "reasoning_tokens": 109
+      },
+      "total_tokens": 2974
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  }
+}

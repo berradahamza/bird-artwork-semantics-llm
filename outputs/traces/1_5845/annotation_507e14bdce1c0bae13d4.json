@@ -1,0 +1,205 @@
+{
+  "signature": "ac4c0c76560c67083e08189d33a3b499aa434e53a8c4fc58d389118c0ced9852",
+  "response": {
+    "id": "resp_0fa24ced988aed13016aad436bfcc887d2826962a3acb285da",
+    "created_at": 1789739884.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": "Analyse uniquement ce qui est visible dans cette image, sans recherche web ni identification de mémoire. Réponds en français. Décris précisément objets, personnages, décor et composition en 2 à 4 phrases. Pas de noms de personnes, dates ou récits non démontrables visuellement. Sujet principal parmi les neuf catégories ou NA. Religion/Mythologie/Histoire exigent des indices visibles, sinon NA ou catégorie plus générale. Culture : pratiques/symboles culturels identifiables ; Quotidien : activités ordinaires ; Objet : objets/nature morte ; Personnage : figure/portrait ; Nature : paysages/faune/flore ; Architecture : bâti. Style visuel probable en mots courts (ex. naturaliste, géométrique, impressionniste), sans affirmer une appartenance historique. Mets indéterminé si nécessaire. Ne confonds pas technique, sujet et style. Indique les limites et justifie les choix.",
+    "metadata": {},
+    "model": "gpt-5.6-luna",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0fa24ced988aed13016aad436cd92887d28d84eebe6826dabf",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrUNyVFZh-mVr17rnbj5Z-6wM5yCjHt5n8hsgNREb1tzDKrrM0MCczUOPwDwXFi6lFBJmXMJ9uZXNXaFUB4U7E34-9Fob_nlAIXMdm2gq0jtPG_LYjpVKjBDXNvXeyy_wXDbnjRBJSInbUv3Y6bTzF9GCnBcKh6KUlufV1mZmLL9UkoW7axuuVzGbd-sPT2l6w06cOjTMMN4NTk6Ey0XIegp_Cqdtg_IsO3J8I_AQwukezV_H6as8LEaM7NYT_tfhuSUaxflqHDogOjaz5qJWQ4AATLeHpGTDYWlGsdBI8qynQEBLJh2gkrZ0poDfTZDCDYZ1KKhJeFoC0yvqsKTy_bgLWxmpr3Rz5JTJz_RK1-kVkXBVGh-C68UNys1A7CePz4jxTt_-lFIgb0cwu4KJQ8HkMrmPYJNMxBWcrkDPMPFsSNOyKdkeF9UeeqkOxWeXZls4L8PHmBmEzm5Voszmh3N4rxs6nm8Jhofa3zv6TIPl3ETRAZCxU3nrImOK5qmybNS98jtKhBpF_m5vgG8tpHtnhYiPDeDLzKDYFelPwiVBCWQQaaPzHbh2k6576AH61bp1Gz7Zg8yfmQvl7hIYSLD8lM_v7HCuJEKePoqwRFRUcut40UomF6nYVNU1UHV1Txk40OauIMMouejgt4enG-9K4pn21a01IUg4kXRwxbcED1zpvoxMCSTXIGdwnBciF_8wHs5aEq6nbELYdnAz91Qri3CEnLFxoC88H6ikG_lZZgUkh_2HWeHUEO4sqMqCrCunpqgoGu2iMSaLl-PoOQFzecy96EphwGxDZi3Z0a2jN8hrPFnyEl8z387ikpdYfNYmzsPd_Wxr-7ow950D2kDKdyvC4sB9Lf4P6haR9jTTmH_PNnNt-M8nAs7xJ803fGyvOU79uePF1igmB9U0nOwiI421_NAipCiPgsmp9Xw66hucrMfLpoobwWcv3MhNo_Y3AeOB7iJvCrpD7KjEi05nzRv_2UJ4eqLgFtcvSvKAMaILnKDp0jxSdVCngjS64f5W_sRHAOw2H18_rFXthSTCqtmoU1PzlKON4YeHU49r7Vebhzt49at9dTgZX9MpbYnnU062qGK6M1NAxk-KLVfmZwHMR95nvq3VrYE1BJfu_0HXkPBMPlEuG1fAFjGPOPqQs0A8UmUkiNxneXlJUy0DzoAjWA4voRPD3fiS4cTsht2PYNJZTrU4to0N0oC20PO02HNz1PIjEZEp9Dlj8WTpLamoPFNEUOcgA0AkUlXQNLwjcCV4kuuFneKBqX25x1HZCcgfLUw6dwvXNocr0gi5TDQnls-TVyf8EByiAVwSoWZwp7-dR0mIyFzVbgP47bX_-FNpgSTmWUlU_ajHxqLuYJdWgPtAjTEXhGNDH6JLUpJza3rmlN4YI2dfXD-ofNx_Da5ezn7vVhgqe114XzGhD-HMr6KjvyHv7s91dKkrF8U7JvWNcYsHFDOq6D9d69Se9QWyxHsfDP5ruTnV6Y2PYF92nJjJ5hMtvrlrQ9ksMHSt4Gpna0095IF9-lb4O23XL1bKO9S59hV8FyYTOsf41qAfcBLQNk0NLoxJoqr5Qsfk7hDD0qOuNzQCKc5uyLrUjglfNylZka0UQ1o8z-SwUigUMim4PQsVNH42NKBU4qt2U7KtyJWHG6xhpIYMYXeMcqIvLQ155fmvT_xuJrsiNSAlINx8UGSNfHkwmZruVXWwgAdy8btygQ5RSNIWdYLC0gi-3zw8DvUY3DMY4uGmxKghcGFvdSxtYhufTKOZ0c_k5Sz4jar_q41BeL91h4s6fcSqH00ygljqOFS5ZbjYl4V8EiAI7Z9ypOKxTMJBh0_kep-nQsiTs3nItnqCaxge",
+        "status": null
+      },
+      {
+        "id": "msg_0fa24ced988aed13016aad436dfaac87d29df87aa1593ff90f",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\"description_visuelle\":\"Une femme assise sur une chaise tient et ajuste un vêtement clair au niveau de son torse, la tête inclinée vers ses mains. À gauche, une petite bougie allumée est posée sur un chandelier devant un banc ou une table aux parties peintes en rouge. La scène intérieure, très sombre, est éclairée principalement par la flamme et par une lumière chaude venant de la gauche, qui souligne le visage, les mains et les plis des vêtements.\",\"sujet_principal\":\"Quotidien\",\"sujets_secondaires\":[\"Personnage\",\"Objet\"],\"justification_sujet\":\"La scène montre une personne engagée dans une activité domestique ou personnelle ordinaire, dans un intérieur meublé, sans indice visuel suffisant pour l’associer à un récit historique ou religieux précis.\",\"style_visuel_probable\":\"Naturalisme sombre, clair-obscur, réalisme\",\"justification_style\":\"Les volumes sont rendus par de forts contrastes entre les zones éclairées et les ombres, avec une attention réaliste aux matières, aux plis du tissu, au bois et à la flamme.\",\"figuration\":\"figuratif\",\"couleurs_dominantes\":[\"brun\",\"ocre\",\"noir\",\"rouge orangé\",\"beige clair\"],\"elements_visibles\":[\"femme assise\",\"chaise en bois sombre\",\"vêtement clair et ample\",\"mains tenant le vêtement\",\"bougie allumée\",\"chandelier\",\"banc ou table peint en rouge\",\"mur sombre\",\"sol brun\"],\"composition\":\"La figure occupe la partie droite et le centre de l’image, en diagonale descendante de la tête vers les mains et les jambes. Le chandelier et le mobilier rouge structurent la partie gauche, tandis que l’éclairage concentre l’attention sur le haut du corps et le geste des mains.\",\"limites_visuelles\":[\"L’action exacte de la femme n’est pas identifiable avec certitude : elle semble ajuster ou tenir son vêtement, mais le détail ne permet pas de préciser davantage.\",\"Aucune information visible ne permet d’identifier l’auteur, le titre, la date ou le contexte de cette reproduction.\",\"La fonction exacte du meuble rouge à gauche reste indéterminée.\"]}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1789739890.0,
+    "conversation": null,
+    "max_output_tokens": 3500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "medium",
+      "generate_summary": null,
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "resultat",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "description_visuelle": {
+              "type": "string"
+            },
+            "sujet_principal": {
+              "type": "string",
+              "enum": [
+                "Architecture",
+                "Culture",
+                "Histoire",
+                "Mythologie",
+                "Nature",
+                "Objet",
+                "Personnage",
+                "Quotidien",
+                "Religion",
+                "NA"
+              ]
+            },
+            "sujets_secondaires": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "Architecture",
+                  "Culture",
+                  "Histoire",
+                  "Mythologie",
+                  "Nature",
+                  "Objet",
+                  "Personnage",
+                  "Quotidien",
+                  "Religion"
+                ]
+              }
+            },
+            "justification_sujet": {
+              "type": "string"
+            },
+            "style_visuel_probable": {
+              "type": "string"
+            },
+            "justification_style": {
+              "type": "string"
+            },
+            "figuration": {
+              "type": "string",
+              "enum": [
+                "figuratif",
+                "abstrait",
+                "mixte",
+                "indetermine"
+              ]
+            },
+            "couleurs_dominantes": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "elements_visibles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "composition": {
+              "type": "string"
+            },
+            "limites_visuelles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "description_visuelle",
+            "sujet_principal",
+            "sujets_secondaires",
+            "justification_sujet",
+            "style_visuel_probable",
+            "justification_style",
+            "figuration",
+            "couleurs_dominantes",
+            "elements_visibles",
+            "composition",
+            "limites_visuelles"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 1701,
+      "input_tokens_details": {
+        "cache_write_tokens": 1698,
+        "cached_tokens": 0
+      },
+      "output_tokens": 576,
+      "output_tokens_details": {
+        "reasoning_tokens": 110
+      },
+      "total_tokens": 2277
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  }
+}

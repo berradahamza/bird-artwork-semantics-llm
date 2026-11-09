@@ -1,0 +1,197 @@
+{
+  "signature": "ba72e0fd9b23e53b8c4f2a33ddfe36c924e2a93845d74eea8348119fa43a4ef3",
+  "response": {
+    "id": "resp_0f6463d01cb16919016aabe759870487d2b9e1ada35327da3c",
+    "created_at": 1789650777.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": "Analyse uniquement ce qui est visible dans cette image, sans recherche web ni identification de mémoire. Réponds en français. Décris précisément objets, personnages, décor et composition en 2 à 4 phrases. Pas de noms de personnes, dates ou récits non démontrables visuellement. Sujet principal parmi les neuf catégories ou NA. Religion/Mythologie/Histoire exigent des indices visibles, sinon NA ou catégorie plus générale. Culture : pratiques/symboles culturels identifiables ; Quotidien : activités ordinaires ; Objet : objets/nature morte ; Personnage : figure/portrait ; Nature : paysages/faune/flore ; Architecture : bâti. Style visuel probable en mots courts (ex. naturaliste, géométrique, impressionniste), sans affirmer une appartenance historique. Mets indéterminé si nécessaire. Ne confonds pas technique, sujet et style. Indique les limites et justifie les choix.",
+    "metadata": {},
+    "model": "gpt-4.1-2025-04-14",
+    "object": "response",
+    "output": [
+      {
+        "id": "msg_0f6463d01cb16919016aabe75a33e487d28da12dff068cc6e8",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\n  \"description_visuelle\": \"Une femme en robe rouge et chemisier blanc est assise sur une chaise devant un bureau sur lequel sont posés des objets (pot à crayons, papiers, petites figurines). À l'arrière-plan, on distingue une plante verte en pot, une étagère remplie de livres et de revues, ainsi qu'une corbeille remplie de papiers, une décoration murale et des images accrochées au mur. L’attitude de la femme et son regard tourné sur le côté donnent une impression de pause ou de réflexion dans un environnement domestique ou de travail.\",\n  \"sujet_principal\": \"Personnage\",\n  \"sujets_secondaires\": [\n    \"Quotidien\",\n    \"Objet\"\n  ],\n  \"justification_sujet\": \"Le personnage assis domine la scène, tandis que le décor, les objets du bureau et les activités présentées font référence à un contexte ordinaire et aux objets du quotidien.\",\n  \"style_visuel_probable\": \"naturaliste\",\n  \"justification_style\": \"Les formes, les proportions et les couleurs sont traitées de façon réaliste, avec un souci du détail dans le mobilier et l’expression corporelle.\",\n  \"figuration\": \"figuratif\",\n  \"couleurs_dominantes\": [\n    \"rouge\",\n    \"beige\",\n    \"marron\",\n    \"vert\",\n    \"blanc\"\n  ],\n  \"elements_visibles\": [\n    \"femme assise\",\n    \"bureau\",\n    \"chaise\",\n    \"étagère avec livres\",\n    \"plante en pot\",\n    \"corbeille à papier\",\n    \"images murales\",\n    \"objet décoratif\",\n    \"tapis\"\n  ],\n  \"composition\": \"La scène est centrée sur la femme, encadrée par le bureau à gauche et l’étagère à droite, créant une perspective en profondeur et un équilibre entre la figure et l’environnement.\",\n  \"limites_visuelles\": [\n    \"La pièce n’est partiellement visible, seul un angle d’un intérieur domestique\",\n    \"Aucune activité précise n'est montrée (la femme est en attente ou en réflexion)\",\n    \"Pas d’indices temporels ou contextuels clairs sur l’époque ou la culture\"\n  ]\n}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": null
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 1.0,
+    "background": false,
+    "completed_at": 1789650781.0,
+    "conversation": null,
+    "max_output_tokens": 3500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "in_memory",
+    "reasoning": {
+      "context": null,
+      "effort": null,
+      "generate_summary": null,
+      "mode": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "resultat",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "description_visuelle": {
+              "type": "string"
+            },
+            "sujet_principal": {
+              "type": "string",
+              "enum": [
+                "Architecture",
+                "Culture",
+                "Histoire",
+                "Mythologie",
+                "Nature",
+                "Objet",
+                "Personnage",
+                "Quotidien",
+                "Religion",
+                "NA"
+              ]
+            },
+            "sujets_secondaires": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "Architecture",
+                  "Culture",
+                  "Histoire",
+                  "Mythologie",
+                  "Nature",
+                  "Objet",
+                  "Personnage",
+                  "Quotidien",
+                  "Religion"
+                ]
+              }
+            },
+            "justification_sujet": {
+              "type": "string"
+            },
+            "style_visuel_probable": {
+              "type": "string"
+            },
+            "justification_style": {
+              "type": "string"
+            },
+            "figuration": {
+              "type": "string",
+              "enum": [
+                "figuratif",
+                "abstrait",
+                "mixte",
+                "indetermine"
+              ]
+            },
+            "couleurs_dominantes": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "elements_visibles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "composition": {
+              "type": "string"
+            },
+            "limites_visuelles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "description_visuelle",
+            "sujet_principal",
+            "sujets_secondaires",
+            "justification_sujet",
+            "style_visuel_probable",
+            "justification_style",
+            "figuration",
+            "couleurs_dominantes",
+            "elements_visibles",
+            "composition",
+            "limites_visuelles"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 850,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cached_tokens": 0
+      },
+      "output_tokens": 480,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 1330
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  }
+}

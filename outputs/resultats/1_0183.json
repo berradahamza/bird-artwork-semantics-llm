@@ -1,0 +1,62 @@
+{
+  "image_id": "1_0183",
+  "titre": "La Rencontre de Didon et Enée",
+  "artiste": "Anonyme",
+  "room_id": "Room_26",
+  "sujet_existant": "Mythologie",
+  "fingerprint": "82504e2b125196ac4546ea14ad6e873ab702057b9142c38cca05379c85f0bc77",
+  "model": "gpt-5.6-luna",
+  "prompt_version": "bird-vision-v1",
+  "date_utc": "2026-09-18T13:15:47.919834+00:00",
+  "statut": "ok",
+  "image_path": "images\\1_0183.jpg",
+  "source_page": "https://operasandcycling.com/fine-arts-museum-in-nancy/",
+  "source_image": "https://operasandcycling.com/operasandcycling.com/wp-content/uploads/2018/07/5358b_resize-780-439-ssl-1.jpg",
+  "controle_identite": "retenu_par_IA_non_verifie_humain",
+  "raison_identite": "La page candidate rattache explicitement l’image à « La Rencontre de Didon et Énée », œuvre anonyme française du milieu du XVIIIe siècle conservée au musée des Beaux-Arts de Nancy. Le titre, l’artiste, la période et le musée correspondent à la notice fournie.",
+  "original_width": 780,
+  "original_height": 439,
+  "download_url": "https://operasandcycling.com/operasandcycling.com/wp-content/uploads/2018/07/5358b_resize-780-439-ssl-1.jpg",
+  "sha256_download": "87d68e75a571697fc139b5aad504878aeafa5c66f223aafc20537cf738f2a4e5",
+  "description_visuelle": "Deux figures féminines vêtues de drapés colorés occupent le centre de la scène ; l’une tient un petit instrument à cordes, tandis que l’autre lève un bras près de sa tête. Elles sont assises ou appuyées sur un sol sombre, entourées d’objets métalliques — casque, vase, coupes et récipient — avec des silhouettes et une végétation indistinctes à l’arrière-plan.",
+  "sujet_principal": "Personnage",
+  "sujets_secondaires": [
+    "Objet",
+    "Nature"
+  ],
+  "justification_sujet": "La composition est dominée par deux figures humaines mises en scène au premier plan ; les objets et le décor végétal jouent un rôle secondaire. Aucun indice visuel suffisamment certain ne permet d’identifier une scène religieuse, historique ou mythologique précise.",
+  "style_visuel_probable": "Figuratif, peint, modelé par la lumière, composition théâtrale",
+  "justification_style": "Les corps, les étoffes et les objets sont représentés de manière reconnaissable, avec des contours souples, des poses étudiées et des contrastes entre les zones éclairées et le fond sombre.",
+  "figuration": "figuratif",
+  "couleurs_dominantes": [
+    "bleu-vert",
+    "rose",
+    "ocre",
+    "jaune pâle",
+    "brun",
+    "gris sombre"
+  ],
+  "elements_visibles": [
+    "Deux femmes assises ou appuyées l’une contre l’autre",
+    "Drapés bleus, roses, blancs et jaunes",
+    "Petit instrument à cordes ou objet similaire tenu par la figure de gauche",
+    "Casque ou pièce d’armure au premier plan",
+    "Vase ou récipient métallique à droite",
+    "Coupes et objets posés au sol",
+    "Végétation sombre",
+    "Silhouettes peu distinctes en arrière-plan"
+  ],
+  "composition": "Les deux figures forment un groupe central en diagonale, avec une figure de gauche inclinée vers l’avant et une figure de droite plus verticale. Les objets métalliques équilibrent la partie inférieure et droite de l’image, tandis que le fond obscur isole les personnages.",
+  "limites_visuelles": [
+    "Les détails des objets tenus et des silhouettes du fond sont trop flous pour permettre une identification certaine.",
+    "La fonction symbolique des attributs, ainsi que l’identité ou le statut des figures, ne sont pas démontrables uniquement à partir de l’image.",
+    "La reproduction est sombre et montre une texture ou un grain qui limitent l’observation des détails."
+  ],
+  "desaccord_sujet": true,
+  "erreurs_telechargement": [
+    {
+      "url": "https://i0.wp.com/operasandcycling.com/wp-content/uploads/2022/01/IMG_5350oval4.jpg?fit=780%2C439&ssl=1&w=640",
+      "error": "HTTPError"
+    }
+  ]
+}

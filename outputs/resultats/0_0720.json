@@ -1,0 +1,54 @@
+{
+  "image_id": "0_0720",
+  "titre": "La Veillée",
+  "artiste": "Edouard Pignon",
+  "room_id": "Room_7",
+  "sujet_existant": "Quotidien",
+  "model": "gpt-5.6-luna",
+  "prompt_version": "bird-vision-v1",
+  "date_utc": "2026-09-19T14:27:50.598805+00:00",
+  "mode_acquisition": "image_locale",
+  "fichier_fourni": "0_0720.png",
+  "controle_identite": "association_par_id_fournie_par_utilisateur",
+  "raison_identite": "Image associée à cette œuvre par son nom de fichier ; identité non contrôlée automatiquement.",
+  "source_page": "",
+  "source_image": "",
+  "erreurs_telechargement": [],
+  "sha256_image_locale": "c34335d4fd1cde17ff30dbf7cb4c60bc921c3ba2a7aa304a677eb1be752f3889",
+  "fingerprint": "94aaa4c28b168a57f01d52ee0e37df51594f892b83d5dfe2ddc94b6b114f3ad5",
+  "original_width": 352,
+  "original_height": 471,
+  "statut": "ok",
+  "image_path": "images\\0_0720.jpg",
+  "description_visuelle": "Dessin monochrome représentant plusieurs figures humaines debout ou assises dans un espace intérieur peu défini. Au premier plan, une grande forme humaine ou drapée semble allongée sur une surface basse, tandis que plusieurs silhouettes verticales se tiennent derrière elle, certaines paraissant adossées à un meuble ou tenant des objets indéterminés. Le trait sombre et anguleux structure des corps, des vêtements et quelques éléments de mobilier sans permettre d’identifier précisément la scène.",
+  "sujet_principal": "Personnage",
+  "sujets_secondaires": [
+    "Objet",
+    "Quotidien"
+  ],
+  "justification_sujet": "La composition est dominée par plusieurs figures humaines, dont une forme allongée au premier plan. Le mobilier et les objets suggèrent un espace d’activité ordinaire, mais aucune action précise n’est démontrable.",
+  "style_visuel_probable": "figuratif, monochrome, gestuel, expressionniste",
+  "justification_style": "Les silhouettes sont reconnaissables mais déformées par des contours épais, des contrastes noirs marqués et une construction rapide, peu détaillée. Il s’agit d’une caractérisation visuelle probable, sans attribution historique ou artistique.",
+  "figuration": "figuratif",
+  "couleurs_dominantes": [
+    "noir",
+    "gris",
+    "gris clair",
+    "blanc cassé"
+  ],
+  "elements_visibles": [
+    "plusieurs silhouettes humaines",
+    "une grande forme allongée ou drapée au premier plan",
+    "surface basse ou meuble",
+    "formes verticales et objets indéterminés en arrière-plan",
+    "espace intérieur peu détaillé"
+  ],
+  "composition": "La scène est organisée en profondeur : une masse volumineuse occupe la partie inférieure et le premier plan, tandis qu’un groupe de figures dressées remplit le centre et l’arrière-plan. Les lignes diagonales et les contours noirs conduisent le regard entre la forme allongée et les silhouettes debout.",
+  "limites_visuelles": [
+    "Les visages et les gestes sont trop peu détaillés pour identifier les personnes.",
+    "La forme allongée peut être un personnage, un drap ou un ensemble de vêtements.",
+    "Le lieu, les objets tenus et l’action représentée restent indéterminés.",
+    "Le cadrage partiel et le faible contraste de la reproduction masquent certains détails."
+  ],
+  "desaccord_sujet": true
+}

@@ -1,0 +1,197 @@
+{
+  "signature": "53f0c12b5d1d69b8fc95ce81928384f5d710b841a5e6cdcdaf34af00c87ac19a",
+  "response": {
+    "id": "resp_0018a9ddfd666de4016aabe2f7482487d2867042e2a97d88df",
+    "created_at": 1789649655.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": "Analyse uniquement ce qui est visible dans cette image, sans recherche web ni identification de mémoire. Réponds en français. Décris précisément objets, personnages, décor et composition en 2 à 4 phrases. Pas de noms de personnes, dates ou récits non démontrables visuellement. Sujet principal parmi les neuf catégories ou NA. Religion/Mythologie/Histoire exigent des indices visibles, sinon NA ou catégorie plus générale. Culture : pratiques/symboles culturels identifiables ; Quotidien : activités ordinaires ; Objet : objets/nature morte ; Personnage : figure/portrait ; Nature : paysages/faune/flore ; Architecture : bâti. Style visuel probable en mots courts (ex. naturaliste, géométrique, impressionniste), sans affirmer une appartenance historique. Mets indéterminé si nécessaire. Ne confonds pas technique, sujet et style. Indique les limites et justifie les choix.",
+    "metadata": {},
+    "model": "gpt-4.1-2025-04-14",
+    "object": "response",
+    "output": [
+      {
+        "id": "msg_0018a9ddfd666de4016aabe2f8753c87d2b38c1870a5627df1",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\n  \"description_visuelle\": \"L'image présente une composition de lignes parallèles formant des motifs angulaires et géométriques, avec des zones colorées en dégradé du jaune au noir, passant par le rouge, bleu, vert et violet. Des formes organiques, découpées sur ce fond géométrique, se détachent par des changements de couleurs et de traits noirs ondulants qui tracent les frontières entre les différentes zones. Un coin supérieur gauche est occupé par une grande zone noire se fondant dans le reste de la composition.\",\n  \"sujet_principal\": \"Objet\",\n  \"sujets_secondaires\": [\"Nature\"],\n  \"justification_sujet\": \"Le motif central et l'organisation générale n'évoquent ni personnage, ni scène quotidienne mais plutôt une étude géométrique et colorée ; les formes ondulantes centrales peuvent évoquer de manière abstraite des éléments naturels, d'où 'Nature' en secondaire.\",\n  \"style_visuel_probable\": \"géométrique, abstrait, op art\",\n  \"justification_style\": \"La prépondérance des lignes, des formes géométriques répétitives et la juxtaposition de couleurs pures sur des formes abstraites relèvent d'un style géométrique et abstrait.\",\n  \"figuration\": \"abstrait\",\n  \"couleurs_dominantes\": [\"rouge\", \"jaune\", \"bleu\", \"vert\", \"violet\", \"noir\"],\n  \"elements_visibles\": [\"lignes parallèles colorées\", \"formes ondulantes noires\", \"grandes zones colorées en dégradé\"],\n  \"composition\": \"La composition est centrée sur des motifs rectilignes organisés en cercles ou carrés concentriques, entrecoupés de formes organiques. Le regard est guidé par les changements brusques de couleurs et les transitions entre zones géométriques et formes courbes.\",\n  \"limites_visuelles\": [\"Aucune figure ou objet identifiable\", \"Pas d'indice culturel, historique ou religieux apparent\", \"Pure abstraction géométrique\", \"Pas de perspective réaliste\"]\n}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": null
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 1.0,
+    "background": false,
+    "completed_at": 1789649663.0,
+    "conversation": null,
+    "max_output_tokens": 3500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "in_memory",
+    "reasoning": {
+      "context": null,
+      "effort": null,
+      "generate_summary": null,
+      "mode": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "resultat",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "description_visuelle": {
+              "type": "string"
+            },
+            "sujet_principal": {
+              "type": "string",
+              "enum": [
+                "Architecture",
+                "Culture",
+                "Histoire",
+                "Mythologie",
+                "Nature",
+                "Objet",
+                "Personnage",
+                "Quotidien",
+                "Religion",
+                "NA"
+              ]
+            },
+            "sujets_secondaires": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "Architecture",
+                  "Culture",
+                  "Histoire",
+                  "Mythologie",
+                  "Nature",
+                  "Objet",
+                  "Personnage",
+                  "Quotidien",
+                  "Religion"
+                ]
+              }
+            },
+            "justification_sujet": {
+              "type": "string"
+            },
+            "style_visuel_probable": {
+              "type": "string"
+            },
+            "justification_style": {
+              "type": "string"
+            },
+            "figuration": {
+              "type": "string",
+              "enum": [
+                "figuratif",
+                "abstrait",
+                "mixte",
+                "indetermine"
+              ]
+            },
+            "couleurs_dominantes": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "elements_visibles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "composition": {
+              "type": "string"
+            },
+            "limites_visuelles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "description_visuelle",
+            "sujet_principal",
+            "sujets_secondaires",
+            "justification_sujet",
+            "style_visuel_probable",
+            "justification_style",
+            "figuration",
+            "couleurs_dominantes",
+            "elements_visibles",
+            "composition",
+            "limites_visuelles"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 850,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cached_tokens": 0
+      },
+      "output_tokens": 442,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 1292
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  }
+}

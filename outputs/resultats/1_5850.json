@@ -1,0 +1,58 @@
+{
+  "image_id": "1_5850",
+  "titre": "Nature morte",
+  "artiste": "Louise Moillon",
+  "room_id": "Room_31",
+  "sujet_existant": "Objet",
+  "model": "gpt-5.6-luna",
+  "prompt_version": "bird-vision-v1",
+  "date_utc": "2026-09-19T14:28:35.677263+00:00",
+  "mode_acquisition": "image_locale",
+  "fichier_fourni": "1_5850.jpg",
+  "controle_identite": "association_par_id_fournie_par_utilisateur",
+  "raison_identite": "Image associée à cette œuvre par son nom de fichier ; identité non contrôlée automatiquement.",
+  "source_page": "",
+  "source_image": "",
+  "erreurs_telechargement": [],
+  "sha256_image_locale": "b02144905f9ee8dc85537c62f6748866d47f696f7cf21ad7e91fb6760ac46738",
+  "fingerprint": "0c6e4bc5283e1420142beb4553d318a8b843d092e2929ed1e79836858efaa5fd",
+  "original_width": 768,
+  "original_height": 568,
+  "statut": "ok",
+  "image_path": "images\\1_5850.jpg",
+  "description_visuelle": "Une coupe blanche à bord festonné contient un assemblage de pommes rouges et jaunes, de prunes ou fruits sombres et de petites baies. Elle est posée sur une table sombre, accompagnée de morceaux de fruits coupés, d’un couteau à manche noir et d’un gros morceau de pain ou de pâtisserie doré. Le fond presque noir fait ressortir la nature morte, éclairée principalement par l’avant.",
+  "sujet_principal": "Objet",
+  "sujets_secondaires": [
+    "Nature",
+    "Quotidien"
+  ],
+  "justification_sujet": "La composition présente principalement des objets et des aliments disposés comme une nature morte : coupe, fruits, couteau et pain. Les fruits constituent un élément naturel, tandis que le couteau et la préparation alimentaire relèvent du quotidien.",
+  "style_visuel_probable": "Naturaliste, réaliste, clair-obscur, peinture à texture apparente",
+  "justification_style": "Les volumes sont rendus par des ombres et des rehauts lumineux, avec une imitation détaillée des surfaces des fruits, de la coupe et du pain. Le contraste marqué avec le fond sombre produit un effet de clair-obscur, sans permettre d’identifier une attribution historique précise.",
+  "figuration": "figuratif",
+  "couleurs_dominantes": [
+    "noir",
+    "brun",
+    "rouge",
+    "jaune pâle",
+    "blanc cassé",
+    "ocre doré"
+  ],
+  "elements_visibles": [
+    "coupe ou plat blanc à bord festonné",
+    "pommes rouges et jaunes",
+    "fruits ronds sombres ressemblant à des prunes ou des raisins",
+    "morceaux de fruits ouverts",
+    "couteau à manche noir",
+    "gros morceau de pain ou de pâtisserie doré",
+    "table sombre",
+    "fond noir"
+  ],
+  "composition": "La coupe occupe le centre et la majeure partie de l’image, avec les fruits empilés en hauteur. Les morceaux de fruits sont disposés dans l’angle inférieur gauche, le couteau horizontal au premier plan et le pain dans l’angle inférieur droit; le fond sombre encadre l’ensemble.",
+  "limites_visuelles": [
+    "L’identité exacte des fruits n’est pas certaine en raison de la faible résolution et de l’éclairage sombre.",
+    "Le gros élément doré à droite peut être du pain ou une pâtisserie; sa nature précise est indéterminée.",
+    "Aucun indice visuel suffisant ne permet d’attribuer l’œuvre à un artiste, une époque ou un contexte historique particulier."
+  ],
+  "desaccord_sujet": false
+}

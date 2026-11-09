@@ -1,0 +1,197 @@
+{
+  "signature": "8b4e138496c10c820aafd37ba6112b4603ac7613e32838bfe517911fdc34733e",
+  "response": {
+    "id": "resp_0e846418ea30a571016aabea6dbb5c87d28996c386db7bf697",
+    "created_at": 1789651565.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": "Analyse uniquement ce qui est visible dans cette image, sans recherche web ni identification de mémoire. Réponds en français. Décris précisément objets, personnages, décor et composition en 2 à 4 phrases. Pas de noms de personnes, dates ou récits non démontrables visuellement. Sujet principal parmi les neuf catégories ou NA. Religion/Mythologie/Histoire exigent des indices visibles, sinon NA ou catégorie plus générale. Culture : pratiques/symboles culturels identifiables ; Quotidien : activités ordinaires ; Objet : objets/nature morte ; Personnage : figure/portrait ; Nature : paysages/faune/flore ; Architecture : bâti. Style visuel probable en mots courts (ex. naturaliste, géométrique, impressionniste), sans affirmer une appartenance historique. Mets indéterminé si nécessaire. Ne confonds pas technique, sujet et style. Indique les limites et justifie les choix.",
+    "metadata": {},
+    "model": "gpt-4.1-2025-04-14",
+    "object": "response",
+    "output": [
+      {
+        "id": "msg_0e846418ea30a571016aabea6e669087d2bfd070bba414fa96",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\n  \"description_visuelle\": \"L’image montre une scène en extérieur, baignée de lumière, probablement en sous-bois ou lisière d’un bosquet. Deux personnages humains sont présents : l’un debout ou légèrement accroupi au centre-gauche, l’autre assis à droite, partiellement dissimulé par des feuillages. Un autre personnage ou animal semble apparaître dans le ciel, au centre supérieur de la composition. L’atmosphère générale est vaporeuse, les formes et contours sont estompés par des touches larges de couleur.\",\n  \"sujet_principal\": \"Mythologie\",\n  \"sujets_secondaires\": [\"Nature\", \"Personnage\"],\n  \"justification_sujet\": \"Deux figures humaines dans une mise en scène dramatique, dont l’une semble se tourner vers l’autre, avec un être aérien dans le ciel, évoquent un épisode narratif possiblement mythologique. Les indices incluent la posture expressive, la présence surnaturelle dans le ciel et l’ambiance mystérieuse.\",\n  \"style_visuel_probable\": \"impressionniste\",\n  \"justification_style\": \"Les touches libres et superposées, l’importance donnée aux effets de lumière et la suggestion des formes sans détails marqués rappellent une démarche impressionniste.\",\n  \"figuration\": \"figuratif\",\n  \"couleurs_dominantes\": [\"vert\", \"violet\", \"blanc cassé\", \"marron\", \"bleu\"],\n  \"elements_visibles\": [\"deux personnages\", \"végétation\", \"arbre\", \"ciel\", \"forme en lévitation\", \"buissons\"],\n  \"composition\": \"La composition est centrée sur le dialogue visuel entre les deux personnages. Les masses de végétation et l’arbre créent un encadrement sombre, contrastant avec le ciel lumineux au centre. La figure dans le ciel attire le regard vers le haut, tandis que la diagonale des personnages guide l’œil à travers la scène.\",\n  \"limites_visuelles\": [\"Identités ou récit précis des personnages non identifiables avec certitude\", \"Ambiguïté de la figure dans le ciel\", \"Certains détails volontairement estompés ou abstraits par le style\"]\n}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": null
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 1.0,
+    "background": false,
+    "completed_at": 1789651571.0,
+    "conversation": null,
+    "max_output_tokens": 3500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "in_memory",
+    "reasoning": {
+      "context": null,
+      "effort": null,
+      "generate_summary": null,
+      "mode": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "resultat",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "description_visuelle": {
+              "type": "string"
+            },
+            "sujet_principal": {
+              "type": "string",
+              "enum": [
+                "Architecture",
+                "Culture",
+                "Histoire",
+                "Mythologie",
+                "Nature",
+                "Objet",
+                "Personnage",
+                "Quotidien",
+                "Religion",
+                "NA"
+              ]
+            },
+            "sujets_secondaires": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "Architecture",
+                  "Culture",
+                  "Histoire",
+                  "Mythologie",
+                  "Nature",
+                  "Objet",
+                  "Personnage",
+                  "Quotidien",
+                  "Religion"
+                ]
+              }
+            },
+            "justification_sujet": {
+              "type": "string"
+            },
+            "style_visuel_probable": {
+              "type": "string"
+            },
+            "justification_style": {
+              "type": "string"
+            },
+            "figuration": {
+              "type": "string",
+              "enum": [
+                "figuratif",
+                "abstrait",
+                "mixte",
+                "indetermine"
+              ]
+            },
+            "couleurs_dominantes": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "elements_visibles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "composition": {
+              "type": "string"
+            },
+            "limites_visuelles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "description_visuelle",
+            "sujet_principal",
+            "sujets_secondaires",
+            "justification_sujet",
+            "style_visuel_probable",
+            "justification_style",
+            "figuration",
+            "couleurs_dominantes",
+            "elements_visibles",
+            "composition",
+            "limites_visuelles"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 850,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cached_tokens": 0
+      },
+      "output_tokens": 469,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 1319
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  }
+}

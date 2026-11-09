@@ -1,0 +1,60 @@
+{
+  "image_id": "1_0074",
+  "titre": "Médée",
+  "artiste": "Henri Klagmann",
+  "room_id": "Room_21",
+  "sujet_existant": "Mythologie",
+  "fingerprint": "aaea349e425ce8a746c581db4699135ca92c1ec76b274a0db215ff65c40d1c20",
+  "model": "gpt-5.6-luna",
+  "prompt_version": "bird-vision-v1",
+  "date_utc": "2026-09-18T12:32:31.958683+00:00",
+  "statut": "ok",
+  "image_path": "images\\1_0074.jpg",
+  "source_page": "https://fr.wikipedia.org/wiki/Fichier:Beaux-Arts_Nancy_Klagmann_50108.jpg",
+  "source_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Beaux-Arts_Nancy_Klagmann_50108.jpg/960px-Beaux-Arts_Nancy_Klagmann_50108.jpg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+  "controle_identite": "retenu_par_IA_non_verifie_humain",
+  "raison_identite": "La page et l’image identifient explicitement une peinture intitulée « Médée » par Henri Klagmann, datée de 1868, conservée au musée des Beaux-Arts de Nancy. Le sujet représenté — Médée avec ses enfants et un poignard — correspond également à la description de l’œuvre. La différence de dimensions indiquée ne remet pas en cause cette identification claire.",
+  "original_width": 960,
+  "original_height": 1263,
+  "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Beaux-Arts_Nancy_Klagmann_50108.jpg/960px-Beaux-Arts_Nancy_Klagmann_50108.jpg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+  "sha256_download": "825fb77eed515bdf7353ef474f4866355bc35b6ea8ee3b111f52f11d2d797dd2",
+  "description_visuelle": "Une femme à demi dénudée, coiffée d’un ornement métallique, est assise au centre-droit dans un intérieur sombre ; elle appuie sa tête sur une main et tient un objet allongé près de sa hanche. Plusieurs enfants nus ou partiellement couverts de draperies sont regroupés au premier plan autour d’un grand vêtement vert, tandis qu’un rideau sombre, une balustrade et un décor peu lisible occupent l’arrière-plan. La lumière met surtout en valeur le corps de la femme, les enfants et les étoffes rouges, vertes, bleues et blanches.",
+  "sujet_principal": "Personnage",
+  "sujets_secondaires": [
+    "Objet"
+  ],
+  "justification_sujet": "La scène est dominée par une figure féminine et plusieurs enfants représentés de manière figurative. L’ornement porté sur la tête, les draperies et l’objet tenu sont visibles, mais aucune identité, scène historique ou signification religieuse ne peut être démontrée uniquement par l’image.",
+  "style_visuel_probable": "Figuratif, naturaliste, modelé réaliste, clair-obscur",
+  "justification_style": "Les corps sont rendus par un modelé détaillé et des transitions de lumière qui créent un fort contraste entre les zones éclairées et le fond obscur. La composition privilégie des volumes humains reconnaissables et des étoffes peintes avec une texture assez réaliste.",
+  "figuration": "figuratif",
+  "couleurs_dominantes": [
+    "rouge sombre",
+    "vert olive",
+    "brun",
+    "noir",
+    "blanc crème",
+    "bleu",
+    "tons chair dorés"
+  ],
+  "elements_visibles": [
+    "femme assise à demi dénudée",
+    "ornement métallique sur la tête",
+    "longue chevelure sombre",
+    "draperie blanche autour du torse et des jambes",
+    "objet allongé tenu dans la main droite",
+    "plusieurs enfants nus ou partiellement couverts",
+    "grand tissu ou vêtement vert au centre",
+    "rideau ou tenture sombre",
+    "éléments de balustrade ou de mobilier à droite",
+    "sol ou étoffe rouge au premier plan"
+  ],
+  "composition": "La figure féminine forme le principal axe vertical dans la moitié droite, tandis que les enfants créent un groupe diagonal descendant vers le bas de l’image. Les tissus volumineux relient les personnages et occupent le centre ; un éclairage latéral concentre l’attention sur les chairs et les draperies, avec un arrière-plan fortement assombri.",
+  "limites_visuelles": [
+    "Le décor arrière est trop sombre et partiellement indistinct pour être identifié avec certitude.",
+    "L’objet tenu par la femme n’est pas assez lisible pour être précisément nommé.",
+    "Les gestes, attributs et accessoires ne suffisent pas à établir une scène mythologique, religieuse ou historique déterminée.",
+    "La reproduction présente des zones sombres et des détails susceptibles d’être perdus par la qualité ou l’éclairage de l’image."
+  ],
+  "desaccord_sujet": true,
+  "erreurs_telechargement": []
+}

@@ -1,0 +1,28 @@
+{
+  "image_id": "0_0668",
+  "titre": "Le Grand Char",
+  "artiste": "Frédéric Coché",
+  "room_id": "Room_7",
+  "sujet_existant": "Objet",
+  "fingerprint": "98df3c75c7a129b5422d3970394ee6a545e76fd6c4fd06a3ae3585fc70441646",
+  "model": "gpt-4.1",
+  "prompt_version": "bird-vision-v1",
+  "date_utc": "2026-09-17T12:59:31.701703+00:00",
+  "statut": "a_verifier",
+  "motif": "Aucune correspondance suffisamment étayée.",
+  "nombre_candidats": 8,
+  "erreurs_telechargement": [
+    {
+      "url": "https://musee-des-beaux-arts.nancy.fr/typo3/sysext/core/Resources/Public/Icons/Flags/FR.png",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://musee-des-beaux-arts.nancy.fr/typo3/sysext/core/Resources/Public/Icons/Flags/en-us-gb.png",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://musee-des-beaux-arts.nancy.fr/typo3/sysext/core/Resources/Public/Icons/Flags/DE.png",
+      "error": "ValueError"
+    }
+  ]
+}

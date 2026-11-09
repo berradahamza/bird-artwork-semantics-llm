@@ -1,0 +1,197 @@
+{
+  "signature": "2148445d3f753283cebb3c8138a62ddff7acfdea282ba2ebe0a51bfcf290a0ca",
+  "response": {
+    "id": "resp_0b5e567166c232b6016aabe743716887d2901694b2031bef38",
+    "created_at": 1789650755.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": "Analyse uniquement ce qui est visible dans cette image, sans recherche web ni identification de mémoire. Réponds en français. Décris précisément objets, personnages, décor et composition en 2 à 4 phrases. Pas de noms de personnes, dates ou récits non démontrables visuellement. Sujet principal parmi les neuf catégories ou NA. Religion/Mythologie/Histoire exigent des indices visibles, sinon NA ou catégorie plus générale. Culture : pratiques/symboles culturels identifiables ; Quotidien : activités ordinaires ; Objet : objets/nature morte ; Personnage : figure/portrait ; Nature : paysages/faune/flore ; Architecture : bâti. Style visuel probable en mots courts (ex. naturaliste, géométrique, impressionniste), sans affirmer une appartenance historique. Mets indéterminé si nécessaire. Ne confonds pas technique, sujet et style. Indique les limites et justifie les choix.",
+    "metadata": {},
+    "model": "gpt-4.1-2025-04-14",
+    "object": "response",
+    "output": [
+      {
+        "id": "msg_0b5e567166c232b6016aabe743e2b087d2a69cac0bd3e636f8",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\n  \"description_visuelle\": \"Au premier plan, une femme nue est allongée sur un lit ou une toile déformée, dans une posture abandonnée. Autour d'elle, des cadres brisés, chevalets et dessins installés en plein air évoquent un atelier de peintre déplacé dans un paysage dévasté. À l’arrière-plan, des silhouettes humaines et ailées ainsi que des éléments architecturaux en ruine s’inscrivent dans une prairie verte sous un ciel tourmenté et nuageux. L’ensemble donne une sensation de chaos et de désolation, ponctuée de détails fantastiques.\",\n  \"sujet_principal\": \"Personnage\",\n  \"sujets_secondaires\": [\n    \"Objet\",\n    \"Architecture\",\n    \"Nature\"\n  ],\n  \"justification_sujet\": \"La figure humaine nue au centre attire l’attention et organise la scène autour d’elle, tandis que la présence d’objets artistiques, de ruines et le paysage jouent un rôle secondaire mais notable.\",\n  \"style_visuel_probable\": \"surréaliste\",\n  \"justification_style\": \"La composition présente une scène irréelle et onirique, combinant des éléments réels et d’autres déformés de façon imaginative, caractéristique d’un style surréaliste.\",\n  \"figuration\": \"figuratif\",\n  \"couleurs_dominantes\": [\n    \"vert\",\n    \"gris\",\n    \"bleu\",\n    \"brun\"\n  ],\n  \"elements_visibles\": [\n    \"corps nu allongé\",\n    \"cadres et toiles\",\n    \"chevalets\",\n    \"ruines\",\n    \"personnages secondaires\",\n    \"ciel nuageux\",\n    \"prairie\"\n  ],\n  \"composition\": \"La composition est structurée sur plusieurs plans superposés : un large premier plan centré sur la figure nue, un second plan occupé par les objets artistiques en désordre, puis la profondeur du paysage et ciel dramatiques.\",\n  \"limites_visuelles\": [\n    \"Absence d’artéfacts culturels explicites pour situer l’époque ou l’auteur\",\n    \"Absence de détails assez précis pour déterminer une scène religieuse, mythologique ou strictement historique\",\n    \"Certains éléments (figures ailées, ruines) sont ambigus quant à leur signification\"\n  ]\n}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": null
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 1.0,
+    "background": false,
+    "completed_at": 1789650758.0,
+    "conversation": null,
+    "max_output_tokens": 3500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "in_memory",
+    "reasoning": {
+      "context": null,
+      "effort": null,
+      "generate_summary": null,
+      "mode": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "resultat",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "description_visuelle": {
+              "type": "string"
+            },
+            "sujet_principal": {
+              "type": "string",
+              "enum": [
+                "Architecture",
+                "Culture",
+                "Histoire",
+                "Mythologie",
+                "Nature",
+                "Objet",
+                "Personnage",
+                "Quotidien",
+                "Religion",
+                "NA"
+              ]
+            },
+            "sujets_secondaires": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "Architecture",
+                  "Culture",
+                  "Histoire",
+                  "Mythologie",
+                  "Nature",
+                  "Objet",
+                  "Personnage",
+                  "Quotidien",
+                  "Religion"
+                ]
+              }
+            },
+            "justification_sujet": {
+              "type": "string"
+            },
+            "style_visuel_probable": {
+              "type": "string"
+            },
+            "justification_style": {
+              "type": "string"
+            },
+            "figuration": {
+              "type": "string",
+              "enum": [
+                "figuratif",
+                "abstrait",
+                "mixte",
+                "indetermine"
+              ]
+            },
+            "couleurs_dominantes": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "elements_visibles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "composition": {
+              "type": "string"
+            },
+            "limites_visuelles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "description_visuelle",
+            "sujet_principal",
+            "sujets_secondaires",
+            "justification_sujet",
+            "style_visuel_probable",
+            "justification_style",
+            "figuration",
+            "couleurs_dominantes",
+            "elements_visibles",
+            "composition",
+            "limites_visuelles"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 850,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cached_tokens": 0
+      },
+      "output_tokens": 496,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 1346
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  }
+}

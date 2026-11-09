@@ -1,0 +1,197 @@
+{
+  "signature": "3b80e6f3a22c0aa9926123b520f333dca93854f2f149a8131e5694f86d3a650c",
+  "response": {
+    "id": "resp_0b10875e62ac6411016aad320dfbd487d1b491bc4d80b0a843",
+    "created_at": 1789735438.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": "Analyse uniquement ce qui est visible dans cette image, sans recherche web ni identification de mémoire. Réponds en français. Décris précisément objets, personnages, décor et composition en 2 à 4 phrases. Pas de noms de personnes, dates ou récits non démontrables visuellement. Sujet principal parmi les neuf catégories ou NA. Religion/Mythologie/Histoire exigent des indices visibles, sinon NA ou catégorie plus générale. Culture : pratiques/symboles culturels identifiables ; Quotidien : activités ordinaires ; Objet : objets/nature morte ; Personnage : figure/portrait ; Nature : paysages/faune/flore ; Architecture : bâti. Style visuel probable en mots courts (ex. naturaliste, géométrique, impressionniste), sans affirmer une appartenance historique. Mets indéterminé si nécessaire. Ne confonds pas technique, sujet et style. Indique les limites et justifie les choix.",
+    "metadata": {},
+    "model": "gpt-5.6-luna",
+    "object": "response",
+    "output": [
+      {
+        "id": "msg_0b10875e62ac6411016aad320ebf3887d1a4e6164b984f39dc",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\"description_visuelle\":\"Reproduction d’un portrait peint en buste représentant une femme vue de trois quarts, la tête tournée vers la droite et le regard dirigé vers le haut. Elle porte un vêtement clair aux manches amples et froncées, largement ouvert au niveau du cou et de la poitrine, sur un fond sombre et peu détaillé. La lumière met surtout en valeur le visage, le cou et le haut du torse, tandis que les contours du vêtement et de la chevelure se fondent partiellement dans l’ombre.\",\"sujet_principal\":\"Personnage\",\"sujets_secondaires\":[\"Objet\"],\"justification_sujet\":\"La figure humaine occupe presque toute la surface et constitue le centre évident de la composition. Aucun attribut visible ne permet d’identifier une personne précise, un épisode historique ou un contexte religieux ou mythologique.\",\"style_visuel_probable\":\"figuratif, pictural, naturaliste, modelé par clair-obscur\",\"justification_style\":\"Le visage et le corps sont rendus par des transitions graduées de tons, avec des touches visibles dans les cheveux et le vêtement. Le fond sombre et l’éclairage concentré produisent un effet de clair-obscur ; l’image reste toutefois une reproduction dont la technique originale ne peut pas être déterminée avec certitude.\",\"figuration\":\"figuratif\",\"couleurs_dominantes\":[\"brun sombre\",\"noir\",\"ocre\",\"beige rosé\",\"blanc cassé\",\"gris\"],\"elements_visibles\":[\"femme en buste\",\"visage de profil partiel orienté vers la droite\",\"cheveux bruns relevés ou attachés\",\"vêtement clair à manches amples et froncées\",\"décolleté\",\"fond sombre\",\"éclairage latéral ou frontal concentré sur le visage et le torse\",\"bord rectangulaire de la reproduction\"],\"composition\":\"Cadrage rapproché et vertical, avec la tête placée dans la partie supérieure centrale et le corps occupant la moitié inférieure. La diagonale du visage et du regard dirige l’attention vers la droite, tandis que le contraste entre la figure éclairée et le fond sombre renforce sa présence.\",\"limites_visuelles\":[\"Le nom, l’identité et le contexte du personnage ne sont pas déductibles de l’image seule.\",\"La date, l’auteur et la technique exacte de l’œuvre originale ne peuvent pas être établis visuellement avec certitude.\",\"Le vêtement est partiellement dans l’ombre et ses détails précis restent difficiles à distinguer.\",\"La catégorie secondaire « Objet » renvoie seulement au vêtement visible, sans objet autonome clairement représenté.\"]}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1789735443.0,
+    "conversation": null,
+    "max_output_tokens": 3500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "medium",
+      "generate_summary": null,
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "resultat",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "description_visuelle": {
+              "type": "string"
+            },
+            "sujet_principal": {
+              "type": "string",
+              "enum": [
+                "Architecture",
+                "Culture",
+                "Histoire",
+                "Mythologie",
+                "Nature",
+                "Objet",
+                "Personnage",
+                "Quotidien",
+                "Religion",
+                "NA"
+              ]
+            },
+            "sujets_secondaires": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "Architecture",
+                  "Culture",
+                  "Histoire",
+                  "Mythologie",
+                  "Nature",
+                  "Objet",
+                  "Personnage",
+                  "Quotidien",
+                  "Religion"
+                ]
+              }
+            },
+            "justification_sujet": {
+              "type": "string"
+            },
+            "style_visuel_probable": {
+              "type": "string"
+            },
+            "justification_style": {
+              "type": "string"
+            },
+            "figuration": {
+              "type": "string",
+              "enum": [
+                "figuratif",
+                "abstrait",
+                "mixte",
+                "indetermine"
+              ]
+            },
+            "couleurs_dominantes": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "elements_visibles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "composition": {
+              "type": "string"
+            },
+            "limites_visuelles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "description_visuelle",
+            "sujet_principal",
+            "sujets_secondaires",
+            "justification_sujet",
+            "style_visuel_probable",
+            "justification_style",
+            "figuration",
+            "couleurs_dominantes",
+            "elements_visibles",
+            "composition",
+            "limites_visuelles"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 853,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cached_tokens": 0
+      },
+      "output_tokens": 543,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 1396
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  }
+}

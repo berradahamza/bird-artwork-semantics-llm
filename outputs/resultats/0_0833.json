@@ -1,0 +1,56 @@
+{
+  "image_id": "0_0833",
+  "titre": "Paysage breton",
+  "artiste": "Paul Sérusier",
+  "room_id": "Room_10",
+  "sujet_existant": "Nature",
+  "fingerprint": "36e6a4270c415c243e7aed8465b6770dc5bc480dcf8f035478dab9c59cdf74ae",
+  "model": "gpt-4.1",
+  "prompt_version": "bird-vision-v1",
+  "date_utc": "2026-09-17T13:19:03.598177+00:00",
+  "statut": "ok",
+  "image_path": "images\\0_0833.jpg",
+  "source_page": "https://collections-mba.nancy.fr/fr/notice/65-2-89-paysage-breton-7622321d-e2c0-4194-8e09-f52a641f137a",
+  "source_image": "https://d2lkryo36aywim.cloudfront.net/eyJidWNrZXQiOiJvcGFjLXByb2QtbWVkaWEiLCJrZXkiOiJiYW5hbmN5MDFcL21iYW5hbmN5b3cwMlwvZWE3MGM3NTYtYTIzNS00ODU0LTg1NWEtMTkxNGM2YzllOTg3LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NjUwLCJoZWlnaHQiOjY1MCwiZml0IjoiaW5zaWRlIn19fQ==",
+  "controle_identite": "retenu_par_IA_non_verifie_humain",
+  "raison_identite": "La notice rattache clairement l'image à l'œuvre recherchée : même titre 'Paysage breton', même artiste Paul Sérusier, même date (1906), même numéro d'inventaire (65.2.89), lieu exact de conservation (Musée des Beaux-Arts de Nancy), détails des inscriptions concordants, et les mêmes dimensions cadre inclus. La page source est également celle du musée référencé dans l'œuvre.",
+  "original_width": 459,
+  "original_height": 650,
+  "download_url": "https://d2lkryo36aywim.cloudfront.net/eyJidWNrZXQiOiJvcGFjLXByb2QtbWVkaWEiLCJrZXkiOiJiYW5hbmN5MDFcL21iYW5hbmN5b3cwMlwvZWE3MGM3NTYtYTIzNS00ODU0LTg1NWEtMTkxNGM2YzllOTg3LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NjUwLCJoZWlnaHQiOjY1MCwiZml0IjoiaW5zaWRlIn19fQ==",
+  "sha256_download": "82d2eae7c75de059103b338db5d0a0478482a46bfe41ffef0e80719dae8edbc1",
+  "description_visuelle": "L’image montre un paysage vallonné avec des collines aux couleurs automnales. Au premier plan, trois figures humaines sombres sont assises ou debout sur une pente herbue. Plus bas, un petit bâtiment blanc à toit foncé est entouré d’arbres colorés orange, jaune et rouge. Le ciel est sombre et nuageux, accentuant la sensation de fin de journée ou de météo maussade.",
+  "sujet_principal": "Nature",
+  "sujets_secondaires": [
+    "Personnage",
+    "Architecture"
+  ],
+  "justification_sujet": "Le paysage naturel domine l’image, tandis que les personnages et la petite maison restent secondaires dans la composition.",
+  "style_visuel_probable": "postimpressionniste, synthétique",
+  "justification_style": "Les couleurs sont vives et les formes simplifiées mais reconnaissables, avec une texture de coups de pinceau visibles et une absence de détails naturalistes fins.",
+  "figuration": "figuratif",
+  "couleurs_dominantes": [
+    "orange",
+    "jaune",
+    "vert",
+    "rouge",
+    "gris",
+    "noir"
+  ],
+  "elements_visibles": [
+    "collines",
+    "arbres",
+    "maison",
+    "trois personnages",
+    "herbe",
+    "ciel nuageux"
+  ],
+  "composition": "La scène est construite en diagonale de bas en haut, avec les personnages au premier plan à gauche, la maison au centre, et les collines profondes à l’arrière-plan. Des arbres verticaux rythment la composition.",
+  "limites_visuelles": [
+    "Aucune inscription ou indication temporelle visible",
+    "Pas de détails permettant d’identifier des personnages ou un lieu précis",
+    "Perspective simplifiée et aplatie",
+    "Absence de diversité de sujets hors paysage-rural-personnes"
+  ],
+  "desaccord_sujet": false,
+  "erreurs_telechargement": []
+}

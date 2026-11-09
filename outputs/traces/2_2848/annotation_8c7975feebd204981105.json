@@ -1,0 +1,205 @@
+{
+  "signature": "fabc7423bb67650a355bbc099138b99b4cfe337a0c275b913986b8044ce61fed",
+  "response": {
+    "id": "resp_0cfb7343edd50178016aad4a5136d487d28a873288b7c81db5",
+    "created_at": 1789741649.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": "Analyse uniquement ce qui est visible dans cette image, sans recherche web ni identification de mémoire. Réponds en français. Décris précisément objets, personnages, décor et composition en 2 à 4 phrases. Pas de noms de personnes, dates ou récits non démontrables visuellement. Sujet principal parmi les neuf catégories ou NA. Religion/Mythologie/Histoire exigent des indices visibles, sinon NA ou catégorie plus générale. Culture : pratiques/symboles culturels identifiables ; Quotidien : activités ordinaires ; Objet : objets/nature morte ; Personnage : figure/portrait ; Nature : paysages/faune/flore ; Architecture : bâti. Style visuel probable en mots courts (ex. naturaliste, géométrique, impressionniste), sans affirmer une appartenance historique. Mets indéterminé si nécessaire. Ne confonds pas technique, sujet et style. Indique les limites et justifie les choix.",
+    "metadata": {},
+    "model": "gpt-5.6-luna",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0cfb7343edd50178016aad4a51ddc087d29fee1d72edc375e0",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrUpXv5VlLKM5ZPhTybs3LmlV5MteCOgF9uRLMwAuuoarpc4cy-O7Q2PLrepSsw8Ifx1lHBHZmCT7lqNSYZQ6GDwgehj3r22VKhZxMF5CizZ8ncU_lWEs8XO8vrptfYIB6xt85TFu3-8pGLNv_Lof_43jcZn_T0NfWus34XB07dMCUbp1fDv1CRSGMWWEe5idUBnkP1ZFtBnSVsgFOuhcEwJp7fgwlAOxt8Fzg0z7U7Mzn8P65Uix6Rwofc5Vrl1VRnZArd4majDnmsIEC5SeGqlG7Z2LooqyWnui67W7aQQqtzL6lXMmqqu7ngtVTdyVG9kggV6kM2xGw2iN_0NDliJTs_lI4T9XMx78RB79gVw9MjaYp-I8gf_yKF2OGNOXDrGfTZaLVPjKTsCyrJfEkjeKs-SLAqXXZsCkQLIWB8eBvBxsE3-Dya7vL4-zuxkkGl5PR845_kAZihaDS_y2mLIYWxl_7vHw1A9tiC0Y3ZIGYu3PPilIJFThrRlVeYB0Z_geYUY9lv4Y-ZBewG_iPcDLyPddVLtINLvX_mpLGk35GH9QAHM3viIw3-KHl3nJSqlY4sE9Q9UdFt_xLoiLSzcS4io5UTWssdkU-rpTC1rpsGqG5csXz8rchEesyXui3E8oibBwbFq-IZhW6-lHDPIVi7XphbudHbds6FSxfr4gy3j9_mYNLZ3VNeyPbOO9DHybY5VN7tJ_mCIWkpFYnfKusoUCS_7Z7p_LFuJ_-6rJOcjcYimusRNIhMIfM6BnkuM2PgA9HuCoQZ_h15zf2scJXS8NHyHizK_rjojWii5z2oBij_DrE4pckbyprZ4-CHAfztKDaA3wqg-v15wptSpKymbke8_4-KJDImKa4dTaCBY0nv5HsaqIjQXw69pGto4FYCrG4oZRmxJkdtIQuQ9tqO_Kiy6Uw-CFSUzRrRuNUQWmnCx8DshCLM-SlTTamWwD9CLtIMSid6Jca4vXE8L-BXiBOmH3amtCxFffo7u6H3SbcQRbeImJM_w5rZFqnVp4VYPqUdfPZUGbm_Idmk7E_ehW7ovz7mytuhWB1o69eBNXIYQ1_XHbZNiHVwkR7tf7Aff599cUSfjX84aF3U-yXrKzOMSrLLpVa1DbvwPtTMBboppSdAIxR3vaQiuUNuRK908_bVB2ShhmFhGbA5P-fojbDo7NecbfmiURReyWtPIPdzWJlFX7gVfHnSC_09_ZwmjdX_dkFshWcBZ4TIc-ZtzkpX8p8ZS3ZcAsqVaIjlnIF2D_6D71R34QG9rqtUVNNXyw2aRiyFN7eTf7-a9DrkoKs2zUTcIFJa9T-fu-S1WW7NQVYZMZt8F7XStMo_ZQJuRBa3hnz5pv6sy0NfW1qrZoYAf8Qg96EVJqLxwrOtkuZDvzLQtIPrpbM3ng0AHppMTf3ZQfrH_4cYXzg2BqmNFwGWduepvFRM7WjBWh3RIYGhgYU6eXIlHoetHsAK2DX4yw7jkXrjSrckKQhIdgnfVWayOeq-c0Z73q9BZFGx3LQjWPS_Z96lxq9VpG9fWbHUFbtT6l3vhx2V897hN51SwqJ3HPvIrtWK360iFOOJOAhvBUY5gnRBO6K9kZ_g9A7-LLKW8TSjfHw7Za-fMz-yZq2Itaz5T4FHYct7H0ponLzdJ-jHvGjDdbIYxnMuNIuMp9dx5_bdNEBszHESouGEtJpwERbzTDJ2Rv6euSLApZUY5NEE2KuwpfcyYUfZuhNjKjRI2wfMCS6p2O-hc0SR4_EAMtuCC8SV2fI-UnyAH7ZHoGeAD3Jhv57z23JhilFL-1R2V_j-adowrdIiah9VxDBAkm9gPfbF3BqQOPJtTE2l2qCpE5JHRrb2bdxPzfsaQ9t159S8UI0xzXK202LSW3vgz4BM1Dxc6yqOdE8WwvsXA3GlTlIaxDv9vCoPYDl82U-lm8KbhkY-nhBn236O1qMxqCRx7-9F4rQGqAUi2EONJt0vE64IpedQmtkGHGhVUtJOzSs4J6MtPV94Wx2YJskVjklIeI0h7tjG77imH2A6RBaxQU25EW9GEszoS_tF1PdiTfdKLEv_ZaF10O1Hq3lS80aJ3KZGOBhPj7TRNrTaXrbZrrFADMkZ3B13rB",
+        "status": null
+      },
+      {
+        "id": "msg_0cfb7343edd50178016aad4a5350cc87d2bffc517bfaa6e728",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\"description_visuelle\":\"Portrait peint en buste d’une jeune femme au visage tourné vers le spectateur, aux cheveux ondulés et coiffée d’un couvre-chef rouge noué sur les côtés. Elle porte des vêtements sombres et un vêtement bleu-gris, tient contre elle un long objet noir en diagonale ainsi qu’un élément clair, allongé et enveloppé ; ses mains sont visibles au premier plan. Le fond presque noir et l’éclairage concentré sur le visage et le torse créent un fort contraste lumineux.\",\"sujet_principal\":\"Personnage\",\"sujets_secondaires\":[\"Objet\"],\"justification_sujet\":\"La composition est dominée par une figure humaine représentée en portrait rapproché. Les objets tenus par la figure sont secondaires et leur fonction exacte ne peut pas être établie avec certitude à partir de l’image seule.\",\"style_visuel_probable\":\"Figuratif, naturaliste, modelé réaliste, clair-obscur\",\"justification_style\":\"Les traits du visage, les mains, les étoffes et les cheveux sont rendus de manière reconnaissable et détaillée. La lumière directionnelle sur un fond sombre et les transitions modelées du visage évoquent un traitement naturaliste en clair-obscur, sans permettre d’attribuer précisément l’œuvre à une école ou à une époque.\",\"figuration\":\"figuratif\",\"couleurs_dominantes\":[\"noir\",\"brun\",\"rouge sombre\",\"ocre doré\",\"bleu-gris\",\"beige\"],\"elements_visibles\":[\"Visage féminin au centre supérieur\",\"Couvre-chef rouge noué sur les côtés\",\"Cheveux ondulés\",\"Vêtement sombre\",\"Étoffe ou vêtement bleu-gris sur les épaules\",\"Long objet noir placé en diagonale\",\"Élément clair, allongé et enveloppé contre le torse\",\"Deux mains au premier plan\",\"Fond sombre presque uniforme\"],\"composition\":\"Composition verticale et centrée, organisée autour du visage placé dans la moitié supérieure. Le long objet noir forme une diagonale descendante qui traverse le torse, tandis que les bras et les mains structurent la partie inférieure ; le fond sombre isole fortement la figure.\",\"limites_visuelles\":[\"L’identité, le nom et le contexte de la figure ne sont pas déterminables visuellement.\",\"La fonction du long objet noir et de l’élément clair enveloppé reste incertaine.\",\"Aucun symbole religieux ou historique explicite n’est suffisamment identifiable pour justifier une catégorie Religion ou Histoire.\",\"La reproduction présente une texture et des variations de lumière qui peuvent limiter l’observation fine des détails.\"]}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1789741655.0,
+    "conversation": null,
+    "max_output_tokens": 3500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "medium",
+      "generate_summary": null,
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "resultat",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "description_visuelle": {
+              "type": "string"
+            },
+            "sujet_principal": {
+              "type": "string",
+              "enum": [
+                "Architecture",
+                "Culture",
+                "Histoire",
+                "Mythologie",
+                "Nature",
+                "Objet",
+                "Personnage",
+                "Quotidien",
+                "Religion",
+                "NA"
+              ]
+            },
+            "sujets_secondaires": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "Architecture",
+                  "Culture",
+                  "Histoire",
+                  "Mythologie",
+                  "Nature",
+                  "Objet",
+                  "Personnage",
+                  "Quotidien",
+                  "Religion"
+                ]
+              }
+            },
+            "justification_sujet": {
+              "type": "string"
+            },
+            "style_visuel_probable": {
+              "type": "string"
+            },
+            "justification_style": {
+              "type": "string"
+            },
+            "figuration": {
+              "type": "string",
+              "enum": [
+                "figuratif",
+                "abstrait",
+                "mixte",
+                "indetermine"
+              ]
+            },
+            "couleurs_dominantes": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "elements_visibles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "composition": {
+              "type": "string"
+            },
+            "limites_visuelles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "description_visuelle",
+            "sujet_principal",
+            "sujets_secondaires",
+            "justification_sujet",
+            "style_visuel_probable",
+            "justification_style",
+            "figuration",
+            "couleurs_dominantes",
+            "elements_visibles",
+            "composition",
+            "limites_visuelles"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 2045,
+      "input_tokens_details": {
+        "cache_write_tokens": 2042,
+        "cached_tokens": 0
+      },
+      "output_tokens": 689,
+      "output_tokens_details": {
+        "reasoning_tokens": 141
+      },
+      "total_tokens": 2734
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  }
+}

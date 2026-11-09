@@ -1,0 +1,54 @@
+{
+  "image_id": "0_0571",
+  "titre": "Vues d'architectures 1",
+  "artiste": "Lucien Hervé",
+  "room_id": "Room_3",
+  "sujet_existant": "Architecture",
+  "model": "gpt-5.6-luna",
+  "prompt_version": "bird-vision-v1",
+  "date_utc": "2026-09-19T14:27:02.896743+00:00",
+  "mode_acquisition": "image_locale",
+  "fichier_fourni": "0_0571.png",
+  "controle_identite": "association_par_id_fournie_par_utilisateur",
+  "raison_identite": "Image associée à cette œuvre par son nom de fichier ; identité non contrôlée automatiquement.",
+  "source_page": "",
+  "source_image": "",
+  "erreurs_telechargement": [],
+  "sha256_image_locale": "9a122b0c2491453bfcfec5b06f2fe7b0a04607773d6cdef028ca2654602bdea6",
+  "fingerprint": "cd8fd3a80220d16007daf7c23ff9c8a9fb113adde096ac3d415f87b6726d29fc",
+  "original_width": 407,
+  "original_height": 396,
+  "statut": "ok",
+  "image_path": "images\\0_0571.jpg",
+  "description_visuelle": "Une grande haie dense, taillée en forme de trapèze inversé, occupe le centre et le bas de l’image, devant des herbes et des talus. À l’arrière-plan, plusieurs immeubles résidentiels de grande hauteur présentent des façades quadrillées par des balcons, fenêtres et lignes horizontales. L’ensemble est rendu en noir et blanc, avec un contraste marqué entre la végétation sombre et les surfaces claires des bâtiments.",
+  "sujet_principal": "Architecture",
+  "sujets_secondaires": [
+    "Nature"
+  ],
+  "justification_sujet": "Les immeubles collectifs à balcons structurent nettement l’arrière-plan et constituent le principal élément bâti identifiable; la haie et les herbes forment un environnement végétal secondaire.",
+  "style_visuel_probable": "Photographique, documentaire, noir et blanc, contrasté",
+  "justification_style": "L’image montre une scène figurative observée directement, avec une gamme monochrome, une texture très présente dans la végétation et un contraste accentué entre ombres et lumières.",
+  "figuration": "figuratif",
+  "couleurs_dominantes": [
+    "noir",
+    "blanc",
+    "gris foncé",
+    "gris clair"
+  ],
+  "elements_visibles": [
+    "haie dense taillée en forme géométrique",
+    "herbes et végétation basse",
+    "talus ou sol végétalisé",
+    "immeubles résidentiels collectifs",
+    "balcons répétés",
+    "fenêtres et ouvertures rectangulaires",
+    "lignes horizontales de façade"
+  ],
+  "composition": "La haie forme une masse centrale sombre au premier plan et masque partiellement les bâtiments. Les immeubles occupent la bande supérieure, tandis que les diagonales des talus et la forme évasée de la haie conduisent le regard vers le centre inférieur.",
+  "limites_visuelles": [
+    "Aucun personnage ni objet domestique distinct n’est visible.",
+    "La fonction précise des bâtiments et le contexte géographique ne peuvent pas être déterminés à partir de l’image seule.",
+    "Les détails architecturaux sont partiellement masqués par la végétation et le rendu monochrome."
+  ],
+  "desaccord_sujet": false
+}

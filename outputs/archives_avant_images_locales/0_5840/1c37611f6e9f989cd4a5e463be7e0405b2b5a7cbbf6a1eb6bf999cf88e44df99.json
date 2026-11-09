@@ -1,0 +1,19 @@
+{
+  "image_id": "0_5840",
+  "titre": "L'Aube",
+  "artiste": "Victor Prouvé",
+  "room_id": "Room_5",
+  "sujet_existant": "Nature",
+  "fingerprint": "b3cb1f19a954f390cc43a209fc03a98842b97d24456d30fd242af11233b192d8",
+  "model": "gpt-4.1",
+  "prompt_version": "bird-vision-v1",
+  "date_utc": "2026-09-17T13:51:10.805943+00:00",
+  "statut": "erreur",
+  "motif": "APIConnectionError: Connection error.",
+  "erreurs_telechargement": [
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:L%27aube_09679_(cropped).JPG",
+      "error": "ConnectionError"
+    }
+  ]
+}

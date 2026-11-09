@@ -1,0 +1,206 @@
+{
+  "signature": "5ef20d849839331ee586208f296fbad0c18d109a461e2b7696257c8edc738507",
+  "response": {
+    "id": "resp_0fdbc8172219f2e1016ab3d595d3fc87d2baa466ec68f948fa",
+    "created_at": 1790170517.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": "Analyse uniquement ce qui est visible dans cette image, sans recherche web ni identification de mémoire. Réponds en français. Décris précisément objets, personnages, décor et composition en 2 à 4 phrases. Pas de noms de personnes, dates ou récits non démontrables visuellement. Sujet principal parmi les neuf catégories ou NA. Religion/Mythologie/Histoire exigent des indices visibles, sinon NA ou catégorie plus générale. Culture : pratiques/symboles culturels identifiables ; Quotidien : activités ordinaires ; Objet : objets/nature morte ; Personnage : figure/portrait ; Nature : paysages/faune/flore ; Architecture : bâti. Style visuel probable en mots courts (ex. naturaliste, géométrique, impressionniste), sans affirmer une appartenance historique. Mets indéterminé si nécessaire. Ne confonds pas technique, sujet et style. Indique les limites et justifie les choix.",
+    "metadata": {},
+    "model": "gpt-5.6-luna",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0fdbc8172219f2e1016ab3d596854c87d2aa6eaf32fece5de0",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqs9WgU_LtcxC1-Gmzb3_L_EBp_sIz3kyewkq02t4HRQZ1IzIvOsi--qJQFLTK-0foaNAderrY6sY6ZPfA-pQVGxGzLGyoRSngQ8_8TW99f38SXNFyvhP4EEXUVAf9ZvymspxilUJBxGnw8EIy3A5SvN1UmNzMQRN-Rcl90hS8_sLL-nyglqNyHZYeJfJPmLf_SYMSpgU4GKvBqd6HxN3VUOHSC2vUXnIhSPv521Xtcl8wJl5tDEXGay9joMOofHbzOMSoQEivI-WRhHzOBGFxcxJ8Fe7OyHUD1MUsCHQF6t6lftEaBfw2l2mGitmBC4a-KswrEcE5JScqbT4ZmzwJ5Jy-a_giJewFnzcW3ddcezqsVJI4x2JsI08OPUUrw2Cb7sJA82IJpf02b38Guo2c9GMaeQgkg22YgjxlvxKVZ3za4S6tIdNsQNrahBy5f2-P_NMnDgvjCHq2mbiAy7KVuHUGuEBqTqkBkSM1OUg4STqJpwj7N12sZe_Jaxp1AwNCVfErH0itii0IxHo0437LDgA7kfLFpG_E7tBfr8l-LpPHqTMK8AZKb3EtmSCz1mjmQwaQgO9CVo3sTkMpiXno-1W5Iw2qoSyoBhx1ZeCpF-Vi6zPwBeGcO0BH89Isyn0uhqwjwmJNF9rla3kpzr2MG2EEX0mbnNZ3m6KmLgBNoNQ7P_bi_oZdNMRxD35pecghu3Z6sqckMlJAbG-jlgaYGx1m6w4gdOZ2-2sp7oQ3vrHCMa23r-xVwleK-yKYztk3L6CtKRr60XRojVUuPNbhFe-LfjpdJOGwKy94BXKXQC6Ou3Q7qEyFIY1296otnnrnInwt1bHtUeKBwFDbvuwHlnSz0JaaQwXcxs9f59JC654XHsjlVSEl5q2sdojTaw3PXfTumqTjTPCpN88U3Tchg9ZBFuapgQKY1dRxCTNScic7gfQ_yAQ5yFqv1yWMW3gnwf_xFf159IlH82DsOmQKXBbIDgMCYsLBVKA4uFtR4V11i1_Ja3XfMmOF0mUDC2cnCnxxbiRwYTEv-QdXximZov13cTgl8gN6jpzhAH0N--0Lyt3W8Lc4UX9XUKn_rKWjMSByGKBUz-cTkrgLXg9QCSa3s5De27VpamOJsFYvEibyK4HFYzE-yc4lT-uO3iRRLXiHCCfz9mRJ_WzbU8-U3sGZVXOkDlZBXbOq9bIJilOyv3oqeIUF2yeNynHln_pM6D-p5eKekBEGsd-y5r0MrnHCAmBIYctUrJK_qpLK9mPfWa63c1Rn4oZkEoMZ5SYayixdiZEO0xTk1tZLeGKDfq49T6g7tB9AZyPp8_Cqtbc6JgTVi1th_1DLERoxk-XJc-pc2hTIT1VeM9BDcSxknMOoMhxwhHbjmQ-Kc9ah1fU4kAPir06wCT1JIXvLhuMehYpxdvDAOE2UAlRVsEajdvmNIWFfR1DAirGDKt7vl65r-UhoOH_wur8U3cqcrQw8OYAHoqjhP4jyOqw2aHTqeEad3gIs5ul6E9rD1XIdUgOLMNuW4Df3QqIEsOmgSBm3RSJUsVuRGhKodWogBSGjTARQ-W1Qv8W0ynirQvi2ww_sS7am-HpM04isHcz06ccJV2_3Q_i2OiaPmm-ygaLVJ19fnlIW3Jmksuuj9jZx5l5ZOWM7YeWyuR5WAcWNyPoyVojNdW-Zgp5LLvJ4U7jr8AMPWC2JYb1bnYWNL7JTSqE6WzzCm-9GJzAozIYuzlrl7WJ0JHa4Rt8LTulBaRld7PKFgbMTvIFdztm_j50wJLzL1N2UVOOHvtM1PAKjN8DqJAOMqrmHINRnTdxx78AX_ml3QSY-gLSBAilTWeIhxPguUV_DY87A_Z8sHwB4oPfAZAH23KqSII3aoaz07Qhmm-EWOYjNo5kWsSzY5ikztHLQH4TFYtoF6dQ84W-mJ9Q4UjB3JjYTx3EWaFGm_tPHjCiBx6rGmQc7xBnVTnO-2kY_5FOP_leg5zOxdClHll3CpQBwj1Fo4Y1nA9Ypzu7uBAO5MVKppSlCNn5QrM-fKLQECyBCERPmatjbE0RzrqICnVCF",
+        "status": null
+      },
+      {
+        "id": "msg_0fdbc8172219f2e1016ab3d598f1fc87d286c8a7efb175f926",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\"description_visuelle\":\"Paysage rural en tons sépia, avec un cours d’eau au premier plan, des arbres et une végétation dense. À mi-distance se trouvent plusieurs bâtiments en pierre, dont une tour cylindrique, au pied de reliefs boisés et montagneux. Quelques animaux et de petites figures semblent présents près de l’eau et des constructions, mais leurs détails restent peu lisibles.\",\"sujet_principal\":\"Architecture\",\"sujets_secondaires\":[\"Nature\",\"Quotidien\"],\"justification_sujet\":\"Les bâtiments ruraux et la tour structurent la scène, tandis que le paysage naturel et une activité pastorale possible complètent la composition.\",\"style_visuel_probable\":\"paysage gravé, monochrome, naturaliste\",\"justification_style\":\"Le rendu utilise des hachures, des contours peu contrastés et une palette sépia évoquant une impression ou une gravure plutôt qu’une peinture aux couleurs franches.\",\"figuration\":\"figuratif\",\"couleurs_dominantes\":[\"sépia\",\"brun\",\"gris\",\"beige\",\"vert sombre\"],\"elements_visibles\":[\"cadre rectangulaire\",\"cours d’eau\",\"végétation\",\"grands arbres\",\"bâtiments en pierre\",\"tour cylindrique\",\"reliefs boisés\",\"animaux indistincts\",\"petites figures indistinctes\",\"chemin ou berge\"],\"composition\":\"La scène est organisée en profondeur : végétation et eau au premier plan, animaux et figures au centre, bâtiments et reliefs à l’arrière-plan. Un grand arbre sombre borde la partie gauche et encadre la vue, tandis que le ciel clair occupe la moitié supérieure.\",\"limites_visuelles\":[\"Les inscriptions éventuelles et les détails des personnages ou des animaux sont trop peu nets pour être identifiés avec certitude.\",\"La fonction exacte de la tour et la nature précise des bâtiments ne sont pas démontrables visuellement.\",\"La technique semble imprimée ou gravée, mais le procédé exact reste indéterminé.\"]}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1790170528.0,
+    "conversation": null,
+    "max_output_tokens": 3500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "medium",
+      "generate_summary": null,
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "resultat",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "description_visuelle": {
+              "type": "string"
+            },
+            "sujet_principal": {
+              "type": "string",
+              "enum": [
+                "Architecture",
+                "Culture",
+                "Histoire",
+                "Mythologie",
+                "Nature",
+                "Objet",
+                "Personnage",
+                "Quotidien",
+                "Religion",
+                "NA"
+              ]
+            },
+            "sujets_secondaires": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "Architecture",
+                  "Culture",
+                  "Histoire",
+                  "Mythologie",
+                  "Nature",
+                  "Objet",
+                  "Personnage",
+                  "Quotidien",
+                  "Religion"
+                ]
+              }
+            },
+            "justification_sujet": {
+              "type": "string"
+            },
+            "style_visuel_probable": {
+              "type": "string"
+            },
+            "justification_style": {
+              "type": "string"
+            },
+            "figuration": {
+              "type": "string",
+              "enum": [
+                "figuratif",
+                "abstrait",
+                "mixte",
+                "indetermine"
+              ]
+            },
+            "couleurs_dominantes": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "elements_visibles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "composition": {
+              "type": "string"
+            },
+            "limites_visuelles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "description_visuelle",
+            "sujet_principal",
+            "sujets_secondaires",
+            "justification_sujet",
+            "style_visuel_probable",
+            "justification_style",
+            "figuration",
+            "couleurs_dominantes",
+            "elements_visibles",
+            "composition",
+            "limites_visuelles"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 744,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cached_tokens": 0
+      },
+      "output_tokens": 548,
+      "output_tokens_details": {
+        "reasoning_tokens": 133
+      },
+      "total_tokens": 1292
+    },
+    "user": null,
+    "access_programs": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  }
+}

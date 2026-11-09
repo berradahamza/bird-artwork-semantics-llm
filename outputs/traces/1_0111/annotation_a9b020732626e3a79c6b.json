@@ -1,0 +1,205 @@
+{
+  "signature": "65ae778f7e69e85b5728f502ebf8f61f9cde0d029e03d5d9e2dcf4ec621958be",
+  "response": {
+    "id": "resp_0ac37635a6fac1b5016aad31e860b487d1bafa8aa468d61127",
+    "created_at": 1789735400.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": "Analyse uniquement ce qui est visible dans cette image, sans recherche web ni identification de mémoire. Réponds en français. Décris précisément objets, personnages, décor et composition en 2 à 4 phrases. Pas de noms de personnes, dates ou récits non démontrables visuellement. Sujet principal parmi les neuf catégories ou NA. Religion/Mythologie/Histoire exigent des indices visibles, sinon NA ou catégorie plus générale. Culture : pratiques/symboles culturels identifiables ; Quotidien : activités ordinaires ; Objet : objets/nature morte ; Personnage : figure/portrait ; Nature : paysages/faune/flore ; Architecture : bâti. Style visuel probable en mots courts (ex. naturaliste, géométrique, impressionniste), sans affirmer une appartenance historique. Mets indéterminé si nécessaire. Ne confonds pas technique, sujet et style. Indique les limites et justifie les choix.",
+    "metadata": {},
+    "model": "gpt-5.6-luna",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0ac37635a6fac1b5016aad31e8e51487d1b7673dba91b05154",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTHtn6cgRrAGJsUK0NpRWlZUc7EoVk-dRUa-jLlnRrYxteFpZy8dE3ngChqw5JqOlN6yfzyO7uwGF5HgX6En4qydu2Ym7K-PZjvkDSixzQy3xxo9QpVhZzj8HRf8Awba6_djvvk3x6JDIj3VeHPSCRG5POv1Ee6JNlxklows5J3yAYBTYiMYOKx-pD57N4K9n33VeFWeEsNYazL1N5dnxZfgDxBisSOCCIEqpT-KZYLv6FqA150QMsgzeKl1TY72fVRPH9A0sWRFBsuP9buNsatVavFfDcWv3WvmRDfjUEPr_WHOaHMbRLJh4DNzetKTzZHhkNBXFPHjyxPYORDCUBXEinBPgTxGDM9Xtaec86qgWS4mZqDtH2ghmIdvMZv4CGaAH1Kgf869L_MYUpcfsSDABTrfS5Ls875T3WhYXGLA01NTyd5vgdaYh0e7VOVYMEF0oRW6imsqV6PmDXk6KVieW1pL7VStPYJvu_VF-jLsfy46N45BM9DXwx05YKsaSI85eqYvSBWpJNsyZ0MfnpfKGo6BZqeMEuvemO2cY4GvRc-rsZ1d8-WlYByAA92HRaQULuZBa5BGSvLiLJWmW-BL961PFDCrDCkYX5NI71-kxPUG65BrX03m4qZlY4gDBiTceF_yLBKuZf4RkWCFALCJli6_PLFoUGViY7eSQlEBT9pjQnhOgxk7hX1l7pFN3n1edlRCFMmpMrf1VSiPu_9Re8_OHCeP6zhhHqR4VJiPYciakdiriHNwwZM2ifz8nQYp1weikut0XHLToNa1CXV2yhYG2jHVBbUS6m27dyLOCxdkPMRZZYOOSR9x4xk7sah2WPhHjR1AC1IynjhQhOcIMIdpMwCFMt8neEkoz66PVisTpXqZPCOIvUstRi6XZzcQ79AhoCqE5enb1ME7c7ZjmLCc2F_L1cf00Y1TyO7FSTUC3XDgFGUw91JSQmYX0_MDvWy36tTqwG6hXxgaK1uX1jdRfs-vMAx9hqXv56QUrCW25Rz5t3CKDob0G1bLnIrd59Kg1ccQI0F00FWUAHmPUV8UxA2wr4R9XwqS6KWnnVEjQPClPik2CeK4kp-Nia57-WtPCH8Db1JptvoGelO83FtZQjRjoz6aegxOFpoDNBaVLgZsRjuVTySOgHHhWDMGB3gS9gLcyZRM1VZP07VfnEaUlIg-smWA9nt6WvMVcRsEDlmSuXXIPKB2CWSCS6s911oD_flQUcv3f9M8hmtQ-_dBHBGoEkMfekQUm0D02gzZRgr6drOGpeYxEoqx21dyuvSxeh0ucha8qrCZgzc4_OPRVLHXj3pdGBClpszd2EeObtTcJPpJhUETq0zD64t3DmHRnn5N1lwpqXzP-fHkPCsX1fWGUmpSn3p-Zh26txEKqjDFHFEKb0YWQJb98wl5ZojvXBy4bLsQhAxosXRdvCsAyHhgKtpdj1sAFHz1j5j9AKlBpFfQ0bbOu4UiqreNonVStzl35fek26YN0v4RqAlzXMxm3JHAdTXOVKq6EKFwZB-m_rdgg8XF9yMopFRwZ76ivDSfVSlLlekIrLtzVEfgpfssyhmGlqGLiyUgmG5RJG5PNuKSO--ed2M6L4whP_iYQBzko8gb4nkZKnzrQSp06tnTJFho_GbMGW2f-b6ArkWZ7wdHYhbpBMWyHpg11oYXUFDxpxLunv01LnCPYiKxJJcnKeHcSLrtzAyblmEHsUsxg5SJT8D5P6ecxWlsSFlTKe1zIA6DCYM2blzk65UHlExRTsNRcq48WM1d1qCUshzJGWSE3kKMDApvz1aj73jtmtFrYjwE10P_-lsj7oapJIYyvOzb2CjDaDaKYbo2SX4ViWgq-Kgd9cw6envk1c5nNLObuzpEvqUjWeDugg==",
+        "status": null
+      },
+      {
+        "id": "msg_0ac37635a6fac1b5016aad31e9f1ec87d18ecc309d8eb85263",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\"description_visuelle\":\"Portrait en buste d’une femme légèrement tournée vers la gauche, la tête inclinée et le regard dirigé vers le spectateur. Elle porte un vêtement sombre à large col blanc plissé, tandis que ses cheveux bruns sont relevés en arrière. Le fond brun très sombre et indéfini isole le visage et le haut du corps.\",\"sujet_principal\":\"Personnage\",\"sujets_secondaires\":[],\"justification_sujet\":\"La représentation est centrée sur une figure humaine identifiable, montrée sous la forme d’un portrait individuel.\",\"style_visuel_probable\":\"Pictural, naturaliste, clair-obscur\",\"justification_style\":\"Le modelé du visage repose sur des transitions douces de lumière et d’ombre, avec une palette sombre et brune. Le traitement cherche à rendre les traits, les cheveux et les vêtements de manière reconnaissable, sans éléments permettant d’attribuer précisément une école ou une période.\",\"figuration\":\"figuratif\",\"couleurs_dominantes\":[\"brun foncé\",\"noir\",\"blanc cassé\",\"beige rosé\",\"rouge sombre\"],\"elements_visibles\":[\"visage féminin\",\"cheveux bruns relevés\",\"vêtement sombre\",\"col blanc plissé\",\"fond brun sombre\",\"buste cadré verticalement\"],\"composition\":\"Le buste occupe presque toute la surface de l’image. Le visage, placé dans la partie supérieure centrale, constitue le principal point lumineux et focal ; la tête inclinée crée une légère asymétrie, tandis que le vêtement sombre se fond partiellement dans le fond.\",\"limites_visuelles\":[\"L’identité du personnage n’est pas visible ni démontrable.\",\"Le contexte, le lieu et la date de réalisation ne sont pas indiqués.\",\"La reproduction est sombre et présente des traces ou reflets de surface qui masquent certains détails du vêtement et de l’arrière-plan.\",\"La technique exacte et les dimensions de l’œuvre ne peuvent pas être déterminées avec certitude à partir de cette image seule.\"]}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1789735405.0,
+    "conversation": null,
+    "max_output_tokens": 3500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "medium",
+      "generate_summary": null,
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "resultat",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "description_visuelle": {
+              "type": "string"
+            },
+            "sujet_principal": {
+              "type": "string",
+              "enum": [
+                "Architecture",
+                "Culture",
+                "Histoire",
+                "Mythologie",
+                "Nature",
+                "Objet",
+                "Personnage",
+                "Quotidien",
+                "Religion",
+                "NA"
+              ]
+            },
+            "sujets_secondaires": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "Architecture",
+                  "Culture",
+                  "Histoire",
+                  "Mythologie",
+                  "Nature",
+                  "Objet",
+                  "Personnage",
+                  "Quotidien",
+                  "Religion"
+                ]
+              }
+            },
+            "justification_sujet": {
+              "type": "string"
+            },
+            "style_visuel_probable": {
+              "type": "string"
+            },
+            "justification_style": {
+              "type": "string"
+            },
+            "figuration": {
+              "type": "string",
+              "enum": [
+                "figuratif",
+                "abstrait",
+                "mixte",
+                "indetermine"
+              ]
+            },
+            "couleurs_dominantes": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "elements_visibles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "composition": {
+              "type": "string"
+            },
+            "limites_visuelles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "description_visuelle",
+            "sujet_principal",
+            "sujets_secondaires",
+            "justification_sujet",
+            "style_visuel_probable",
+            "justification_style",
+            "figuration",
+            "couleurs_dominantes",
+            "elements_visibles",
+            "composition",
+            "limites_visuelles"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 853,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cached_tokens": 0
+      },
+      "output_tokens": 541,
+      "output_tokens_details": {
+        "reasoning_tokens": 116
+      },
+      "total_tokens": 1394
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "image_id": "0_0692",
+  "titre": "Chambre des enfants",
+  "artiste": "Jean Bazaine",
+  "room_id": "Room_7",
+  "sujet_existant": "Architecture",
+  "model": "gpt-5.6-luna",
+  "prompt_version": "bird-vision-v1",
+  "date_utc": "2026-09-19T14:27:43.418794+00:00",
+  "mode_acquisition": "image_locale",
+  "fichier_fourni": "0_0692.png",
+  "controle_identite": "association_par_id_fournie_par_utilisateur",
+  "raison_identite": "Image associée à cette œuvre par son nom de fichier ; identité non contrôlée automatiquement.",
+  "source_page": "",
+  "source_image": "",
+  "erreurs_telechargement": [],
+  "sha256_image_locale": "f9518b67f8af8ebaed97b6f201f50fc57c961bad2c7253ca7a83ae4bfbb32f63",
+  "fingerprint": "7acbde428f91b0f34a5514fc4bdde02c996ba2303383cd97920ed236e9caa303",
+  "original_width": 524,
+  "original_height": 713,
+  "statut": "ok",
+  "image_path": "images\\0_0692.jpg",
+  "description_visuelle": "Reproduction d’une peinture figurative représentant un intérieur sombre et dense, dominé par plusieurs formes humaines, dont une figure centrale brun-rouge vue de profil ou de dos et une autre forme humaine penchée dans la partie gauche. Autour d’elles se trouvent une table ou un meuble à droite, une cruche ou un vase clair, plusieurs gobelets, une chaise et un bouquet de fleurs dans un récipient au premier plan. La scène est rendue dans une gamme de bruns, d’ocres, de rouges et de gris, avec des contours peu nets et des formes superposées.",
+  "sujet_principal": "Personnage",
+  "sujets_secondaires": [
+    "Quotidien",
+    "Objet",
+    "Nature"
+  ],
+  "justification_sujet": "Les formes humaines occupent la plus grande partie de la composition et structurent la scène ; elles semblent appartenir à un intérieur habité, sans que leur identité ou leur activité précise soit clairement lisible.",
+  "style_visuel_probable": "Figuratif, expressionniste, matière picturale épaisse, palette sombre",
+  "justification_style": "Les silhouettes et les objets restent reconnaissables, mais leurs contours sont déformés ou fondus dans des touches visibles. Les couleurs terreuses et les contrastes assourdis produisent une impression expressive plutôt qu’une représentation strictement naturaliste.",
+  "figuration": "figuratif",
+  "couleurs_dominantes": [
+    "brun",
+    "ocre",
+    "rouge sombre",
+    "gris",
+    "beige",
+    "bleu-gris"
+  ],
+  "elements_visibles": [
+    "plusieurs figures humaines",
+    "table ou meuble à droite",
+    "chaise",
+    "cruche ou vase clair",
+    "gobelets ou récipients",
+    "bouquet de fleurs",
+    "récipient au premier plan",
+    "intérieur sombre"
+  ],
+  "composition": "Composition verticale et frontale, très resserrée, avec une figure centrale au premier plan. Les autres figures, le mobilier et les récipients s’emboîtent autour d’elle ; la table et les objets de droite équilibrent le bouquet situé en bas à gauche.",
+  "limites_visuelles": [
+    "La faible définition et la matière sombre rendent incertaine la distinction entre personnes, statues ou formes peintes.",
+    "Les activités des figures ne sont pas identifiables avec certitude.",
+    "La nature exacte de certains objets, notamment la grande forme claire et les récipients, reste indéterminée.",
+    "Aucun indice visuel suffisamment net ne permet d’attribuer une identité, une date ou un récit précis."
+  ],
+  "desaccord_sujet": true
+}

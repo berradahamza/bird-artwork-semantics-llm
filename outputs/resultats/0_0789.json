@@ -1,0 +1,58 @@
+{
+  "image_id": "0_0789",
+  "titre": "Paysage de neige",
+  "artiste": "André Marchand",
+  "room_id": "Room_8",
+  "sujet_existant": "Nature",
+  "model": "gpt-5.6-luna",
+  "prompt_version": "bird-vision-v1",
+  "date_utc": "2026-09-19T14:28:02.926076+00:00",
+  "mode_acquisition": "image_locale",
+  "fichier_fourni": "0_0789.png",
+  "controle_identite": "association_par_id_fournie_par_utilisateur",
+  "raison_identite": "Image associée à cette œuvre par son nom de fichier ; identité non contrôlée automatiquement.",
+  "source_page": "",
+  "source_image": "",
+  "erreurs_telechargement": [],
+  "sha256_image_locale": "3b0a1103c57cefb1031a8bb590e70f9ecd56ea271927d57fb68a236fd14109f6",
+  "fingerprint": "9afb0ec327cc2e46500d45f79019cf576d17ef30ceeb1168d889c31a26adc1ae",
+  "original_width": 803,
+  "original_height": 521,
+  "statut": "ok",
+  "image_path": "images\\0_0789.jpg",
+  "description_visuelle": "La scène montre un paysage enneigé et très dépouillé, avec une petite construction sombre à gauche et un bâtiment étroit, haut et rectangulaire à droite, doté d’ouvertures noires et d’une façade rougeâtre. Des arbres et des plantes sèches, sans feuilles, se détachent au premier plan et à l’horizon, tandis qu’une clôture et plusieurs formes allongées émergent de la neige. La composition est dominée par des tons blancs, gris et beiges sous un ciel uniforme, avec les deux bâtiments comme principaux points d’ancrage visuels.",
+  "sujet_principal": "Architecture",
+  "sujets_secondaires": [
+    "Nature",
+    "Objet"
+  ],
+  "justification_sujet": "Deux constructions clairement visibles structurent la scène et organisent l’espace du paysage.",
+  "style_visuel_probable": "Pictural, dépouillé, semi-réaliste",
+  "justification_style": "Les formes sont simplifiées, les contours parfois esquissés et les surfaces de neige traitées par de larges nuances plutôt que par un rendu détaillé.",
+  "figuration": "figuratif",
+  "couleurs_dominantes": [
+    "blanc neigeux",
+    "gris",
+    "beige",
+    "brun",
+    "rouge sombre",
+    "noir"
+  ],
+  "elements_visibles": [
+    "étendue enneigée",
+    "ciel gris clair",
+    "petite construction à gauche",
+    "bâtiment vertical à droite",
+    "arbres dénudés",
+    "végétation sèche au premier plan",
+    "clôture basse",
+    "formes sombres partiellement enfouies dans la neige"
+  ],
+  "composition": "Plan large et horizontal, avec une ligne d’horizon basse à moyenne ; le bâtiment vertical placé à droite équilibre la petite construction à gauche, tandis que les branches du premier plan créent une profondeur visuelle et partiellement masquent le centre inférieur.",
+  "limites_visuelles": [
+    "La fonction des deux bâtiments n’est pas identifiable avec certitude.",
+    "Les formes sombres dans la neige sont indéterminées et ne peuvent pas être interprétées précisément.",
+    "Aucun indice visuel suffisant ne permet d’attribuer la scène à un lieu, une époque ou un récit particulier."
+  ],
+  "desaccord_sujet": true
+}

@@ -1,0 +1,197 @@
+{
+  "signature": "4eb1b3772a48a932eade0a7c2171927b7ff7c9584536fe46e0abf6fbd4d4b208",
+  "response": {
+    "id": "resp_070d645dc173545b016aabe198f9d087d2a9a2ee75d4c3a616",
+    "created_at": 1789649305.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": "Analyse uniquement ce qui est visible dans cette image, sans recherche web ni identification de mémoire. Réponds en français. Décris précisément objets, personnages, décor et composition en 2 à 4 phrases. Pas de noms de personnes, dates ou récits non démontrables visuellement. Sujet principal parmi les neuf catégories ou NA. Religion/Mythologie/Histoire exigent des indices visibles, sinon NA ou catégorie plus générale. Culture : pratiques/symboles culturels identifiables ; Quotidien : activités ordinaires ; Objet : objets/nature morte ; Personnage : figure/portrait ; Nature : paysages/faune/flore ; Architecture : bâti. Style visuel probable en mots courts (ex. naturaliste, géométrique, impressionniste), sans affirmer une appartenance historique. Mets indéterminé si nécessaire. Ne confonds pas technique, sujet et style. Indique les limites et justifie les choix.",
+    "metadata": {},
+    "model": "gpt-4.1-2025-04-14",
+    "object": "response",
+    "output": [
+      {
+        "id": "msg_070d645dc173545b016aabe1997fa087d2b4f8a0cdfd0f9065",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\n  \"description_visuelle\": \"La scène représente une nature morte composée d’un vase avec des fleurs mauves et roses, posé à côté de deux livres fermés superposés et d’un livre ouvert au premier plan. On voit aussi une tasse bleue posée sur une soucoupe, un pichet métallique et un tissu à motif bleu et blanc. À l'arrière-plan, un motif doré orne ce qui semble être un tapis ou un rideau. L'ensemble est baigné dans des tons doux et lumineux.\",\n  \"sujet_principal\": \"Objet\",\n  \"sujets_secondaires\": [\"Quotidien\",\"Nature\"],\n  \"justification_sujet\": \"Le sujet central est l’arrangement d’objets usuels (livre, tasse, vase avec fleurs) posé sur une table, typique d’une nature morte axée sur le quotidien et la représentation d’objets. La présence du bouquet ajoute aussi une dimension naturelle.\",\n  \"style_visuel_probable\": \"naturaliste\",\n  \"justification_style\": \"Les objets et fleurs sont représentés de façon reconnaissable avec une attention à la lumière, aux couleurs naturelles et aux textures, sans effet d’abstraction.\",\n  \"figuration\": \"figuratif\",\n  \"couleurs_dominantes\": [\"bleu\",\"jaune\",\"vert\",\"violet\",\"beige\"],\n  \"elements_visibles\": [\"livre ouvert\",\"vase\",\"bouquet de fleurs\",\"livres fermés\",\"tasse\",\"soucoupe\",\"pichet\",\"tissu à carreaux\",\"motif décoratif doré\"],\n  \"composition\": \"La composition est centrée autour du livre ouvert, avec les autres objets disposés en cercle autour, guidant le regard du spectateur. Les lignes du tissu et du tapis créent des diagonales qui dynamisent l’ensemble.\",\n  \"limites_visuelles\": [\"La scène ne montre qu’une partie de la table et les objets sont tronqués aux bords.\",\"Le fond reste schématique et peu détaillé, sans indication sur l’environnement extérieur de la scène.\"]\n}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": null
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 1.0,
+    "background": false,
+    "completed_at": 1789649309.0,
+    "conversation": null,
+    "max_output_tokens": 3500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "in_memory",
+    "reasoning": {
+      "context": null,
+      "effort": null,
+      "generate_summary": null,
+      "mode": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "resultat",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "description_visuelle": {
+              "type": "string"
+            },
+            "sujet_principal": {
+              "type": "string",
+              "enum": [
+                "Architecture",
+                "Culture",
+                "Histoire",
+                "Mythologie",
+                "Nature",
+                "Objet",
+                "Personnage",
+                "Quotidien",
+                "Religion",
+                "NA"
+              ]
+            },
+            "sujets_secondaires": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "Architecture",
+                  "Culture",
+                  "Histoire",
+                  "Mythologie",
+                  "Nature",
+                  "Objet",
+                  "Personnage",
+                  "Quotidien",
+                  "Religion"
+                ]
+              }
+            },
+            "justification_sujet": {
+              "type": "string"
+            },
+            "style_visuel_probable": {
+              "type": "string"
+            },
+            "justification_style": {
+              "type": "string"
+            },
+            "figuration": {
+              "type": "string",
+              "enum": [
+                "figuratif",
+                "abstrait",
+                "mixte",
+                "indetermine"
+              ]
+            },
+            "couleurs_dominantes": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "elements_visibles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "composition": {
+              "type": "string"
+            },
+            "limites_visuelles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "description_visuelle",
+            "sujet_principal",
+            "sujets_secondaires",
+            "justification_sujet",
+            "style_visuel_probable",
+            "justification_style",
+            "figuration",
+            "couleurs_dominantes",
+            "elements_visibles",
+            "composition",
+            "limites_visuelles"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 850,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cached_tokens": 0
+      },
+      "output_tokens": 430,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 1280
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  }
+}

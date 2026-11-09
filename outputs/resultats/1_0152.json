@@ -1,0 +1,59 @@
+{
+  "image_id": "1_0152",
+  "titre": "Portrait d'un artiste en habit rouge",
+  "artiste": "Etienne Aubry",
+  "room_id": "Room_24",
+  "sujet_existant": "Personnage",
+  "fingerprint": "b1a3b2a0c61fbda667833bfe39fc635b4d93f1b0861d869a496a4f42c73b64b2",
+  "model": "gpt-5.6-luna",
+  "prompt_version": "bird-vision-v1",
+  "date_utc": "2026-09-18T12:56:36.451266+00:00",
+  "statut": "ok",
+  "image_path": "images\\1_0152.jpg",
+  "source_page": "https://collections-mba.nancy.fr/fr/notice/290-portrait-d-un-artiste-en-habit-rouge-386d8a33-1b47-4093-a19d-08f1ea0b0e8b",
+  "source_image": "https://d2lkryo36aywim.cloudfront.net/eyJidWNrZXQiOiJvcGFjLXByb2QtbWVkaWEiLCJrZXkiOiJiYW5hbmN5MDFcL21iYW5hbmN5b3cwMlwvZjUxNjBjYzYtZWIyZC00NjU3LWEyNjEtMjI5ZmI0MjZiZmY4LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NjUwLCJoZWlnaHQiOjY1MCwiZml0IjoiaW5zaWRlIn19fQ==",
+  "controle_identite": "retenu_par_IA_non_verifie_humain",
+  "raison_identite": "La notice du musée rattache explicitement l’image à l’œuvre « Portrait d'un artiste en habit rouge » d’Étienne Aubry. Le titre, l’artiste, la datation (1771-1777), la technique (huile sur toile), les dimensions et le numéro d’inventaire 290 concordent, et l’image montre bien un portrait masculin en habit rouge dans un cadre ovale.",
+  "original_width": 514,
+  "original_height": 650,
+  "download_url": "https://d2lkryo36aywim.cloudfront.net/eyJidWNrZXQiOiJvcGFjLXByb2QtbWVkaWEiLCJrZXkiOiJiYW5hbmN5MDFcL21iYW5hbmN5b3cwMlwvZjUxNjBjYzYtZWIyZC00NjU3LWEyNjEtMjI5ZmI0MjZiZmY4LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NjUwLCJoZWlnaHQiOjY1MCwiZml0IjoiaW5zaWRlIn19fQ==",
+  "sha256_download": "48372aac0456e8771a1bc8c87751bc963b0482ed6c9eef96fecbd822cf6ec765",
+  "description_visuelle": "Portrait peint en buste d’un homme âgé, représenté de trois quarts, au visage tourné vers le spectateur. Il porte un vêtement rouge sombre avec des poignets et un jabot blancs ornés de dentelle, ainsi qu’un accessoire décoratif doré ; sa main tient un instrument fin devant un fond très sombre. L’image est inscrite dans un cadre ovale doré richement orné.",
+  "sujet_principal": "Personnage",
+  "sujets_secondaires": [
+    "Objet",
+    "Culture"
+  ],
+  "justification_sujet": "La figure humaine en costume occupe presque toute la composition et constitue le point focal. Les instruments et les vêtements détaillés peuvent évoquer une activité artistique ou un milieu social particulier, sans permettre d’en préciser davantage la nature.",
+  "style_visuel_probable": "Figuratif, naturaliste, portrait réaliste, modelé doux",
+  "justification_style": "Le visage, les mains, les étoffes et les ornements sont rendus avec un souci d’observation et de volume, au moyen de transitions nuancées. Le fond sombre renforce l’éclairage du personnage et la lisibilité du costume.",
+  "figuration": "figuratif",
+  "couleurs_dominantes": [
+    "rouge sombre",
+    "brun",
+    "noir",
+    "blanc cassé",
+    "or",
+    "chair rosée"
+  ],
+  "elements_visibles": [
+    "homme âgé en buste",
+    "visage de trois quarts",
+    "cheveux blancs poudrés ou coiffés en arrière",
+    "vêtement rouge",
+    "dentelle blanche au cou et aux poignets",
+    "ornements dorés sur le vêtement",
+    "instrument fin tenu dans la main",
+    "fond sombre",
+    "cadre ovale doré décoré"
+  ],
+  "composition": "La figure est centrée dans un médaillon ovale et occupe la majeure partie de l’espace. Le regard et l’orientation du visage dirigent l’attention vers le spectateur, tandis que les mains et l’instrument se prolongent vers la droite dans la partie inférieure. Le cadre doré forme une bordure visuelle très présente autour du portrait.",
+  "limites_visuelles": [
+    "L’identité du personnage n’est pas déductible de manière certaine à partir de l’image seule.",
+    "L’objet tenu par la figure n’est pas assez détaillé pour être identifié avec certitude.",
+    "La fonction exacte des vêtements et des ornements ne peut pas être établie uniquement visuellement.",
+    "La reproduction ne permet pas de déterminer avec certitude la technique ou la date de réalisation."
+  ],
+  "desaccord_sujet": false,
+  "erreurs_telechargement": []
+}

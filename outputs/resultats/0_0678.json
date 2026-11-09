@@ -1,0 +1,57 @@
+{
+  "image_id": "0_0678",
+  "titre": "Dante et Virgile",
+  "artiste": "Gérard Garouste",
+  "room_id": "Room_7",
+  "sujet_existant": "Culture",
+  "model": "gpt-5.6-luna",
+  "prompt_version": "bird-vision-v1",
+  "date_utc": "2026-09-19T14:27:34.884731+00:00",
+  "mode_acquisition": "image_locale",
+  "fichier_fourni": "0_0678.jpg",
+  "controle_identite": "association_par_id_fournie_par_utilisateur",
+  "raison_identite": "Image associée à cette œuvre par son nom de fichier ; identité non contrôlée automatiquement.",
+  "source_page": "",
+  "source_image": "",
+  "erreurs_telechargement": [],
+  "sha256_image_locale": "829bcd00dea593f9b74c0f78163e7a0fd45a08969f0814bf2f6611dd3e64760f",
+  "fingerprint": "c595afb1dd95a16853ec3554001dfbbda31c73f82aca2226d7d179ef6d8cee9a",
+  "original_width": 800,
+  "original_height": 683,
+  "statut": "ok",
+  "image_path": "images\\0_0678.jpg",
+  "description_visuelle": "La reproduction montre une petite embarcation allongée, inclinée en diagonale sur une eau sombre et agitée, avec plusieurs silhouettes pâles dressées à son bord. Le ciel et la mer se fondent dans des tons bleu-vert, gris, brun et noir, traversés de touches rouges et blanches; des lignes sombres à gauche évoquent un gréement ou des cordages. Les formes centrales sont fortement esquissées et certaines ressemblent à des personnages, tandis que leur posture et leur nombre restent difficiles à déterminer.",
+  "sujet_principal": "Personnage",
+  "sujets_secondaires": [
+    "Objet",
+    "Nature"
+  ],
+  "justification_sujet": "Les éléments les plus visibles au centre sont plusieurs silhouettes verticales à l’apparence partiellement humaine; l’embarcation et le paysage marin servent de cadre secondaire.",
+  "style_visuel_probable": "figuratif expressionniste, gestuel, sombre",
+  "justification_style": "La scène reste reconnaissable, mais elle est construite par des coups de pinceau rapides, des contours irréguliers, des empâtements clairs et une palette très contrastée plutôt que par un dessin précis.",
+  "figuration": "figuratif",
+  "couleurs_dominantes": [
+    "bleu sombre",
+    "vert-gris",
+    "gris",
+    "brun",
+    "noir",
+    "blanc cassé",
+    "rouge sombre"
+  ],
+  "elements_visibles": [
+    "petite embarcation allongée",
+    "plusieurs silhouettes pâles dressées",
+    "eau agitée",
+    "ciel sombre",
+    "lignes ressemblant à des cordages ou à un gréement",
+    "touches blanches sur la coque et les silhouettes"
+  ],
+  "composition": "La barque traverse la partie inférieure de l’image selon une diagonale ascendante vers la droite. Les silhouettes forment un groupe vertical au centre-gauche et concentrent le regard, tandis que le ciel et la mer occupent tout l’arrière-plan.",
+  "limites_visuelles": [
+    "Les silhouettes peuvent être humaines, mais leur représentation est trop schématique pour l’affirmer avec certitude.",
+    "La fonction des lignes sombres à gauche et la forme allongée à droite ne sont pas clairement identifiables.",
+    "Aucun récit, événement ou contexte historique précis n’est démontrable à partir de l’image seule."
+  ],
+  "desaccord_sujet": true
+}

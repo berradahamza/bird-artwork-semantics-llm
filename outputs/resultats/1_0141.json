@@ -1,0 +1,61 @@
+{
+  "image_id": "1_0141",
+  "titre": "Anne et Jehanne",
+  "artiste": "Laura Leroux-Revault",
+  "room_id": "Room_24",
+  "sujet_existant": "Personnage",
+  "fingerprint": "65632f4768ba4a1489ab61700c17f15e3b1a6cf62e9510f69ad151be5dda3fae",
+  "model": "gpt-5.6-luna",
+  "prompt_version": "bird-vision-v1",
+  "date_utc": "2026-09-18T12:52:29.955716+00:00",
+  "statut": "ok",
+  "image_path": "images\\1_0141.jpg",
+  "source_page": "https://fr.wikipedia.org/wiki/Anne_et_Jehanne",
+  "source_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Anne_et_Jehanne.jpg/960px-Anne_et_Jehanne.jpg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+  "controle_identite": "retenu_par_IA_non_verifie_humain",
+  "raison_identite": "La notice et l’image correspondent clairement à la même œuvre : titre « Anne et Jehanne », artiste Laura Leroux-Revault, datation 1894, huile sur toile, inventaire 896. L’image montre bien les deux jeunes filles décrites, avec la robe verte de l’aînée, la robe violette de la cadette endormie, le vase fleuri et le livre ouvert.",
+  "original_width": 960,
+  "original_height": 1709,
+  "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Anne_et_Jehanne.jpg/960px-Anne_et_Jehanne.jpg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+  "sha256_download": "8224ca108391a19b686d4b01a8ff33ceea5663632645769d6cee7f2d7a1ea48b",
+  "description_visuelle": "Dans un intérieur sombre, deux jeunes figures féminines occupent le centre de la composition : l’une est debout, vêtue d’une robe sombre à manches claires et ceinturée, tandis que l’autre repose la tête sur ses genoux, les yeux fermés, dans une robe violette et rouge. Un livre ouvert est posé à gauche, près d’un bouquet de fleurs, et l’arrière-plan montre des panneaux, des boiseries et du mobilier peu éclairés. La scène est dominée par des tons bleu-noir, bruns, rouges et dorés, avec une lumière concentrée sur les visages et le vêtement clair de la figure debout.",
+  "sujet_principal": "Personnage",
+  "sujets_secondaires": [
+    "Objet",
+    "Architecture"
+  ],
+  "justification_sujet": "La présence centrale de deux figures humaines, rendues avec leurs visages, attitudes et vêtements, détermine le sujet principal. Le livre, les fleurs et le mobilier constituent des éléments secondaires visibles ; le décor intérieur comporte des boiseries et des panneaux architecturaux.",
+  "style_visuel_probable": "Figuratif, naturaliste, tonal, romantique",
+  "justification_style": "Les corps, visages, étoffes et objets sont représentés de manière reconnaissable et détaillée, avec une modélisation douce de la lumière et une atmosphère sombre et dramatique. L’image semble être une peinture reproduite, mais la technique exacte et l’appartenance historique ne sont pas déterminables avec certitude.",
+  "figuration": "figuratif",
+  "couleurs_dominantes": [
+    "bleu-noir",
+    "brun",
+    "rouge sombre",
+    "violet",
+    "ocre doré",
+    "crème"
+  ],
+  "elements_visibles": [
+    "Deux figures féminines",
+    "Figure debout au centre-gauche",
+    "Figure assise ou agenouillée, endormie ou les yeux fermés",
+    "Robes et étoffes longues",
+    "Ceinture brune ou dorée",
+    "Livre ouvert à gauche",
+    "Bouquet de fleurs à gauche",
+    "Panneaux et boiseries en arrière-plan",
+    "Mobilier sombre",
+    "Sol dallé ou en plaques claires",
+    "Inscription visible dans l’angle inférieur droit"
+  ],
+  "composition": "Composition verticale et centrée, organisée autour de la figure debout qui forme l’axe principal. La seconde figure crée une diagonale descendante vers le bas à droite, tandis que le livre et les fleurs équilibrent la scène à gauche ; le contraste lumineux attire l’attention sur les visages et le haut du corps.",
+  "limites_visuelles": [
+    "L’éclairage très faible et les zones sombres masquent une partie des détails du décor et des vêtements.",
+    "La reproduction présente des traces, des reflets ou une texture de surface qui peuvent altérer les couleurs et les contours.",
+    "Les liens entre les deux figures, leur identité, leur époque et la signification de la scène ne sont pas démontrables à partir de la seule image.",
+    "Le texte de l’inscription inférieure n’est pas retenu comme élément d’identification."
+  ],
+  "desaccord_sujet": false,
+  "erreurs_telechargement": []
+}

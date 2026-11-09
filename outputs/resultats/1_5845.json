@@ -1,0 +1,57 @@
+{
+  "image_id": "1_5845",
+  "titre": "La Femme à la puce",
+  "artiste": "Georges de la Tour",
+  "room_id": "Room_34",
+  "sujet_existant": "Personnage",
+  "fingerprint": "4d9697ec60f09d478664232bff0d0b01656ce51531f839ed3bee1518505497a0",
+  "model": "gpt-5.6-luna",
+  "prompt_version": "bird-vision-v1",
+  "date_utc": "2026-09-18T13:58:00.879614+00:00",
+  "statut": "ok",
+  "image_path": "images\\1_5845.jpg",
+  "source_page": "https://www.museesgrandest.org/les-collections/la-femme-a-la-puce/",
+  "source_image": "https://www.museesgrandest.org/wp-content/uploads/2019/03/10-la-femme-a-la-puce.jpg",
+  "controle_identite": "retenu_par_IA_non_verifie_humain",
+  "raison_identite": "La page Musées Grand-Est rattache explicitement l’image à « La Femme à la puce » de Georges de La Tour, conservée au Musée lorrain de Nancy, avec le numéro d’inventaire Inv. 55.4.3. Le sujet représenté, la composition et la scène à la chandelle correspondent également à l’œuvre indiquée. La légère variation de datation (vers 1632-1635 contre vers 1638) reste compatible.",
+  "original_width": 893,
+  "original_height": 1201,
+  "download_url": "https://www.museesgrandest.org/wp-content/uploads/2019/03/10-la-femme-a-la-puce.jpg",
+  "sha256_download": "ca868c960a727b1ce232d2398a8b35b82ee765d82d31317ca9ccb853ebb2d17d",
+  "description_visuelle": "Une femme assise sur une chaise tient et ajuste un vêtement clair au niveau de son torse, la tête inclinée vers ses mains. À gauche, une petite bougie allumée est posée sur un chandelier devant un banc ou une table aux parties peintes en rouge. La scène intérieure, très sombre, est éclairée principalement par la flamme et par une lumière chaude venant de la gauche, qui souligne le visage, les mains et les plis des vêtements.",
+  "sujet_principal": "Quotidien",
+  "sujets_secondaires": [
+    "Personnage",
+    "Objet"
+  ],
+  "justification_sujet": "La scène montre une personne engagée dans une activité domestique ou personnelle ordinaire, dans un intérieur meublé, sans indice visuel suffisant pour l’associer à un récit historique ou religieux précis.",
+  "style_visuel_probable": "Naturalisme sombre, clair-obscur, réalisme",
+  "justification_style": "Les volumes sont rendus par de forts contrastes entre les zones éclairées et les ombres, avec une attention réaliste aux matières, aux plis du tissu, au bois et à la flamme.",
+  "figuration": "figuratif",
+  "couleurs_dominantes": [
+    "brun",
+    "ocre",
+    "noir",
+    "rouge orangé",
+    "beige clair"
+  ],
+  "elements_visibles": [
+    "femme assise",
+    "chaise en bois sombre",
+    "vêtement clair et ample",
+    "mains tenant le vêtement",
+    "bougie allumée",
+    "chandelier",
+    "banc ou table peint en rouge",
+    "mur sombre",
+    "sol brun"
+  ],
+  "composition": "La figure occupe la partie droite et le centre de l’image, en diagonale descendante de la tête vers les mains et les jambes. Le chandelier et le mobilier rouge structurent la partie gauche, tandis que l’éclairage concentre l’attention sur le haut du corps et le geste des mains.",
+  "limites_visuelles": [
+    "L’action exacte de la femme n’est pas identifiable avec certitude : elle semble ajuster ou tenir son vêtement, mais le détail ne permet pas de préciser davantage.",
+    "Aucune information visible ne permet d’identifier l’auteur, le titre, la date ou le contexte de cette reproduction.",
+    "La fonction exacte du meuble rouge à gauche reste indéterminée."
+  ],
+  "desaccord_sujet": true,
+  "erreurs_telechargement": []
+}

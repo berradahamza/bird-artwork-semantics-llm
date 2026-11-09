@@ -1,0 +1,205 @@
+{
+  "signature": "2f78f8e255e17a3279bad144714606f21ff2a3902a2db741551e47f48fd7bbd2",
+  "response": {
+    "id": "resp_0caae01b8f8af992016aad41515b9087d2af943d45c37ea4e9",
+    "created_at": 1789739345.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": "Analyse uniquement ce qui est visible dans cette image, sans recherche web ni identification de mémoire. Réponds en français. Décris précisément objets, personnages, décor et composition en 2 à 4 phrases. Pas de noms de personnes, dates ou récits non démontrables visuellement. Sujet principal parmi les neuf catégories ou NA. Religion/Mythologie/Histoire exigent des indices visibles, sinon NA ou catégorie plus générale. Culture : pratiques/symboles culturels identifiables ; Quotidien : activités ordinaires ; Objet : objets/nature morte ; Personnage : figure/portrait ; Nature : paysages/faune/flore ; Architecture : bâti. Style visuel probable en mots courts (ex. naturaliste, géométrique, impressionniste), sans affirmer une appartenance historique. Mets indéterminé si nécessaire. Ne confonds pas technique, sujet et style. Indique les limites et justifie les choix.",
+    "metadata": {},
+    "model": "gpt-5.6-luna",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0caae01b8f8af992016aad41521b1c87d2af1a034787a17860",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrUFXxhlMwAcwA_yM1no4OtQXe090tC8k79c205WoDb0wrgv85kPPPqqW7VRqouwxNXyyBssSiMK4B78JP4-BGh7MoSLjuVXBNIOxP0SWdjFADDCGAVLE__XuVs2tb786ksMUK6Bhe06hKFcx9QOZij4xNw2wVMLmvylOT9l6X8R_Hk6YfsoOCTrglbJPu7oWFhgwZyTEYlnuQs59tox3llFnbOdhMpVLWzf-d9peKj3gNx-SS4mqYMsU6vnOA-ASLlbinC_nj7jSnMzEmbSyiFpYxP-9Yn2CyBMByi_ZjFM2wYPjG_7LJ53mwwwjI23-AMMRyPN4QUCu-rMFUjDSPstPUelfQfHuDH5PNFDCROrw0StFyQAqdBUwnunBOLEz4Ac60DZMOe-Lcu1s4jwvuEIp9lYdMiYXDjhNyjLrrGOKtv_nQQUummU-o94MnS5_rdSa6xhkXnom8On0OsCR9i7vp864pBgKNHx_7xMiCcnnRuVZkIw9tI_urXSFPtiRZRfmqADuRuF8o_5Q7ovWoEpmHh-OTKTDNwy1tJEdiRH5HCH23yKdXhW7ZfpbXoTg36sVMlH1OnjrSulgK5DM9IxsqpqyLrn1wMEuf2XkEsuveHBsi6A8Sv8sNCVrSXP6eT_wpKS6SJJrZQ21w1pbccn_66pHnQxNF0mjs1WM09rFKwCh7raGh7QHcZYGIhJjAtz6l_TQBDSN6m53YI1s7OkHvHN7XxCedRG0_Lg-DmQfOLWWToSeKOPAnBF77mcjKTxtG7lCSsrXha85OOwSlh3jmZeZpO5L1axXZPTx1g-J4lP4tE7mNGfmEKEnl3xalZZ8xlkik9AXjgb9MXKzsSO5SrV5iQs-PIMQW8v2VO1eO927dG0JVKuQhcgRJAO3Ta2QHoB_fqNE6Cvx7lTMFRbcRGG7QuvJ4jbLCXLvR-tKM3yrz0TIE543KTOvc_FMPkAZGuduEbyr6yEzrmzQUMm7UdtMZunKMtCq5fR57zGdIeKRN84iqvLgmLmBsU-4QZm224P6r7MwUgEfukxMYKPJuunlU8CPS_bmpWL3c1TzbD-7IZ3iWpKR2sDioBNg_ZZwhDFFxhBT0WRrp3WfjVL86f5c5-8SQQF5FR0DRewbBTPO8AZPbAd0lK58uT_A2UyBPGrnLsVmR35liIQfYSC4bugWluf2byKzp3dRsuiVXHArmY_QKXqvUWTiQIX8CNBJ6vFWZSU8NsreBcJGTZzSpoOUyenzDMUgZe7c_A60jOzz22RMh98STFTjhwUrTNyWlRh2LDopXnY3lo96AqvuuBZOlgELhfvXlKTaX5Q1eUqDD0MTf_11djHmwFWjcsp8nolMCMeL53dZG6oKvN68D8qTL38Qqsv3ef-DOxeydZzgsU0i56b_jHVzsZ_qZoT_Ee6HbaTO6kRNIGgYjayX0A3Jyedp0AOPI-UcDjvV9IFCNW3FNdr7XubHjNVYVHaA_cw5kmtFsm_1yGoFh5oPYGy2uZ60ynFNu2veSPFRxozl_O8kBWYheCpVMdEYVF-rtoLlqe9M2bCzNO-h0ZS7GZ-qK7fXWD86kLuyWNQByMOtfieRiIVENJH8VBMx96XjNkhtLaYKbn8cB-SzXp7DWFBgyTkbGsFI3PbOn2SSkBnfi0a-39k6oYmJnfJ3dMykiVBWhlF5nFEs-UdAlIRsuljQnONKNhrSCjG3hDisn_cigNnsY1s4t9pQvdT3ZNfLX6IkIyWenHM_Z6KXtdO9dg==",
+        "status": null
+      },
+      {
+        "id": "msg_0caae01b8f8af992016aad4152f1a887d28ae951292a0b24bb",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\"description_visuelle\":\"La reproduction montre un paysage hivernal dominé à gauche par de grands arbres dénudés, dont les branches blanchies encadrent un chemin descendant vers une étendue d’eau. De petites figures humaines et quelques silhouettes sombres apparaissent au premier plan et sur la rive, tandis qu’à droite se trouvent des constructions aux toits très pentus, partiellement enveloppées de brume ou de fumée. L’image est entourée d’un large cadre en bois sombre, richement orné de motifs géométriques et sculptés.\",\"sujet_principal\":\"Nature\",\"sujets_secondaires\":[\"Architecture\",\"Personnage\",\"Quotidien\",\"Objet\"],\"justification_sujet\":\"Le paysage, les arbres, l’eau, la neige ou le givre et l’atmosphère hivernale occupent l’essentiel de la scène. Les bâtiments, les petites figures et le cadre sont des éléments secondaires visibles.\",\"style_visuel_probable\":\"Paysage naturaliste, atmosphérique, détaillé\",\"justification_style\":\"La scène cherche à représenter un environnement reconnaissable avec une profondeur marquée, des détails fins dans les branches et une brume diffuse. La technique exacte et l’appartenance historique ne sont pas déterminables à partir de cette reproduction seule.\",\"figuration\":\"figuratif\",\"couleurs_dominantes\":[\"brun\",\"gris\",\"blanc\",\"bleu pâle\",\"vert sombre\"],\"elements_visibles\":[\"grands arbres dénudés\",\"branches couvertes de givre ou de neige\",\"chemin enneigé\",\"étendue d’eau\",\"petites figures humaines\",\"silhouettes lointaines\",\"constructions à toits pentus\",\"brume ou fumée\",\"cadre en bois ornementé\"],\"composition\":\"La masse sombre des arbres structure la partie gauche et forme une arche naturelle au-dessus du chemin. La perspective mène le regard vers le centre puis vers l’eau et les bâtiments situés à droite, dans un arrière-plan plus clair et brumeux.\",\"limites_visuelles\":[\"Les détails des petites figures ne permettent pas d’identifier précisément leurs activités ou leurs vêtements.\",\"Il est impossible de déterminer avec certitude si les zones blanches correspondent à de la neige, du givre ou un effet pictural.\",\"Les constructions sont visibles mais leur fonction et leur localisation ne sont pas identifiables.\",\"L’image étant une reproduction encadrée, la technique et les dimensions originales ne peuvent pas être établies.\"]}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1789739351.0,
+    "conversation": null,
+    "max_output_tokens": 3500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "medium",
+      "generate_summary": null,
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "resultat",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "description_visuelle": {
+              "type": "string"
+            },
+            "sujet_principal": {
+              "type": "string",
+              "enum": [
+                "Architecture",
+                "Culture",
+                "Histoire",
+                "Mythologie",
+                "Nature",
+                "Objet",
+                "Personnage",
+                "Quotidien",
+                "Religion",
+                "NA"
+              ]
+            },
+            "sujets_secondaires": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "Architecture",
+                  "Culture",
+                  "Histoire",
+                  "Mythologie",
+                  "Nature",
+                  "Objet",
+                  "Personnage",
+                  "Quotidien",
+                  "Religion"
+                ]
+              }
+            },
+            "justification_sujet": {
+              "type": "string"
+            },
+            "style_visuel_probable": {
+              "type": "string"
+            },
+            "justification_style": {
+              "type": "string"
+            },
+            "figuration": {
+              "type": "string",
+              "enum": [
+                "figuratif",
+                "abstrait",
+                "mixte",
+                "indetermine"
+              ]
+            },
+            "couleurs_dominantes": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "elements_visibles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "composition": {
+              "type": "string"
+            },
+            "limites_visuelles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "description_visuelle",
+            "sujet_principal",
+            "sujets_secondaires",
+            "justification_sujet",
+            "style_visuel_probable",
+            "justification_style",
+            "figuration",
+            "couleurs_dominantes",
+            "elements_visibles",
+            "composition",
+            "limites_visuelles"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 828,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cached_tokens": 0
+      },
+      "output_tokens": 604,
+      "output_tokens_details": {
+        "reasoning_tokens": 90
+      },
+      "total_tokens": 1432
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  }
+}

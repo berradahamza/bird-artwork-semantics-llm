@@ -1,0 +1,56 @@
+{
+  "image_id": "0_0565",
+  "titre": "Intérieur de palais",
+  "artiste": "Philippe Meusnier",
+  "room_id": "Room_0",
+  "sujet_existant": "Architecture",
+  "model": "gpt-5.6-luna",
+  "prompt_version": "bird-vision-v1",
+  "date_utc": "2026-09-23T13:33:11.243015+00:00",
+  "mode_acquisition": "image_locale",
+  "fichier_fourni": "0_0565.jpg",
+  "controle_identite": "association_par_id_fournie_par_utilisateur",
+  "raison_identite": "Image associée à cette œuvre par son nom de fichier ; identité non contrôlée automatiquement.",
+  "source_page": "",
+  "source_image": "",
+  "erreurs_telechargement": [],
+  "sha256_image_locale": "f99e4f53ae90dfdf753e6445d6d0be4b2cbac96f815141ccaf16554addc717c7",
+  "fingerprint": "d1e20426d17e9375933eff400946ba40a1751e81650825921d050c6cbcec5377",
+  "original_width": 200,
+  "original_height": 151,
+  "statut": "ok",
+  "image_path": "images\\0_0565.jpg",
+  "description_visuelle": "L’image montre un vaste intérieur sombre et monumental, organisé par de hautes colonnes ou piliers en profondeur, avec un plafond orné et de grandes fenêtres cintrées au fond. Quelques silhouettes humaines sont visibles au premier plan et au centre, tandis qu’un lourd tissu ou rideau tombe sur le côté droit. La lumière entre principalement par les ouvertures latérales et l’arrière, créant un fort contraste entre les zones éclairées et les parties plongées dans l’ombre.",
+  "sujet_principal": "Architecture",
+  "sujets_secondaires": [
+    "Personnage"
+  ],
+  "justification_sujet": "L’élément dominant est l’espace bâti : colonnes, plafond, ouvertures, profondeur de la salle et organisation symétrique de l’intérieur. Les petites figures humaines sont secondaires et servent surtout à donner une échelle au lieu.",
+  "style_visuel_probable": "Peint, naturaliste, théâtral, clair-obscur",
+  "justification_style": "La scène utilise une perspective axiale marquée, une lumière contrastée et une atmosphère sombre évoquant un décor intérieur représenté de manière réaliste mais dramatisée. La faible résolution empêche de préciser davantage le style.",
+  "figuration": "figuratif",
+  "couleurs_dominantes": [
+    "brun sombre",
+    "ocre",
+    "gris bleuté",
+    "noir",
+    "beige lumineux"
+  ],
+  "elements_visibles": [
+    "vaste salle intérieure",
+    "colonnes ou piliers",
+    "haut plafond décoré",
+    "grandes fenêtres cintrées",
+    "ouvertures latérales",
+    "silhouettes humaines",
+    "rideau ou draperie à droite",
+    "sol en perspective"
+  ],
+  "composition": "La composition est frontale et centrée sur un axe qui conduit le regard vers les fenêtres du fond. Les colonnes forment des lignes verticales répétées, tandis que les zones sombres sur les côtés encadrent la partie centrale éclairée.",
+  "limites_visuelles": [
+    "Les détails des figures humaines sont trop peu nets pour déterminer leur identité, leur activité ou leurs vêtements.",
+    "La fonction exacte du bâtiment ne peut pas être établie avec certitude à partir de cette image seule.",
+    "Les éléments décoratifs et les objets placés au sol sont partiellement masqués par l’ombre et la faible résolution."
+  ],
+  "desaccord_sujet": false
+}

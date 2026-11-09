@@ -1,0 +1,314 @@
+{
+  "signature": "8cc0c0402f18e2810f7bda3dd88a24a5f1cce474a3628979fc0891321155beb5",
+  "response": {
+    "id": "resp_0d7f3c9a8b4ff236016aad3a84934487d2b2377259b252dfa1",
+    "created_at": 1789737604.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.6-luna",
+    "object": "response",
+    "output": [
+      {
+        "id": "ws_0d7f3c9a8b4ff236016aad3a854ca487d291909dc68866668a",
+        "action": {
+          "type": "search",
+          "queries": [
+            "site:musee-des-beaux-arts.nancy.fr \"Aurore et Céphale\" Boucher 143",
+            "site:pop.culture.gouv.fr \"Aurore et Céphale\" \"François Boucher\"",
+            "site:collections.louvre.fr \"Aurore et Céphale\" Boucher 1733",
+            "\"Aurore et Céphale\" \"Musée des Beaux-Arts de Nancy\""
+          ],
+          "query": "site:musee-des-beaux-arts.nancy.fr \"Aurore et Céphale\" Boucher 143",
+          "sources": [
+            {
+              "type": "url",
+              "url": "https://pop.culture.gouv.fr/notice/joconde/05120000060"
+            },
+            {
+              "type": "url",
+              "url": "https://musee-des-beaux-arts.nancy.fr/"
+            },
+            {
+              "type": "url",
+              "url": "https://musee-des-beaux-arts.nancy.fr/les-collections/peinture/peinture-du-xviiie-siecle"
+            },
+            {
+              "type": "url",
+              "url": "https://musee-des-beaux-arts.nancy.fr/les-collections/art-contemporain/focus-sur-loeuvre/francois-boucher-aurore-et-cephale-1733"
+            },
+            {
+              "type": "url",
+              "url": "https://musee-des-beaux-arts.nancy.fr/accueil"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Aurore_et_C%C3%A9phale"
+            },
+            {
+              "type": "url",
+              "url": "https://utpictura18.univ-amu.fr/notice/10281-aurore-cephale-version-nancy-boucher"
+            },
+            {
+              "type": "url",
+              "url": "https://collections-mba.nancy.fr/fr/notice/143-aurore-et-cephale-d5bea449-af3d-438c-99e2-b35c5f78b52b"
+            },
+            {
+              "type": "url",
+              "url": "https://musee-des-beaux-arts.nancy.fr/en/homepage"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.muzeo.com/reproduction-oeuvre/laurore-et-cephale/francois-boucher"
+            },
+            {
+              "type": "url",
+              "url": "https://musee-des-beaux-arts.nancy.fr/en/the-collections/painting/paintings-from-the-18th-century-in-europe"
+            },
+            {
+              "type": "url",
+              "url": "https://collections.louvre.fr/ark%3A/53355/cl020112371"
+            },
+            {
+              "type": "url",
+              "url": "https://collections.louvre.fr/en/ark%3A/53355/cl020112371"
+            },
+            {
+              "type": "url",
+              "url": "https://musee-des-beaux-arts.nancy.fr/fileadmin/MBA/Scolaires/2017/2017-dossier-enseignant-le-paysage.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://www.nancy.fr/fileadmin/NAN/culture/scolaires/2017/2017-la_mythologie.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://docnum.univ-lorraine.fr/public/BUPHA_TD_2016_GERARD_AMELIE.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://shs.cairn.info/article/DHS_038_0643x/pdf?lang=fr"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Liste_de_peintures_de_Fran%C3%A7ois_Boucher"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Boucher"
+            },
+            {
+              "type": "url",
+              "url": "https://addi.ehu.es/bitstream/handle/10810/77778/TESIS_EDUARDO_SAN_MART%C3%8DN_FERM%C3%8DN.pdf?isAllowed=y&sequence=1"
+            }
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0d7f3c9a8b4ff236016aad3a882de087d2b23f61fb38e43a87",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTqYHHua19p-v7UrolwMrv2-l5ruJVEODO7HRAsXhLGp7Xp9l0Bm8hhgY1xSg9X_bfVNYLYndXrCP8htwMOND0cVUqKb-cZhDWhTlc08EgXBxnQH1NXYrpQYYnLFk9m6hRKqbt6canyy3y5yt9DJCQpX-odiuLdbm_bdkNQtMV2VKb4O5QFPT-a-O1N182-64s96U9e4COApOBs-GERiCaaObixoY10c0bI9s7yr0sH6gv1cXH-df8m0rz7L6Z5iPnTBmqqy_6hEdfUGtvp2jasz-ajapvq4aw07nDlDwGApZulRuPcZLoowTEcd186Nv8amSghHHg0uJt_mLBOpZ15baYVeLTNU3LVJorgVUdvu4HmxaqG8BjqeajiK59EJwOn__hDcUheK43IYQbS7ddteuL2DUujRx-0_8qRpsqzs-gPYCw3yWT-OPu7NSxUjYATyS7aeCfmxLQ2lsyTf6D1en34wufK-fY6hy0SyHs0Vg-NqpmWPPV9UQs35XYV0isQf8_JAc3bZ6xo5sYVG9hZvr3rC_dv1xJnXG_bYm6XJ6gc4643uf3fo8vQ_7F2Z4kcsVj0LZC3fdbJ1wN9SJOiGpqkkHBLUPTx81woseDvKZmMtaqlmlS1MowTTH38rAo_398qyOZJFNQGymZtWRHpMFuQCf2VXzm6ErG8zP_xtDdM-Ao6Mm6DAIUneK1YgYS4IcDdvBeHTvzGGmxjQ0B8v5ZXYCFdC9qzi6qOtsx7VDmTASTGgpYve4-PpBn5fZbq45faHRK8fttIe492rXS3dP4g_nI-gbfk_g1-pd6z7bny_exRugL8MvSjkeOAYUPtTHcwTu9_8xZVmlAQpwC72vE4XN-nzZ6-tW1KIIb0pjdXgEuVmZdANXEP76i1Jz3avGr4-_FKylpnfyOzHtWLX7ddzXlGQYUWazWwn_Ezl-WraYr4HYMCZKe_lg_Dq8Be0DVRpUpsLRq8g-61mdBkNk8dCDyx3OmLq6jxUt3b-LZGpxuw9arnZt4Sbr5MBKJQ3rT1idrf04whj_CYBStMyR8_u4LhiJCoopJalcqDv9KPTyJWEr7xv9MoSqMvjBtRMufVnDkn_wOL2ih1P3Xj7OLNGcVCwI40ivKCUW7snbmZdFqhN7C5vMWSzfl0eMS0REnL9UKesJIm9PY5U2Ju7MV0VE7lgGYmQ9_1dafXhOhCzsIbDi3NXRhwoZ0XayvIttfinP4vz8n9wxKHrAl6H_iZ7Vlzkcg3NtRcrafc-11hh-3ujacMf-7n69QquyExhXr8fbL9q2RCkffTLDnjbUtPlAv2_zqKE4NRb3ueeL_etb5ZwMX8xBfi4wvuMfWrh7KVTCUXLRMfrrSIg7vr5JEknRDoZoU97W0urhszBLqHhh5a9qZm-bl2ES3p-fKiM81fI9L2udCl7PZFrO_-YaLT03hsGAFuDNPAJTCriDapOHfEaRJbQA3KMcrBryVURNOMrl_OtO-ju3XxZtowMC3_gHvDTRs3El52RmlZKV_Zg7E61p32QdGbzmyukLpZRxLB30L_52FOnsz1OZGTH6eACwWwRxF_sqFAjsuh1kTw=",
+        "status": null
+      },
+      {
+        "id": "ws_0d7f3c9a8b4ff236016aad3a88ca0c87d28ae0edefc7569b31",
+        "action": {
+          "type": "open_page",
+          "url": "https://collections-mba.nancy.fr/fr/notice/143-aurore-et-cephale-d5bea449-af3d-438c-99e2-b35c5f78b52b"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0d7f3c9a8b4ff236016aad3a8a6d1c87d2a9d92761506c8187",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTqY823LN6GJiSidxxySLYsW88POj4ylE0iPAaRf-2bPqgzpMBIYsa25l0r4QCy82l6Ioct5Dc_xNMslQ5bhfg54kyhheg9zR6BHrDkIUBXVc3BAn6qBX21u8S3WzPYfIeBEHKKBKQRvua-Qhv1XQU7qO5L5eWviwRVJREAQpQRqyoZKPia6ucMcRGjE_deziNnGfLvh5DhB4vbUJbPPwjn2Q-tegRdu7MNFPrOQ6UeXyKd0w3JP0-OdKgeOAoSIWBd5XDO0-ZpZFPAA7LIuN6xmYsTk8Nl_SMNwqJb7kRTNPMeo_EHX-tx7Zp3Ar8-HN-WxvgjH3BxmM3_rOdq_PKWRS321HuewHsXo3B_V5Ylxf3o5gDQPKCQrdYo9-yXDxpr1LylAB3TwUwNIRjWG_ZIK_TnnVmREOBiibmlQPL1Kc-qYRPMfNtNvwmpPk_2OF9V6QjVgvzAubgnSQpz0GRySuWYA4-_QjE0Ai40abwz2U7pdHU2jgbmKV9yD8MEiZYZpQCJrH3nZH8A3-Dt0AzC_7Izi55IN6rKCDnxaTAg1qmcNdJoT246Kl6SyFG5xFzUUMkkdZ_rGYxsAPaOZKk7DWQdALTJRiW1CGIEJdBQgBdWxgDUHpDwU3jszy2ZA1ph_YugECneCNFfxOUN0nGS_4mBBu5ajPOYCw32octthhDzzj1DY8fYSiX2dBaWNVgjfsIppLKNaWpy-v0OaEdA2kkvbot9aaxTobR587ta3O06OjHaF8SwCzSDV3i3qr9oBTCyY__lvspYkG-tv4Wm5uw2Eb_ZrWpFLJCTIL2WPxOnwjuQpbzxLlUGeRf3Jo3cHbp0L9hX8a0YpTaKueAa7VRY3NGSTyx5c5RFlHQR25rzFvlrFmYOZ0Z3lWENuCwcHAhVj1Y4ZpvKau3vUjTzdFfbOTSu8YdRV0AG9RT_RNwvs5Qx_wzvuh-zrdwdCTpCZIwccBoUmheUUhyR7qHYRGIZdZxdFVYY8wKqDdu1WMsqB8h8aVg6DpYXUCgtuoP5Xa9Vo0wXd8OoSwTYBwt0-6y4Q66-ZrPLmDKNBjcOQzO5cep7Nw4BKvA3UJMNWYkhxtFviiBtfKFqULgeQ6OygJWvaoC0lXOS4S5pRo7xh28gw4Unv_QjJtjQwRo7Xl7FsTdJl2b805nJozzqG6J1ERVmHXKQ0G_bkIt4aHL2dD5MfVjSwCqX2L1MFF9NZPRuUaST5g_skWurXd3r5hsWPQA6pU6Ru7EVXbFiNLdsE90zM-paxDjtw72BHMYkSKNXzoCgMunPgWyd8JNyP4gQ_rQ==",
+        "status": null
+      },
+      {
+        "id": "ws_0d7f3c9a8b4ff236016aad3a8ac17c87d2a40c005cd149e013",
+        "action": {
+          "type": "open_page",
+          "url": "https://collections-mba.nancy.fr/fr/notice/143-aurore-et-cephale-d5bea449-af3d-438c-99e2-b35c5f78b52b"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0d7f3c9a8b4ff236016aad3a8b992087d291a13f42b604fceb",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTqYAMH9wYY9GKAnGlw1F_MByZwYb1tnDbsKmqkcw3yUiRTpH6Gq-ZRGkYaVgp-TUaOoPqKQlJJxNrUn5kU9KGXxNeArW40_0L1k21L5Dg6Gl04JVOD8ycnKYjBwZb0fgdj4Vvq24Z2kH0AgZPI_ca77ob4GBbVuiq4788r6xGJl9EmZAkEDm8jl7-1ciRDHQcdTMJ_P6RlCeAXm0Ix8XRr5xDMD9U2jWJSi2NpCdPnE-91D6xtfC44q0Hrc-w6dtzFmS9fZ8ED2wUSrkzJ_Cr_lBHcb24sEn0ahiWp2cEvFH-xPmTnweu5VgccaWksF8-82hd5iet_Xs-fBqXJ_LCs8XxOg5cW1RvXvxsyitol_wzpVYcAL8WHYBJMcy_nGjCzU9SFjuy4nVM78oop8j45ySRCrWRoHOEoRHsGzgJ9rDUX0R0lcBDlmQ8n1zac2iR9vg6uqR8gda6KONJ901BGopcsys2U-3RQIWi2qft_H199NvPyv688OmTdcTf9gs5a_oMW0ank1a6aLnd043hzBLCt_6n_O8q5nuRt0s2t2sJCq0UCP4XWej5tKdV-IXiC_u1xdWDsYl3t4MsqWDTp8ydx3iuxrtknx1rUFQDerZZDbmvish2ly_h66lIrgToztkWs5sr_whxG7qxYOyv6Lk9l5Dcqt8tqNiLAeunMydpVG-dtqLUmaYg9OBZAJaZN0T-d-c3VyV6GhOwpfVA5xKjpmsUSrAkP8Kb1pxkl46PZzzsgZjgmFLR_JOY8PgUBLT_y2WF7nbwUo7BgsBVDzqVCWpgbdqAbHvNh2jkbcpoCD0aODiR8CzRHpWTYCG7_Ms3KwOIiOro2n6qm0MUBuRsXRyLG0KgvaUIOxvYq9lWQxRTQDX65ZFZ1PrKWHVwPbFCrss_JZUNcTFoFwUwr2gmIAKvMRwAi3UzEpnwHvuuxb3VX59fCNzaW_L3rHH9SIWkA7i-U6Sl20-O1_mU4Wp5u9dazlQtTgST3V7RRjxduAnqorOrRiXJBWyP3xrWr5lDX02qUxnbcvOALZV7VvSjYVh2BijlY6ECBRc69fxnOGKVfSKMf2LupSbp9d87NVJp45Nc7o_QmaHDuPKOKUvsa-OP9w0QW6024kfnGcJXCh7sHt9dApf0KpyyPez3stZT3r2rcx4EtxZWVK7vBOdBTej1nZHdPmVrMLcrWh6XsRAZwLBhFrlARZ6rJYS5TUwXovkFb8ErYrbVO_ILLgfxCP8C2Rzm3HtrRZB2n1GOqAe4kCBE-M65YKHUTFjZHsmxEaw2OKz35S_ChTM35V62AMg5VXsJgItBsLk0Dxbl10vVlO_pHHvtsdptIYG_kqU0TMIRgKc2VazMshAiIQRdSxiratLud1ymYnvt0-XOdDfJcW0J_vRs6ptbYCQWXna-9KOrMW9SKGJL-qeDmNYVSRTSXTzOU2ymdxeQWacklFdyJQAivuRts0BwFbaUVZww6y9ovZb9T9okIWfMiQpR9V_q6auZg3oSeeUz9TNbwZR5vYBwS4c0ewEXatlXPYCLNf7VZCdDKICiGLCj__mjN9dhKugVH_0fdAmM28xnwbFlA3Tv7Tj4vbR_aE1uv5viH3pXsOHtWBkZ4TnM5-MABs8HToGqzDJAAnAo2EZ4eAU09vPqMC_kVAW4tynFskeFj2xgx-N8DuRJRO0jkeodZIgQ-FGnn1_RRAe2qDKmD_wCuCH5niJdL6eWJyP6Pj5-jrjjKQnvBWc1z90swUgfVYh8XUl6OpQPigOEAuA2RmgTcYENV86UVziw-Nu2R_lU4AlWQ7l1RlhacQTK8dWTiLWoLl1CNb2jjTwh44AMNgElLYaH3_xQiXsA0tl6zyb3DPcEm-gmKH5P1ttqhteQpyHvufmTkOXydG8gIYBqXRBn-0Iy5PdZUamTWNSJUT0BR8l93jzEV3FjnoeFwoy2XVKYqROZ6mwvfFG411qLNsuf_ecoq7UiZeuJIlLpMIsepNbbslqlQj3aMQUOqgjcoDw0FJLI5bbUw_RItyHj8mLh5vNNX6zsmaLi7h8DEZB28P2xVi3uz6TTTeD3d3hRE9XRuctjohKJiSE9i87KMyRS_uwNv-GB0fnuGbxfUBd9VZIN-rvXW46MUxRgnoJetXWyFdWvec3mIH7lHv9Rg=",
+        "status": null
+      },
+      {
+        "id": "msg_0d7f3c9a8b4ff236016aad3a8d6e8087d286cd9a375a6da13e",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 478,
+                "start_index": 347,
+                "title": "Aurore et Céphale - Boucher François",
+                "type": "url_citation",
+                "url": "https://collections-mba.nancy.fr/fr/notice/143-aurore-et-cephale-d5bea449-af3d-438c-99e2-b35c5f78b52b"
+              },
+              {
+                "end_index": 1147,
+                "start_index": 1016,
+                "title": "Aurore et Céphale - Boucher François",
+                "type": "url_citation",
+                "url": "https://collections-mba.nancy.fr/fr/notice/143-aurore-et-cephale-d5bea449-af3d-438c-99e2-b35c5f78b52b"
+              },
+              {
+                "end_index": 1458,
+                "start_index": 1295,
+                "title": "Focus sur l'œuvre - Les collections — Musée des Beaux-arts de Nancy - Ville de Nancy",
+                "type": "url_citation",
+                "url": "https://musee-des-beaux-arts.nancy.fr/les-collections/art-contemporain/focus-sur-loeuvre/francois-boucher-aurore-et-cephale-1733"
+              },
+              {
+                "end_index": 2052,
+                "start_index": 1973,
+                "title": "pop.culture.gouv.fr",
+                "type": "url_citation",
+                "url": "https://pop.culture.gouv.fr/notice/joconde/05120000060"
+              },
+              {
+                "end_index": 2293,
+                "start_index": 2214,
+                "title": "pop.culture.gouv.fr",
+                "type": "url_citation",
+                "url": "https://pop.culture.gouv.fr/notice/joconde/05120000060"
+              },
+              {
+                "end_index": 2978,
+                "start_index": 2868,
+                "title": "Aurore et Céphale (version de Nancy) - Boucher | Utpictura18",
+                "type": "url_citation",
+                "url": "https://utpictura18.univ-amu.fr/notice/10281-aurore-cephale-version-nancy-boucher"
+              },
+              {
+                "end_index": 3493,
+                "start_index": 3399,
+                "title": "L'Aurore et Céphale de François Boucher - Reproduction tableau",
+                "type": "url_citation",
+                "url": "https://fr.muzeo.com/reproduction-oeuvre/laurore-et-cephale/francois-boucher"
+              },
+              {
+                "end_index": 3876,
+                "start_index": 3795,
+                "title": "Aurore et Céphale - Louvre site des collections",
+                "type": "url_citation",
+                "url": "https://collections.louvre.fr/ark%3A/53355/cl020112371"
+              }
+            ],
+            "text": "## Œuvre vérifiée\n\nIl s’agit bien de la peinture de **François Boucher**, **_Aurore et Céphale_**, **1733**, conservée au **Musée des Beaux-Arts de Nancy**, **numéro d’inventaire 143** — et non d’une œuvre homonyme. Le musée donne également la technique (**huile sur toile**), les dimensions (**250 × 175 cm**) et la signature « 1733 / boucher ». ([collections-mba.nancy.fr](https://collections-mba.nancy.fr/fr/notice/143-aurore-et-cephale-d5bea449-af3d-438c-99e2-b35c5f78b52b))\n\n## Notices comportant une reproduction\n\n### 1. Notice du Musée des Beaux-Arts de Nancy — source prioritaire\n\n- **Titre :** _Aurore et Céphale_  \n- **Artiste :** François Boucher  \n- **Date :** 1733  \n- **Inventaire :** 143  \n- **Reproduction :** image de l’œuvre dans la notice du musée ; cliché Pierre Mignot.  \n- **Intérêt :** notice institutionnelle complète, avec description, inscription, technique, dimensions, historique et bibliographie.  \n- **Page :** **Musée des Beaux-Arts de Nancy, “Aurore et Céphale – Boucher François”**. ([collections-mba.nancy.fr](https://collections-mba.nancy.fr/fr/notice/143-aurore-et-cephale-d5bea449-af3d-438c-99e2-b35c5f78b52b))\n\nLa page “Focus sur l’œuvre” du site du musée confirme également l’identification sous la forme **« François Boucher, Aurore et Céphale, 1733 »**. ([musee-des-beaux-arts.nancy.fr](https://musee-des-beaux-arts.nancy.fr/les-collections/art-contemporain/focus-sur-loeuvre/francois-boucher-aurore-et-cephale-1733))\n\n### 2. POP / Joconde — Ministère de la Culture\n\n- **Référence de notice :** 05120000060  \n- **Titre :** _Aurore et Céphale_  \n- **Auteur :** Boucher François (1703–1770)  \n- **Date :** 1733  \n- **Inventaire :** 143  \n- **Lieu de conservation :** Nancy, musée des Beaux-Arts  \n- **Reproduction :** image associée à la notice ; crédits photographiques Mangin, Mignot, Phillipot.  \n- **Intérêt :** notice publique normalisée, qui confirme explicitement le titre, l’artiste, la date, l’inventaire et la localisation. ([pop.culture.gouv.fr](https://pop.culture.gouv.fr/notice/joconde/05120000060))\n\nLa notice indique aussi que l’œuvre est le pendant de _Vénus demande à Vulcain des armes pour Énée_ et qu’elle fut donnée par l’État au musée de Nancy en 1801. ([pop.culture.gouv.fr](https://pop.culture.gouv.fr/notice/joconde/05120000060))\n\n### 3. Utpictura18 — Université d’Aix-Marseille\n\n- **Titre de la notice :** _Aurore et Céphale (version de Nancy) – Boucher_  \n- **Artiste :** François Boucher  \n- **Date :** 1733  \n- **Conservation :** Nancy, Musée des Beaux-Arts  \n- **Inventaire :** 143  \n- **Reproduction :** image affichée dans la notice, avec possibilité d’accès à une image HD.  \n- **Intérêt :** la mention **« version de Nancy »** est particulièrement utile pour éviter la confusion avec les autres compositions de Boucher sur le même sujet. La notice précise aussi que l’œuvre est signée et datée. ([utpictura18.univ-amu.fr](https://utpictura18.univ-amu.fr/notice/10281-aurore-cephale-version-nancy-boucher))\n\n### 4. Muzeo — reproduction commerciale fondée sur un cliché RMN\n\n- **Titre affiché :** _L’Aurore et Céphale_  \n- **Artiste :** François Boucher  \n- **Référence de reproduction :** 60496  \n- **Crédit :** © RMN / Agence Bulloz  \n- **Lieu de conservation indiqué :** Musée des Beaux-Arts, Nancy.  \n- **Intérêt :** page explicitement consacrée à la **reproduction** de cette peinture, avec image et possibilité de tirage. ([fr.muzeo.com](https://fr.muzeo.com/reproduction-oeuvre/laurore-et-cephale/francois-boucher))\n\n## Homonyme à écarter\n\nLe Louvre possède une autre œuvre intitulée **_Aurore et Céphale_**, mais il s’agit d’un **dessin** de François Boucher, conservé au Département des Arts graphiques sous le numéro **RF 782**, situé vers **1755**. Ce n’est pas la peinture de Nancy de 1733, inventoriée **143**. ([collections.louvre.fr](https://collections.louvre.fr/ark%3A/53355/cl020112371))\n\n### Références à retenir\n\nPour une citation ou une base documentaire fiable, privilégier dans cet ordre :\n\n1. **Notice du Musée des Beaux-Arts de Nancy** — œuvre et reproduction institutionnelles.  \n2. **POP / Joconde** — notice nationale et reproduction associée.  \n3. **Utpictura18** — reproduction et identification explicite de la “version de Nancy”.  \n4. **Muzeo / RMN** — reproduction commerciale avec crédit photographique.",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "required",
+    "tools": [
+      {
+        "type": "web_search",
+        "filters": null,
+        "search_context_size": "medium",
+        "user_location": {
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null,
+          "type": "approximate"
+        },
+        "return_token_budget": "default",
+        "search_content_types": [
+          "text"
+        ]
+      }
+    ],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1789737624.0,
+    "conversation": null,
+    "max_output_tokens": 2500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "medium",
+      "generate_summary": null,
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 29999,
+      "input_tokens_details": {
+        "cache_write_tokens": 89,
+        "cached_tokens": 4251
+      },
+      "output_tokens": 1559,
+      "output_tokens_details": {
+        "reasoning_tokens": 472
+      },
+      "total_tokens": 31558
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 1
+      }
+    }
+  }
+}

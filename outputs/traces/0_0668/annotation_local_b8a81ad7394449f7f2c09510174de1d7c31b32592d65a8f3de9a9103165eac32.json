@@ -1,0 +1,205 @@
+{
+  "signature": "d1c8cf309de7f3fac28749e2dda37da87f49eacbbca0c8bf9ade355d1be6969a",
+  "response": {
+    "id": "resp_09ba4b9887aa68b7016aae9bd2125487d2824f7efd991b0a8c",
+    "created_at": 1789828050.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": "Analyse uniquement ce qui est visible dans cette image, sans recherche web ni identification de mémoire. Réponds en français. Décris précisément objets, personnages, décor et composition en 2 à 4 phrases. Pas de noms de personnes, dates ou récits non démontrables visuellement. Sujet principal parmi les neuf catégories ou NA. Religion/Mythologie/Histoire exigent des indices visibles, sinon NA ou catégorie plus générale. Culture : pratiques/symboles culturels identifiables ; Quotidien : activités ordinaires ; Objet : objets/nature morte ; Personnage : figure/portrait ; Nature : paysages/faune/flore ; Architecture : bâti. Style visuel probable en mots courts (ex. naturaliste, géométrique, impressionniste), sans affirmer une appartenance historique. Mets indéterminé si nécessaire. Ne confonds pas technique, sujet et style. Indique les limites et justifie les choix.",
+    "metadata": {},
+    "model": "gpt-5.6-luna",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_09ba4b9887aa68b7016aae9bd2852487d2a574ec71e836f61d",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrpvVSalifwqukpypq0gEIRXiuThhaVteKv7FSY-PGt9HbJ5zFhBsU_TUTDCdLJBMlNYyQt5Zb_LxkYdAhu_CMfAnB199Thk1fznuQF7WpCcL7mxJY_2k8IW-nkMo96bvw2tVmLDnDcH_40x5XhrS8JwNSyo9sG715fCI7SOS_LHvk51Dry17fQxFCGerWYfH_esMLtwD_zIi85fbvkjbmvHaUs37lLFH_KXXq-5kNc3DeNs_mel3cqzl_NfAyP6sPrrEnX-6qz2f0aofnzmSrqOdQgozfZqeP9rAkVL393s9ZPJ5GcyvfiCaTerl_IC0cklsYunn75FEh6lUY0dCwR88mWIC4c7sXN5GCmuX1O5QrjLvevxnWdE5o_ZEJegegmdHTgXbx2SOKTZ2s5UDHJkwbfxzQN_RQdkfUOJ6fLBsusP7xinvrWdhN0bUZIAt6x2t4O4JNOd9fhnPI1ajt-_aHcFlPn1Mb9se3s9LrVIS-7jjMs3jFLvJF0kgje1PEb15x4nHXtHx6pTJNo0wMVIgovY8JHN7fyA_cp5CKoNqlSNkd2hMmaL9Fv4jj-M8nwNee8DTAMVT_50TKFCb0uLwj-QBRCSd-kqrSODcWSQqvLgoRI9LSFUYcq2VJP5UjFPo7SuCA1hfoS28ZrCHMEsqeuM2yEoKjVI9JynBzbVsTnwEJLYkfDBDz2m9ZP5kIf-TMTwcrUG2rqqy9Q5gx_fX4Ahng112oEhqQwUAPcRwsjxmXZOR36nnZh5loWlAuHmyFnEZTeV3qcx_T5GYNV1MInmuwLONQ71EIfO-IKfNT5lzhgV9i8tQaUkO14esU6Ba8dYxToK84fobppLgnZCEepDgWlHqm4M65-8YklwO6Imc_7tMwkPeP6vaIgblSKeOz90YhLT7TLj1JadDniuRMS0im4IC73mPP9Tr2d2jw5D5CmHZ1jSYz0j9EZtItd4fgT_8sL6Bp_0yS9ps7P3GoV27D9IY7oYGs5Ep8emX2ds-rusDVjYsUJMiOHVWSlpAPg5pCXq-Im9S1Qvs1na1SizqxiU2ByRyN1jB3zWC7ctVpHwhtwQrH7hwfqShlS5QSXm6_0uixiuBy60UZ2lgl6hOv4H6CKI4l77QXe27w1RfBvFzXSBtH_oBK4YFdZdHOEenBUq9YGguDIwOhU0GagpRDN-hiUa9v_mllcNtmpZ_t_jYdGpIfinXjmqhNJlvEupvzUhk6VD5iUfzOa49NBThy_MPuIOiYqxjqcs1iPqvXfnZR6Xk6rxGuWCUElq5L4a_7_urhLT8DNt7ZM7PCpRZattquw2AkViXObtVuKUm5WQJLgvNNpBuS2UBITOWE4WrZFaAId32ELNcxy68bNeUmcRGjWSNB_x69qdXa_XpTxKzNTe-BsTr3rTCyR8GPRGWYnkmhNKCBLJvbx8VC3KSPxD21muduoyAzPxQqZm8hV-ZQl4lI1xqApAjYCj0bF6qSo7H3ZYpkCc53f9ysquJ3Op3rkQN380_X-q0ZNl6Y1M8wZuzEyf3BFj5Rl_TgcK_aKFbivJcWTQURUTfzicJkjz6VamNsirbwvJMFeFnj5k8dufDHwCQRB3ucrwLjg1PRay4s_BK1zy9gl9VyvaLG8PF7L7EradFH45Xz8VBP7aQtYYznxdiGW1V2dRXjFGv5IdnSFGZrFuHs_9J1ZERKa4VLTR1HIEq4BXdtULMxmvX5LBI1FaepnRKbwV6Xwx71vpz6_2VSltS7yYChuGI9qaacn9a7IIznAjLow0_p13WCvaZP2-BjV2h1xpZTRDLjVOs4DhRVFeGj0JOgWVAPa6k5A3v3Z2PkVdVZ6nC-mF7w8oRGbZbA7hpm3hlq0LrEbXBD8tvx1tiHnDxSkE3YRYa67GpEYKDLWNphMc=",
+        "status": null
+      },
+      {
+        "id": "msg_09ba4b9887aa68b7016aae9bd3349c87d28e2d264b811c5e13",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\"description_visuelle\":\"Reproduction picturale d’un véhicule blindé vu de face, avec une large caisse claire, deux chenilles latérales et une tourelle ou un canon central surmonté d’une forme arrondie. L’engin occupe presque toute l’image, sur un fond sombre et peu détaillé, tandis que des touches de gris, beige, vert et bleu suggèrent un sol ou un environnement indistinct. Les contours sont irréguliers et la surface est rendue par des aplats, des empâtements et des marques sombres.\",\"sujet_principal\":\"Objet\",\"sujets_secondaires\":[\"Histoire\"],\"justification_sujet\":\"Le sujet dominant est un objet technique identifiable visuellement comme un véhicule blindé à chenilles. Une dimension historique ou militaire est suggérée par sa forme, mais aucune époque, armée ou scène précise ne peut être déterminée à partir de l’image seule.\",\"style_visuel_probable\":\"Figuratif, expressionniste, pictural, contrasté\",\"justification_style\":\"La représentation reste reconnaissable, mais les formes sont simplifiées et déformées par des coups de pinceau visibles, des contours instables et de forts contrastes entre lumière et obscurité.\",\"figuration\":\"figuratif\",\"couleurs_dominantes\":[\"noir\",\"gris\",\"beige\",\"blanc cassé\",\"vert sombre\",\"bleu gris\"],\"elements_visibles\":[\"véhicule blindé à chenilles\",\"partie frontale de la caisse\",\"tourelle ou canon central\",\"forme arrondie au sommet\",\"éléments mécaniques et trappes\",\"fond sombre\",\"surface de sol indistincte\"],\"composition\":\"Composition frontale et presque symétrique, centrée sur le véhicule. Le cadrage rapproché donne à l’engin une présence monumentale, avec les chenilles qui encadrent la partie inférieure et la pièce centrale qui structure l’axe vertical.\",\"limites_visuelles\":[\"Le type exact du véhicule n’est pas identifiable avec certitude.\",\"Le fond ne permet pas de déterminer le lieu ni le contexte de la scène.\",\"Aucun personnage n’est visible.\",\"La technique et les couleurs peuvent masquer certains détails mécaniques.\"]}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1789828053.0,
+    "conversation": null,
+    "max_output_tokens": 3500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "medium",
+      "generate_summary": null,
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "resultat",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "description_visuelle": {
+              "type": "string"
+            },
+            "sujet_principal": {
+              "type": "string",
+              "enum": [
+                "Architecture",
+                "Culture",
+                "Histoire",
+                "Mythologie",
+                "Nature",
+                "Objet",
+                "Personnage",
+                "Quotidien",
+                "Religion",
+                "NA"
+              ]
+            },
+            "sujets_secondaires": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "Architecture",
+                  "Culture",
+                  "Histoire",
+                  "Mythologie",
+                  "Nature",
+                  "Objet",
+                  "Personnage",
+                  "Quotidien",
+                  "Religion"
+                ]
+              }
+            },
+            "justification_sujet": {
+              "type": "string"
+            },
+            "style_visuel_probable": {
+              "type": "string"
+            },
+            "justification_style": {
+              "type": "string"
+            },
+            "figuration": {
+              "type": "string",
+              "enum": [
+                "figuratif",
+                "abstrait",
+                "mixte",
+                "indetermine"
+              ]
+            },
+            "couleurs_dominantes": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "elements_visibles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "composition": {
+              "type": "string"
+            },
+            "limites_visuelles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "description_visuelle",
+            "sujet_principal",
+            "sujets_secondaires",
+            "justification_sujet",
+            "style_visuel_probable",
+            "justification_style",
+            "figuration",
+            "couleurs_dominantes",
+            "elements_visibles",
+            "composition",
+            "limites_visuelles"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 1121,
+      "input_tokens_details": {
+        "cache_write_tokens": 1118,
+        "cached_tokens": 0
+      },
+      "output_tokens": 576,
+      "output_tokens_details": {
+        "reasoning_tokens": 112
+      },
+      "total_tokens": 1697
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  }
+}

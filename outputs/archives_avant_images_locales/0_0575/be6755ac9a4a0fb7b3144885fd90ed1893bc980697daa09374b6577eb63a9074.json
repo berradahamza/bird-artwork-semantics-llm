@@ -1,0 +1,28 @@
+{
+  "image_id": "0_0575",
+  "titre": "Vues d'architectures 5",
+  "artiste": "Lucien Hervé",
+  "room_id": "Room_3",
+  "sujet_existant": "Architecture",
+  "fingerprint": "008c5cacce7761416772d817cb81cd9e24351ffb9ebe7de53250f0d059773bc0",
+  "model": "gpt-4.1",
+  "prompt_version": "bird-vision-v1",
+  "date_utc": "2026-09-17T12:56:28.239997+00:00",
+  "statut": "a_verifier",
+  "motif": "Aucune correspondance suffisamment étayée.",
+  "nombre_candidats": 8,
+  "erreurs_telechargement": [
+    {
+      "url": "https://musee-des-beaux-arts.nancy.fr/typo3/sysext/core/Resources/Public/Icons/Flags/FR.png",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://musee-des-beaux-arts.nancy.fr/typo3/sysext/core/Resources/Public/Icons/Flags/en-us-gb.png",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://musee-des-beaux-arts.nancy.fr/typo3/sysext/core/Resources/Public/Icons/Flags/DE.png",
+      "error": "ValueError"
+    }
+  ]
+}

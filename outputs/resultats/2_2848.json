@@ -1,0 +1,58 @@
+{
+  "image_id": "2_2848",
+  "titre": "Sainte Catherine d'Alexandrie",
+  "artiste": "Bernardo Zenale",
+  "room_id": "Room_37",
+  "sujet_existant": "Religion",
+  "fingerprint": "73d94072685e92ca8e1a8261d05d6a07b73a64125871de41fee91e87907b7eb9",
+  "model": "gpt-5.6-luna",
+  "prompt_version": "bird-vision-v1",
+  "date_utc": "2026-09-18T14:27:23.323555+00:00",
+  "statut": "ok",
+  "image_path": "images\\2_2848.jpg",
+  "source_page": "https://fr.wikipedia.org/wiki/Fichier:B_Zenale_Ste_Catherine_250808.jpg",
+  "source_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/B_Zenale_Ste_Catherine_250808.jpg/960px-B_Zenale_Ste_Catherine_250808.jpg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+  "controle_identite": "retenu_par_IA_non_verifie_humain",
+  "raison_identite": "La notice candidate rattache explicitement l’image à « Sainte Catherine d’Alexandrie » de Bernardo Zenale, conservée au Musée des Beaux-Arts de Nancy, avec le numéro d’inventaire 694. Le titre, l’artiste, le musée et le sujet correspondent à l’œuvre fournie. Les différences de technique et de dimensions indiquées dans les métadonnées ne remettent pas en cause cette identification directe.",
+  "original_width": 960,
+  "original_height": 1412,
+  "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/B_Zenale_Ste_Catherine_250808.jpg/960px-B_Zenale_Ste_Catherine_250808.jpg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+  "sha256_download": "4332150ada59ec81995d651cd84641047cd1f119de8c753dfefe3328fcb929ce",
+  "description_visuelle": "Portrait peint en buste d’une jeune femme au visage tourné vers le spectateur, aux cheveux ondulés et coiffée d’un couvre-chef rouge noué sur les côtés. Elle porte des vêtements sombres et un vêtement bleu-gris, tient contre elle un long objet noir en diagonale ainsi qu’un élément clair, allongé et enveloppé ; ses mains sont visibles au premier plan. Le fond presque noir et l’éclairage concentré sur le visage et le torse créent un fort contraste lumineux.",
+  "sujet_principal": "Personnage",
+  "sujets_secondaires": [
+    "Objet"
+  ],
+  "justification_sujet": "La composition est dominée par une figure humaine représentée en portrait rapproché. Les objets tenus par la figure sont secondaires et leur fonction exacte ne peut pas être établie avec certitude à partir de l’image seule.",
+  "style_visuel_probable": "Figuratif, naturaliste, modelé réaliste, clair-obscur",
+  "justification_style": "Les traits du visage, les mains, les étoffes et les cheveux sont rendus de manière reconnaissable et détaillée. La lumière directionnelle sur un fond sombre et les transitions modelées du visage évoquent un traitement naturaliste en clair-obscur, sans permettre d’attribuer précisément l’œuvre à une école ou à une époque.",
+  "figuration": "figuratif",
+  "couleurs_dominantes": [
+    "noir",
+    "brun",
+    "rouge sombre",
+    "ocre doré",
+    "bleu-gris",
+    "beige"
+  ],
+  "elements_visibles": [
+    "Visage féminin au centre supérieur",
+    "Couvre-chef rouge noué sur les côtés",
+    "Cheveux ondulés",
+    "Vêtement sombre",
+    "Étoffe ou vêtement bleu-gris sur les épaules",
+    "Long objet noir placé en diagonale",
+    "Élément clair, allongé et enveloppé contre le torse",
+    "Deux mains au premier plan",
+    "Fond sombre presque uniforme"
+  ],
+  "composition": "Composition verticale et centrée, organisée autour du visage placé dans la moitié supérieure. Le long objet noir forme une diagonale descendante qui traverse le torse, tandis que les bras et les mains structurent la partie inférieure ; le fond sombre isole fortement la figure.",
+  "limites_visuelles": [
+    "L’identité, le nom et le contexte de la figure ne sont pas déterminables visuellement.",
+    "La fonction du long objet noir et de l’élément clair enveloppé reste incertaine.",
+    "Aucun symbole religieux ou historique explicite n’est suffisamment identifiable pour justifier une catégorie Religion ou Histoire.",
+    "La reproduction présente une texture et des variations de lumière qui peuvent limiter l’observation fine des détails."
+  ],
+  "desaccord_sujet": true,
+  "erreurs_telechargement": []
+}

@@ -1,0 +1,205 @@
+{
+  "signature": "8c8114a99fc594c3cbeca04a28ed23291fd987aa3cca279bc1c2f67229665c7f",
+  "response": {
+    "id": "resp_04f421d38c7c6220016aad45d24af887d2b77a04c9a46a2bbe",
+    "created_at": 1789740498.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": "Analyse uniquement ce qui est visible dans cette image, sans recherche web ni identification de mémoire. Réponds en français. Décris précisément objets, personnages, décor et composition en 2 à 4 phrases. Pas de noms de personnes, dates ou récits non démontrables visuellement. Sujet principal parmi les neuf catégories ou NA. Religion/Mythologie/Histoire exigent des indices visibles, sinon NA ou catégorie plus générale. Culture : pratiques/symboles culturels identifiables ; Quotidien : activités ordinaires ; Objet : objets/nature morte ; Personnage : figure/portrait ; Nature : paysages/faune/flore ; Architecture : bâti. Style visuel probable en mots courts (ex. naturaliste, géométrique, impressionniste), sans affirmer une appartenance historique. Mets indéterminé si nécessaire. Ne confonds pas technique, sujet et style. Indique les limites et justifie les choix.",
+    "metadata": {},
+    "model": "gpt-5.6-luna",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_04f421d38c7c6220016aad45d2f27487d286950d2a9881d6a5",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrUXZVGtEpX-R17NCqsUGMeEKF-0gQrOLoP594oVNqTOlEedANz1VSQwumfnmIGimDGIJU8U27gGHzuCuMycdKQUTUVkdRyOVUAfulOXKWIobcDIiedzFmsmvCFgu4IjgW2RgTWEw-ZbyE05MzddybMLt9_YKvN0duEvHyYSHRUn5iKmfwIzWviYyrFLnrIOm2yHMXFOZNfhV5pM8zFWwylBle6gzwH7icnXCRBCSKj_DDLNqPkfWRfrODHL8up3KDhmjv8jHnGl3E8YS7m2lFrFQd3yddiDRUXnDejreENQ0l1W6VtagzBRAbI7sxLb8L941AJAxupNRuP0iln-lOyYK19HgGaPKnaCowlsOeZ5SRfpnQqmBywEDu4M9_SMspr_5kkVnHgWonF9LqZFlpodvfUkA9d1Z2SSpMcvbILCEzsfWNsK9SYmxzIkBWtBr1QIBVLuKQ0-wtwVCqBFgmw8sfomICfSG6eEGqPYgszoj1moj_F0yO7oCS0Nhvuzr5oaj_FnuyQspHWY5bXhsdON0rDYfNpkQNkPxiewH1kxr9UHXA_odTZnFnWfyY-GCUYUZAixz8srJ6MCmXf_7317X3n4T67jGVqhsoc5XTuFmX36-_qZwYKYqcBdZQH_lxwimI9jji0DIoi-J6DrmUuKGmtBGtYIB-SIiE34ADVcbxB4PO57G8OcOPx6jE9ZPOKJ9U8-4nHazsLsFe7LpsJPztrG7eWRQ4AEHhxXIs6FRy0pKmGGyW1JFVngyLcuFKq2riDee3vjGWH7SyHW3h1u3P2d25eOmmXSdN5t1Jtf2zv6hNxkuwetQhg4w4OY4YL_AFZnwczuyLKME_XrledwBm4UhGPjgCWRUkN1nygLzo8G42vUS9q_JmsMI7n4tAaCVvxNbvWFKtRuQyBE5tPNTQ3MLZ0phi_S6IO1Mt93WPFTHRcPXgvlcv9JsqvyMiNbGKpy6iqBQs4WBdu21eo74WUj_Yyz4rb5IF2A8IIG4cA4OXMpBEv959kypNaDcG6MgE4-XkBJbKj2vD_boI_phVqGOblB0rV2slKSbtnPj8mQD5jmf9KMaDj0BenM7JIZ5wz8atWjxjbyEyg1_e0tBOxnHjwWO38g5aU4fgKxcIPTROTmqcOezMAqpn2JG5RHjEX905Jx_60sSxgOZ3teoB-o7ffj8XaIP4aFkMhX92gG6iluD6h9lfqaobWvYGeOhoAa7Roq_bajpgZ8Ycdm7rI2Rb7nU0j6s_W_sWyDU_yd4OCPQqI1sW-HbqzJyfIHwEnJcJGlZNASLLe7Y78knj2b4vBFhShu8Jn5licW6NI8qpXuaZGmpKGEfa4bjyg-JgqS4s3LE2Zu87uogpa4yxIIvCmoWZPFgRQeNT5qmr7JEZgsecffdCRCVetgTYSuJt4NpWhEGqp20CTfWlJjT3S-t0iiOySUFkC5DFyghM10kzKmduhuRv-pC-u4042bLvWjTTCHO7A1JQndEasMXFHyTT1QdqGhlRoWH5UF9Oup-Bqq31t2prGXUBwvIxzp42T_MTUVXOmW3k-83RJpzF-CH9zLebW__XGBLCfusmQX74uriZk7RiIDQKzJXSKdGNfFe7afdR3rSwC65xDXseov9evXLRMQmq2RsunKwvC8QHu4hJkvmq1YG_wIbHUeMON5-y5uxN_q6fZptrZpKZd_SrfE7mDWrU2B3jUdeYBOKRWahQKl9YnQNNnSMrNySGMly9nYdOPXr9xJU0qBiSTkMFjtJh9_TnBe9t4wg-9UjOdv8ydysVYF2NzoOzn-nK6TxR4y1cSlkVWs5PPodYwy9W9gOqd_m0etPnNDAIVuCMk21MN85JYSHNC0WV9uq_q6xt7ID9MUdaMPFH3IbmlWkvNo_oevDLSqlij70wecBeDAfGz8AqsFdzvw9VKr3fMQjuGcFwZebg5XQz_O5xB_TXkpMP2U-4bx_djDEFDpvEJXPhHFYc-5zaIzn9sNGAFVFRfZP3IAW1r59IU6AeZNwbsB4AcHb29ao6nNKx95wtjvCx_Sj0_AM4Mm71uKjIrc7JSzd3Cn3mXmj7zH75txqAu8gQb2fngxNVO5O7o04EthsNmMvC2OZX4IhN0uqmeIGDyKi_DeBBQWQYR3C3A==",
+        "status": null
+      },
+      {
+        "id": "msg_04f421d38c7c6220016aad45d4962487d2881719b6d384a14e",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\"description_visuelle\":\"Grande peinture horizontale insérée dans un cadre en bois sculpté, représentant un groupe d’adultes et d’enfants dans un paysage champêtre. À gauche, plusieurs figures sont allongées ou assises sous un grand arbre ; au centre, une femme vêtue de bleu se penche vers un enfant, tandis qu’à droite plusieurs femmes en robes claires semblent se déplacer ou danser dans l’herbe. Le décor comprend une prairie fleurie, des arbres, un horizon lumineux et une étendue d’eau ou de paysage pâle au loin.\",\"sujet_principal\":\"Personnage\",\"sujets_secondaires\":[\"Nature\",\"Quotidien\",\"Objet\"],\"justification_sujet\":\"La scène est dominée par un ensemble de figures humaines, adultes et enfants, engagées dans des activités de repos, de jeu ou de déplacement en plein air. Aucun attribut visible ne permet d’établir une identification historique, religieuse ou mythologique.\",\"style_visuel_probable\":\"décoratif, figuratif, naturaliste, tons adoucis\",\"justification_style\":\"Les personnages et le paysage sont reconnaissables, avec des formes souples, une composition ornementale et une palette chaude mêlant verts, ocres, roses et bleus. Le large encadrement sculpté et la courbe supérieure renforcent l’aspect décoratif de l’ensemble.\",\"figuration\":\"figuratif\",\"couleurs_dominantes\":[\"vert sombre\",\"ocre\",\"brun\",\"rose pâle\",\"bleu\",\"jaune doré\"],\"elements_visibles\":[\"grand arbre feuillu à gauche et au-dessus de la scène\",\"prairie avec herbes et petites fleurs\",\"groupe d’adultes et d’enfants\",\"figures allongées sous l’arbre\",\"femme vêtue de bleu au centre\",\"enfant placé devant elle\",\"groupe de femmes en robes à droite\",\"arbres et horizon au second plan\",\"cadre en bois brun sculpté\",\"inscription ou décor linéaire peu lisible sur la traverse inférieure\"],\"composition\":\"La masse sombre de l’arbre structure la partie gauche et forme un arc de feuillage au-dessus de la scène. Les figures se répartissent en groupes successifs du premier plan vers l’arrière-plan, avec un espace plus clair au centre et un groupe animé à droite ; le cadre épouse une composition horizontale panoramique.\",\"limites_visuelles\":[\"Les gestes exacts des personnages ne sont pas toujours discernables avec certitude.\",\"La nature de l’étendue située à l’arrière-plan reste indéterminée.\",\"L’inscription sur le cadre est trop peu lisible pour être transcrite ou interprétée.\",\"La reproduction ne permet pas d’évaluer précisément la technique originale ni les détails de surface.\"]}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1789740505.0,
+    "conversation": null,
+    "max_output_tokens": 3500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "medium",
+      "generate_summary": null,
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "resultat",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "description_visuelle": {
+              "type": "string"
+            },
+            "sujet_principal": {
+              "type": "string",
+              "enum": [
+                "Architecture",
+                "Culture",
+                "Histoire",
+                "Mythologie",
+                "Nature",
+                "Objet",
+                "Personnage",
+                "Quotidien",
+                "Religion",
+                "NA"
+              ]
+            },
+            "sujets_secondaires": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "Architecture",
+                  "Culture",
+                  "Histoire",
+                  "Mythologie",
+                  "Nature",
+                  "Objet",
+                  "Personnage",
+                  "Quotidien",
+                  "Religion"
+                ]
+              }
+            },
+            "justification_sujet": {
+              "type": "string"
+            },
+            "style_visuel_probable": {
+              "type": "string"
+            },
+            "justification_style": {
+              "type": "string"
+            },
+            "figuration": {
+              "type": "string",
+              "enum": [
+                "figuratif",
+                "abstrait",
+                "mixte",
+                "indetermine"
+              ]
+            },
+            "couleurs_dominantes": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "elements_visibles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "composition": {
+              "type": "string"
+            },
+            "limites_visuelles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "description_visuelle",
+            "sujet_principal",
+            "sujets_secondaires",
+            "justification_sujet",
+            "style_visuel_probable",
+            "justification_style",
+            "figuration",
+            "couleurs_dominantes",
+            "elements_visibles",
+            "composition",
+            "limites_visuelles"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 1577,
+      "input_tokens_details": {
+        "cache_write_tokens": 1574,
+        "cached_tokens": 0
+      },
+      "output_tokens": 726,
+      "output_tokens_details": {
+        "reasoning_tokens": 146
+      },
+      "total_tokens": 2303
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "signature": "b7da8009c804a2593e2e32a276674a9d23766b3324737a56676f5506d09dc3bb",
+  "response": {
+    "id": "resp_0c9096c2a8013686016aad40d6700487d289e400a258b9eaca",
+    "created_at": 1789739222.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": "Analyse uniquement ce qui est visible dans cette image, sans recherche web ni identification de mémoire. Réponds en français. Décris précisément objets, personnages, décor et composition en 2 à 4 phrases. Pas de noms de personnes, dates ou récits non démontrables visuellement. Sujet principal parmi les neuf catégories ou NA. Religion/Mythologie/Histoire exigent des indices visibles, sinon NA ou catégorie plus générale. Culture : pratiques/symboles culturels identifiables ; Quotidien : activités ordinaires ; Objet : objets/nature morte ; Personnage : figure/portrait ; Nature : paysages/faune/flore ; Architecture : bâti. Style visuel probable en mots courts (ex. naturaliste, géométrique, impressionniste), sans affirmer une appartenance historique. Mets indéterminé si nécessaire. Ne confonds pas technique, sujet et style. Indique les limites et justifie les choix.",
+    "metadata": {},
+    "model": "gpt-5.6-luna",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0c9096c2a8013686016aad40d70b0487d28532285f01ba382e",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrUDdu4LvlvDp2BvCKRdtIQMTVldbotzEUxJ_AW7vqnfhq-E-Uu-weoyp1HdaZbwlFmtuABSglxyr4g9SMwN4Fsb9n_x8gMLYILDUWT6dpmuhMtQjVa8CSBT8mTQXUWK_3DLPpODT3b_dka7SIZeKAep_EQjwk8jOoDaAUE-VwBA6klRY_QDUh0wLSTgbHioY6XQVR_EjbSURiy6EFhGHKLGjQ5Cu09qcDwRtbjvrs6uorWzTPZvARvl7UE5R1KBNXGQQpU4Nji_sEOT_u0bx95JUasx4TPmUViyRTwQ9WM66Z_3Aa3vvTBhtYnqe8W1z-HSv7NKcd27unEy2Y-Pt5GYRADljGyeNsrnxvBcn_l1cP59h0Funb4Ie7RcuMr7OCzPWG55T59PaXPkvH59Cpyyh1fZcBrBHku67kCSNgUGagrREIvtA5hfWQEv7TaBgiAHUT9uQhRe9f9jNKDdsGeQx4ECbwHZ7gdtGORRhU3JZqFDEgtnfH4Z1qrpGvf7RneDwhVPVzp__yVuvUcS5ZODf-ozw7j9SiQAM8xridaOYm3wpAwZvKqA-O7QCj95ZoEAvPOnwG_LgDacpVppysayT7L6YMXy3Dqz2WSFFVvyMrV-5CL8Cu1BvgfgPQf07Oz6GXKyJ8R-ZM9hztb1yx8Oy7ky4zofS9gZFU4ycvJimEuyzpF3jfEasHrWubpp2Tj9pl_dLjfwfiPWVIX-E8kf7CKfW_z0Ss4jjTEMGmcZeF94JD0khpMNraOtayxox9tthYR-VlUiMAuzp2_CWYtbkZLgaCOW73WgZEsBikKzXlZI_a6auMJAwXf348FAL6_j4b9qjPoGEiyCNuQ4aeSeBMh4vyEg_mZQI6UkJuN5-ECtYHn56A-bF3AJ9MhGqEiQqVybt-rNxPQMY8i7EAQH9I3exR6HFE4T028tMaSszcT4k-fyhh0PN0T6UhtA4uTy2xhTMwko4HtW4KdQ7VFth_I8Af6lnrxmPQBLYIXpUAOSMQAFuhA-oJr1gmN8c1fmP7oPFVrAzcFeR3jzFhoRSniWvR3ATBBGmFyKeGKZxBcf73xlCvB4GKtV_GjZN1HdsIygl2y3iX6B9OhS5dWc2KZm99KmdJCDj77X8Hj4kP_T2EPCq-1clR-Jcvzj-r5v56Xb6v8geluPhX93_iSjz7EjKgnw7uZXQ2aTAWSqeGRPWuPrxwr6N-1AXIm2XGXOjCunzn0wGn08v-7VGMdzMRRStbKMSBz8XCOKaNTGuQCRz9vAFSjUMst24HKEQjURmm7Rt_3HYHWVaPHz2y0Rf898lV6mqo8ElIVPV-6L9RIRz1rw6RvqM7pMFcalzKvteaJXHLV2aB_mZZL1zdNU2njF6xTSLuLJKR7dMtrwbhu8D_0qvnCduRnydcDW2h-IoOuah6Y3rGAcv3xZNr_xnHZftYfUdJgaSBAOsqOAwHVZU5JPCec02QondHB7KR3zd5GZI7jgV6ibuUwCovPie-E5a6YnGMsr5XpqLW1YzobobI69qiUIqn3eXmFEVkpE4I41JnRIb4p9LU-pRNy8rph0_OEySjRJxGMy6Xc_Nwo3OP4HfYb8_vdYabDAJHrw7KY3NkNviUZwqJl1EyXln1DO8wdKRmbQwxXfUOxXPWRP1aGQ483ofrZGCYn6I1PlxntwUgsjkEbhanfaPfsbD0-YVESLGXROH7GK67u2Or6n3NR8vXsCMG6N26o9Ncere5Btrl6sVg7glNS8_RRxxRqBQ1m0OuE3-iYFLQyHE443P_HUOXnrFLOzh0mQJjBGpb3uuXPF9vDxI96mrfP3qE0nTyRSOqZe-9qkDpTg3O7COt2qkypnywdI5NkVT7kVwck779BYqRtNfm4WHzJCHTn2Q-seKQEertUYYiyVPnR__Cg3Tpk5bcfNFCmnAZld8yb2yq-uMk1pUqMbv01A5zw9FLBJNtVCiZ7xkX2vA8-t7iwLaCB9CtHNrJ0v07VJdj-dUBHJ2R4MDmKhy78ECEKr7GCAoOfyHXZZA4WAhtyZLNIugmIahBNUuWFwp3QQ-ZG7wgm0Q00WbK3U9-Ucu8apBi-uv6GLpQjou5saeVBcMvmLRQlXYFgQl-LC3_ixyFDzdi8OLvtYYaWi83Epb_j3HSOT8FvEa9q78NVV6B9f2SxDSlIYa7UUK7scTrt9VgH5vGwcxEKO-jVQUgGPhFSwHSp61ClMpn3Ev_3QTD_4=",
+        "status": null
+      },
+      {
+        "id": "msg_0c9096c2a8013686016aad40d8a89487d2a09a026d63b6d4a2",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\"description_visuelle\":\"Reproduction encadrée d’une scène d’intérieur très dense, montrant une table couverte d’un textile sombre et chargée de livres ouverts, vases, coupes, vaisselle, fruits et bouquets de fleurs. Des étoffes rouges retombent sur les côtés et à l’arrière, tandis qu’un petit chien blanc portant un ruban rouge est allongé au premier plan, près d’un meuble sculpté. L’éclairage contrasté met en valeur les objets brillants et les textures, sur un fond largement sombre.\",\"sujet_principal\":\"Objet\",\"sujets_secondaires\":[\"Nature\",\"Quotidien\"],\"justification_sujet\":\"La composition est dominée par une accumulation d’objets et d’éléments de nature morte : livres, récipients, fleurs, fruits, textiles et mobilier. Le chien constitue un élément secondaire vivant, sans être le centre de la scène.\",\"style_visuel_probable\":\"Figuratif, naturaliste, théâtral, contrasté\",\"justification_style\":\"Les objets et l’animal sont représentés de manière reconnaissable, avec un souci des matières, des ornements et des effets de lumière. Les draperies, la palette sombre et l’éclairage dirigé donnent à l’ensemble un aspect théâtral et solennel, sans permettre d’identifier précisément une école ou une période.\",\"figuration\":\"figuratif\",\"couleurs_dominantes\":[\"brun foncé\",\"noir\",\"rouge\",\"ocre doré\",\"blanc\",\"vert sombre\"],\"elements_visibles\":[\"cadre doré\",\"table ou console recouverte d’un textile sombre à motifs\",\"livres ouverts\",\"vases et récipients décoratifs\",\"coupes et objets métalliques\",\"bouquets de fleurs\",\"fruits regroupés au centre\",\"draperies rouges\",\"meuble sculpté à droite\",\"petit chien blanc avec un ruban rouge\",\"fond intérieur sombre\"],\"composition\":\"La scène est organisée en profondeur autour d’une longue surface horizontale occupant le milieu de l’image. Les objets s’accumulent sur la gauche et au centre, les draperies encadrent la composition, et le chien forme un point d’attention distinct dans l’angle inférieur droit.\",\"limites_visuelles\":[\"La nature exacte de plusieurs objets décoratifs reste indéterminée en raison de leur petite taille et de l’éclairage sombre.\",\"Le lieu précis, l’auteur, la date et la signification symbolique de la scène ne sont pas déductibles de la seule image.\",\"Le statut exact de l’animal et des accessoires ne peut pas être établi visuellement au-delà de leur apparence.\" ]}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1789739229.0,
+    "conversation": null,
+    "max_output_tokens": 3500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "medium",
+      "generate_summary": null,
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "resultat",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "description_visuelle": {
+              "type": "string"
+            },
+            "sujet_principal": {
+              "type": "string",
+              "enum": [
+                "Architecture",
+                "Culture",
+                "Histoire",
+                "Mythologie",
+                "Nature",
+                "Objet",
+                "Personnage",
+                "Quotidien",
+                "Religion",
+                "NA"
+              ]
+            },
+            "sujets_secondaires": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "Architecture",
+                  "Culture",
+                  "Histoire",
+                  "Mythologie",
+                  "Nature",
+                  "Objet",
+                  "Personnage",
+                  "Quotidien",
+                  "Religion"
+                ]
+              }
+            },
+            "justification_sujet": {
+              "type": "string"
+            },
+            "style_visuel_probable": {
+              "type": "string"
+            },
+            "justification_style": {
+              "type": "string"
+            },
+            "figuration": {
+              "type": "string",
+              "enum": [
+                "figuratif",
+                "abstrait",
+                "mixte",
+                "indetermine"
+              ]
+            },
+            "couleurs_dominantes": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "elements_visibles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "composition": {
+              "type": "string"
+            },
+            "limites_visuelles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "description_visuelle",
+            "sujet_principal",
+            "sujets_secondaires",
+            "justification_sujet",
+            "style_visuel_probable",
+            "justification_style",
+            "figuration",
+            "couleurs_dominantes",
+            "elements_visibles",
+            "composition",
+            "limites_visuelles"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 803,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cached_tokens": 0
+      },
+      "output_tokens": 716,
+      "output_tokens_details": {
+        "reasoning_tokens": 161
+      },
+      "total_tokens": 1519
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  }
+}

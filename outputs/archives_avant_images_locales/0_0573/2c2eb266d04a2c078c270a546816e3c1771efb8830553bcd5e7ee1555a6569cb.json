@@ -1,0 +1,96 @@
+{
+  "image_id": "0_0573",
+  "titre": "Vues d'architectures 3",
+  "artiste": "Lucien Hervé",
+  "room_id": "Room_3",
+  "sujet_existant": "Architecture",
+  "fingerprint": "0b111bf3e48a12ef136fa139194ebc20c16125afce6963ea69d27a8c0aeaf027",
+  "model": "gpt-4.1",
+  "prompt_version": "bird-vision-v1",
+  "date_utc": "2026-09-17T12:55:13.276935+00:00",
+  "statut": "a_verifier",
+  "motif": "Aucune correspondance suffisamment étayée.",
+  "nombre_candidats": 8,
+  "erreurs_telechargement": [
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:Musée_Beaux_Arts_-_Nancy_(FR54)_-_2022-02-26_-_2.jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:Une_salle_du_musée_de_sculpture_70_038_(cropped).jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:Une_salle_du_musée_de_peinture_70_038_(cropped).jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:F54_Nancy_Daum_CollectionMBA.JPG",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:F54_Nancy_escalier_Musée-Beaux-Arts.JPG",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:Musée_des_beaux-arts_de_Nancy-Péristyle.jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:Intérieur_musée_Beaux-Arts_Nancy.jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:F54_Nancy_Escalier-Musée-des-Beaux-Arts.jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:Mello_da_Gubbio_Cricifixion_0604.JPG",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:Mello_da_Gubbio_martyr_de_Jacques_et_Marien_0605.JPG",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:Mello_da_Gubbio_martyr_de_Jacques_ou_Marien.jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:Vierge_à_l'enfant_Taddeo_di_Bartolo_0603.JPG",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:Saint_Paul_Fracesco_Traini_0600.JPG",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:Vierge_à_l'Enfant_accompagnée_par_deux_anges.jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:Wilhelm_Stetter_Ecce_homo_0625.jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:Wilhelm_Stetter_Apparition_du_Christ_Marie_Magdeleine_0627.JPG",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:Wilhelm_Stetter_la_mise_au_tombeau_0626.JPG",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:Le_Tintoret,_La_déploration_du_Christ.JPG",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.parismuseescollections.paris.fr/sites/default/files/styles/pm_recherche_liste/public/atoms/images/MAM/3z00492.jpg?itok=7FZKTn4n",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://www.parismuseescollections.paris.fr/sites/default/files/styles/pm_diaporama_liste/public/atoms/images/MAM/3z00492.jpg?itok=IL9CrwNG",
+      "error": "ValueError"
+    }
+  ]
+}

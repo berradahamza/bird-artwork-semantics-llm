@@ -1,0 +1,80 @@
+{
+  "image_id": "1_0212",
+  "titre": "Byblis changée en source",
+  "artiste": "Henri-Léopold Lévy",
+  "room_id": "Room_28",
+  "sujet_existant": "Mythologie",
+  "fingerprint": "bffd0df090e65c889ac55a4b17b60a13552b92dc98d67cd974a9245eb55fc1a1",
+  "model": "gpt-5.6-luna",
+  "prompt_version": "bird-vision-v1",
+  "date_utc": "2026-09-18T13:27:16.048206+00:00",
+  "statut": "a_verifier",
+  "motif": "Aucune correspondance suffisamment étayée.",
+  "nombre_candidats": 10,
+  "erreurs_telechargement": [
+    {
+      "url": "https://tst.vasari.fr/Icones/vide.png",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://tst.vasari.fr/Vignettes/IMAGES/L/LevyH/levyH_coriolan-ensba.jpg",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://tst.vasari.fr/Vignettes/IMAGES/L/LevyH/levyH_joas&athalie-arras.jpg",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://tst.vasari.fr/Vignettes/IMAGES/L/LevyH/levyH_hebreuxcaptifs-nancy.jpg",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://tst.vasari.fr/Vignettes/IMAGES/L/LevyH/levyH_commune-orsay.jpg",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://tst.vasari.fr/Vignettes/IMAGES/L/LevyH/levyH_herodiade-brest.jpg",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://tst.vasari.fr/Vignettes/IMAGES/L/LevyH/levyH_herodiade-nancy.jpg",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://tst.vasari.fr/Vignettes/IMAGES/L/LevyH/levyH_sarpedon-orsay.jpg",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://tst.vasari.fr/Vignettes/IMAGES/L/LevyH/levyH_bienfaitscomerce-soissons.jpg",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://tst.vasari.fr/Vignettes/IMAGES/L/LevyH/levyH_mortJB-rennes.jpg",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://tst.vasari.fr/Vignettes/IMAGES/L/LevyH/levyH_oedipe-orsay.jpg",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://tst.vasari.fr/Vignettes/IMAGES/L/LevyH/levyH_samson&dalila-brooklyn.jpg",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://tst.vasari.fr/Vignettes/IMAGES/L/LevyH/levyH_jeunefille&mort-nancy.jpg",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://tst.vasari.fr/Vignettes/IMAGES/L/LevyH/levyH_finReligions-nancy.jpg",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://tst.vasari.fr/Vignettes/IMAGES/L/LevyH/levyH_nebula-nancy.jpg",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://tst.vasari.fr/Vignettes/IMAGES/L/LevyH/levyH_napoleponaucaire-mulhouse.jpg",
+      "error": "ValueError"
+    }
+  ]
+}

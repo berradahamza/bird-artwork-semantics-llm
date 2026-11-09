@@ -1,0 +1,563 @@
+{
+  "signature": "5fc98241ab7d61c5f137f9299d26d6b6e45509cac2e821a5b66d35ce6ba25386",
+  "response": {
+    "id": "resp_064cff9e8f8f54ff016aad3a5681d087d2b4843aa1dfb0d02b",
+    "created_at": 1789737558.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.6-luna",
+    "object": "response",
+    "output": [
+      {
+        "id": "ws_064cff9e8f8f54ff016aad3a579a8c87d2a2533a92fc3de8df",
+        "action": {
+          "type": "search",
+          "queries": [
+            "site:mba.nancy.fr Noël Coypel La Nativité 173 1667 1668",
+            "\"La Nativité\" \"Noël Coypel\" 173 Nancy",
+            "\"Noël Coypel\" \"La Nativité\" 1667 1668"
+          ],
+          "query": "site:mba.nancy.fr Noël Coypel La Nativité 173 1667 1668",
+          "sources": [
+            {
+              "type": "url",
+              "url": "https://collections-mba.nancy.fr/fr/notice/173-nativite-cfc8cd03-918e-4c7a-b635-0dda8f5e1e07"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Liste_de_peintures_de_No%C3%ABl_Coypel"
+            },
+            {
+              "type": "url",
+              "url": "https://baroquiades.com/noel-coypel/"
+            },
+            {
+              "type": "url",
+              "url": "https://mba.rennes.fr/files/f8f681e1/mbar_coypel_dp_planche.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://www.bach-cantatas.com/Guide/BWV64-Role-Ed2025-12.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://collections.louvre.fr/ark%3A/53355/cl010062395"
+            },
+            {
+              "type": "url",
+              "url": "https://flaneriespicturalesenmusee.com/2024/05/noel-coypel-1628-1707-peintre-du-roi-versailles-rennes.html"
+            },
+            {
+              "type": "url",
+              "url": "https://www.patrimoine-histoire.fr/P_Lorraine/Nancy/Nancy-Musee-des-Beaux-Arts.htm"
+            },
+            {
+              "type": "url",
+              "url": "https://collections.louvre.fr/en/ark%3A/53355/cl010062395"
+            },
+            {
+              "type": "url",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Getty_Research_Institute_%28IA_catalogueraisonn01remy_0%29.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Collection_de_peintures_du_palais_des_Beaux-Arts_de_Lille"
+            },
+            {
+              "type": "url",
+              "url": "https://musees.laval.fr/beaux-arts/noel-nicolas-coypel/"
+            },
+            {
+              "type": "url",
+              "url": "https://musees.laval.fr/beaux-arts/charles-antoine-coypel/"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Collection_des_peintures_fran%C3%A7aises_du_mus%C3%A9e_des_Beaux-Arts_de_Lyon"
+            },
+            {
+              "type": "url",
+              "url": "https://dokumen.pub/abrege-de-la-vie-des-plus-fameux-peintres-p-2.html"
+            },
+            {
+              "type": "url",
+              "url": "https://boudewijnhuijgens.getarchive.net/media/coypel-nativite-collection-particuliere-612d72"
+            },
+            {
+              "type": "url",
+              "url": "https://www.patrimoine-histoire.fr/P_Bretagne/Rennes/Rennes-Musee-des-Beaux-Arts.htm"
+            },
+            {
+              "type": "url",
+              "url": "https://wikipedia.cloudix.cabillot.eu/content/wikipedia_fr_all_maxi_2024-05/A/Collection_de_peintures_du_palais_des_Beaux-Arts_de_Lille"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Liste_de_peintures_de_No%C3%ABl-Nicolas_Coypel"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_des_Beaux-Arts_de_Caen"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Nicolas_de_Plattemontagne"
+            }
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_064cff9e8f8f54ff016aad3a5aa61887d2b2e783c04ec93c3e",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTp1AbM5iCY8hFg1n749qOqwFQ_pWr5JVkOXY5zQgOc43sTxxeUDZUdMF5nJi7ibPcrqiYs7rrpXEArld68TUNzUyVns3oFWD1BB5q7ETntg_tO-1FNKQVWpLubf5zocfeU26vSpHhHVhezecHXSpaknics9c93XXbc2_aDpS5CfWGnliNGm9COBmOQ-s9HHHcaOmYm7UqiIa5BxaG5M9LAlIxV_ctu7Oqvp76VIZ2yH0xwWrBCc5aMxubUuQFQnITM9q3JBK-dWIw7JgFFgL1ILkL_za3CsKOSBuKnDrzYqz8ASPEs_gqCCRRM6lXygsjBorqxpo8DKTPcOKhvfJARoSuORe8qIYCmaKvC4U6fvFNZozbEO6yQNAsyjqVrAmSx6eet38kLRFMGXDZ2lFQ2dqWVqxBhA48n5dRbdu_4HwN9cGYEJ3QZu3raSEJbWgLDlU5I_zOUhJBjA-wbSlQeUywbOnS1Yx467-CWvVwLorklHX-B-y8xHsVvVxgCZIpcFYYNIDyYvpn1WRTFr14wwuuSJhpeHPQyrpqltar0Bw3OawLaEv0ysFtytaL-wf5J8iSzPRz4CD1zpJwAuPI8zIOzPRQhjiCtryEktS1ANYkbVStoJmo2hvrKtF-tCgwlS69lq0umX8sVcSP56YkA9PiVD4Ft0rB4hrM4-ugIEAd3Hedu6WLicAlN_zL-W44ckYK7WSqAoc9naiX4LhF_sOBP8q9VVLIMZZmkcWLqe_AcWP8mQSM8a86f7wwrd08i_qoVVZ1sQMcl_vUltyUvP4yV3PMqkprtj1uIHtQSOCVwb-eGxRP1uRyj22iMvDZfFE3r7sWivuPYJLE5pCC_7VaDiSFHPP9Y37Zg6UkZX1Mz2lloyQAwnyVLMIDU0hww_fg3t93pfCwpkdQP38K3aKZZdyUSol6fOGopYSucko5oHsN1G2Gv-xB1NpNwaZt075IWobLek4i94vJ8U1wFLyW3k4iM3BPUo97quop8CBnuzQ6Db3h1h0oRsFSSVQpWXxdzmEsYkZ30sS4oWVnT1QoabVVebeBdRgPWdxB7eNRDusigvnwymOBRPdsBuci2zQHkAYL-EuDm65JIJg8EhinE-g_y75ZofHK61SD_78AZXdJHKvfF7aH8jlkJEOL6ZyBVGkjdx7yM6sFKGTfoX37FOcZcVjNtH5-CfcRgJKfgDiJSkZEmzGi5gqqEIWk428tRbt8r5mH6_6Un_EdWuh9nFDbh-Uq-xRbEcAr7-Pxe1xHVrA46tETpaQV3SoANb2Q5dEThdG2UoXMJNKHHNIP_ThjpwC57HYxx2XpC0t1m-yAsURdv_QqSSWo9zrRYSxFQFeCqZmTemsy3Tm0jcW8Gi-AutBFLyALz-qW07b2x_5W3S-lUNpcux2_CSvQL7PzEBRh9-oUsgj_kQhR1EGbIsuRAo19VnXKWhbm279amTD0fgloHgdktxMIfaTB7YL1lSjZwXRKJayoLeoo1LQ2R9UoLmKCLNqjzfpdJyF3oPq0DCvarLPFkRyBnAfExtGW14I_NztUue1dTsl_QnPQ==",
+        "status": null
+      },
+      {
+        "id": "ws_064cff9e8f8f54ff016aad3a5b632c87d2898d1d1791c62e75",
+        "action": {
+          "type": "open_page",
+          "url": "https://collections-mba.nancy.fr/fr/notice/173-nativite-cfc8cd03-918e-4c7a-b635-0dda8f5e1e07"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_064cff9e8f8f54ff016aad3a5c762887d28746906f80c98c0a",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTp1NrbvwZATfXFit6c0nKJ_hUgw6aGge7_UfBrlBO1rRNwDJDazpb2DooY6TXopIFalqYlYSRGu5XVkZ_izPq9f2MhaiK4cV2zMwHkmVWRQQA8O5r8n7uuvOHsfms8HJ9dvuI0F5KaovRTtfbjf4Yfnr98JyslA7c7vFJVg1ePvz5bh1hyQ9d8XtqNgMBeXl-5j2jU55od2RKobcjHVehdrmXMUe9DGcDKIQnHrwxy2yj8q6JvPW9JHhFJBFXrJCb5ev5_uz88Pgy0OeX0pvT4zxhKM0AL6lrpcCIj6vP3ohNmfyWIKSLGWqpGlOOyRYGPBLTPkU5RqGOSIXuN7oq0XOR-yuh4FNLysVK-ExbC4UY5s25VLpKKmvL3JO2R80zlXCkvrfGXoZyzk8NYcbNC-qy_Mo5P3mEe7FNAnWjzsVtDwCOmGNx5t88E8e9N1EACUEyOytarZdIQng48v6B8G5wEjF_twKUIRHzrdS6Iq1ATEw1CMRdl6MU6HeUOV1TUcYCkd4oVZBaH4vZdx4bqoX-Fevsu7OfatrwNwCb7zqV6cILyWm3X2Gsnvhv7-ZRinZbd4zW9F2sj-sG73HSTJ_L7JOcNIptuHv7rQIpm6enSxz0C-UHb1cPbH9RpsGcDeR6UGNVMI3HWt0m32Ukv_mFAEjdaZ0SvPxg4_0ProaaQaegCrApJ4jRvYxPpJWAcE7nJzQ9Vey7H5-TXnxVsgjJXjbrItcgL6SBfxNCZOSWk3NeBuk8EHMvtDzxfHzW1Gxok8V_lzma7PnKAmT3tieg9_1-FdUiPKtgVyq94_hFIsbpZsjhqqlo8_DpaHXqPya2GNQ-HJLSPKB-yuv2uq189aBsx_B0ySnXFnPaeo-p5e2vEgmVPEVrnVGljOcXbPv1fVYMRnZdgXp3ohxcqukFnm5ky94_4eLbnOSR4G8Qp00JvK2I3FUa_ON_3WBfalwwG32oTaYYhd3TjxZxiCYp5CDZk8Tzwm2Sr7ABh-oYeAvOkX5OiIKwJEnTeH_-nmoJYtFmy-rNP5SypJPgWx9-1v76_GatW8S3evZjSBK_Hs-cWJUIWQojUSIKdwnbfrwpATV0Ix1u27sUMhV_ZemCMH78CWKDhZ91jR2R7OOhD1q_Rq84nRtROeI1AQjuyk7I6DnyBRSE-D0drnAlrl7rvaQOs5IHCCE1J-Y-Qav1TnZrio7DBMFV385QnGglrTbODryqtDQMJWUxQGF2XhBuiSRIb3ymIqngAsYuaRcZUTAmh2O-4tJCaY6_PgagUqn7uAjg86_gq6AUi5UpuqqWhWndtX8zEcR2_ias3OPYB08Rx2-vPsR6-kteRff7xegohXd1SfP_dZtwqptAyEuMNNSazXOkKmvWIRO6C0vYWCHJ76wEkVNhc40v4Rpb4nDRbGWxRnLqNmpb6HhZa1rw==",
+        "status": null
+      },
+      {
+        "id": "ws_064cff9e8f8f54ff016aad3a5d294487d2a967b1412ca2760d",
+        "action": {
+          "type": "search",
+          "queries": [
+            "\"Nativité\" \"Noël Coypel\" \"inv. 173\"",
+            "\"La Nativité\" \"Noël Coypel\" Nancy musée image",
+            "site:pop.culture.gouv.fr \"Noël Coypel\" \"Nativité\" Nancy",
+            "site:collections.louvre.fr \"Noël Coypel\" \"Nativité\" Nancy"
+          ],
+          "query": "\"Nativité\" \"Noël Coypel\" \"inv. 173\"",
+          "sources": [
+            {
+              "type": "url",
+              "url": "https://collections-mba.nancy.fr/fr/notice/173-nativite-cfc8cd03-918e-4c7a-b635-0dda8f5e1e07"
+            },
+            {
+              "type": "url",
+              "url": "https://commons.wikimedia.org/wiki/File%3ACoypel_Nativit%C3%A9.jpg"
+            },
+            {
+              "type": "url",
+              "url": "https://mba.rennes.fr/files/f8f681e1/mbar_coypel_dp_planche.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://www.patrimoine-histoire.fr/P_Lorraine/Nancy/Nancy-Musee-des-Beaux-Arts.htm"
+            },
+            {
+              "type": "url",
+              "url": "https://baroquiades.com/noel-coypel/"
+            },
+            {
+              "type": "url",
+              "url": "https://collections.louvre.fr/en/ark%3A/53355/cl010062395"
+            },
+            {
+              "type": "url",
+              "url": "https://commons.wikimedia.org/wiki/Paintings_of_the_nativity_of_Jesus_Christ"
+            },
+            {
+              "type": "url",
+              "url": "https://www.bach-cantatas.com/Guide/BWV64-Role-Ed2025-12.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://collections.louvre.fr/ark%3A/53355/cl010062395"
+            },
+            {
+              "type": "url",
+              "url": "https://commons.wikimedia.org/wiki/Paintings_in_the_mus%C3%A9e_des_Beaux-Arts_de_Nancy"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Liste_de_peintures_de_No%C3%ABl_Coypel"
+            },
+            {
+              "type": "url",
+              "url": "https://documentifytvarchives.getarchive.net/amp/media/coypel-nativite-collection-particuliere-612d72"
+            },
+            {
+              "type": "url",
+              "url": "https://boudewijnhuijgens.getarchive.net/media/coypel-nativite-collection-particuliere-612d72"
+            },
+            {
+              "type": "url",
+              "url": "https://www.wikidata.org/wiki/Wikidata%3AWikiProject_sum_of_all_paintings/Collection/Museum_of_Fine_Arts_of_Nancy"
+            },
+            {
+              "type": "url",
+              "url": "https://garystockbridge617.getarchive.net/media/coypel-nativite-collection-particuliere-612d72"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Liste_de_peintures_de_No%C3%ABl-Nicolas_Coypel"
+            },
+            {
+              "type": "url",
+              "url": "https://www.concordia.ca/content/dam/finearts/jcah/docs/pdfs/4-2/jcah-ahac_4-2.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://cicrp.info/wp-content/uploads/2020/06/Bilan-2017.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_des_Beaux-Arts_de_Caen"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Collection_des_peintures_fran%C3%A7aises_du_mus%C3%A9e_des_Beaux-Arts_de_Lyon"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/D%C3%A9partement_des_peintures_du_mus%C3%A9e_du_Louvre"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Nicolas_de_Plattemontagne"
+            }
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_064cff9e8f8f54ff016aad3a61c1f887d2af8297ecfc9f549e",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTp1LcSBnp1fq3M1yQ16G3_AXFwzCI0Vl8LAd2u9zwN0WWAHi_ZUw6BwlFBfvx1-M3nWseuwnrBen2cSrroaL_JU1BNYdds9Q9SK4N8J02GRSM9FE0bfRA0E-XlUvi1FKA8N087-KHOyabUT1IhC7i10nGfrjiPi1bt-CIoTNq87yDpJOaK6lvDapVGfMWW5hxNIQQcF8HSsGYCwjXlVGQADEp-zzP3Iy_HyJdvLsRxwIAVhg0RWCu-xFomEBb5rdqiZhzqmxdogfpVVzhwxJmDjQvwwufeAsjMvpQQAH-e5v4anBXXeDbvF2yd__NY1aFWJ2JzTxai4ObBT2te0EA6MPxe_an5mfZKXV4mZO66VtE2gwn_04urM2wbElTye-ozstGOByy4EyXfzc1nUDIZ_wivUrJKdmJbUSjWP4znMzKvsJfmpXIZmHUM0STriZTAyoO_Fp42ZnmaHO_ic7H1uxHHMj6bEtNxYYkLjU9HnSv64k_kwVp2aKXQYeQ7GhIvzFZU7LSdHpm1zCpVaJ7jjwWrUty1XTfD0V9O1635DctSgK4nBUz5znvBycdTL8-s8CgeCZ4zwagDfKrKRDu3i-f-QQqUipEd-LeLFG5hl4lJT7fT-zebtpo6ui-ffErrKKdI5-QHv-Yisdu6W-UVcTA3RRBLhEEYnww9HYfFVrhiN1e9OO6sP6tRKttStEdJ--BH9mmjAEWw5_2KZQmXKf79JSL9PhJiPu_QpETbzmmcwszylmFtqBB3Esf3bmXZLKsop_5n9BtK_lOc4YiH5-JWJ7F8x5kfF6yesws34o_WVZ_kdoKByMazwXyr5FYnbRhRks3ASHYxOox2gppFE_pkItlqJTp0mZC0rDHrSKBX-m6ymMEGk4WnwgFLdlstw7JUYnHr7S6yxkb0GcZw04V44tPfAV2hRyzIdoJi1WfSt_hm1Bav55xLbkxpUr_f13G7JceA7ZCcZbVllG48lkDVD6GouLgxEKMCD9a9lpTOW4nZM-oRnGtKjKyQLQLiVDHbjgXGZSWmSv8aeTjVwbSs9LXAc30QZ54p1zBtw2R0Jfed2V_0D4w1yNOTJ1vbP2bRxPqDCIN1vTzjhRSkasDxPPnAfRMUoZ5hJgnWkW5e5Rtm_ppoZLEJDnTL1WztCFowIveklh3eV0QISJN6t66euc4U6lcBn82Pk-lE6987Iziw9A4LZd_hIuj8-DPF4DVax5vLge8jn3OWeYfRHIs22xrRpja8vBEv9N6gsWUIY2a9_LnWKDMyTY8VN7iS2agi-JnPc5bGYOIwHNHdbLnLL14cYQFQodRjpZPgK4pWpCOSOVmTk6vhC4xxTaoqG",
+        "status": null
+      },
+      {
+        "id": "ws_064cff9e8f8f54ff016aad3a61e3b487d29c7e3ca6de397ef1",
+        "action": {
+          "type": "open_page",
+          "url": "https://commons.wikimedia.org/wiki/Paintings_of_the_nativity_of_Jesus_Christ"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_064cff9e8f8f54ff016aad3a63919487d2849f3ae0be6b7200",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTp1Zj_fba4WEnPKsty_3QOOXd7e04Cz1KlsLvrTRJZ9ypqKUL5PrX-KTFP8iJWV06L3qMEF5B5daihrhzxz5avJRyUVRk0poVPmlrg5rH9xXHdE0cS0-xitBCU-xKT-lJupCAJO24lYOxFqWS0tFXVSCv9VOk1r8f5QksQvH-FO2BZgRNpR8thK9w-voHQSMVkRPuO5JsUR6rQF16RwmmpFISutkBTSjQGrc9bw3kbccg3qqVAM8o3OQYqLzQzMgSbAKIAUJmoCHI2ifZBLErJ6hsMy2_6fw2wT5U-rRgHHsyjvkAAjnfMFDI5RrjtL48w4HxinKZDVP8bs6heIyQvyIiv3QciQnENROseJvQ8f00UtLhz1ur2qYr0-74QnbYkkIQm1I1ijkSemiu0t6FhTv4CoLPQNpV94fqMJUwBF1U8EJmkR70iZ9bhd12Ub93q9kCeG94oFeQ0foZCEON3UdhVRkvlwx0Qda4NZEF1jhmfGJKL8D1pPYzhMak1-1O2aAwjSrI0nIswbol68Zyx0Od58_N3hrJgrLb-1ugGNBTtykkGoLq1vhFtlC0xojZkavJKnWxe0KR4RuMiLQmM6pAr1T0ZqEtCisTdXT39us80u_4u1VLd1tYmeaGezIB-AIF6Wv8rVsUliiGP-NzOcSLO_qJWOU-g85DFqF5dtFzHqRYdCci50qCbKArbu8o3L_pZ5dFebslEwbJwdt9rNhsqb8dHWf_aAksvPsP2N4ohh2WtiZA38Tg69_bJvYcs5pkzqNz05oR5uYO6u2eU7zYoedR-xIzSY_64gjLtxjHQOeD-frjey-In0hFupPd8NGto2NAQVAbd8mZ51AWPNKdLyDbYhlSSH1bFzyPckP5TZetwU3GsVTM0VhfrB9RCHSnwmqn5krJ_9pVthXgI2Q2x9PabFXjsMxk1z9zn3QxhR345fCDma3sH5dDS9nuTKAej-eR5k_TiPGUFwOpU3cMNIznAjZ04Ajp0yPrVC8wJYuJGwPin_f8UBSJ7JK-jBS6U-V0rs4Y6filao9wlla9ARBZlbWoKonp_ah7P53sc39gQseREx34e6cqHXd7IUsZ9sYEdYmmNUafjVTPnWYcuU0Rj8QHUO_NNZkZqgzHARlyKSY8Unbj4r7POCV5mSsY8G8mklWlnL9pSq-0WCuXmDx8MZFXMTC-YXHXU-GIJyM0i4t7OXqwJQ5Mafu8bFfvIWHLoLVdA35waB6RDxnVc_X3jn-HmFPlynwD2x9YA=",
+        "status": null
+      },
+      {
+        "id": "ws_064cff9e8f8f54ff016aad3a63f4d487d28b326ba55aa1718c",
+        "action": {
+          "pattern": "Coypel",
+          "type": "find_in_page",
+          "url": "https://www.patrimoine-histoire.fr/P_Lorraine/Nancy/Nancy-Musee-des-Beaux-Arts.htm"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_064cff9e8f8f54ff016aad3a64f81487d28d4a8664d79c3a04",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTp1PwEreos8iuAf9n6DZfRQ3w28w23r2MazxIC8f_VUkp5D88ctxPYJKpU-nGvonmAzSX_NdciqkDHwqotF4LZSi1-zOSKNwY9oXsu9uSV1YsoppU1a_HmJrPysKqJXtFqgOhrAK0T8_wKMT5RNu8lYtPmoy5GxkD7l9hwAkPe7H7cIxkq85tYpRtM5Z9AOaS0eTfW-Txu_lLmLFaOWAECNc8qpoyk-n8GZHPtwxlrOIEu9WQzuAQN73pAascALVKXhJRgZw7DNb4gaILFCfiXeE0HcS5SHzcdrBroCnTIXjpL9Yy_JWhUoYG5o2x7Df7s2DRZmP8IWmpdmryPutnaeD643vhSeocBFqMsH5lOyWnn11rdQ3TTX1mTguiH2TpBFvqN7u4RzYR-miar9sUNILRl9ohEvRdEMmY7qVxc8H8VC6aXoeu1v2oq_yC1bMxutQnG1CJ-_9IvyH06BGkDOEr2RfGNEWiflGnAerO8C53D2Ev3ACsdwTYIyzoAQFhA7kQBBkxDGrYgEF8iTRzF9kNF5CuImybtDu7rTuo7AL6Z5JAm_KNQrtO8-XlxefWQKx_PwFm-k-OaJp1zpMcfm6HPwbDQnwAFC9Gb3GpJS1pCaj8bqF_6Qi5zGza3vdSDg6JvQqIy1RHAOvf9AVeuec51LAwmvupaRN1hPaDansdFyMOOpTYzqncPSKBg_wOyVJiSwEJX4gv7NY_T8H8c_8TK03i6GuqUVDsRPSTsCWQh1gQkr8eHsTgJdwdxgam77c1Fkf1JNT4PUO2w-hZft4M8IW0bsKHNoFGYS6GV3ActptUucqkFpTXfLZ7GLL-d2WjTuPKRtA-BZ_2762kBvBVYYdRtP5_3ahpnIdvoNvLl-gS3ZsArjrnsHiYHe4Kw2UX-9qcT6Bb4KHeaG2Inp4LBhtB9W6MBrl2oWfVKOCG2aox-DYrwlYCbKH98jTUoGZ3k8rryP9jovXhRX6diyNdhkdr6dzG89eD91SRkAtyzzJOi2lhICymO2oDJKcQGHGJuE0-Sh9TMUceRWyWv1VH-fNy2p4iSSH5qsw6RcW2M2NQ_KV9ufLGTosJAyaTa-Vz5RY7cvfkPzja958QdXPRQsVm9k8AMkD1K50JPp9nPWU6vVinwU6E7QRbKgKSKAXrUPkW4ZRO1YbafYcOXyKxMiQwndJTXvB5BKwEV5mqQa4phgfxCTxD5DqgtivD2jPTaIXmFOfHdnxH2e0bsVwQ3e5ZxO9E0mbQcwOtwwF74dIgn5FwWDtzORRna_779-XhblDEs_u4U-hSDvCwpQbsloE1uW-_5gmbLAUa2tDl492xMvb-IOtIDOTCRU-NDQRKxIC_FPgcOGLHaBnIhNYQXFwMj5VyazsvOO8EJuHDfD-z3Q3Av-ff6PEPgjUeQUfZ5OZab6_7k4BdLSBoJ56q_8OO0ut5FLZnhKQE-9JhtMQkgbsPls9Cpr_0NPHtSsNieLFSeue3jG_6p_Ed6Ovw==",
+        "status": null
+      },
+      {
+        "id": "ws_064cff9e8f8f54ff016aad3a65aadc87d2b9053e39163c0bff",
+        "action": {
+          "type": "search",
+          "queries": [
+            "site:chateauversailles.fr Noël Coypel La Nativité Nancy inv. 173",
+            "site:mba.rennes.fr Noël Coypel La Nativité Nancy 173",
+            "site:collections-mba.nancy.fr/r/cfc8cd03-918e-4c7a-b635-0dda8f5e1e07"
+          ],
+          "query": "site:chateauversailles.fr Noël Coypel La Nativité Nancy inv. 173",
+          "sources": [
+            {
+              "type": "url",
+              "url": "https://collections-mba.nancy.fr/"
+            },
+            {
+              "type": "url",
+              "url": "https://mba.rennes.fr/files/f8f681e1/mbar_coypel_dp_planche.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://www.chateauversailles.fr/sites/default/files/presse/documents/dp_coypel_vdef_bd.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://collections-mba.nancy.fr/fr/search?f=564170&o=562263%2C562261"
+            },
+            {
+              "type": "url",
+              "url": "https://collections-mba.nancy.fr/fr/search?f=562283&o=562266%2C562261"
+            },
+            {
+              "type": "url",
+              "url": "https://collections-mba.nancy.fr/fr/notice/75-5-1-jeune-nanceienne-dans-un-paysage-de-neige-f6cec482-057c-4bba-aaf9-688f0ce6393f"
+            },
+            {
+              "type": "url",
+              "url": "https://collections-mba.nancy.fr/fr/notice/253-repetition-dans-le-parc-50c32772-b439-45bc-bc9b-749f902c93ec"
+            },
+            {
+              "type": "url",
+              "url": "https://collections-mba.nancy.fr/fr/notice/246-la-continence-de-scipion-b38460c1-bf59-4886-b10f-44a7f1b8bf1d"
+            },
+            {
+              "type": "url",
+              "url": "https://collections-mba.nancy.fr/fr/notice/143-aurore-et-cephale-d5bea449-af3d-438c-99e2-b35c5f78b52b"
+            },
+            {
+              "type": "url",
+              "url": "https://collections-mba.nancy.fr/fr/notice/d-66-2-213-femme-a-la-perle-cee4dd42-17ae-48f6-97fa-178108cdb8a2"
+            },
+            {
+              "type": "url",
+              "url": "https://collections-mba.nancy.fr/fr/notice/2008-3-2-l-hommage-a-callot-72ad9f53-3cf4-4f04-841f-065b279031c8"
+            },
+            {
+              "type": "url",
+              "url": "https://collections-mba.nancy.fr/fr/notice/242-portrait-de-la-comtesse-des-salles-de-malpierre-9395b95e-cf1d-4668-986d-5410e9953938"
+            },
+            {
+              "type": "url",
+              "url": "https://collections-mba.nancy.fr/fr/search?f=563520&o=563521%2C562261"
+            },
+            {
+              "type": "url",
+              "url": "https://collections-mba.nancy.fr/fr/notice/1083-episode-du-siege-de-metz-04a69e40-ffcf-4452-8b20-f9fb1e39ed6f"
+            },
+            {
+              "type": "url",
+              "url": "https://collections-mba.nancy.fr/fr/notice/173-nativite-cfc8cd03-918e-4c7a-b635-0dda8f5e1e07"
+            },
+            {
+              "type": "url",
+              "url": "https://mba.rennes.fr/files/f8f681e1/mbar_coypel_dp_planche.pdf?utm_source=openai"
+            },
+            {
+              "type": "url",
+              "url": "https://www.chateauversailles.fr/sites/default/files/presse/documents/dp_coypel_vdef_bd.pdf?utm_source=openai"
+            },
+            {
+              "type": "url",
+              "url": "https://www.patrimoine-histoire.fr/P_Lorraine/Nancy/Nancy-Musee-des-Beaux-Arts.htm"
+            },
+            {
+              "type": "url",
+              "url": "https://baroquiades.com/noel-coypel/"
+            },
+            {
+              "type": "url",
+              "url": "https://commons.wikimedia.org/wiki/Paintings_of_the_nativity_of_Jesus_Christ"
+            },
+            {
+              "type": "url",
+              "url": "https://commons.wikimedia.org/wiki/File%3ACoypel_Nativit%C3%A9.jpg?utm_source=openai"
+            }
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_064cff9e8f8f54ff016aad3a69c2b887d2a6882d6ca748871e",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTp1cJQEMoxp-8P9ugB9cJ0ydjTcsySFMs4X8r87U5vaYmE4E62iUvCpGTG2r7AlkzIeucOrUtqLwIho_Iiaf6NW5ttmkR7GwX470K2hBeEuFhi7g2e4ksigjLUYVMLpEH1ryiFVtLBX5kFPRbjTvu0uZZpJHa-BXsPM1KAUjO2U2wHqxE9ScinexK2OFn15U2CopZVXyBmPk8QpOEHP1_S2JAqH_EcIUSg0Vz2BmUl4YlykyqCPcsbWCZJhWSe291OZXcFlI27NL6UdcqjnOkq2eJBLywR6dZVDdXmYGKGyyoXC8WoXGZWg70Ja8RauEQ_IV1pqYV2chwkO1Z4LDU35aPwuv2pBM6tt6VEJF003OYpT9FxaqmYkpRCspzVlp55w34usI_GXDria0YO9KyjBFhP6KOQ98o9Doy0ZSEQ9OnYW9He-PGWepDhcG3zb9YeuzL3XPE52RqQI_SHTb2Hmp_Z-uMDgvkq94ZNwyeLgGho98iy8ojUUkANUCMMWBzuy9IbCFaTBNtYRnhXD6G7wJ1hJHpg3ONFelOzAjGkwqX3FM7GipgG_CRtPsIZ6ycpG5s3sQ3HGJdvylsR6OrGgglekneDamDSgc-YRhwgej-FVsHdipb1WT3M353AHFFYwh4mCI5jR9sC0hO6QUtnxyRqefszocJwWOnZ9ywq6KAdGW4HgrMz16dC_jnapcviDSfiBkdhHcCeIQkKd0mu_haCIEm3RtrcB8qGxP2St1JwOB5XCF2EnnDzCi0DeoFkjy3fX5q8PZwKT-wysesJPpio0bOVCghGZb7DwC8cGjIca8aRcNA7cMjx08eQxS1iXFl_43zda7ge12ZnL4B-1zkw4Xqxzr4VX6qCFz7ojnzcMZS1IqaTpHBURZJwum0Z_GAX8u7UaGgbsBVkGMe9QP5GwjYohwnQZ7CMMZCj5F59BfKZrUf6eSRNLlWEo6_dJsLtX5s0LtmL79i7Wee2YE_KBVUv3lxc_nXYrYEBm-1Nt1ktdMHaIGEZiPold719TexNWrdgs90u8ecqbjhR02nbyHB5khqKqWBsDaBpRkRpkdz5_EojHD7_n_mD2HF8ENywHlR3zAW8SMTFBHWthaNvVqF118CLmMC1Nunf71SL7wyrHwsz1vWH8bYQVZU9USVIRHX6qVMV1FGwd_GCUgek4a8SVRepZnHkVkNCrDh93Tm9nraBEyw5xu1zAn0xE0BN5a-idCMTCZB2S8IGChSTgG4ZCyCQ-Ehf2aUmUioBEdWsuzlW-AfHVyDoUhEJEDL5uDb8Lvk_kK-8pg_66gVRei1ZedrmJI3AJIWmVDxhyluH45nqWYFhH1rPeadchPIvstky-Upzgb3DSHtzOiOIEwJjSwekXQjUtMzguwBbih6Td7jVWBqj47O81EYiwiD7gB9MVsyDVTzA-MvYa_1Ill12r_TYQFMbnDTcr9whRk8KghH0tU912jWpsHCEKcIQGdIMoZ_wkmEsatxAazANk4Wr17ED7hupd3uwY_ZVTa1Wf4PId8yu-6OHKBsqwLgC4fyIWQQ32L6XXDf3haY2PuxA42BzIPW-BX-AaZqvucTQkUT7anItY067-V1a3PGXzy-tCkW5a2VXtr7DLNckGiVTEuzKNY2xJjSSmkodTVIjKgft-nsdcCuonRC7MEIQ4g7NgpjFT_Blce6_vr_IGkeOTL0l2KiY14kSa_QlnNgZEuGUCW6AiIwwjKck6MW7c8U1xYGDphtTB1WGc36Gso7_WqQZI58f0SeRSJXcZJ6Ebu_U-Z5sxUUeUdVYQFDigiL3RX-BsWWu1xYfl059lPqgTmxq0FXWW48QUxiq4GCoYBVaRsKSLZDQGmxPOJDCbJXIiYu1ia-zN8MGPY4iTqt1JZrk62Dkcy1QHPrRZF-EtUs5pCXd4NwXyJO4FCtbA_3gQLtRoZtU8p40kjJEmdgNnHjvwwqPJGtiKjKM58D4fXgTWgZse9LKhoqqnWmf1mdjBApVAwyxHDn7-9r9pyriVM2av5TMOD8yIrI3bEujGPaB5b4U9KiMe82yc8zuCNfy8lorscrZtcBEo0R_nBGeceeSq8lSF7P0QWRVo7fxxW8MiIcfCk7_oqZZUM_Myk9I4Mu7kT_tb6swiRermXwmeZWKmn0kvl520u-A6EZIbJ93-NdDtqQ2nktOKtoV6fIHgt5_BYgBrKAObyvmFB4qzX1hRUlnmS8Ab6M1WM1bIPSa1sfJDGXjoHiI9k9Q9aFii2ScX__hPLr604nhX8uHdX83Qh1uJ1s_zuKsW7OGvoaqTIyxZ07I_iUYWjhZHd2LtNXD0GWsoHnesqIfqdJ48FIBQ2nTisonBeapuBl6R3SwtrjXonufCDKr6pM3VUc4XjS5yH6HR_V8HW0TaevaEKi06NcesL1HZ9c3GJaifUbIr0PJQTECHlh1aP9k5fgIT3NuuF9xngJ-cNSi2K1j_4_hsv-cF7khVHmQWxaZVk12VrbIVRbt3SXC70ObDGbTRAjMP2sp1-k2Ebs2Qrw4M8qASgsmSi99WGZn05QFGxAhFktQws6sVgNB034cEYlqHuGssYhprbCJIRguBqX85TXHt159qneR7_qAm1Tb1Ksv-U8h2Z7BYKcplGLM6yQ-NNdylsl06VFaCRlDNw-atlisuMKOtLHALFtot8yOQvXvz95xhZ6VSMObLJKJtTpPudYEYChuTapVo0Npv8_mDId76c59x0F3k-Zye7xXbRj-FHlUI_dMLJDAmdr5RyIDG-vhnSjRCvYiZNneW0Yw67ejCOqt37wQXZh4-c39bFmYY9pROsGfLLF-gFVs2L5aSfPLVmFCt5doktvJ_Lq5GMfC5u2RRuErNWMV1FFCQYks02-MFOc9ahVbj85Y9fYwgWr_Ub7d4ivAPPOCzjGT6kcLPQ0ZRV7z6pesPZo0Z33duF8JrmHMuobKyU6GlaK7HKDufazVctqak81YRxoNNTxqL0DUWUSk2e9oKZKbaQKOIFE10VbXTT89ZRW4E4Cz-RUVuaOL2MsCsnHJJ9otdNzMeHsAQfwQLhXc=",
+        "status": null
+      },
+      {
+        "id": "msg_064cff9e8f8f54ff016aad3a6ccc0887d2bbd61cc3292ee715",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 742,
+                "start_index": 620,
+                "title": "Nativité - Coypel Noël",
+                "type": "url_citation",
+                "url": "https://collections-mba.nancy.fr/fr/notice/173-nativite-cfc8cd03-918e-4c7a-b635-0dda8f5e1e07"
+              },
+              {
+                "end_index": 1234,
+                "start_index": 1112,
+                "title": "Nativité - Coypel Noël",
+                "type": "url_citation",
+                "url": "https://collections-mba.nancy.fr/fr/notice/173-nativite-cfc8cd03-918e-4c7a-b635-0dda8f5e1e07"
+              },
+              {
+                "end_index": 1594,
+                "start_index": 1472,
+                "title": "Nativité - Coypel Noël",
+                "type": "url_citation",
+                "url": "https://collections-mba.nancy.fr/fr/notice/173-nativite-cfc8cd03-918e-4c7a-b635-0dda8f5e1e07"
+              },
+              {
+                "end_index": 2081,
+                "start_index": 1981,
+                "title": "MBAR_Coypel_DP_exe.indd",
+                "type": "url_citation",
+                "url": "https://mba.rennes.fr/files/f8f681e1/mbar_coypel_dp_planche.pdf?utm_source=openai"
+              },
+              {
+                "end_index": 2653,
+                "start_index": 2518,
+                "title": "untitled",
+                "type": "url_citation",
+                "url": "https://www.chateauversailles.fr/sites/default/files/presse/documents/dp_coypel_vdef_bd.pdf?utm_source=openai"
+              },
+              {
+                "end_index": 3142,
+                "start_index": 3032,
+                "title": "Musée des Beaux-Arts de Nancy",
+                "type": "url_citation",
+                "url": "https://www.patrimoine-histoire.fr/P_Lorraine/Nancy/Nancy-Musee-des-Beaux-Arts.htm"
+              },
+              {
+                "end_index": 3555,
+                "start_index": 3498,
+                "title": "Noël Coypel, peintre de grands décors - BaroquiadeS",
+                "type": "url_citation",
+                "url": "https://baroquiades.com/noel-coypel/"
+              },
+              {
+                "end_index": 3918,
+                "start_index": 3815,
+                "title": "Paintings of the nativity of Jesus Christ - Wikimedia Commons",
+                "type": "url_citation",
+                "url": "https://commons.wikimedia.org/wiki/Paintings_of_the_nativity_of_Jesus_Christ"
+              },
+              {
+                "end_index": 4176,
+                "start_index": 4065,
+                "title": "File:Coypel Nativité.jpg - Wikimedia Commons",
+                "type": "url_citation",
+                "url": "https://commons.wikimedia.org/wiki/File%3ACoypel_Nativit%C3%A9.jpg?utm_source=openai"
+              }
+            ],
+            "text": "## Identification vérifiée\n\nL’œuvre demandée est bien :\n\n- **Titre dans la notice du musée :** *Nativité* — souvent publiée sous le titre *La Nativité* ;\n- **Artiste :** **Noël Coypel** (Paris, 1628–1707) ;\n- **Date :** 1667–1668 ;\n- **Technique :** huile sur toile ;\n- **Dimensions :** 183 × 133 cm ;\n- **Musée :** Musée des Beaux-Arts de Nancy ;\n- **Numéro d’inventaire :** **173**.\n\nLa notice officielle de Nancy confirme tous ces éléments et propose une **reproduction de l’œuvre**. Elle précise également que le tableau provient du décor de l’oratoire du roi aux Tuileries et qu’il a été déposé par l’État en 1803. ([collections-mba.nancy.fr](https://collections-mba.nancy.fr/fr/notice/173-nativite-cfc8cd03-918e-4c7a-b635-0dda8f5e1e07))\n\n## Notices ou pages avec reproduction\n\n### 1. Musée des Beaux-Arts de Nancy — notice de référence\n\n**Notice officielle :** *Nativité – Coypel Noël*  \nLa page contient une reproduction, l’identification complète, les dimensions, la bibliographie, l’historique de dépôt et le numéro d’inventaire 173. La notice emploie le titre **« Nativité »**, et non « La Nativité ». ([collections-mba.nancy.fr](https://collections-mba.nancy.fr/fr/notice/173-nativite-cfc8cd03-918e-4c7a-b635-0dda8f5e1e07))\n\nLa notice indique notamment :\n\n- « Peintre : Coypel Noël » ;\n- dates de création 1667 et 1668 ;\n- huile sur toile ;\n- inventaire 173 ;\n- dépôt fondateur du Musée du Louvre ;\n- bibliographie et catalogues d’exposition avec illustration. ([collections-mba.nancy.fr](https://collections-mba.nancy.fr/fr/notice/173-nativite-cfc8cd03-918e-4c7a-b635-0dda8f5e1e07))\n\n### 2. Musée des Beaux-Arts de Rennes — dossier officiel d’exposition\n\nLe dossier de presse officiel consacré à l’exposition *Noël Coypel (1628-1707), peintre du roi* reproduit l’œuvre de Nancy et la légende précisément :\n\n> *La Nativité*, 1667-1668, huile sur toile, Nancy, Musée des beaux-arts, inv. 173.\n\nLa reproduction figure dans la planche consacrée aux œuvres de l’exposition. ([mba.rennes.fr](https://mba.rennes.fr/files/f8f681e1/mbar_coypel_dp_planche.pdf?utm_source=openai))\n\n### 3. Château de Versailles — dossier officiel d’exposition\n\nLe dossier de presse officiel de l’exposition versaillaise identifie également l’œuvre comme :\n\n> *La Nativité*, 1667-1668, Musée des Beaux-Arts de Nancy.\n\nLe texte la rattache à l’oratoire du roi aux Tuileries et décrit la composition — la Vierge, Joseph éclairant l’Enfant à la bougie et les deux anges dans les nuées — tandis que le dossier en fournit une reproduction. ([chateauversailles.fr](https://www.chateauversailles.fr/sites/default/files/presse/documents/dp_coypel_vdef_bd.pdf?utm_source=openai))\n\n### 4. Page photographique secondaire : Patrimoine-Histoire\n\nCette page reproduit une vue de l’œuvre ainsi qu’un détail. La légende confirme :\n\n- **Noël Coypel (1628-1707)** ;\n- *La Nativité* ;\n- huile sur toile ;\n- 1667-1668.\n\nElle est utile comme reproduction supplémentaire, mais reste une source secondaire : la notice de Nancy doit être privilégiée pour l’identification. ([patrimoine-histoire.fr](https://www.patrimoine-histoire.fr/P_Lorraine/Nancy/Nancy-Musee-des-Beaux-Arts.htm))\n\n### 5. Article illustré secondaire : BaroquiadeS\n\nL’article consacré à Noël Coypel reproduit également une photographie de l’œuvre et donne la légende suivante :\n\n- *La Nativité* ;\n- Noël Coypel ;\n- 1667-1668 ;\n- huile sur toile ;\n- 183 × 133 cm ;\n- Nancy, Musée des Beaux-Arts ;\n- inventaire 173.\n\nLa légende attribue la photographie au musée de Nancy. ([baroquiades.com](https://baroquiades.com/noel-coypel/))\n\n## Contrôle des homonymes\n\nÀ ne pas confondre avec :\n\n- **La Sainte Famille et les Anges ou La Nativité**, également de Noël Coypel, conservée au **Musée des Beaux-Arts de Rennes**, inventaire **1994.2.4** : il s’agit d’une autre œuvre, de format différent. ([commons.wikimedia.org](https://commons.wikimedia.org/wiki/Paintings_of_the_nativity_of_Jesus_Christ))\n- **La Nativité de Noël-Nicolas Coypel**, notamment celle datée de 1728 à Versailles : il s’agit du fils de Noël Coypel, donc d’un autre artiste. ([commons.wikimedia.org](https://commons.wikimedia.org/wiki/File%3ACoypel_Nativit%C3%A9.jpg?utm_source=openai))\n- Plusieurs œuvres homonymes conservées au Louvre ou ailleurs, qui ne correspondent ni à l’artiste, ni à la date, ni à l’inventaire 173.\n\n### Conclusion\n\nLa référence sûre est donc la **notice officielle du Musée des Beaux-Arts de Nancy, inventaire 173**. Les dossiers officiels de **Rennes** et de **Versailles** constituent les meilleures notices complémentaires avec reproduction ; les pages Patrimoine-Histoire et BaroquiadeS sont des reproductions secondaires concordantes.",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "required",
+    "tools": [
+      {
+        "type": "web_search",
+        "filters": null,
+        "search_context_size": "medium",
+        "user_location": {
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null,
+          "type": "approximate"
+        },
+        "return_token_budget": "default",
+        "search_content_types": [
+          "text"
+        ]
+      }
+    ],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1789737589.0,
+    "conversation": null,
+    "max_output_tokens": 2500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "medium",
+      "generate_summary": null,
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 46306,
+      "input_tokens_details": {
+        "cache_write_tokens": 88,
+        "cached_tokens": 4251
+      },
+      "output_tokens": 1977,
+      "output_tokens_details": {
+        "reasoning_tokens": 890
+      },
+      "total_tokens": 48283
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 3
+      }
+    }
+  }
+}

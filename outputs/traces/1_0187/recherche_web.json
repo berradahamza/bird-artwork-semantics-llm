@@ -1,0 +1,531 @@
+{
+  "signature": "c4442821136348dea65b934bc0f64fe6875a7c723564f4436773f9f32027ac83",
+  "response": {
+    "id": "resp_0fa703807a8eaffd016aad39f8fe4887d28acc47d4e2ca26b1",
+    "created_at": 1789737465.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.6-luna",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0fa703807a8eaffd016aad39fa459c87d28289421f16b3dd4d",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrToRjuaZVp2NazBh0aTE4go97-0JLZskof8Ib4Ju235-LD20l623KCdvon6h7NMjC0Ghe1SwTy5io-bMI2OSY97uA9aSWJg39kE-SOe_xxItIfVbvSizGT5q5ySInidH9Hof7zFgePRq6IeBsx-ScbBIDZfla4NgapFoMy784SNIHdjHjtAVLtbDeUOsENDjps2IShI_8aySGZCI8WxzUe-E2nyXtmBG6Cpwi6zcHX8ypc69Dk5jjSdo68AldiUVziKwGn-5dmxThoGokXhLKW5EXGt5NmkZdzNl8kscOfiFDp0Sms6IcMLpFFQ3EKOO48v0LjLasrIduaxY1ixhI_Edm7eD1vzcZ2HuF_6e_gq786skAuxsiqV3sC3YInYOJn6NTKDrcWfIC5qqyvFMJ6rV4aWaqaVkNDpbAZTfDEJJsEWNSW6UQTNssqGCdGvnW9Is7_rNy_jcknXpMiWBN0tuU0O1GB5QzjgRHU5iOSLpJ0zlWbv8hKr7GHvHHA6VXM1ysIs1gkZ3CIoRu0qiQdTcPrZKMb2ELGsH2bif_R097cL-S_FzHWRMjW14HlgV8fxasraN3ueD3HZufHWbxcISUxtrQJq2dmkqBLHEUZzd3eIq42R9CnODMnZzDPv4HMnkgxu_M45Vuwh9UES5duzZPRmkltmwSHQ8HXBzWXHR4n5Kj992m77tdO51ZLc8iB56WYABjATMwI28TNXNbuZrgbz6oAZCBb_Lk_GouAS6fyZKQNLsUNQjqXI0MiS3h9lhHhXSBGdYn-DGx419GSkH5FusjNN8Tc0WLjf_4R4WeBn_cD_0Y97gJ6GVCdO5LHw4Dq9sTssYDrt_GRtNjUPHmzVUCLhbMViG-DM8RLLGHHQt6nWL3geP9bBhbF0-MmFzbY62MRXqM_e718YiWUxbdlfOpAEe_-hkT3tBY_0D2mVjv4puH2NLyAW8C3FQrQ8Nbk1bXPq9l_E4mfK4hgD0UvbdvbiRQ5QRkReDzmbrJalaG64PlncgYPbFEuBk9QN9ohNko7blKudgEBIZ4C3xpzyFcPBIz4aE0k8uskLBnnBhq7wPHSDJLq7MwOi_XpAXIHXdUvBvNL6i6tXJMFXUZF_ZICD-X1eXCHDoTiG5NZa7oWexbScyGK5Xdvfe4Lm13oGHA6ou7rRYf6Pb6DA5vYEZp5_7jYrftQ9iZni3eqr7LmCjEvSrul3NrEnOQHzDkDzkxkwDWxIM9nNW3KoO8WJBxBpUomqde-M2UOBUMVpLulAZTK71PurlNXr8zdeoCfg3zhmlFdqlj7koAmXduRdiG0UJ8i4YgxqNWeBWctnqIvSnpnmHoIvloBvpFE-V",
+        "status": null
+      },
+      {
+        "id": "ws_0fa703807a8eaffd016aad39fa5e1887d29a296b6c312ee96d",
+        "action": {
+          "type": "search",
+          "queries": [
+            "site:mba-nancy.fr \"La destruction du palais d'Armide\"",
+            "site:collections-musees-nancy.fr \"La destruction du palais d'Armide\"",
+            "\"La destruction du palais d'Armide\" \"Charles-Antoine Coypel\" 532",
+            "\"La destruction du palais d’Armide\" Coypel"
+          ],
+          "query": "site:mba-nancy.fr \"La destruction du palais d'Armide\"",
+          "sources": [
+            {
+              "type": "url",
+              "url": "https://collections-mba.nancy.fr/fr/notice/532-la-destruction-du-palais-d-armide-f3b2ddf2-871a-4802-ac65-c9dfb23780e9"
+            },
+            {
+              "type": "url",
+              "url": "https://musee-des-beaux-arts.nancy.fr/les-collections/peinture/peinture-du-xviiie-siecle"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/La_Destruction_du_palais_d%27Armide"
+            },
+            {
+              "type": "url",
+              "url": "https://musee-des-beaux-arts.nancy.fr/les-collections/peinture/peinture-du-xviiie-siecle/focus-sur-loeuvre?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bnews%5D=114"
+            },
+            {
+              "type": "url",
+              "url": "https://commons.wikimedia.org/wiki/File%3ACharles-Antoine_Coypel_La_destruction_du_palais_d%27Armide_Nancy_22122007_04.jpg"
+            },
+            {
+              "type": "url",
+              "url": "https://commons.wikimedia.org/wiki/Category%3ALa_destruction_du_palais_d%27Armide_by_Charles_Antoine_Coypel"
+            },
+            {
+              "type": "url",
+              "url": "https://www.artic.edu/files/e1aa4a95-831e-4861-ac1c-79a4fc4e077e/AIC_MuseumStudies_09_UPDF.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://musee-des-beaux-arts.nancy.fr/de/die-sammlungen/malerei/malerei-im-18-jahrhundert-in-europa"
+            },
+            {
+              "type": "url",
+              "url": "https://wikipedia.cabillot.eu/content/wikipedia_fr_all_maxi_2024-05/A/La_Destruction_du_palais_d%27Armide"
+            },
+            {
+              "type": "url",
+              "url": "https://www.wikidata.org/wiki/Wikidata%3AWikiProject_sum_of_all_paintings/Collection/Museum_of_Fine_Arts_of_Nancy"
+            },
+            {
+              "type": "url",
+              "url": "https://commons.wikimedia.org/wiki/File%3AMba_nancy_charles_antoine_coypel_la_destruction_du_palais_d%27armide_1737_4.jpg"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Liste_de_peintures_de_Charles_Antoine_Coypel"
+            },
+            {
+              "type": "url",
+              "url": "https://www.opera-comique.com/sites/default/files/2022-11/2022_Document_ArmideProgramme_pap.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://musee-des-beaux-arts.nancy.fr/en/les-expositions/expositions-passees/detail-exposition-passee/chefs-doeuvre-de-la-tapisserie-des-xviie-et-xviiie-siecles"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Charles_Antoine_Coypel"
+            },
+            {
+              "type": "url",
+              "url": "https://www.patrimoine-histoire.fr/P_Lorraine/Nancy/Nancy-Musee-des-Beaux-Arts.htm"
+            },
+            {
+              "type": "url",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/R%C3%A9pertoire_d%C3%A9taill%C3%A9_des_tapisseries_des_Gobelins_ex%C3%A9cut%C3%A9es_de_1662_%C3%A0_1892%3B_histoire%2C_commentaires%2C_marques_%28IA_repertoiredetail00gers%29.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://cdnc.heyzine.com/files/uploaded/v3/4899511f4a2a13c4de6003a9cf1cb953c3967811.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://docnum.univ-lorraine.fr/public/BUPHA_TD_2016_GERARD_AMELIE.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Inventaire_des_tableaux_command%C3%A9s_et_achet%C3%A9s_par_la_direction_des_b%C3%A2timents_du_roi_%281709-1792%29_%28IA_inventairedestab00enge_0%29.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://verso.nancy.fr/detail-article/actu-renverser"
+            },
+            {
+              "type": "url",
+              "url": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D1%80%D1%83%D1%88%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%B2%D0%BE%D1%80%D1%86%D0%B0_%D0%90%D1%80%D0%BC%D0%B8%D0%B4%D1%8B"
+            }
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0fa703807a8eaffd016aad39fe163087d29a2391abc728ebdf",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrToRyNlOP9hELjhy8-wMohLXcrqEuAFf_b7Tcct8g4uwQZBZ-vQunz49hi2CqzSfKuRUPs_5C-3ztXCqUASOKpBuRs3oOFPr5KBf2vwRNGbYfXCPfRpgZR8GB9q5Ym_3IPjfcnpupB2hOCoLcSyPvX3XvFxoQNwlxQYIxL98vp320rO2z6Wf_fzyKaYbO1CvBYyRVqdj8Sw6_8S8Xk-PKSdLs8AvMNEE2QoUjvTj_M3XUl7O5-NWtO7RxH61ZdUOlHRgVgJ_-L7XbpnivKpjxR72_tVkkG7j9Lneyjf_j7GV6PYMyKxERXqwVDg8gTeqCgJgYVTZ1Z-zXO08qXpE-rZ9sUy2kKTvhJpvzRth5CcRG_xialOa9ulpVTJGjJDkHilWKt699EhilhCD9IfGQgfHZctjF7QRqojgaqaPAGN7xzcfWMkgQrgKrOrYgozcfOPlMYI7g4QWu-WhLXvcmKqTNypk5CRc7DdkvTqUWd50Gb-qBZRM861hdtp_xsE_wFnCzsdvQGaFoOlMfUhm3KQjoovv-3PNwuFQLmhnRhHkgZ8CDNXbwmfcSmyqLQx741FqD8KxR4vFlRw9JNw97cowfyABYTLOKTxe0-MpbjT3pfra8ZPEqZiRs_8gQRVpFc0Hj4ItpKgxiNRuPuDm6bIR7tzHH2S9sGqpj6TjzarHaG5zL60CwG3owO4rjtGjx0hlJ9w-rbEWn6Dl-gZrt8XyeBlT4BNfxWGzjaOQTlxEoICq1GHNsfhSmPsv_EIg5tv5R0uw1GB8TKjJpGZLuppgX7t2iwEBe0663Xid4Km_AWcE0fajCum3t5iFob2uYC9AZnKvNBbvyVK-6t2oc_Q9gwXvM0Rph4rom5XZmogTJJJZFwnt6fOo7Q8_k08O6ZufFu955X6cwp2anlk4AJ7oFwN4fiYvUgQtaoZFoLetD3EdZUcenn40dqZUdeNjscHO3qlhS6OmvcU89VNqAaNsUr9oI950QGD1zSzsFkQxGNmNmfVkaC7uFhc8EVgsiFSGL0c2E0rwbOSTwsk_alDjeUPuWpyGicz9QWW80E8lcNzK93OFWWBPekC9R36ZHSf5Irs73KB8HEHbLrv1DD4m409OrpyJH4DYQ-T2m5T3XYprAaP42Yd_juaLXpX1BsJ7-pwtL6SHFpvpdQzr9jDfzEMuNHj3CZqPmtbLIxsTSQSwiHViN7nDkz0sK7Zm43vLEN-PAMdq3P0JwQA8sV9ZFchInO_BR_5i7Vs9td4MHi5CBrVQ41f3S6Z3IfohyqUej7hGDLsbV4EsFSWUS_Cbm4rbqIyKFwId8rcCLwZAILwqeSuETFn8aDp-E-SUzsWUmFrnFCuH1qFx51J628HqMRKG3kvQ2au0mPm-KKt_IZU3MsSfQXjzFtFR3tQDLtn5udjns5RZqoSsUyOgSgJhyw==",
+        "status": null
+      },
+      {
+        "id": "ws_0fa703807a8eaffd016aad39fea69887d28dfd778c0bfb6b26",
+        "action": {
+          "type": "search",
+          "queries": [
+            "site:pop.culture.gouv.fr \"La destruction du palais d'Armide\"",
+            "site:collections.louvre.fr \"La destruction du palais d'Armide\" Coypel",
+            "site:photo.rmn.fr \"Destruction du palais d'Armide\" Coypel",
+            "site:commons.wikimedia.org \"La destruction du palais d'Armide\" Coypel"
+          ],
+          "query": "site:pop.culture.gouv.fr \"La destruction du palais d'Armide\"",
+          "sources": [
+            {
+              "type": "url",
+              "url": "https://commons.wikimedia.org/wiki/Paintings_in_the_mus%C3%A9e_des_Beaux-Arts_de_Nancy"
+            },
+            {
+              "type": "url",
+              "url": "https://commons.wikimedia.org/wiki/File%3AMba_nancy_charles_antoine_coypel_la_destruction_du_palais_d%27armide_1737_5.jpg"
+            },
+            {
+              "type": "url",
+              "url": "https://commons.wikimedia.org/wiki/File%3ACharles-Antoine_Coypel_La_destruction_du_palais_d%27Armide_Nancy_22122007_04.jpg"
+            },
+            {
+              "type": "url",
+              "url": "https://commons.wikimedia.org/wiki/File%3AMba_nancy_charles_antoine_coypel_la_destruction_du_palais_d%27armide_1737_3.jpg"
+            },
+            {
+              "type": "url",
+              "url": "https://commons.wikimedia.org/wiki/File%3AMba_nancy_charles_antoine_coypel_la_destruction_du_palais_d%27armide_1737_4.jpg"
+            },
+            {
+              "type": "url",
+              "url": "https://commons.wikimedia.org/wiki/Category%3ALa_destruction_du_palais_d%27Armide_by_Charles_Antoine_Coypel"
+            },
+            {
+              "type": "url",
+              "url": "https://commons.wikimedia.org/wiki/File%3ACharles-Antoine_Coypel_-_The_Destruction_of_the_Palace_of_Armida.jpg"
+            },
+            {
+              "type": "url",
+              "url": "https://collections.louvre.fr/en/ark%3A/53355/cl020210055"
+            },
+            {
+              "type": "url",
+              "url": "https://commons.wikimedia.org/wiki/File%3APlace_Stanislas_-_mus%C3%A9e_des_beaux-arts_de_Nancy_-_Charles-Antoine_Coypel_-_La_destruction_du_palais_d%27Armide_%281737%29.jpg"
+            },
+            {
+              "type": "url",
+              "url": "https://commons.wikimedia.org/wiki/File%3ACharles-Antoine_Coypel_La_destruction_du_palais_d%27Armide_Nancy_22122007_01.jpg"
+            },
+            {
+              "type": "url",
+              "url": "https://commons.wikimedia.org/wiki/File%3ACharles-Antoine_Coypel_La_destruction_du_palais_d%27Armide_Nancy_22122007_03.jpg"
+            },
+            {
+              "type": "url",
+              "url": "https://collections.louvre.fr/recherche?nPerson%5B0%5D=721"
+            }
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0fa703807a8eaffd016aad3a014be087d2957e72cfc9d91080",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrToRzvnI1i7ymrM25sFAIDJCe5hRhpIZ9YWi72BglTPLenucFWqyDg4dOhQRTemxCgpXqCqRuPz8sX5nlVhQ75TwJKNYotA43GpnLgSH6EmQZUd_mxeKkCkQ_lybLd_7I4L6QRz1KPnHJ9qH5lfo8Sa2aT12uCAd8Xa_k4kp0zUO19O78jji1hP0fsSHu-DbhyaXMxITXS1dqj3ZJKO0lwoYhHY1b2a2Tgh2toRx_2neQw0tCp5Pwl923KV-GU_CQ2hprCKKZaCsnfVmgdLuONmOTBvSBQ5gh0OTnoV1P3OvlcR1Uua8kNkNeVKfnKprerynKhJ32W0GcndM_Qg5vxA-MNrUYQ2mQrWGtsvp5QMvb-hSHuAw8hQYo7Ke7pirbZHLAfS0kN9MksA9FKkw0GyOI3o9nMWuyh-nuP_yIWLGRuh0FTdnrqmH0yyGXNV1pS7ayhJjnjhBay_Z37OEamQrmGJpVpgAjPNzJ7siqvzyG0M0i4zlr1s4u1pe7iM2Pp8haEFz8rNtjEcleg-yir3TARt3vxt3phyqdIdd7CCoSTwXRkS51VNlytc270pEoX9NvdqggXjFvm2IV8RTJBJ97drZnCumqsM6Io_7BXu3MXjgNNzbUfrKdXq1B7vX4pYsLLIYgN3JCLM37R259qMfK9fdpD3SjZS--BCDga9bm01qH90jSSmk-XCqodEirzq4qNzepyU6CaGC66k-qR2k5vYSKPsCZGa02UniUNY3qQlQYS8pDYYiqOuAoqBKKfbTMshT5HM1lfpxsxXHBx9HEycyXF9S7jL0OUEShi8Fb1r2Wz6SuSUcO3MvTVQ9Q26fnusKJsNXVOL70m3MIEq0cshH7ZJ07BmO94WFxWPeFO5UH-jwIDxMaK3dteomIfcjaIogcgxsgYiL3zUeI7g6wc10tsQPulru2u3d7hLVl1ISf4lcgjuNlawVynmTI7ecdHvPYffwPCxp8AThvjOY6KpNniNea6yRxhDMmBHTTiXJANHhuJav5zW-HhKIO-bWZlFYS9UsGe0iJOKl2jcNnjdlcBIa2Jb8qEzLqrvlpp-ywgLvbBokaaj-pZtJyR61qfMFImxfitXX61wc_HMAJw4VqL0QSIZZJ2zUw8saXq0cwNAF-zC-pcuVbO1ZjYGUgYJdTIb_Vpl1iBhYXW23a6Qr4hKmjGkzD3VTWuQVLh3zuNSiWOFF1JbWsIkqeu03nwotYHoYSAd08zb82jSoTlhWQpN9B6xmPH8O0sBk9W5HLOGmYfVygaHMvFQHazdUJobnVVKBzCcKmsyaIPWA9xCpEXylaUaTcVk4OF8zxIPMpAhC2V30hwu51uSoDfKf13BP6Py9qbQbQ0VhlgIlw-Ls0uWEBb22F42OUVM4JERMP6LpmLnhoiO6sY2JKxEd",
+        "status": null
+      },
+      {
+        "id": "ws_0fa703807a8eaffd016aad3a01f9d887d2a4323380affbf251",
+        "action": {
+          "type": "search",
+          "queries": [
+            "\"INV 3541\" Coypel Armide",
+            "\"3541\" \"La Destruction du palais d'Armide\"",
+            "\"La Destruction du palais d'Armide\" \"Musée des Beaux-Arts de Nancy\" catalogue",
+            "site:gallica.bnf.fr \"La destruction du palais d'Armide\" Coypel"
+          ],
+          "query": "\"INV 3541\" Coypel Armide",
+          "sources": [
+            {
+              "type": "url",
+              "url": "https://collections-mba.nancy.fr/fr/notice/532-la-destruction-du-palais-d-armide-f3b2ddf2-871a-4802-ac65-c9dfb23780e9"
+            },
+            {
+              "type": "url",
+              "url": "https://musee-des-beaux-arts.nancy.fr/les-collections/peinture/peinture-du-xviiie-siecle"
+            },
+            {
+              "type": "url",
+              "url": "https://commons.wikimedia.org/wiki/Paintings_in_the_mus%C3%A9e_des_Beaux-Arts_de_Nancy"
+            },
+            {
+              "type": "url",
+              "url": "https://musee-des-beaux-arts.nancy.fr/les-collections/peinture/peinture-du-xviiie-siecle/focus-sur-loeuvre?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bnews%5D=114"
+            },
+            {
+              "type": "url",
+              "url": "https://collections.louvre.fr/ark%3A/53355/cl020100750"
+            },
+            {
+              "type": "url",
+              "url": "https://musee-des-beaux-arts.nancy.fr/en/les-expositions/expositions-passees/detail-exposition-passee/chefs-doeuvre-de-la-tapisserie-des-xviie-et-xviiie-siecles"
+            },
+            {
+              "type": "url",
+              "url": "https://collections.louvre.fr/ark%3A/53355/cl010062211"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/La_Destruction_du_palais_d%27Armide"
+            },
+            {
+              "type": "url",
+              "url": "https://collections.louvre.fr/ark%3A/53355/cl010055288"
+            },
+            {
+              "type": "url",
+              "url": "https://www.wikidata.org/wiki/Wikidata%3AWikiProject_sum_of_all_paintings/Collection/Mus%C3%A9e_des_Beaux-Arts_de_Nancy"
+            },
+            {
+              "type": "url",
+              "url": "https://pop.culture.gouv.fr/notice/joconde/000PE008439"
+            },
+            {
+              "type": "url",
+              "url": "https://commons.wikimedia.org/wiki/Category%3ALa_destruction_du_palais_d%27Armide_by_Charles_Antoine_Coypel"
+            },
+            {
+              "type": "url",
+              "url": "https://wikipedia.cabillot.eu/content/wikipedia_fr_all_maxi_2024-05/A/La_Destruction_du_palais_d%27Armide"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Charles_Antoine_Coypel"
+            },
+            {
+              "type": "url",
+              "url": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D1%80%D1%83%D1%88%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%B2%D0%BE%D1%80%D1%86%D0%B0_%D0%90%D1%80%D0%BC%D0%B8%D0%B4%D1%8B"
+            },
+            {
+              "type": "url",
+              "url": "https://www.muzeum-myto.cz/src/Frontend/Files/FileExtend/source/10_1707988617.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://eais.archyvai.lt/repo-ext-api/inventories/attachments/385490417"
+            },
+            {
+              "type": "url",
+              "url": "https://cdnsm5-ss13.sharpschool.com/UserFiles/Servers/Server_181580/File/BOE/BOE%20Members/Historical%20Agendas/11-26-12%20Public%20Agenda%20%283%29.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://scotton-pc.gov.uk/downloads.php?did=45&filename=Minutes_2021-12-06"
+            },
+            {
+              "type": "url",
+              "url": "https://www.joliet.gov/home/showpublisheddocument/32577/638150977091230000"
+            },
+            {
+              "type": "url",
+              "url": "https://collections-mba.nancy.fr/fr/notice/532-la-destruction-du-palais-d-armide-f3b2ddf2-871a-4802-ac65-c9dfb23780e9?utm_source=openai"
+            },
+            {
+              "type": "url",
+              "url": "https://musee-des-beaux-arts.nancy.fr/les-collections/peinture/peinture-du-xviiie-siecle?utm_source=openai"
+            },
+            {
+              "type": "url",
+              "url": "https://musee-des-beaux-arts.nancy.fr/les-collections/peinture/peinture-du-xviiie-siecle/focus-sur-loeuvre?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bnews%5D=114&utm_source=openai"
+            },
+            {
+              "type": "url",
+              "url": "https://commons.wikimedia.org/wiki/File%3ACharles-Antoine_Coypel_La_destruction_du_palais_d%27Armide_Nancy_22122007_01.jpg?utm_source=openai"
+            },
+            {
+              "type": "url",
+              "url": "https://commons.wikimedia.org/wiki/File%3APlace_Stanislas_-_mus%C3%A9e_des_beaux-arts_de_Nancy_-_Charles-Antoine_Coypel_-_La_destruction_du_palais_d%27Armide_%281737%29.jpg?utm_source=openai"
+            },
+            {
+              "type": "url",
+              "url": "https://commons.wikimedia.org/wiki/File%3ACharles-Antoine_Coypel_La_destruction_du_palais_d%27Armide_Nancy_22122007_04.jpg?utm_source=openai"
+            },
+            {
+              "type": "url",
+              "url": "https://commons.wikimedia.org/wiki/File%3AMba_nancy_charles_antoine_coypel_la_destruction_du_palais_d%27armide_1737_3.jpg?utm_source=openai"
+            },
+            {
+              "type": "url",
+              "url": "https://commons.wikimedia.org/wiki/Category%3ALa_destruction_du_palais_d%27Armide_by_Charles_Antoine_Coypel?utm_source=openai"
+            },
+            {
+              "type": "url",
+              "url": "https://collections.louvre.fr/en/ark%3A/53355/cl020210055?utm_source=openai"
+            }
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0fa703807a8eaffd016aad3a06d1dc87d2b6fddec508f450b2",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrToRsI37zBr0LfaVRge_2TOvP2m6IxFQHu7Al-LXXM9z8KRuFZppWFP682eEIA5XSKmqdBH0kIXYnpgk1AOeTPW6qgPx7CJdjidL30-jD1f96fFbZjHF2v6vu-FXO8pZtpgJ-UaZ-z_zjk1prGlHMse-LPWYPO8UIbDUvV7Dkd8lrCEcOwj8kKFK5DewjIbaSqSqXBlmsvGi7Ij1vQYN_ZU-NjoGT6mD8P-jegEbJ1frCwIe6WimFoUxkvXiTXAXk7Rt4MGkIc44cusjHaYqjL4Ofnb0CKV6MfSc2jQAU6RBrqFgmQQN07g57mQfzNmRDaI2JigU-DY6W5Qi7qYZirqUITEaiG6rTSOnIICFmgQ3MHbGspjrAMbTZiZtUFdv8VlXkUiN1JK3-nDP7xALp2cmtVOdpek8AVCdyA9RdrmtXa3EFyUCotEzxzFi63lqNAsnEU5htQIifx5yzPtBLh2SOUi-JOwhXDdkSW-rEO2o2UxrVDUmBZiYooDQLlBe7wHAwbyPJWSEaHLXeVSYNt04LUSq49EMp_aJUtM_8hYBCAFbN_n__Vtja7eCAf2MuruiDiqeoV4fVyUcFKF1SjAYRZGeA8ulWPf9zEvWXr3wYNWFfMrgS4bDWFKtdsGf7R0OjLO_633kHK0u6djG5RVtdkSzU36B-qS9q2rexRPbk0Bx7qQNvmQCITWVVC0y6wh6kv9NY1T2AYqzn3Eenk7WvWvSL3ydB2IOqMIcG1iC7hhWBT5v7U9afy3SEKhd1LNBQF_aVWf48dm36qrXrqExxwY-Uj0LgQJmt8iRSwqBq2eQSfjkWz8RWLkIJFt2e4k8suYYAuJayePpJnGRWAifdNI32x2PWicQOOvqGHxg9w5Y8HiE-7v2vkVmtyu0Z-vb-IcdT-WeI9bB7qLuaV-WntlE5JsYN5C_btAldFE-AllGxpyraJiOKtm2EKZFtiP14L85D-hgUIYlLLPlKqwWRP9gfK2GLl5LyRee36c5o7UmLoxytRccwspVvi6cAgpAy0mA3l2umD6rxl-K3gb0Tm0XsUvECyfd2wIjZbeBz_RW0wm5zUB7zH-ouDUQgx_5-2_9DT3nvyWOsaeAt7CinUjRVSEt0LYRpw5zLb6KtYUEbQLi-R7R8LUrJlvODS3BmXvfOUZ_Kjcx6owtCnjJHw_nxURAyncEZ8dexb5OlJMGPhxIq_9RPjqnk6TW1rz_t0D0gBpYMYvyiDNSkZRVXJ_oE9B6TCChhgmMq7nP1_VFxz_vseuw6a6loBDkzj7jtKK0WoFRi3D0Vd54_qout5D1ab_qCvbQUhTHJ05dv1p0xLfEpJF0CW_wqOd51_tSuBjohcs_Peo2jK5YGidnC0jU7qonA4OYkLa8ciKP27I6SOYITQhvVbywF2wgo2SPVx6PhJyFrjyempSkbnz8AP0LzW4hb5HqjOjH_mn_89CqFWDuGKw4C9XfKB9BIMmjwUmuq740v20Fx6GkKzj6xojp0xQUw_WIpXRL5mCODVGNzyJGbbjywaptdg6U8IQ5rLsNT7Bk9RjreHQ8NHVRvuWw8nYZOdrchh6BoNrY7U--mOfohIqRDmPITJGO59fsTxUqc3YHBKRSIej44UI6dhuDIrT5ySqZeC0hsnFpEtotfMLkC054kDIsRHsnyVfB4f1x8jLKegBpxMa6YYSgN8Zf3k6cSEQPE-0WwN5MwPYir9hnRBFNWQcuGCPzkzfabvcgZbpgYVlvvL-D-O8-t68-1IuI-kSCImq5nrwqt7z_XV0lhZdWV26svNYF_lXXDGXPiVbVLfu_28wQbj7XyvvQ0JWOJ1MNN26esRiRmWM6uIDSHUmMVxI_3LOmcOlKn5chjhdutvtdA8tKZjaNDr-yOoG6BOQcm6icgfeO32-NvS2menxIBNeJeLe7OfDUPXzGHaPpjfTz2pg297vh3gIO21rrhnSn8YoFANV6201zZIk9pCqLSlDAedWtklCtIdLc5pRMp5Et5WOYckL8nNGdaMc0_hUOCA-jUHGZ9lPaWdg-QAIYpApximLJ67SbZ91DmDmFXEbESkCNq7ByOI52w6Tppg3WJVU30uCrJ4ltQe8WoAWsynlJ0UhDeWZsEHsVhiTk9WfR3-MWcroR95vc7tuVQZqmZGLO7e2i4USFeyPSBp99gqLiXUhABaUBOip9fzUbV0uo9dUlaUti2YOZtPajW49I7Q8OvpTb_Bh52MlcRBbUVj4g9y2dko4q5ThNTKox5X23wPwTPkg4QZtQPRQVBGltPVEESwaMu68StOjqphkoIR0h1qIrVF-TJ1pKBjOpty8B_5d1q6lGpqjtxa9IHMRC_Aa_xF50x07bwxdgauQrWhaSygOnylb7gwyQE-YJ180BkGG8hxgUAV3PzIOldbiKeq2Hg1f812x-d_9k_ZhRDEKhWNwCMXwDCnHMnIqEZE4kobubZtc1TT5zUiZzWKh02GpdI0dQG7bnBZM18rf7iyV3yzKMql51sccX_KhTSxyQxZS56rZjEapvuaxtlZw9xyGv2xBEYS6bjlZ5SMb3Z9RWnD7pph7aAdwhwGLZKv6E6Aeu4ztMs5rSQo-MHPQpcxUBPpfRyOzy6vach6unkFLePjOND99rqWzRbojwbRPt1D4RTsqf1mWnI1CqtYxLpco5zIREMpgIHxqxZxkukjgYfo5rFv9Gv-sx-Ym0eaLD0WMDPr2xn_D0ncVLpO2dycGvwwR8ySMPseRZEn7zR-LqUYonYrv_teC6nMpgdpsSU82BIyknpdHqy8_uX71eUsmqGxi5fb592qfnp-cr5VeQR6hc8-yZAceM2zptj-Nb8jFbCPnHNA72kaHqj70mOPR83gjFaTcPjh8hG13WIo2xlZAS3sSd",
+        "status": null
+      },
+      {
+        "id": "msg_0fa703807a8eaffd016aad3a090b6887d294ce8747d589b552",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 637,
+                "start_index": 472,
+                "title": "La Destruction du palais d'Armide - Coypel Charles-Antoine",
+                "type": "url_citation",
+                "url": "https://collections-mba.nancy.fr/fr/notice/532-la-destruction-du-palais-d-armide-f3b2ddf2-871a-4802-ac65-c9dfb23780e9?utm_source=openai"
+              },
+              {
+                "end_index": 1031,
+                "start_index": 866,
+                "title": "La Destruction du palais d'Armide - Coypel Charles-Antoine",
+                "type": "url_citation",
+                "url": "https://collections-mba.nancy.fr/fr/notice/532-la-destruction-du-palais-d-armide-f3b2ddf2-871a-4802-ac65-c9dfb23780e9?utm_source=openai"
+              },
+              {
+                "end_index": 1596,
+                "start_index": 1431,
+                "title": "La Destruction du palais d'Armide - Coypel Charles-Antoine",
+                "type": "url_citation",
+                "url": "https://collections-mba.nancy.fr/fr/notice/532-la-destruction-du-palais-d-armide-f3b2ddf2-871a-4802-ac65-c9dfb23780e9?utm_source=openai"
+              },
+              {
+                "end_index": 2124,
+                "start_index": 1983,
+                "title": "Peinture du XVIIIe siècle - Les collections — Musée des Beaux-arts de Nancy - Ville de Nancy",
+                "type": "url_citation",
+                "url": "https://musee-des-beaux-arts.nancy.fr/les-collections/peinture/peinture-du-xviiie-siecle?utm_source=openai"
+              },
+              {
+                "end_index": 2476,
+                "start_index": 2260,
+                "title": "Focus sur l'œuvre - Les collections — Musée des Beaux-arts de Nancy - Ville de Nancy",
+                "type": "url_citation",
+                "url": "https://musee-des-beaux-arts.nancy.fr/les-collections/peinture/peinture-du-xviiie-siecle/focus-sur-loeuvre?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bnews%5D=114&utm_source=openai"
+              },
+              {
+                "end_index": 2981,
+                "start_index": 2814,
+                "title": "File:Charles-Antoine Coypel La destruction du palais d'Armide Nancy 22122007 01.jpg - Wikimedia Commons",
+                "type": "url_citation",
+                "url": "https://commons.wikimedia.org/wiki/File%3ACharles-Antoine_Coypel_La_destruction_du_palais_d%27Armide_Nancy_22122007_01.jpg?utm_source=openai"
+              },
+              {
+                "end_index": 3342,
+                "start_index": 3125,
+                "title": "File:Place Stanislas - musée des beaux-arts de Nancy - Charles-Antoine Coypel - La destruction du palais d'Armide (1737).jpg - Wikimedia Commons",
+                "type": "url_citation",
+                "url": "https://commons.wikimedia.org/wiki/File%3APlace_Stanislas_-_mus%C3%A9e_des_beaux-arts_de_Nancy_-_Charles-Antoine_Coypel_-_La_destruction_du_palais_d%27Armide_%281737%29.jpg?utm_source=openai"
+              },
+              {
+                "end_index": 3720,
+                "start_index": 3553,
+                "title": "File:Charles-Antoine Coypel La destruction du palais d'Armide Nancy 22122007 04.jpg - Wikimedia Commons",
+                "type": "url_citation",
+                "url": "https://commons.wikimedia.org/wiki/File%3ACharles-Antoine_Coypel_La_destruction_du_palais_d%27Armide_Nancy_22122007_04.jpg?utm_source=openai"
+              },
+              {
+                "end_index": 3959,
+                "start_index": 3793,
+                "title": "File:Mba nancy charles antoine coypel la destruction du palais d'armide 1737 3.jpg - Wikimedia Commons",
+                "type": "url_citation",
+                "url": "https://commons.wikimedia.org/wiki/File%3AMba_nancy_charles_antoine_coypel_la_destruction_du_palais_d%27armide_1737_3.jpg?utm_source=openai"
+              },
+              {
+                "end_index": 4268,
+                "start_index": 4116,
+                "title": "Category:La destruction du palais d'Armide by Charles Antoine Coypel - Wikimedia Commons",
+                "type": "url_citation",
+                "url": "https://commons.wikimedia.org/wiki/Category%3ALa_destruction_du_palais_d%27Armide_by_Charles_Antoine_Coypel?utm_source=openai"
+              },
+              {
+                "end_index": 4663,
+                "start_index": 4561,
+                "title": "La Destruction du palais d'Armide - Louvre site des collections",
+                "type": "url_citation",
+                "url": "https://collections.louvre.fr/en/ark%3A/53355/cl020210055?utm_source=openai"
+              }
+            ],
+            "text": "## Identification vérifiée\n\nL’œuvre correspond bien à la notice du **Musée des Beaux-Arts de Nancy** :\n\n- **Titre :** *La Destruction du palais d’Armide*\n- **Artiste :** **Charles-Antoine Coypel**\n- **Date :** 1737\n- **Technique :** huile sur toile\n- **Dimensions indiquées par le musée :** 344 × 633 cm\n- **Numéro d’inventaire :** **532**\n- **Ancienne référence Louvre :** dépôt du Louvre en 1872 ; le musée indique un transfert de propriété à la ville de Nancy en 2008. ([collections-mba.nancy.fr](https://collections-mba.nancy.fr/fr/notice/532-la-destruction-du-palais-d-armide-f3b2ddf2-871a-4802-ac65-c9dfb23780e9?utm_source=openai))\n\nLa notice précise également la signature « **CH COYPEL 1737** » en bas à droite et identifie l’œuvre comme un **carton de tapisserie** pour la tenture des *Fragments d’Opéra*, commandée pour la Manufacture royale des Gobelins. ([collections-mba.nancy.fr](https://collections-mba.nancy.fr/fr/notice/532-la-destruction-du-palais-d-armide-f3b2ddf2-871a-4802-ac65-c9dfb23780e9?utm_source=openai))\n\n## Notices avec reproduction\n\n### 1. Notice principale — Musée des Beaux-Arts de Nancy\n\n**La Destruction du palais d’Armide — Coypel Charles-Antoine**, notice d’inventaire n° 532.  \nLa page comprend une **reproduction de l’œuvre** et fournit les données d’identification les plus complètes : titre, artiste, date, technique, dimensions, signature, historique, bibliographie et numéro d’inventaire. ([collections-mba.nancy.fr](https://collections-mba.nancy.fr/fr/notice/532-la-destruction-du-palais-d-armide-f3b2ddf2-871a-4802-ac65-c9dfb23780e9?utm_source=openai))\n\nC’est la référence à privilégier.\n\n### 2. Page de collection — Musée des Beaux-Arts de Nancy\n\nLa page consacrée à la **peinture du XVIIIe siècle** au musée cite l’œuvre comme une composition monumentale de **Charles-Antoine Coypel**, intitulée *La destruction du palais d’Armide*, datée de **1737**, et la présente comme un carton de tapisserie pour une tenture réalisée aux Gobelins. ([musee-des-beaux-arts.nancy.fr](https://musee-des-beaux-arts.nancy.fr/les-collections/peinture/peinture-du-xviiie-siecle?utm_source=openai))\n\nUne page « **Focus sur l’œuvre** » est également consacrée spécifiquement à cette peinture et reprend le titre, l’artiste et la date. ([musee-des-beaux-arts.nancy.fr](https://musee-des-beaux-arts.nancy.fr/les-collections/peinture/peinture-du-xviiie-siecle/focus-sur-loeuvre?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bnews%5D=114&utm_source=openai))\n\n### 3. Reproduction photographique — Wikimedia Commons\n\nLa page de fichier **« Charles-Antoine Coypel La destruction du palais d’Armide Nancy 22122007 01.jpg »** reproduit l’œuvre presque en totalité. Les métadonnées concordent avec la notice de Nancy : Coypel, 1737, huile sur toile, musée des Beaux-Arts de Nancy, inventaire **532**. ([commons.wikimedia.org](https://commons.wikimedia.org/wiki/File%3ACharles-Antoine_Coypel_La_destruction_du_palais_d%27Armide_Nancy_22122007_01.jpg?utm_source=openai))\n\nUne autre photographie, prise au musée en 2018, montre également l’œuvre dans son contexte d’exposition et reprend les mêmes identifications. ([commons.wikimedia.org](https://commons.wikimedia.org/wiki/File%3APlace_Stanislas_-_mus%C3%A9e_des_beaux-arts_de_Nancy_-_Charles-Antoine_Coypel_-_La_destruction_du_palais_d%27Armide_%281737%29.jpg?utm_source=openai))\n\n### 4. Reproductions de détails\n\nPlusieurs fichiers photographiques reproduisent des **détails** de la toile, notamment le personnage d’Armide :\n\n- détail centré sur Armide, avec mention de l’inventaire 532 ; ([commons.wikimedia.org](https://commons.wikimedia.org/wiki/File%3ACharles-Antoine_Coypel_La_destruction_du_palais_d%27Armide_Nancy_22122007_04.jpg?utm_source=openai))\n- autres détails photographiques classés dans la catégorie de l’œuvre ; ([commons.wikimedia.org](https://commons.wikimedia.org/wiki/File%3AMba_nancy_charles_antoine_coypel_la_destruction_du_palais_d%27armide_1737_3.jpg?utm_source=openai))\n- catégorie regroupant les reproductions disponibles de l’œuvre et rappelant les références **532** — Nancy et **INV 3541** — ancienne référence du Louvre. ([commons.wikimedia.org](https://commons.wikimedia.org/wiki/Category%3ALa_destruction_du_palais_d%27Armide_by_Charles_Antoine_Coypel?utm_source=openai))\n\n## Attention aux œuvres homonymes\n\nIl existe au Louvre une notice intitulée **« La Destruction du palais d’Armide »**, mais il s’agit d’un **dessin de Jean II Restout**, à l’encre et à la peinture sur papier, inventorié **INV 32710** — et non de la grande toile de Coypel conservée à Nancy. ([collections.louvre.fr](https://collections.louvre.fr/en/ark%3A/53355/cl020210055?utm_source=openai))\n\nDe même, la référence **INV 3541** apparaît dans des sources liées à l’ancien dépôt du Louvre, mais elle ne doit pas être confondue avec le numéro d’inventaire actuel du musée de Nancy, qui est **532**. La notice de Nancy est donc la référence déterminante pour l’œuvre demandée.",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "required",
+    "tools": [
+      {
+        "type": "web_search",
+        "filters": null,
+        "search_context_size": "medium",
+        "user_location": {
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null,
+          "type": "approximate"
+        },
+        "return_token_budget": "default",
+        "search_content_types": [
+          "text"
+        ]
+      }
+    ],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1789737489.0,
+    "conversation": null,
+    "max_output_tokens": 2500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "medium",
+      "generate_summary": null,
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 29123,
+      "input_tokens_details": {
+        "cache_write_tokens": 92,
+        "cached_tokens": 4251
+      },
+      "output_tokens": 1607,
+      "output_tokens_details": {
+        "reasoning_tokens": 651
+      },
+      "total_tokens": 30730
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 3
+      }
+    }
+  }
+}

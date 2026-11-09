@@ -1,0 +1,20 @@
+{
+  "image_id": "1_5928",
+  "titre": "Ellipse orange évidée par sept disques",
+  "artiste": "Felice Varini",
+  "room_id": "Room_20",
+  "sujet_existant": "Architecture",
+  "fingerprint": "e58c94e30d90dd596bdbfeaab680365d33deff0fbb8b153e57c79181bba1aff8",
+  "model": "gpt-5.6-luna",
+  "prompt_version": "bird-vision-v1",
+  "date_utc": "2026-09-18T14:17:04.664503+00:00",
+  "statut": "image_introuvable",
+  "motif": "Aucune correspondance suffisamment étayée.",
+  "nombre_candidats": 0,
+  "erreurs_telechargement": [
+    {
+      "url": "https://musee-des-beaux-arts.nancy.fr/les-collections/focus-sur-loeuvre?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bnews%5D=186&cHash=8835ab28526312dbd6d24bcd4ead7a85",
+      "error": "HTTPError"
+    }
+  ]
+}

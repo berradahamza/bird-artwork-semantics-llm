@@ -1,0 +1,205 @@
+{
+  "signature": "eb3d9e43b99b98318288310ceaf34c65eab1eca79c6c4a928bd7ca6262f034d2",
+  "response": {
+    "id": "resp_0f5ab70d04c16760016aad4067b8b087d2ae787af49286dbfb",
+    "created_at": 1789739111.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": "Analyse uniquement ce qui est visible dans cette image, sans recherche web ni identification de mémoire. Réponds en français. Décris précisément objets, personnages, décor et composition en 2 à 4 phrases. Pas de noms de personnes, dates ou récits non démontrables visuellement. Sujet principal parmi les neuf catégories ou NA. Religion/Mythologie/Histoire exigent des indices visibles, sinon NA ou catégorie plus générale. Culture : pratiques/symboles culturels identifiables ; Quotidien : activités ordinaires ; Objet : objets/nature morte ; Personnage : figure/portrait ; Nature : paysages/faune/flore ; Architecture : bâti. Style visuel probable en mots courts (ex. naturaliste, géométrique, impressionniste), sans affirmer une appartenance historique. Mets indéterminé si nécessaire. Ne confonds pas technique, sujet et style. Indique les limites et justifie les choix.",
+    "metadata": {},
+    "model": "gpt-5.6-luna",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0f5ab70d04c16760016aad4068758087d2be032ba4d8f6b329",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrUBuebJzayi8apZKh0YbYbumG5Lyi9JuGPuId5FeSwksoQ-2PZ7Mb_9vC5kMn0I89wjRjvKduJvMciN4YoFU4eW1SiE2x3ZE83zt8w0uH6C_dL4zSR1-6YCFY-jJrOEcrbjYaAM9uOzQ5poyL31QEndISBUuHaZPf3_HdUOu4VZM-SfIUCD2NhMIaJrSspEUL96hSMumN6VPx4w6v8mSbjZUiCkvHrJlwLyFJjgPtx4Tt-DgRO91h0ldF7vzT-F4X5QoJGKUcsriJxFH8DOKHoY0VF_Ig0NOJM5cN5gq3sCIYHWPAbO0T5xA3QAX6J_eqAfvKntgISeV7iI3CoD6rXc6NVhTUvPIdV1qzUfhcXoXhphp6PNb3KnqId6Y02wF9Qu2psKmkcQoVRaNBwVXwhJtiY-oJlZxppUytHhO5EYq8lKfEUCz3rNGa81_lFXzwsm7T0CYJ3c2NGIVSWCKfDVOHSdisa9uPQpRqKfdE7x5RynDRVG_-OMz9WujmuzDfsTE7umS8LcPxz_3AS-OjpxLmdS4lot474sEEDM9VA--uugNh4n6-WXvQ-_4wwJkk5TSIBwmk7qTAUPrhd2ZBQhHfOUJn0FJyikOp7vVPTEHkVumKgUG6cUfXEHluER5xjo-L6LFjAJaO0a3HnXAV02ReVrzKks6fqgPGhx3O0jOE6SfipiU_6n-mjz1iEd7j_OqSYHjihAMhryPUtHp2_mYwInrtXZkFDdAVf8IW4hoeZgxu5rOgHy0WS0bP0OLw9tsRGuigdMj8X7rE8ZIEy46Z5mREslb123mZ91R5flxT9-pJ2tx_NzFGy511vjQPYPwKSHzuzq3VPOXn-xm5Z3tLJYl8XYzX_y7hCslp5VYp-20-W-qOxfeKY9GErcdcsJZk4awgvd9WVEZMHBmMm3JJ2cImzIo-XVHqz2hyc7vNFsJ55HIlBdFmybRTtElzTlWEbQhxFECsG2eM2z5h0k9WPUm_ElKwvmRfJuzdW94RvaHOSgzGM_HU1Cf87itmPL5xImR6ugLwSKXdwWuxjbclV3xaO0AqASUZz7opuigj8afEr2ZcwI3zWFuu6zlIctn3aZ_pl21HjmSmhNkrvN0Ivxxjc1E5UOU8ZxqvF--nGlx2WPDqOJUz9QRmM5t8i1Zdlp7UOBdTdpDqwzcJTd45D-XR6s08t-tp_H8MDuG4p_gUSR4iJZodInBLE-JGkO0k7IVFvhVPsUuWbJ4URH6vXl_F3UY8Nv0o8gBjfgGPF0h9INkq1BP-fRUhlG71o0tUyxUvL42lUGGaEBKsqPX4G0hJkgrhmaxz0ak-X6ASwM9dCw8-R1cCgTY2E1iuPP0vmadLjIn5qjKC_EkXt-LirHlibD_ju_K0uWE5fmO0xD7YqvicOQ2zSKaTy-BSDhb3ZNTKdA2RmPSb9YBLUmOMQ59M6kDRgidNeVUuS6vNjHbj7rHLX2d8-pRS7ZhuX74TgPywjlNzOLU1rda0cU8xj2zF0TNU-PtM7ZR-ee2x6RahCEDuO2giTSZbKLiW_kuJihgBlhxPKvZxW-wJEl6asE5Vbjt0b_Ek3FRVqTK9dB6IskbW3zdyCvdKRh4-3xPcdnMH0PQtvtvtXApQ9kCXHqvyUOHAz-S9O3CJ3bXZCioKZ32LYpkoiNz41YbMwE-NsgHiEFxX0r2BPXV15U64b_HhyBeDxGp3M1YmypvoXYcqEjkxNzWoa8F2L_8Td-7jyuZJEHciT6Urzs2f4LARCFTadz-M8FcQ_AhKt2tK09xpADnKp8FnTwv8DzcUORAFAF82zrFKM2IOoSYaEfj4C4p1o32GYx305Hp_egxIYJy7_BAgyntkWykqhyE7lVYw-Go5S668pJr3GZHb-Bs11UnXNpA3uUobM_fJQI6V_2UnbQN3QviithLiItFF5-TCoFOgsRT-qq1ceeMoqUP_dTRQEnSXoaLaQjaEt2WGBs=",
+        "status": null
+      },
+      {
+        "id": "msg_0f5ab70d04c16760016aad4069b66087d2a71c985c32ebeb37",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\"description_visuelle\":\"La reproduction montre une nature morte composée d’un globe terrestre sur un support, de livres empilés, d’un grand feuillet ou manuscrit déployé, d’un instrument à vent en cuivre, d’un crâne animal et de plusieurs fruits. L’ensemble est disposé sur une table sombre, avec un autre objet allongé et une forme de coffret ou de livre au premier plan droit. Une lumière chaude éclaire les objets centraux tandis que le fond reste très sombre, créant de forts contrastes.\",\"sujet_principal\":\"Objet\",\"sujets_secondaires\":[\"Culture\",\"Nature\"],\"justification_sujet\":\"La composition est dominée par des objets matériels regroupés comme dans une nature morte : globe, livres, feuillet, instrument, crâne et fruits. Les livres et le globe évoquent des activités d’étude, tandis que les fruits constituent un élément naturel secondaire.\",\"style_visuel_probable\":\"Naturaliste, clair-obscur, pictural\",\"justification_style\":\"Les volumes sont rendus par des modelés réalistes, des reflets sur le métal et une lumière directionnelle chaude. Le fond obscur et les tons bruns accentuent l’effet de profondeur et de contraste.\",\"figuration\":\"figuratif\",\"couleurs_dominantes\":[\"brun\",\"ocre\",\"doré\",\"vert sombre\",\"noir\",\"orange\"],\"elements_visibles\":[\"globe terrestre\",\"support en bois sombre\",\"livres fermés\",\"feuillet ou manuscrit déployé\",\"instrument à vent en cuivre\",\"crâne ou tête osseuse animale\",\"fruits orange à gauche\",\"fruits verts et jaunes à droite\",\"objet allongé au premier plan\",\"table ou surface sombre\"],\"composition\":\"Les objets sont répartis sur plusieurs plans : le globe occupe la partie gauche, le feuillet vertical et le crâne structurent le centre, tandis que l’instrument et les fruits s’étendent au premier plan. La composition est dense, horizontale et asymétrique, avec une diagonale formée par les objets allongés vers le bas à droite.\",\"limites_visuelles\":[\"Les inscriptions du globe et du feuillet sont trop peu lisibles pour être transcrites avec certitude.\",\"La fonction exacte de certains objets allongés et du contenant au premier plan droit reste indéterminée.\",\"Il n’est pas possible d’identifier avec certitude l’espèce du crâne ni la nature précise de tous les fruits.\"]}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1789739118.0,
+    "conversation": null,
+    "max_output_tokens": 3500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "medium",
+      "generate_summary": null,
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "resultat",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "description_visuelle": {
+              "type": "string"
+            },
+            "sujet_principal": {
+              "type": "string",
+              "enum": [
+                "Architecture",
+                "Culture",
+                "Histoire",
+                "Mythologie",
+                "Nature",
+                "Objet",
+                "Personnage",
+                "Quotidien",
+                "Religion",
+                "NA"
+              ]
+            },
+            "sujets_secondaires": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "Architecture",
+                  "Culture",
+                  "Histoire",
+                  "Mythologie",
+                  "Nature",
+                  "Objet",
+                  "Personnage",
+                  "Quotidien",
+                  "Religion"
+                ]
+              }
+            },
+            "justification_sujet": {
+              "type": "string"
+            },
+            "style_visuel_probable": {
+              "type": "string"
+            },
+            "justification_style": {
+              "type": "string"
+            },
+            "figuration": {
+              "type": "string",
+              "enum": [
+                "figuratif",
+                "abstrait",
+                "mixte",
+                "indetermine"
+              ]
+            },
+            "couleurs_dominantes": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "elements_visibles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "composition": {
+              "type": "string"
+            },
+            "limites_visuelles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "description_visuelle",
+            "sujet_principal",
+            "sujets_secondaires",
+            "justification_sujet",
+            "style_visuel_probable",
+            "justification_style",
+            "figuration",
+            "couleurs_dominantes",
+            "elements_visibles",
+            "composition",
+            "limites_visuelles"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 853,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cached_tokens": 0
+      },
+      "output_tokens": 637,
+      "output_tokens_details": {
+        "reasoning_tokens": 123
+      },
+      "total_tokens": 1490
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  }
+}

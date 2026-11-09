@@ -1,0 +1,61 @@
+{
+  "image_id": "1_5888",
+  "titre": "Portrait de Louise-Elisabeth Dufresne",
+  "artiste": "Jean Girardet",
+  "room_id": "Room_24",
+  "sujet_existant": "Personnage",
+  "fingerprint": "d33703b6e92b8b737978d922195cb2a939a32c0a46e6434108621c9eba8662ae",
+  "model": "gpt-5.6-luna",
+  "prompt_version": "bird-vision-v1",
+  "date_utc": "2026-09-18T14:12:38.352738+00:00",
+  "statut": "ok",
+  "image_path": "images\\1_5888.jpg",
+  "source_page": "https://fr.wikipedia.org/wiki/Fichier:Nancy_(Meurthe-et-Moselle)_-_Mus%C3%A9e_lorrain_-_Palais_ducal_-_%22Louise-Elisabeth_Dufresne_(1738-1819),_femme_de_lettres,_%C3%A9pouse_de_Jean_Durival%22_(Jean_Girardet_(attribu%C3%A9_%C3%A0),_1770-1780)_(40189033053).jpg",
+  "source_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Nancy_%28Meurthe-et-Moselle%29_-_Mus%C3%A9e_lorrain_-_Palais_ducal_-_%22Louise-Elisabeth_Dufresne_%281738-1819%29%2C_femme_de_lettres%2C_%C3%A9pouse_de_Jean_Durival%22_%28Jean_Girardet_%28attribu%C3%A9_%C3%A0%29%2C_1770-1780%29_%2840189033053%29.jpg/960px-thumbnail.jpg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+  "controle_identite": "retenu_par_IA_non_verifie_humain",
+  "raison_identite": "L’image correspond clairement au portrait de Louise-Elisabeth Dufresne : le titre de la notice et celui du fichier Wikimedia concordent, l’artiste est Jean Girardet (attribué à), la période est compatible (vers 1770 / 1770-1780), et le musée ainsi que la référence d’inventaire Musée lorrain Inv.55.5.2 sont cohérents.",
+  "original_width": 960,
+  "original_height": 1257,
+  "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Nancy_%28Meurthe-et-Moselle%29_-_Mus%C3%A9e_lorrain_-_Palais_ducal_-_%22Louise-Elisabeth_Dufresne_%281738-1819%29%2C_femme_de_lettres%2C_%C3%A9pouse_de_Jean_Durival%22_%28Jean_Girardet_%28attribu%C3%A9_%C3%A0%29%2C_1770-1780%29_%2840189033053%29.jpg/960px-thumbnail.jpg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+  "sha256_download": "4ede7303670cdbea99f83579bf1a76193761c120ea1b10c1fb7d716de8899eaf",
+  "description_visuelle": "Une femme assise est représentée en buste et en longueur, la tête légèrement inclinée, une main soutenant son visage et l’autre posée sur l’accoudoir d’un fauteuil. Elle porte une robe claire recouverte d’un drapé bleu sombre, dans un intérieur comprenant une table avec des livres ou des feuilles, des rideaux et un siège à dossier arrondi. L’image est entourée d’un large cadre doré orné de motifs floraux, de perles et d’un nœud décoratif au sommet.",
+  "sujet_principal": "Personnage",
+  "sujets_secondaires": [
+    "Objet",
+    "Architecture"
+  ],
+  "justification_sujet": "La figure féminine occupe la majeure partie de la composition et constitue le centre visuel du portrait. Le cadre, le fauteuil, la table et l’aménagement intérieur sont des éléments secondaires clairement visibles.",
+  "style_visuel_probable": "Figuratif, portrait peint, naturaliste, décoratif",
+  "justification_style": "La figure, les vêtements et le mobilier sont rendus de manière reconnaissable avec des volumes modelés, tandis que le cadre très ornementé ajoute une dimension décorative. L’image semble être une reproduction photographique d’une peinture, mais la technique originale n’est pas vérifiable avec certitude.",
+  "figuration": "figuratif",
+  "couleurs_dominantes": [
+    "or",
+    "bleu sombre",
+    "brun",
+    "vert olive",
+    "crème",
+    "rouge sombre"
+  ],
+  "elements_visibles": [
+    "femme assise",
+    "robe claire",
+    "drapé bleu sombre",
+    "fauteuil",
+    "table",
+    "livres ou feuilles",
+    "rideaux",
+    "intérieur sombre",
+    "cadre doré",
+    "ornements floraux",
+    "nœud décoratif"
+  ],
+  "composition": "Composition verticale et centrée : la femme forme l’axe principal, légèrement décalée vers la gauche, tandis que le fauteuil et les rideaux structurent l’arrière-plan. Les diagonales des bras, du drapé et du dossier conduisent le regard vers le visage puis vers les objets posés sur la table.",
+  "limites_visuelles": [
+    "L’identité de la personne n’est pas identifiable de façon démontrable à partir de l’image seule.",
+    "La date, l’auteur, le titre et le contexte de la peinture ne peuvent pas être établis visuellement avec certitude.",
+    "Les éléments posés sur la table ressemblent à des livres ou à des feuilles, mais leur nature exacte reste partiellement indéterminée.",
+    "Le cadre et la peinture sont visibles ensemble, sans certitude sur leur association d’origine."
+  ],
+  "desaccord_sujet": false,
+  "erreurs_telechargement": []
+}

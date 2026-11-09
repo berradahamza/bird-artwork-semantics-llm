@@ -1,0 +1,197 @@
+{
+  "signature": "41e4abb6a1493046923423d51c9c93353c053a8480beadaa4067fe357579c49d",
+  "response": {
+    "id": "resp_0e2e0dc02ea09e9a016aabe72a7b7087d29f9fd63f9defd13f",
+    "created_at": 1789650730.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": "Analyse uniquement ce qui est visible dans cette image, sans recherche web ni identification de mémoire. Réponds en français. Décris précisément objets, personnages, décor et composition en 2 à 4 phrases. Pas de noms de personnes, dates ou récits non démontrables visuellement. Sujet principal parmi les neuf catégories ou NA. Religion/Mythologie/Histoire exigent des indices visibles, sinon NA ou catégorie plus générale. Culture : pratiques/symboles culturels identifiables ; Quotidien : activités ordinaires ; Objet : objets/nature morte ; Personnage : figure/portrait ; Nature : paysages/faune/flore ; Architecture : bâti. Style visuel probable en mots courts (ex. naturaliste, géométrique, impressionniste), sans affirmer une appartenance historique. Mets indéterminé si nécessaire. Ne confonds pas technique, sujet et style. Indique les limites et justifie les choix.",
+    "metadata": {},
+    "model": "gpt-4.1-2025-04-14",
+    "object": "response",
+    "output": [
+      {
+        "id": "msg_0e2e0dc02ea09e9a016aabe72b088887d2b148a76587cfa8e8",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\n  \"description_visuelle\": \"L’image montre un homme debout à l’intérieur d’une pièce nue. Il est vêtu d’une veste bleue, d’une chemise claire et d’une cravate, et regarde en direction du spectateur avec une expression sérieuse. Sa main droite est levée à mi-hauteur comme pour saluer ou s'interrompre. À l’arrière-plan, il y a des fenêtres ou des cadres appuyés contre le mur, un tabouret vert et un objet posé sur le sol à gauche (peut-être une palette de peintre). Le sol en parquet et les murs bruns forment un décor sobre et vide.\",\n  \"sujet_principal\": \"Personnage\",\n  \"sujets_secondaires\": [\"Objet\", \"Quotidien\"],\n  \"justification_sujet\": \"Le personnage debout, clairement mis en avant, domine la composition. Les objets en arrière-plan et l’atmosphère d’atelier indiquent un environnement du quotidien ou travailleur.\",\n  \"style_visuel_probable\": \"naturaliste, expressif\",\n  \"justification_style\": \"Le rendu réaliste du visage et des vêtements, les couleurs naturelles et les touches expressives au niveau du trait suggèrent un style naturaliste rehaussé d’expressions picturales appuyées.\",\n  \"figuration\": \"figuratif\",\n  \"couleurs_dominantes\": [\"brun\", \"bleu\", \"vert\", \"gris\", \"beige\"],\n  \"elements_visibles\": [\"homme\", \"veste\", \"cravate\", \"chemise\", \"main levée\", \"cadre de fenêtre\", \"tabouret\", \"palette (possiblement)\", \"porte\", \"parquet\"],\n  \"composition\": \"Le personnage occupe la partie gauche du premier plan, légèrement excentré. Les lignes du sol et le mobilier dirigent le regard vers la profondeur de la pièce, créant un effet de perspective.\",\n  \"limites_visuelles\": [\"Aucune indication sur l'identité du personnage\", \"Impossible de préciser le contexte exact ou la fonction précise des objets\", \"L’objet à gauche n’est pas assurément identifiable comme une palette\", \"Aucune information sur la situation ou l’époque\"]\n}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": null
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 1.0,
+    "background": false,
+    "completed_at": 1789650736.0,
+    "conversation": null,
+    "max_output_tokens": 3500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "in_memory",
+    "reasoning": {
+      "context": null,
+      "effort": null,
+      "generate_summary": null,
+      "mode": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "resultat",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "description_visuelle": {
+              "type": "string"
+            },
+            "sujet_principal": {
+              "type": "string",
+              "enum": [
+                "Architecture",
+                "Culture",
+                "Histoire",
+                "Mythologie",
+                "Nature",
+                "Objet",
+                "Personnage",
+                "Quotidien",
+                "Religion",
+                "NA"
+              ]
+            },
+            "sujets_secondaires": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "Architecture",
+                  "Culture",
+                  "Histoire",
+                  "Mythologie",
+                  "Nature",
+                  "Objet",
+                  "Personnage",
+                  "Quotidien",
+                  "Religion"
+                ]
+              }
+            },
+            "justification_sujet": {
+              "type": "string"
+            },
+            "style_visuel_probable": {
+              "type": "string"
+            },
+            "justification_style": {
+              "type": "string"
+            },
+            "figuration": {
+              "type": "string",
+              "enum": [
+                "figuratif",
+                "abstrait",
+                "mixte",
+                "indetermine"
+              ]
+            },
+            "couleurs_dominantes": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "elements_visibles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "composition": {
+              "type": "string"
+            },
+            "limites_visuelles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "description_visuelle",
+            "sujet_principal",
+            "sujets_secondaires",
+            "justification_sujet",
+            "style_visuel_probable",
+            "justification_style",
+            "figuration",
+            "couleurs_dominantes",
+            "elements_visibles",
+            "composition",
+            "limites_visuelles"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 850,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cached_tokens": 0
+      },
+      "output_tokens": 467,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 1317
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  }
+}

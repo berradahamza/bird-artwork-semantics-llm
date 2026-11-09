@@ -1,0 +1,551 @@
+{
+  "signature": "ec05950af8d219b942cb00e52c57e7b1a1c92942292b4fa2f74d51ca8e0276c5",
+  "response": {
+    "id": "resp_0a89015ac54dc7d0016aad38ecf10887d2befec59e4a3331ad",
+    "created_at": 1789737197.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.6-luna",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0a89015ac54dc7d0016aad38eda78487d2b0ead5cc5cb5d19c",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTkQuFp1d-dDWrxHWbv-RwlpaSZTZvzA4vDARcNA-eL6x5D72zDj-2J1Qg4i5T2SRADNKB3-ZFs9JLsXRDF1XEPiVmBWzD-9ixAkLZEGGm83SjeHzWOE-MfBPb4TiJKTyfQn7QvYOwugZWdzvCzCUU3dMD7uWSOsN9o-t93IdmFAR1MBCxZ7VQRzWagRyX6P_b6UqxvG9_6XHeZwnL7obFXQaanseCN18a1opxYFCbPD6Ohf1yXDbJveDnUzGJ9tJgXLFg3kK4Z6ZamDPo71O-4kUA3xI98bp-Y5M_oEgriS2JtY9Gh1ye24awVcc9l5gkSkji-tVwJNHUeOLD1Ih76ZTQtEvCwiSuOsWZ7z05RfY2NmENSd0nADCvMZIoUE3WoaXRBDY10aA60SF78SIss-JvkKVLWe7Gvv35ObOK_JTnlNhrfQcm8qQr5XkaRznSd1Gn1Xq-DxIZl0CIg08927dGISW0xb-gDUoTud7lfkT2MVAVyq8sZ9zwSXhJs2knPoHnUKKtanZfx4y8PGnf1BmlfnVj0PvBdbdnuL9h5X-74OxMZrrOhaRseMCqVBtjSy6_Tm-JdberhlPqnw-vqDEEUaI6whYpT4qYn-FdsdgWeDLxwEKR0P3DQKN0qzLRuqN63YjUgInDIBztxxHfgtwGBRfjkHFSc2-buLQvLbP3Z9rDeapMIxcW11UD_BmPBlqtgQyZsFA--abHlqNieVRsv99OnPoD_ZR-tfj-PJWNszrHZckvJvTHp6_7GuqOghj6SX9QcN9fGXaDo8MceDyHZl1xioIwYbfy8YF2HRYCU6_4O3I1SP-uhpiS8t_R8YtuyuboiCyS5cZxfrQhEm75TacQYYSqiSn-Fv3MfCk0eAjILxVPBicV_avkzlxESe08y9fQyRCyKsPTcKYFEvzj0mUcK9mgvjC6rSUjkFUqDvxMQ3OBaVn6guaHlm1Cu2Dd-fVDlDywFVK5ASYaSU7bcSKLfsxhEnZ21NPN5PEnah51cn1D8Snjsalo69lnufRskMnZQGHgjM-ftJr4URoScMRGFCxdeNsDAaBNO7ZV45VvELhYseFSWhsMUia8SjRSup0KKTk7rLrfxpnQu_OPJDxblbaBIQk2ZkoWLHEzdjsPbuGOb4pz7WYECh-3FqZXUCoSsSh7aoNzY1lxMN65drn9AQTQd3VPcls4NP6Nr-W2-KDI4PlT3zrXrJR8tgeShTsyxCurML5zeGUqoyMuviS8uNLoQIiV3V2hL9JtU=",
+        "status": null
+      },
+      {
+        "id": "ws_0a89015ac54dc7d0016aad38edffd887d2a8c565cc09961f7f",
+        "action": {
+          "type": "search",
+          "queries": [
+            "site:mba-nancy.fr \"Junon ordonne à Eole de détruire la flotte d'Enée\"",
+            "\"Junon ordonne à Eole de détruire la flotte d'Enée\" \"Samuel Massé\"",
+            "\"Samuel Massé\" \"238\" Junon Eole"
+          ],
+          "query": "site:mba-nancy.fr \"Junon ordonne à Eole de détruire la flotte d'Enée\"",
+          "sources": [
+            {
+              "type": "url",
+              "url": "https://www.gazette-drouot.com/lots/27152572-samuel-masse-tours-1672----"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Samuel_Mass%C3%A9"
+            },
+            {
+              "type": "url",
+              "url": "https://www.patrimoine-histoire.fr/P_Lorraine/Nancy/Nancy-Musee-des-Beaux-Arts.htm"
+            },
+            {
+              "type": "url",
+              "url": "https://www.galerie-barnabe.com/samuel-masse"
+            },
+            {
+              "type": "url",
+              "url": "https://wikipedia.cabillot.eu/content/wikipedia_fr_all_maxi_2024-05/A/Samuel_Mass%C3%A9"
+            },
+            {
+              "type": "url",
+              "url": "https://www.gazette-drouot.com/telechargement/catalogue?venteId=153695"
+            },
+            {
+              "type": "url",
+              "url": "https://recherche-archives.nancy.fr/printResultsPage/default/bataille/9"
+            },
+            {
+              "type": "url",
+              "url": "https://recherche-archives.nancy.fr/printResultsPage/default/bataille/8"
+            },
+            {
+              "type": "url",
+              "url": "https://recherche-archives.nancy.fr/printResultsPage/default/dessinateur/27"
+            },
+            {
+              "type": "url",
+              "url": "https://recherche-archives.nancy.fr/printResultsPage/default/dessin%25C3%25A9/27"
+            },
+            {
+              "type": "url",
+              "url": "https://recherche-archives.nancy.fr/archives/search/default/bataille/9?show_map=off"
+            },
+            {
+              "type": "url",
+              "url": "https://www.aguttes.com/lot/121257/18513335-samuel-masse-tours-1672-1753-paris-hercule-et-dejanire-huile"
+            },
+            {
+              "type": "url",
+              "url": "https://www.barnebys.fr/ventes/objet/samuel-masse-tours-1672-cuadros-antiguos-antes-de-1870-eujas-w9GfACt-622630834"
+            },
+            {
+              "type": "url",
+              "url": "https://recherche-archives.nancy.fr/archives/search/default/dessinateurs?filter_field=cCorpname&filter_value=Mus%C3%A9e+des+beaux-arts+%28Nancy%29"
+            },
+            {
+              "type": "url",
+              "url": "https://areq.net/lang/fr/Charles_Perrault.html"
+            },
+            {
+              "type": "url",
+              "url": "https://fliphtml5.com/nqlob/llor/Le_Failli%2C_province%2C_du_5_d%C3%A9cembre_au_7_janvier_2025/10/"
+            },
+            {
+              "type": "url",
+              "url": "https://franceroute.fr/Files/CDF%20Route%202022%20-%20Liste%20des%20engag%C3%A9s%20-%2013%20juin%202022.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://recherche-archives.nancy.fr/archives/search/default/bataille/9/archDescUnitTitle"
+            },
+            {
+              "type": "url",
+              "url": "https://entreprises.lefigaro.fr/cuma-du-roc-rouge-34/entreprise-331183491"
+            }
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a89015ac54dc7d0016aad38f0dd1087d2b31d85c4c1b9fc15",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTkQg-q4_DYzsVD4UYaqC0wVXJJSQvnaanZnyCbFBNwHEOaWP70b5PdTypxBmcBmhxIus0f9jdUYDYrb-2Wlh5AuEVX2F7SdTxqGhFwXCIImetxqsgbS1m_haUCq4UX6LuMZ1diUO8-nYJ48tgluf1MUnuoHSYNE0L6mnnh0Nnk3QzYc4uE8djDjJG-C5Pda_ifa9hMrAkR-5CaKdgqsvLvGfJti1KNvxub6j3W_sAqUclCTkQu-wqsko8MQAwKCoG3xFXR-7dz0vgVZbcd7zuPpCFZz3olUNWy9BydJQnkfMyaILcu7hchs35ebohWP6U_nbDxxx8rHOZjELBpr4bjoaZj4QdD0FqfN3mtcLcmCtzio8C40r3NX62PLezW7lSpemmk_xRPWzpXcYAE__LVZ5KxlGYSUcw6H_eCpVDtRrj-vPqzaIAAjoZrVutty_vAnH7dwqA8WcJLWdePvrWdz0mM2sY0sZMbPAVrbFr91nPPYNHAntJEUjhpVQZyT3yMg7B8ECx-lZF-Mb812nLBpDIW2AjSZNdECHWXTTX9ZcHxj5uh4yKrJWJ2_uMJ1tecIiJJyUsDsRB2Cupj6ILPmnw4bdWKgV3wmCGrgengagiz_cGLL1gXDy42KBodvnjLuCvC_p38GakSr9vcdLN1lBsuVs4Izxt32qc1ycSzNfF-QMVO_lczy16enAIiyd5XDiQhDMpIoZ13nHS7Bg8ZKdAzT-Gf8du0nm_5J8A8pKZyDIKhkOwS2EGn_bKXU_BYgSdWUduQoznWV7kmwvuk7PPnHLTNGRE-_8BPb08IM8CPOhOyYlxS0VWYMW3mJSnqIz9JeOmyznm8gmC2MZU-l6FNe-Mhn-0RP0EXIkX0b7gyNhgq3dlSbvHQJLJEWRqk8PBcsUd52LJsFKz7VvPGyXuJhd93YnTOts81dJi3Jrud0ojYS6WJe5iZpoWqKRz0Zv2AePIKjH2vexlaU4ngQLVoLE9IPhEeF5E4awsUER6OnFIPnqrYd3lizAD7M4oFCh40qC43QQnYhNFZkPhQLa_bsoFmE95q_g6L4JEFOtRZmqRjNkrZCYBRe99i_4lemIVnzRnWXGrZhkx3T7qw11HQPS3FJShhvJjUU92J-OmTLiDCYYirvPKzRR3FaYoJEz_Jpv_a5kUux2jiP1eiG2yqvBTTUMaedgPctguK5Kmays-EBFrliaapKRRI6GjYHPRLsgkFEdMYvnxwqeUNlxFATowwEC4JYccLsJMPAgT_DwnadOZKSa5EYRINLmBJQ419V2qL-euJ9aBwUEGFJlEkf-wU0thmckTOFWxqBW8pIV4XbIkNNzpzgAYSo1BTk",
+        "status": null
+      },
+      {
+        "id": "ws_0a89015ac54dc7d0016aad38f1309887d2abf36d7d1b0b03fc",
+        "action": {
+          "type": "search",
+          "queries": [
+            "Musée des Beaux-Arts Nancy collections Samuel Massé Junon Éole image",
+            "\"Junon ordonne à Éole\" image",
+            "\"Junon ordonne à Eole\" Nancy musée image",
+            "Samuel Massé Junon Éole Nancy reproduction"
+          ],
+          "query": "Musée des Beaux-Arts Nancy collections Samuel Massé Junon Éole image",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a89015ac54dc7d0016aad38f2f47487d2bfe23cb12e9aba23",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTkQajIOr9InsLqa7QrCZGnIJuMSaHbyH2IWt26Q679BNF-pfcWJwMhDpFb3129RCin6qsnN2McIq6t9F65kRUKlv3s1ggvgUQBFA29rYu8-lmkGYbpB4t5feEze64fNL5HThAdsuw9o4zhyb1xbzKII4s62efR8hyuz_BDQdpDz5UpjK-txYCyICb2XdVHsmpgDLyAMmIPi3oIg6FZtnBO9exf_Msg1wwJ0J-_TsjqWx8mgjw4S1b7Jyx1UX8OkxXPJoIiqQF7lAsgkSfcyhvFgeVD-rEB_LUJ0LFNl71YNGT0v6L85Ab5Ze1Yj7cg6WDXy_EJu8HE593PS4jZhqkLbDi98m48CFfzQJ3NF-5f29NseDaKLtdCOSc2sBbV2eGsuK8MCWifQVMb-GuwYlB6RIqXfZ3jqVPTHcb0N4lEnSkvjWpCnMgPyAUczFvFuHF1qwKJuBy6z6xiM7uCLgY6Ybobx4hUtye0EmKCLYnuVY_yFqk8K2wwupOnLdyKYaweeqBohQcMRbD-vlEbpkad6N-93YI78dV0lizj-9kv3VyWTjVuTvvZ8M_miX_H9n_2cOIITZ115rGYQxQ5hZkWryv5mvq9rsZ9xomkxdNfd6QRNadIjuy2kN8_e9j2QPnOv3dyYWu2x11vdzT_CwAX8ovfgB9_AcYj8PvyaGa4tUEGcT5gd9t3BPi3aPVTA_DbnX2dc6V7QuGVw6sRBZdVzz_ntjkNy3ivm6COSvZyCk4Yjs9JbQEK4XjFD0DIorH2hr0i0ukunB01JTnazvBg11AV2dZPgUB3phX_96FknJqo5m5DXczxojsM8epW09TSWWBwjQMhLjTFxtKWfCB6jzUgNhpFsT9pGdoiOv1EggiUJ51qvrlumHc1wg5GlckDBAmyXVw-D2oAhq_DZ1qN8CJjCYDnhimZSfmNGU3IwfvAUtKNZIdGnUYBxq45OLRMz4e13ikd2sVl26jny-hI2LjcSiDlvfp7R17-6xjfsa1klf-uM6oSDMRS4DBnIpnLlv5QMy3u_6Oq0WPnOwwSO0v_4kT8CZXEUU23u-cat6HudyRn4SSOqyjQSLCi0GfB_pml6nrCqUZ4ZNLox_Lu2zOqjkRzztSl8ExURXXy8hHE6xdV5ciysis_0PGh6ET77-XuZbS1Vq63Q3RW08Aq_XOiKqkHSrsPPb977WjhwZ3INP81lzbe-OV3WlmdlGvt_",
+        "status": null
+      },
+      {
+        "id": "ws_0a89015ac54dc7d0016aad38f339cc87d2a410ee5e6ee2af4d",
+        "action": {
+          "type": "search",
+          "queries": [
+            "Musée des Beaux-Arts Nancy collections Samuel Massé Junon Éole image",
+            "\"Junon ordonne à Éole\" image",
+            "\"Junon ordonne à Eole\" Nancy musée image",
+            "Samuel Massé Junon Éole Nancy reproduction"
+          ],
+          "query": "Musée des Beaux-Arts Nancy collections Samuel Massé Junon Éole image",
+          "sources": [
+            {
+              "type": "url",
+              "url": "https://collections-mba.nancy.fr/fr/notice/238-junon-ordonne-a-eole-de-detruire-la-flotte-d-enee-4ac9ad14-112f-4efc-832d-a7c366cc96fd"
+            },
+            {
+              "type": "url",
+              "url": "https://www.patrimoine-histoire.fr/P_Lorraine/Nancy/Nancy-Musee-des-Beaux-Arts.htm"
+            },
+            {
+              "type": "url",
+              "url": "https://musee-des-beaux-arts.nancy.fr/les-collections"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Samuel_Mass%C3%A9"
+            },
+            {
+              "type": "url",
+              "url": "https://arts-graphiques.louvre.fr/detail/oeuvres/1/528660-2-LAir-Junon-ordonne-a-Eole-de-dechainer-les-vents-max"
+            },
+            {
+              "type": "url",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Inventaire_g%C3%A9n%C3%A9ral_des_dessins_du_Mus%C3%A9e_du_Louvre_et_du_Mus%C3%A9e_de_Versailles%3B_%C3%A9cole_fran%C3%A7aise_%28IA_inventairegenera04muse%29.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Un_artiste_oubli%C3%A9_-_J.B._Mass%C3%A9%2C_peintre_de_Louis_XV%2C_dessinateur%2C_graveur_-_documents_in%C3%A9dits_%28IA_unartisteoubliej00mass%29.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://www.nancy.fr/culture/education-artistique-et-culturelle/ressources-pedagogiques"
+            },
+            {
+              "type": "url",
+              "url": "https://recherche-archives.nancy.fr/printResultsPage/default/bataille/8"
+            },
+            {
+              "type": "url",
+              "url": "https://verso.nancy.fr/conserver/detail/petite-visite-des-centres-de-documentation-des-musees-de-nancy"
+            },
+            {
+              "type": "url",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/La_peinture_fran%C3%A7aise_au_d%C3%A9but_du_dix-huiti%C3%A8me_si%C3%A8cle%2C_1690-1721_%28IA_lapeinturefranai00marc%29.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://www.bnf.fr/fr/commander-une-reproduction-avec-une-utilisation-commerciale"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_des_Beaux-Arts_de_Nancy"
+            },
+            {
+              "type": "url",
+              "url": "https://beauxarts.limoges.fr/sites/musee_des_beaux_arts/files/listedesoeuvres.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://www.bnf.fr/fr/reproduction-des-documents"
+            },
+            {
+              "type": "url",
+              "url": "https://www.musee-orsay.fr/fr/oeuvres/tapisserie-lair-eole-junon-et-iris-de-la-tenture-des-quatre-saisons-ou-les-quatre-elements-203273"
+            },
+            {
+              "type": "url",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Tableaux%2C_dessins%2C_statues_%26_objets_d%27art_-_catalogue_descriptif_et_annot%C3%A9_%28IA_tableauxdessinss00nanc%29.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://pop.culture.gouv.fr/notice/joconde/05120010556"
+            },
+            {
+              "type": "url",
+              "url": "https://www.culture.gouv.fr/thematiques/musees/Les-musees-en-France/les-collections-des-musees-de-france/decouvrir-les-collections/catalogues-en-ligne-de-collections-musees-de-france"
+            },
+            {
+              "type": "url",
+              "url": "https://verso.nancy.fr/converser/detail/actu-conserver"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Charles_Antoine_Coypel"
+            },
+            {
+              "type": "url",
+              "url": "https://es.wikipedia.org/wiki/Museo_de_Bellas_Artes_de_Nancy"
+            },
+            {
+              "type": "url",
+              "url": "https://de.wikipedia.org/wiki/Mus%C3%A9e_des_Beaux-Arts_de_Nancy"
+            },
+            {
+              "type": "url",
+              "url": "https://it.wikipedia.org/wiki/Mus%C3%A9e_des_Beaux-Arts_%28Nancy%29"
+            }
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a89015ac54dc7d0016aad38f8cec087d2b2086b36634b1511",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTkQirBTYIJSrwLCa6a7F2N1oAoNvGZA2XUvPU3_h3s7quyTwARD-tgF0PzeifzD9IapbwlcY4la4dyy9h1xClV7T1AwHBTSupWQaz7dsPdxkgl2hz1oHQJl6XEmuXOlsSsJJSDzTLtXtLIEAPBeQ9A3jhIdqhJzLFat7yT-4ahDQVCn8-U0hfu3a5V4RuARuWxNmImxqniIjeubijxgR5UsHfX5lNJOdwvmbb5PpzpuXRR9F164wL3GGUcv74gZ5mHiGRUmer0Ck-q3aOLWet7R50tR0z45CgEdUsGKFmTCg57dE9vVjwaDl8xnxUELzWw8Q7e22rVaZtYPCHgo8s4yuHVnSGL-AEMjXyywgPljnJaSjWgK8Ir6hMc5Oblk0s6wTmUjCMSkoUePf7xjSSwCznnadeEP1PlvGxYL259o81zU4ZmrLHePe7ZmoIu7ajoFTxI4CHvGSztRBUNAA2phcOUKPvWfU5nZL_cNMBZz9nLcCn6wYUeraJG3k6s8PnC2GKsoZQwo8pH7qQR9D6fb0r8chUL1VT7HddZ7rqALNJFvAWMc-_k0I_0-J_vAD4hCE4Mz30nrFmuudaCX-HkOysq6roqUr21gEEJAN4vvyF62ZSJgxpZGeyUNm9P3RStUDnQeDsYx-Dz4fjOC6dk1s43_BwPBNe75tUVARNcRiexsJyNnLbareMw1qWVi0FzJcwnMDo00oHM8OMUJNvLXFqNeiTk5u-wqxywEu9Lxt_hPNSuOnaPpcv0ejf92Ygnouf4xIWmPKlW6aoLcNdLI1qjty5MW2d99WQO7sG0JlcDutLgO3B28oWvqiI__Czjdul9ILv9S5Ku-bNNFkN2_G1gXWc7DH_-tZlHEuhG1cTsoQfWuQiJLqNYSd5XcNuYJN5KoXY3xWs1eJ1-QC7FJkV2xlDo5ydDy8nYVGki6tkIz7KHxYweCH4o5NWyh1KJapaneUNMIbyYmIELGgUR5IW1GZe--EmJ0x2Hj35hStVORO9l3qTntCPXpq9ota03rcCPbex9aPWJ0lm62e8kylJz4bws8KmuCl5qTNbem7PnLC7GzlvrgWPtN4kz5AFkpMBBsIDrNnFhTM_GabOIm1ezinayzmk4Z-GJYMEU798EEU1SmXfh85DpaFVochNWMTrkXVm1rOtT6GUOCHGZlONFQBeGgEO9BsyM-729SzWM_OGyyXju1ZJtzc_WaQWsw37KTf-K2guk_BTDlXEV8HxpuOkDBsQ40eIs_R7l_inDcn3j_vssACEsn5EQ173LcpyjSv4ZdmjdxnGUF4THZNaOSorJYHDofY_c2PP6ZVpJkekyBBxXEeH7kzTSfh6sb_efqGpA2xAksZPRbgjr41mVxwvBZQ6G2hICX78f9GCI=",
+        "status": null
+      },
+      {
+        "id": "ws_0a89015ac54dc7d0016aad38f8f8c087d28cd1b41e8a9c5f2f",
+        "action": {
+          "type": "search",
+          "queries": [
+            "site:pop.culture.gouv.fr \"Junon ordonne à Eole de détruire la flotte d'Enée\"",
+            "site:pop.culture.gouv.fr \"Samuel Massé\" \"Junon\" \"Nancy\"",
+            "site:collections-mba.nancy.fr/fr/notice/238 reproduction image"
+          ],
+          "query": "site:pop.culture.gouv.fr \"Junon ordonne à Eole de détruire la flotte d'Enée\"",
+          "sources": [
+            {
+              "type": "url",
+              "url": "https://collections-mba.nancy.fr/"
+            },
+            {
+              "type": "url",
+              "url": "https://collections-mba.nancy.fr/fr/search?f=562291&o=562261"
+            },
+            {
+              "type": "url",
+              "url": "https://collections-mba.nancy.fr/fr/search?f=562844&o=562629%2C562380"
+            },
+            {
+              "type": "url",
+              "url": "https://collections-mba.nancy.fr/fr/search?f=563316&o=562326%2C562285%2C562250%2C562237"
+            },
+            {
+              "type": "url",
+              "url": "https://collections-mba.nancy.fr/fr/search?f=562283&o=562266%2C562261"
+            },
+            {
+              "type": "url",
+              "url": "https://collections-mba.nancy.fr/fr/search?f=562379&o=562380"
+            },
+            {
+              "type": "url",
+              "url": "https://collections-mba.nancy.fr/fr/search?f=563402&o=562246%2C562247"
+            },
+            {
+              "type": "url",
+              "url": "https://collections-mba.nancy.fr/fr/search?f=562661&o=562384%2C562352%2C562353%2C562237"
+            },
+            {
+              "type": "url",
+              "url": "https://collections-mba.nancy.fr/fr/search?f=562697&o=562522%2C562261"
+            },
+            {
+              "type": "url",
+              "url": "https://collections-mba.nancy.fr/fr/search?f=562395&o=562261%2C562266&p=1"
+            },
+            {
+              "type": "url",
+              "url": "https://collections-mba.nancy.fr/fr/search?f=562868&o=562373%2C562238%2C562239%2C562237"
+            },
+            {
+              "type": "url",
+              "url": "https://collections-mba.nancy.fr/fr/search?f=947631&o=563423%2C562380"
+            }
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a89015ac54dc7d0016aad38fcb00887d299b73a256362871b",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTkQpmAQOIl1vqaDpnsiGd0OWIqPiqhexIrHN-R5AthLi-uoUa-4P5gHI4xZG12LuE0W7YLS5CWBm4NFzWywMrS8vzMzXfdUGJZd4nbeaJmYySxZmWMLb6h_FCM7BhKeMSBUWsorrKQXoxCQHDwtkZ6M30KanQrlJ2OsJFDJPkfMV2ZTbJxV98RIWMfQf73C9tLggQtC0_SXPpfgQ1ChdR86honyiLNmhasS3cH4eexEcJISLtUoGwImxv1N7b2-rAKasRCiuXSKjf9X1zblhpBHbh3h9oJCCcajco7uGnS5JWeLtC4g2Ou5zzOUunfZxJYFW_68cVcKcOVQo8vQmRLumZnEvypddoBmSXAIojmXukdGdDF7GrE2yclQQJV0mVPWuRpxKXNH6y7DMr8luW_fSQTkXIJ9rTswYFQZa1LTHFGdoe8Kp4DpyWUGGgy8ft6HPjgfUepjEs5Kh_Ic4UuBsS382WS7cUUPCfb-jmNUZnMWYbzM2mS7wIw1SoTJLoUSXzUo1yflkbGNgmq_GR0zWd-w-pgwC8TZIiTUswlmG3yGNiUgXBqnxTSKppzBZps3eDKQQ1W2eveyb46lDltK3XYyLhH9LVypxXuRMCTP_mafSgjbEuzOtiYmjsGzGhBG6FeAi0esCcllNzJdvJzZwzSLxHjC6tq98goImkhQMs7Zq93KRVv2FexS6dPDDC6K4FD-XbejNH1E6OE-2wbrdk1g7Zhpwp5R-ardNLdKKG5bAi-WyoARP6bqnCqognbGLdZmbnWT67AQwWNHxP1iYjDbpIrntOrc0ufbKRW3witnSphml-RxXdDfNhLdSe1jQxCh-d0a1-CyKBC1z-tDBgcQcuBPVy1IlibmTxuH8QaZk-YvKZ9F-GkPYil1uxlmbxwM_X_ZmGqwCaZtHX2hjfZcBPNaSuLBzggiUQs7IqA6wUpyfaj6VQwyE5yoUaKfj_W-9zV6jO-M3aq-Bvk0lnbsTLbs_xqk_QnTEltOVu2wBfD1MpajnGuxn2t4cwHS5CIPObQVXmZBH9tx7QbacZ9K_rty2NpKU9uw2jYqFF0Tl5cZJwUtoCm-2UakRHtTLcCgJDTP9AvI2powl1crZbs7G88Fm4wdy-4fLG32XmWDlm5xmEyWYzClyYt2mn3RZhSX_i2eG4xdRYk6tqPByjGKhf_dBl4SrkKovOujP8C2tDO1BT_2ebTtbOWHiCqHQqbaQTcTaLk9JMfpaVlWJA==",
+        "status": null
+      },
+      {
+        "id": "ws_0a89015ac54dc7d0016aad38fce03887d280fdfc7fb74cd4b3",
+        "action": {
+          "type": "open_page",
+          "url": "https://collections-mba.nancy.fr/fr/notice/238-junon-ordonne-a-eole-de-detruire-la-flotte-d-enee-4ac9ad14-112f-4efc-832d-a7c366cc96fd"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a89015ac54dc7d0016aad38fe538c87d2ae12257b3c7205fe",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTkQIAtH9twXzMaYteSyv6PsAi5-W7xjOj1A73kvXIK3IRglE5_GIsi4TTdcN_Cjl6_Gu43V7icaNgOSf-iv0oBMLQq65UlT5pQHHtAe-ZHkYFuRUqB4i7-2Fn_oJkoywo1qOu9U_bPUW8Psc5hNpfowOys1KE_B8ODiPDOAmqKX_kmh0bX1uiOs8xdjIjLipihNpJIjNEFD_gaSaFdSo_lFsa1hDMQdGEYTg0FLjQXg7qBOz6AsrczCLEof3IRgy3o8R1Hin85YVoI-lkwjCY4X8nGFaWhHo4gkbGcd9RlJEtmCFkiWHAif3ID3VkiFxEMTk2vZS9Fb8vczkskgoiO3KlNGLYpxNJ92YT2tzTbWyluoIBm4rwyYrw0PJWP5SLnZCgrHOw7sL6spyy3QYHQjaHuIWEfxq90QhJZsLurMzb_QjbOyxycyCtLbUr8qLK0SKI_xHYONrsNk9vlWdqYQ-QbfoqYMHkhiFzARWLR7Yrk2nHZYIWQiX4BWHt7mgL253gr35ujxA-RJzw85tEhw9SbWIoOyIYLWDluXnBXLpB_eTN6So2GEHYzLHjGQnAqJPUHxSRV92e_WUWFjAA-iRZ1WzWppFK22iNlzy5ql8b021Iyk4OBoZmz4p85dLyVM9i9uEKahhaKSK4uHI2OA-9jhEusg2L8QRmZqrbhMe7aFGrz0QNoB1W-WnrMin2uGqEWAzJ3u0c5h4Wq2wVFvo6KgSLTg6QW0rAGdkogbgOR7XZiLArV58cM_ipIkTm0EehTvMoAC9YY-NKbSUC4xU2LbYKoTBtYlorxBObVSohOse6yq5XiSUAOvNWfpWW5wZ_GK43fvmcT6tI27uwo93jT2avGWV-fBjJYMbYPkW3RIBy0dSs6h5dJuNUHXtwDWzrYZX4QzJpwo7LFLBPyMA6yRi54Mv4FKiMRHEMGcvU1ZDXyvle8tE628CGhSdB1CWQ7iuJFZct_-dTtG0s4NWNzUe8u2kFEgooVN4UzTXOxMdGtrSv3ewTp0piVM0xNZVanAOxvZHomw41x-hkqHLuAMgRc3RaoT0rvm6gOrVYYbswW2HzarCVK1ynHqCmzB46j0We8hUeuInBXoGfLO5aSVJO-uNZMlE3eLihnFWaNo-dD7YEhAAetaPNxOo2BQujUYbV7WDSPoaqt75mYXiGuvV-qmPJk7Bbn1pe-cEhyQ0Z8ZNprtB8Y0-zkfU5ujeEm0xeQcANoJ8lSVM1DhcA==",
+        "status": null
+      },
+      {
+        "id": "ws_0a89015ac54dc7d0016aad38fe978087d297c54781897308b8",
+        "action": {
+          "type": "open_page",
+          "url": "https://collections-mba.nancy.fr/fr/notice/238-junon-ordonne-a-eole-de-detruire-la-flotte-d-enee-4ac9ad14-112f-4efc-832d-a7c366cc96fd"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a89015ac54dc7d0016aad390185c487d2bdaf81d119f10960",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTkQnNLIikOFJhK3kfx7-9WY8ltTC28Kzy0IFc-LXGXV7FSivUiSS5vy-Mrj0JTWZeIuhr_L11IRZUIfk6Fl8Wt1cwpUuXgqfFJgilzgOW04dJXlDShmRFBk71yE9xvYBotbHGvWBLYFLIVA7v2LQWBxuxiyKOgz0inVcQO9quKilgmqScam3ZxbB5CIA6dE6zXvgHbcdcTBA3lgZOvTHM2Sg980lq2Nr1BgNeymE4b90yAmAQJiPMlD6kaPQjS3tfSNA_NCjY2MlMh2gAohTfdT5kDR4TMR3DPPhhh8gDtkwutifmLo9hVWAWfDVYMsoiGuUBbzEapi2SFYwUqfbywTt1qefeRx4KJRLccvYJi2N4CIw6LWINQMHPQL1R81g9Az1aF5tOFjF8YN06_5MJljkNwM0-ynK36rwdY-cX9tttMvTK6lFdWN4oX8b5T62bL9yStp5EMe6wyPDDyYfivICG7eNrEm5H9KwV43A78IZTSIDjaHFPFDIzYOT4rhAORRUN3rd_bvvC1GjPMlm7sbpkp-YPOJ8REQpc7wEfnjLHmtoDloW-V5LbCH4eEwu5y4ScW_zedpTrJyif4hkfSqPtgpB95GwrgV4Gm3AWEDIsgzlX6JEhqpfR8i_jiUg0n2A4XeLgrKcXGeNrd1yp4XWQWv7oMep_aI3Ux4G5w2Ni20uK5zTvU605mkYpQeGDhRaQo4azSi4krWjHx0TNYkqvjabOCFdoO_jqKhVoj89JysJSw-aMDRA1DPD2QYQAsOF6SzqqOXqpusuSaUJQ2JxIjErI1PtkBPCDEdL_9POyNh8iYHC72ILvrB1e9PXKvmXwtKc3Du-MdiuYMINMgoKAVQgS9wIaFhM94qJaMRXh2ptYm0PSBe91Bl0vawyLuj6IgeEx5vZ9ShBMPFKMEfKpBLD1jA5j8k7T3_bDiX3gSldV0lNI-D2zoHEKe1ct_rr0iVaXZTbKexRc2bRk2QnH3WaPWYmE9OYXFqGe0bEUKPKEUdlH2sGgNNEqU11rYQRy5JHxe92luwRF5zWxcEimyk-LQaYzFiZ4Nu4nGYwuLoICQAqcovUKihVdfUSSUC2m3waxP1ww2rNpDvLy1v96FvV2vgHSnw6QTGq0XZ96VcUQ-iAY39KRoSU4kYccA6XfBrdooIwxadzEfvZvvwZ7bdfnXc2YPeTPVV8LRUwbaSJgIP7GGSbmy-FnoSrZ42KaH6x0Z6l8rwYbQqE10uZA4tK_RqKXY2jYo9Zzj_sM4i5g2iJTeIEUtXZV05b497EKzXC42y43xG-71AIbLNUrTbGJAcvQz1a8FmHxf9m5uxkhIuNHn1kkhxNofOw4KnqsgmwV39UH0lXmGP_K65T9Qqb5LaW_YpHAJ9wqSFyqPOuFhh7yxl4s-09aoJtxFx-nmlXA2UnV8HH-o2XvlQ1SeSQrJkioDS1x09aprmUrFlA0zedFVAAX2E7pJzG3mMa2jFuJBO9qgyILypcEEQ5rdOlLJ0874aVSHRyUiMs_rffPHsEFfr7Wpt8H_ArUNByDZI9PZvVdXnx8ySvhN6Ttt6VRKodiiouwdOiAMdHfYrnCsHnTVFUXi_5Aw2fwIVbhWUxj86Cj-1EXhWuHx7EBF3M6wsL2y_Qew3HJbN9o90a_eMWG_tJLe6avc6IUmLgloTRc2DgHgCtesgLPcX_CA6VkfE_5l-TK5FD2iGDr1KujKk8L7wXI9WWQeGzsB3f3EkxgNA1KyeC61BtIbLpi1Vx2AxlG-qhcWWRd_e-LPQhSGG9XEpJPkFY5j__mCTQp0XxyiiCxh5c5u5SAWNTpQ1xL0XzlcI68Tuoz0-Q6MHdD1yAMl-_EKhBvu3kXbOiTsnAEu6R--tJ4snB9SREZS_V2bF7b05KPZO_IojrE2KP6dJFFZ-7KkIecSE6X1iRLc0WPhve7AlPf3jJUJv-NhyMPMfgSguoHADxFwpyQSj99eWn2kwXOYzE-erIeBT4TscDNKHLYNlUDAuIwTfPqvC-APnEa-5vq0ocK7kUZzm1ABbeQVmRUQZzNG0lg9PiT134OJsDBfazuDv46kvyC_KAi1qpre9da9L8B1BvC96-ZJSqBf5JJ9rRcqrKCm8Ov7pfeaA288-Zkl-gwLcuDuCHH2DC6Z-BTPPD2hB86ZNkJ0c8vNrCUHrrQExFOv4Zp94pHJJ-rgQ8XYtWb6ZW9aLpoVR_GqK4m8fGNBVJvhZjtAjnKiydwDzkkHuyNT6RehPSpm6k0xoW-Uzq8_IHVY6SS6ZqVRMac2M0Inf9TJtwxf8jm9_5f5xOrA1cESB87kigY39sEMODBN3PVLWJqXvaZ1FnUP5bxAEhifmwAY0zVzWyL-_g0CvmhRXneUF1mLgJkyaayD9BiktHLPpxNvxVe17cZEEVv2I_9nZuNXdh0qLfoiuQ9Qk1TP7U_irr9selXCh5XcKTJrODDnsnHSnmJ-w4l626aru1iw1oXc0p4BYtIQQ704dAhPHXJh-1kS8mznFfrMPwSD7pUPDcOBjorWcC13lxOrHv9iKI2Xjc7SuY5D3SVhkGIp5IpMssqWCH7Xvmk728Th-NDj1rslxn9CTz4dpwWmSdZt0AC8jScwS_xp-sn8X-tn1zAk8K53guueLZFXNPTJT2oViR889Ep0KPWk-Od3EpFultNv9DbmAjalGZLi_5yYZpYsXqqyI4s3ufDGnD10F6tqXSCh05MISyhzJamrOFwSXS3MOqmBC5N8jdPnPghabC2RHUcvkOqyanXC_BAHIEDhjZk0YWEmfS27iipvA9_G56aCoKK3i_XVCJWdxUmtRMZmDtOQU_BKYOhQCGXcaRYlFNNt82esJZq-v5TltJ24UDRoEmsGbpfEQG27YpqbBN-7w53s-4cWKeCrn3c8U4fgqBfww2kq5DduSSDqCajUDCiy-uuT4gU0oGweQ1EKlgC1TtUVDnW2WMcMBZ4R8PY2ILCPgYed1iiuAlmujIBHaI14=",
+        "status": null
+      },
+      {
+        "id": "ws_0a89015ac54dc7d0016aad3905861887d2b5d84888f2f8d7be",
+        "action": {
+          "type": "search",
+          "queries": [
+            "Samuel Massé Junon ordonne à Éole de détruire la flotte d'Énée Nancy"
+          ],
+          "query": "Samuel Massé Junon ordonne à Éole de détruire la flotte d'Énée Nancy",
+          "sources": [
+            {
+              "type": "url",
+              "url": "https://collections-mba.nancy.fr/fr/notice/238-junon-ordonne-a-eole-de-detruire-la-flotte-d-enee-4ac9ad14-112f-4efc-832d-a7c366cc96fd"
+            },
+            {
+              "type": "url",
+              "url": "https://www.patrimoine-histoire.fr/P_Lorraine/Nancy/Nancy-Musee-des-Beaux-Arts.htm?utm_source=openai"
+            },
+            {
+              "type": "url",
+              "url": "https://www.gazette-drouot.com/lots/27152572-samuel-masse-tours-1672----?utm_source=openai"
+            },
+            {
+              "type": "url",
+              "url": "https://arts-graphiques.louvre.fr/detail/oeuvres/1/528660-2-LAir-Junon-ordonne-a-Eole-de-dechainer-les-vents-max?utm_source=openai"
+            }
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0a89015ac54dc7d0016aad3906606c87d2853357f149d28c82",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTkQI-DohzL4HknAIDMJgSD98RTMUZbo0iJWybuQxB5BNpkM6AL0lOTzuYLflT-Zu2Ag6V0jAwDolk6f9rnQiGJQ9y3CbBF4Nnh-iLTk4pTejSGo3P_Dr4c36DHdRDBsL7VZ_epvKghXI-lO3Z2HZOQyScCSvrurCpcy4u1U_MF4qtRyM5VHRgrfsTpUI16sxWAr7DCmr2Uj5ckxVqFJPk-bIgyT8DV9YG5XJG2dC_5oqKLI964Y7kslXPhF24f0hYpjSLLwGAZbDlMIXeeflhJhuzD59BinkSIx0yfYsyUhlXU4vtg96kHb_XDv5e6pH5uFzK0pZ7L7d5sj8Ty83ZvOhY7ApBtSVP2V7EWqOSS_B0kW-MGrSFeBsVonCCVYCmlrddIvdwvkoKE-iTjYbmznUMdokXChoL-wj7aWT8Z5qw9iIa-Mj5_oRQTqJaENzdUcmjWtjgcty4eWJZNGpSItx9XT4UpkEyQl4VQB-yppMK8JiKLcnmUP0njOUPqguCL9K2Wm4j1rfxe84z23Q_QxEePeoW7yVQBwc6ke43EvqcOC23cbsM_BBPCOsz86mgWnqdZHYSssBiTzeZybsecZvNd6EFOx3ihVXsZPlQ-InUu8oDv5ydQVajGZcMirlp0N_iaX9Ig7WipnXyjtL_I-aMX6SK5A2g78vsVfZFm7BrYNfaMOXoSgFfnVj7tPPPL7NGlYjgHEr68EgRVg9f8AiLOlCvdXyDjkJrldCONG70wywsYbTGmo4-0AfiwVI46cT9g1E6Vtmxown9a3xWwbZ1wTx1FtTpHk2-nZ16J-qaEAFIIw6W3w1B52Ly0pycHeBvQAjS95gTq06ZHuQ3-k7aaNRuIqasIyqqJuP1CQPwFCkgh7lpdk2g013Vj0Iv_f4hzPAaHCC5uIwH9S3rMt0vREYxZt2tHmMZdg_IQ6eX_a7Zfrtazb5JMl0BSri1pJNHs0doBisA9LcaIU5rgiFzZuUl-XmrFEXswE5CbY9Gm1baWvquMoUUeyykY6sYtuCdfYdjgZzi3zaUbfF6p_d6ZGm5DC3203qcXtdJ518sS2oa74erBx5vEZXM0-mjN7hLNdwoSSvXhYeCl28QwCnul8DgSU_yfcX7pF5SK4-z_ZTPqVQTPltnxHPyjBY_DqkQCorqF2VgFRFsltQX-Pp1vG3RsKbpWKGs9eCTQLACXp8DM5o7s1lvdycQI7jz6SlK0uFc4f8HZ-mHX5G068UMeVr6Kog-5oQx4yMRjcykuwpzro7_XSwjViU880kdbQ6BnxCGGAEIN4uI_-mX_o5Qi5Kmyz77uVJVOh4KNf7PVCvov5nrfv9qXMEY8UeISFRnyzy1hKyWSfDFDoc7mOPmVYhq8SpiVgjbW0xB6PFq4UwkMoHJdEhN90VLcj_uS4A7e3qLQCz-Xl8KAfMtj809rvgGGT9uDjfhmK-jiSRbY2QVXC6hg15ZriH9gziAxOezDR3Eora5Fku1f_Aekws3CFU16elK1Y2h-vpt5id-myZ4a5rwH0Z5kh9PqjfbB1s2_N-CI5CWy3HdtZENnFtuBNWIQ-D7JVs6NzLJgJwK_CIthdBrrU9YSRFn5OCLf_5u8ewJGzdGbRaVs1lgDeFxKMiblAQ0U1d1FpfI3dEs06JtDVXyk1R5WbFQuo7c9D_ky9LpgTWh8w-vwGc_fIdSye-UnYAXTfvuOdlyXyJeAIHJMnYBD7kU9vcMuSPtHIz67o288cxgR3TIgzjcgN2Dw-vbem5GWbzEs7WSvGPA7ia2IcHM_J9J3ZlrJzomrJzDPQXrE3vzOeSboTqWmDr8SIgAoQInoR7eVwgOBgLdZy3BCPrmQJtY-7geh-2n9dvRKiFNmOXgpYmMwnFq4vNeYWu0Ad68WHWbu6O3hLWRxqBYzdgjbGiR8N9plsweVhDxmj8nuMz8k5X01_7Mmb-IM3ZGKMyoDODhaZH2sDq8goPgMpdqvzoIQfgeHvnVQowCPm2_vcsEwjArufuLuu5WsXPmuY7MoSm2XkvuKEcAnQ7smkghB2EJlylTiRY-GtAtdvx_RxXBJKomsKdJKtZHuImTdGXr0NfFMkCSHFFMpKuN7f6vCB4Gm8nVr1uYfsr0kwG7Yx241axYlc_dpn3xLwhQadGQ3vsGfVMzuPwL-Ykz0-Nb4BE7EFAFUouXokz25IhJl5KK9a2F0YCkHVRAWlw5nTcCMDPMhpjDTIl22RUVqba0U87-OhKVe444JyORv3AlW7AftzAZHKcI4TeZ7jrqBtJ5PaAtRUTZokLqxEEj12g403y_r6clFfZUTr68r9E7hbqqewQxWZ_VIT5t-JEW0K-dRS940iBTCI4QPnKeb-hD9QjR9VzKDhIVq5QBONHd7s8J9ws3me-xF1Tw==",
+        "status": null
+      },
+      {
+        "id": "msg_0a89015ac54dc7d0016aad3908c81487d28cfa6b994632b7d1",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 714,
+                "start_index": 551,
+                "title": "Junon ordonne à Eole de détruire la flotte d'Enée - Massé Samuel",
+                "type": "url_citation",
+                "url": "https://collections-mba.nancy.fr/fr/notice/238-junon-ordonne-a-eole-de-detruire-la-flotte-d-enee-4ac9ad14-112f-4efc-832d-a7c366cc96fd"
+              },
+              {
+                "end_index": 1446,
+                "start_index": 1283,
+                "title": "Junon ordonne à Eole de détruire la flotte d'Enée - Massé Samuel",
+                "type": "url_citation",
+                "url": "https://collections-mba.nancy.fr/fr/notice/238-junon-ordonne-a-eole-de-detruire-la-flotte-d-enee-4ac9ad14-112f-4efc-832d-a7c366cc96fd"
+              },
+              {
+                "end_index": 1891,
+                "start_index": 1763,
+                "title": "Musée des Beaux-Arts de Nancy",
+                "type": "url_citation",
+                "url": "https://www.patrimoine-histoire.fr/P_Lorraine/Nancy/Nancy-Musee-des-Beaux-Arts.htm?utm_source=openai"
+              },
+              {
+                "end_index": 2337,
+                "start_index": 2223,
+                "title": "Enchères Lot 78 - SAMUEL MASSÉ TOURS, 1672 - 1753, PARIS Énée et Achate apparaissent... | Gazette Drouot",
+                "type": "url_citation",
+                "url": "https://www.gazette-drouot.com/lots/27152572-samuel-masse-tours-1672----?utm_source=openai"
+              },
+              {
+                "end_index": 2770,
+                "start_index": 2609,
+                "title": "Les collections du département des arts graphiques - 2 L'Air. Junon ordonne à Eole de déchaîner les vents - DUPUIS Charles",
+                "type": "url_citation",
+                "url": "https://arts-graphiques.louvre.fr/detail/oeuvres/1/528660-2-LAir-Junon-ordonne-a-Eole-de-dechainer-les-vents-max?utm_source=openai"
+              }
+            ],
+            "text": "## Identification vérifiée\n\nL’œuvre correspond bien à la notice du **Musée des Beaux-Arts de Nancy** :\n\n- **Titre :** *Junon ordonne à Eole de détruire la flotte d’Enée*  \n  — le musée écrit « Eole » et « Enée » sans accents.\n- **Artiste :** **Samuel Massé** (Tours, 1672 – Paris, 1753)\n- **Date :** **1727**\n- **Technique :** huile sur toile\n- **Dimensions :** 128 × 188 cm\n- **Numéro d’inventaire :** **238**\n- **Signature :** « S. Massé », en bas à gauche\n- **Reproduction :** la notice comporte une image principale et un lien « Voir l’image 1 ». ([collections-mba.nancy.fr](https://collections-mba.nancy.fr/fr/notice/238-junon-ordonne-a-eole-de-detruire-la-flotte-d-enee-4ac9ad14-112f-4efc-832d-a7c366cc96fd))\n\n### 1. Notice prioritaire — Musée des Beaux-Arts de Nancy\n\n**Notice officielle avec reproduction :**  \n[Junon ordonne à Eole de détruire la flotte d’Enée — Samuel Massé, inv. 238](https://collections-mba.nancy.fr/fr/notice/238-junon-ordonne-a-eole-de-detruire-la-flotte-d-enee-4ac9ad14-112f-4efc-832d-a7c366cc96fd)\n\nLa page confirme explicitement le titre, l’artiste, la date de 1727, la technique, les dimensions, la signature et l’inventaire 238. Elle précise aussi que le tableau fut présenté par Massé au concours de peinture organisé en 1727 par le duc d’Antin. ([collections-mba.nancy.fr](https://collections-mba.nancy.fr/fr/notice/238-junon-ordonne-a-eole-de-detruire-la-flotte-d-enee-4ac9ad14-112f-4efc-832d-a7c366cc96fd))\n\n### 2. Reproduction et reprise descriptive — Patrimoine-Histoire\n\nLa page consacrée au musée reproduit une image du tableau et l’identifie comme :\n\n> « Junon ordonne à Éole de détruire la flotte d’Énée »  \n> Samuel Massé, huile sur toile, 1727.\n\nLa légende et l’image concordent avec la notice officielle de Nancy. ([patrimoine-histoire.fr](https://www.patrimoine-histoire.fr/P_Lorraine/Nancy/Nancy-Musee-des-Beaux-Arts.htm?utm_source=openai))\n\n### 3. Référence spécialisée — Gazette Drouot\n\nLa Gazette Drouot ne constitue pas une notice muséale, mais elle fournit une confirmation indépendante particulièrement utile : elle identifie l’œuvre comme celle du **musée des Beaux-Arts de Nancy, inventaire 238**, et la rattache au concours de 1727 auquel participa Samuel Massé. ([gazette-drouot.com](https://www.gazette-drouot.com/lots/27152572-samuel-masse-tours-1672----?utm_source=openai))\n\n## À ne pas confondre\n\nUne notice du **Louvre** porte un titre proche — *Junon ordonne à Eole de déchaîner les vents* — mais il s’agit d’un **dessin de Charles Dupuis**, et non du tableau de Samuel Massé conservé à Nancy. Elle ne correspond donc pas à l’œuvre demandée. ([arts-graphiques.louvre.fr](https://arts-graphiques.louvre.fr/detail/oeuvres/1/528660-2-LAir-Junon-ordonne-a-Eole-de-dechainer-les-vents-max?utm_source=openai))\n\n### Conclusion\n\nLa notice de référence est sans ambiguïté : il s’agit bien de **Samuel Massé, *Junon ordonne à Eole de détruire la flotte d’Enée*, 1727, huile sur toile, musée des Beaux-Arts de Nancy, inv. 238**. La reproduction la plus fiable est celle intégrée à la notice officielle du musée.",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "required",
+    "tools": [
+      {
+        "type": "web_search",
+        "filters": null,
+        "search_context_size": "medium",
+        "user_location": {
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null,
+          "type": "approximate"
+        },
+        "return_token_budget": "default",
+        "search_content_types": [
+          "text"
+        ]
+      }
+    ],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1789737232.0,
+    "conversation": null,
+    "max_output_tokens": 2500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "medium",
+      "generate_summary": null,
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 31765,
+      "input_tokens_details": {
+        "cache_write_tokens": 98,
+        "cached_tokens": 4251
+      },
+      "output_tokens": 1753,
+      "output_tokens_details": {
+        "reasoning_tokens": 1020
+      },
+      "total_tokens": 33518
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 5
+      }
+    }
+  }
+}

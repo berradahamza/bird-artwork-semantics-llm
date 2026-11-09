@@ -1,0 +1,172 @@
+{
+  "signature": "267468580ed61f18cfef4513daff6593b69a89380c74476df1f17d2dc5788d19",
+  "response": {
+    "id": "resp_00a1fca94b844b2b016aabeb9c53d087d28b2040b522d1ea70",
+    "created_at": 1789651868.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-4.1-2025-04-14",
+    "object": "response",
+    "output": [
+      {
+        "id": "ws_00a1fca94b844b2b016aabeb9c8cf087d29c37e41032fdfb88",
+        "action": {
+          "type": "search",
+          "queries": [
+            "Trouve des notices avec reproduction de cette \\u0153uvre du Mus\\u00e9e des Beaux-Arts de Nancy. V\\u00e9rifie titre et artiste, privil\\u00e9gie mus\\u00e9e puis collections publiques. Ne confonds pas une \\u0153uvre homonyme. Cite les pages pertinentes. Donn\\u00e9es : {\\\"painting name\\\": \\\"Femme lisant\\\", \\\"artist\\\": \\\"Henri Lebasque\\\", \\\"date\\\": \\\"Circa 1920\\\", \\\"Inventory number\\\": \\\"\\\"}"
+          ],
+          "query": "Trouve des notices avec reproduction de cette \\u0153uvre du Mus\\u00e9e des Beaux-Arts de Nancy. V\\u00e9rifie titre et artiste, privil\\u00e9gie mus\\u00e9e puis collections publiques. Ne confonds pas une \\u0153uvre homonyme. Cite les pages pertinentes. Donn\\u00e9es : {\\\"painting name\\\": \\\"Femme lisant\\\", \\\"artist\\\": \\\"Henri Lebasque\\\", \\\"date\\\": \\\"Circa 1920\\\", \\\"Inventory number\\\": \\\"\\\"}",
+          "sources": [
+            {
+              "type": "url",
+              "url": "https://collections-mba.nancy.fr/fr/notice/65-2-66-femme-lisant-1b92a4b5-ed92-49f7-bc71-05cd725104d0?utm_source=openai"
+            }
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "msg_00a1fca94b844b2b016aabeb9e803487d2957608a2f49bce9f",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 487,
+                "start_index": 339,
+                "title": "Femme lisant - Lebasque Henri",
+                "type": "url_citation",
+                "url": "https://collections-mba.nancy.fr/fr/notice/65-2-66-femme-lisant-1b92a4b5-ed92-49f7-bc71-05cd725104d0?utm_source=openai"
+              },
+              {
+                "end_index": 672,
+                "start_index": 524,
+                "title": "Femme lisant - Lebasque Henri",
+                "type": "url_citation",
+                "url": "https://collections-mba.nancy.fr/fr/notice/65-2-66-femme-lisant-1b92a4b5-ed92-49f7-bc71-05cd725104d0?utm_source=openai"
+              },
+              {
+                "end_index": 919,
+                "start_index": 771,
+                "title": "Femme lisant - Lebasque Henri",
+                "type": "url_citation",
+                "url": "https://collections-mba.nancy.fr/fr/notice/65-2-66-femme-lisant-1b92a4b5-ed92-49f7-bc71-05cd725104d0?utm_source=openai"
+              },
+              {
+                "end_index": 1149,
+                "start_index": 1001,
+                "title": "Femme lisant - Lebasque Henri",
+                "type": "url_citation",
+                "url": "https://collections-mba.nancy.fr/fr/notice/65-2-66-femme-lisant-1b92a4b5-ed92-49f7-bc71-05cd725104d0?utm_source=openai"
+              },
+              {
+                "end_index": 1335,
+                "start_index": 1187,
+                "title": "Femme lisant - Lebasque Henri",
+                "type": "url_citation",
+                "url": "https://collections-mba.nancy.fr/fr/notice/65-2-66-femme-lisant-1b92a4b5-ed92-49f7-bc71-05cd725104d0?utm_source=openai"
+              }
+            ],
+            "text": "Voici la notice officielle que j’ai trouvée dans la base de données du Musée des Beaux-Arts de Nancy (collections-mba.nancy.fr), ainsi que les détails correspondants :\n\nNotice provenant du catalogue en ligne du Musée des Beaux-Arts de Nancy  \n► Titre de l’œuvre : **Femme lisant**  \n► Artiste : **Henri Lebasque**  \n► Date : **vers 1920** ([collections-mba.nancy.fr](https://collections-mba.nancy.fr/fr/notice/65-2-66-femme-lisant-1b92a4b5-ed92-49f7-bc71-05cd725104d0?utm_source=openai))  \n► Technique : **Huile sur toile** ([collections-mba.nancy.fr](https://collections-mba.nancy.fr/fr/notice/65-2-66-femme-lisant-1b92a4b5-ed92-49f7-bc71-05cd725104d0?utm_source=openai))  \n► Taille : **Hauteur 60 cm – Largeur 73,5 cm** (hors cadre), **82,5 × 95,5 cm** (avec le cadre) ([collections-mba.nancy.fr](https://collections-mba.nancy.fr/fr/notice/65-2-66-femme-lisant-1b92a4b5-ed92-49f7-bc71-05cd725104d0?utm_source=openai))  \n► Numéro d’inventaire : **65.2.66**, provenant d’un legs Henri Galilée en 1965 ([collections-mba.nancy.fr](https://collections-mba.nancy.fr/fr/notice/65-2-66-femme-lisant-1b92a4b5-ed92-49f7-bc71-05cd725104d0?utm_source=openai))  \n► Provenance : legs Galilée (1965) ([collections-mba.nancy.fr](https://collections-mba.nancy.fr/fr/notice/65-2-66-femme-lisant-1b92a4b5-ed92-49f7-bc71-05cd725104d0?utm_source=openai))  \n\nPour résumer de façon structurée :\n\n– **Œuvre** : « Femme lisant » (titre exact, évitant la confusion avec d'autres œuvres homonymes)  \n– **Artiste** : Henri Lebasque (1865–1937)  \n– **Circa** : 1920 (correspond à votre mention « Circa 1920 »)  \n– **Inventaire** : **65.2.66**  \n– **Support/Technique** : Huile sur toile  \n– **Dimensions** : 60 × 73,5 cm (sans cadre) / 82,5 × 95,5 cm (avec cadre)  \n– **Acquisition** : Legs de Henri Galilée en 1965  \n\nL’œuvre est bien présentée dans la base du musée et correspond à vos données, sans confusion avec une œuvre homonyme. Si vous souhaitez une reproduction visuelle, elle peut être consultée directement via le site du musée (onglet « Voir l'image » dans la notice).\n\nSouhaitez-vous que je recherche des éléments supplémentaires, comme une notice dans une base publique telle que Joconde ou une reproduction libre de droits ?",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": null
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "required",
+    "tools": [
+      {
+        "type": "web_search",
+        "filters": null,
+        "search_context_size": "medium",
+        "user_location": {
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null,
+          "type": "approximate"
+        },
+        "return_token_budget": "default",
+        "search_content_types": [
+          "text"
+        ]
+      }
+    ],
+    "top_p": 1.0,
+    "background": false,
+    "completed_at": 1789651872.0,
+    "conversation": null,
+    "max_output_tokens": 2500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "in_memory",
+    "reasoning": {
+      "context": null,
+      "effort": null,
+      "generate_summary": null,
+      "mode": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "auto",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 17491,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cached_tokens": 2432
+      },
+      "output_tokens": 504,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 17995
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 1
+      }
+    }
+  }
+}

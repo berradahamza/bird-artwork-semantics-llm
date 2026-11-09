@@ -1,0 +1,197 @@
+{
+  "signature": "9de1d6d82eb0fcd987545acfab223e265e468822bf9ce4916824d50076b1b143",
+  "response": {
+    "id": "resp_0cbdba1f8eea48dc016aabe5582b6087d2afb7eda33d6eb453",
+    "created_at": 1789650264.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": "Analyse uniquement ce qui est visible dans cette image, sans recherche web ni identification de mémoire. Réponds en français. Décris précisément objets, personnages, décor et composition en 2 à 4 phrases. Pas de noms de personnes, dates ou récits non démontrables visuellement. Sujet principal parmi les neuf catégories ou NA. Religion/Mythologie/Histoire exigent des indices visibles, sinon NA ou catégorie plus générale. Culture : pratiques/symboles culturels identifiables ; Quotidien : activités ordinaires ; Objet : objets/nature morte ; Personnage : figure/portrait ; Nature : paysages/faune/flore ; Architecture : bâti. Style visuel probable en mots courts (ex. naturaliste, géométrique, impressionniste), sans affirmer une appartenance historique. Mets indéterminé si nécessaire. Ne confonds pas technique, sujet et style. Indique les limites et justifie les choix.",
+    "metadata": {},
+    "model": "gpt-4.1-2025-04-14",
+    "object": "response",
+    "output": [
+      {
+        "id": "msg_0cbdba1f8eea48dc016aabe558f9a087d2abf7e13eaf091875",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\n  \"description_visuelle\": \"L’image montre un relief aux teintes uniformément sombres, principalement du noir et du gris, avec des lignes brisées, des angles nets, des formes géométriques en creux et en relief. Aucun élément figuratif clairement identifiable : on distingue une sorte d’escalier, des bandes, un ovale et plusieurs plans inclinés. Les volumes créent une sensation d’abstraction complète, sans représentation réaliste ou narrative apparente.\",\n  \"sujet_principal\": \"Objet\",\n  \"sujets_secondaires\": [\"Architecture\"],\n  \"justification_sujet\": \"Le sujet principal est l’objet car il s’agit d’une œuvre composée de formes en relief, s’apparentant à une sculpture murale ou à un bas-relief. Architecture est en secondaire du fait de la présence de formes évoquant des éléments bâtis comme un escalier ou des murs, mais il n’y a pas de bâtiment représenté explicitement.\",\n  \"style_visuel_probable\": \"abstrait, géométrique\",\n  \"justification_style\": \"L’absence de toute figuration reconnaissable, le jeu sur les plans, les volumes et l’usage exclusif de motifs géométriques évoquent un style abstrait géométrique.\",\n  \"figuration\": \"abstrait\",\n  \"couleurs_dominantes\": [\"noir\", \"gris foncé\"],\n  \"elements_visibles\": [\"formes géométriques\", \"lignes droites\", \"angles saillants\", \"relief en creux\", \"escalier stylisé\", \"ovale en relief\"],\n  \"composition\": \"La composition repose sur la superposition de plans inclinés, entrecroisés de lignes droites et de motifs géométriques, créant une dynamique diagonale sur la surface. Il n’y a ni centre focal évident ni symétrie marquée ; plutôt un équilibre des volumes répartis.\",\n  \"limites_visuelles\": [\"Manque de couleur\", \"absence de détails réalistes\", \"impossibilité d’identifier des objets du quotidien ou des personnages\", \"pas d’indication claire de contexte ou d’époque\"]\n}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": null
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 1.0,
+    "background": false,
+    "completed_at": 1789650270.0,
+    "conversation": null,
+    "max_output_tokens": 3500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "in_memory",
+    "reasoning": {
+      "context": null,
+      "effort": null,
+      "generate_summary": null,
+      "mode": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "resultat",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "description_visuelle": {
+              "type": "string"
+            },
+            "sujet_principal": {
+              "type": "string",
+              "enum": [
+                "Architecture",
+                "Culture",
+                "Histoire",
+                "Mythologie",
+                "Nature",
+                "Objet",
+                "Personnage",
+                "Quotidien",
+                "Religion",
+                "NA"
+              ]
+            },
+            "sujets_secondaires": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "Architecture",
+                  "Culture",
+                  "Histoire",
+                  "Mythologie",
+                  "Nature",
+                  "Objet",
+                  "Personnage",
+                  "Quotidien",
+                  "Religion"
+                ]
+              }
+            },
+            "justification_sujet": {
+              "type": "string"
+            },
+            "style_visuel_probable": {
+              "type": "string"
+            },
+            "justification_style": {
+              "type": "string"
+            },
+            "figuration": {
+              "type": "string",
+              "enum": [
+                "figuratif",
+                "abstrait",
+                "mixte",
+                "indetermine"
+              ]
+            },
+            "couleurs_dominantes": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "elements_visibles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "composition": {
+              "type": "string"
+            },
+            "limites_visuelles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "description_visuelle",
+            "sujet_principal",
+            "sujets_secondaires",
+            "justification_sujet",
+            "style_visuel_probable",
+            "justification_style",
+            "figuration",
+            "couleurs_dominantes",
+            "elements_visibles",
+            "composition",
+            "limites_visuelles"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 850,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cached_tokens": 0
+      },
+      "output_tokens": 445,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 1295
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  }
+}

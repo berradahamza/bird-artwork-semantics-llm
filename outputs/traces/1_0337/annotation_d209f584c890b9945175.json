@@ -1,0 +1,205 @@
+{
+  "signature": "d79993b18c9f3df174bf1560b1fdab3745793a7a22742e5586c3378f49cd43a2",
+  "response": {
+    "id": "resp_08299969983b0322016aad41191b8487d28bc54691f2ea4230",
+    "created_at": 1789739289.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": "Analyse uniquement ce qui est visible dans cette image, sans recherche web ni identification de mémoire. Réponds en français. Décris précisément objets, personnages, décor et composition en 2 à 4 phrases. Pas de noms de personnes, dates ou récits non démontrables visuellement. Sujet principal parmi les neuf catégories ou NA. Religion/Mythologie/Histoire exigent des indices visibles, sinon NA ou catégorie plus générale. Culture : pratiques/symboles culturels identifiables ; Quotidien : activités ordinaires ; Objet : objets/nature morte ; Personnage : figure/portrait ; Nature : paysages/faune/flore ; Architecture : bâti. Style visuel probable en mots courts (ex. naturaliste, géométrique, impressionniste), sans affirmer une appartenance historique. Mets indéterminé si nécessaire. Ne confonds pas technique, sujet et style. Indique les limites et justifie les choix.",
+    "metadata": {},
+    "model": "gpt-5.6-luna",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_08299969983b0322016aad4119c0f887d2948eb3edf561c328",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrUEf6PqbAtE5tECg7lwggKJbN7-xyALztO17rAMiNMBA_u9AXg6vuuLrhHu5rEIWkIbCu1jo7-RZNUxOCaonCCIHHs2GtcXpIL7KaFulqrr9XI3fi6jAOvxOY7YZumjOCc1gY6FHiWQjS4o_K7deXhD45BspUobXJ2U-_czjCN4zkRsUUW3uMykEiXcn9zmbCzZ_r_zbsbzRbg_yF2B3t7etpWq6RQ8HaDD60Z8tAdkj_SUthMlIcrR3miWzATOTbiYpjPWETXkNBDLQgeUTtbLwcMBjsjeDS5HS_-Z6xcNxHnafzqvbtoOIHWCKQx9N-q35diwvUd8ErwfN43EjhpMEuaPyJ4nOq5ArEGdIzqDSOcYNUHrLvqO2EqF0F9JixbvGCa7P80sTcUpRpZ22096gbgU413hLhPSHkFDi7AX0hFG6cSfyS56OaGufMyuC2cCEMbImk6tQ9LLSrFvDXif-265hR2gLlFi809QXTlUInuvuc4d7CqrV1XmOpULmJ0qAVNWRXf1tmEFgNS0gm_HlKQJNO401FZUiqfAomUfpS6MKEG44cfZhadxBUf4-YavQwkwLJds8zJFqUaEYW62LewWnWfDFQu7_SUuxbKlceJDw7ZTiwgEL4pDuR-dX-CPcDPX3KuXU1SxcHGLwO99__5nF-e_Qf5WSF9-OePE6wtVQ2gGzktg16Tugs_AEAm2iQPTYOrELvnfh7TgOArr-D5M-QMSbkQIASgVcyq_zxm6sqj3NhQvQhS5Uq23cuHxfrGiyiMe5P7VJNFdIaRMeYe27fhJ7uAnXhn2LUbo1hZf0xUfL922q3X52LmOYBHUOnRHjdkHxsxY4ROAEy0VGUTawLALgT0bhK0mQCYNEZvPpuG1kJAMCV4jOUEnxyirYYc1fe1Ktn0eNVSFbnrBzq8Mh9iXBTbJdBCwQJOCAkNGcNUz7DxPXG3Z6HjRVM9PlU8DnMU8zvqtfnGOiF9ceB33_2j5CYYhEu-2jbEQaEsB60bIECVAEMmyuHecukL5l_Pixmfg40R01YxbIL2j8xj6IoZIIKROKIhwWh95QJBvUOtlc5cDwuN-B9Iw1pjqiEdsdUTxMiYX5_xmpbFvrEU0QJz-AFG1uGmLowxGC-XZK-6bgX8kEmzeHbJCdL4jZw07ErkZ0-BxlLuZlbRA-WB5qrhButOgAHzlKAmETP9WqJC92X732Wd5ZjsaP9UXxr6adQzRxDuegd25It0sYaNkA-H1R4vuCNxqLrol63RyODpRv5K65P_9REG4PfIanq-FVy4b3rJ3a-lgptPNmVTVMe4yelPLWlG6Rbm7wwnTfXbRnid-_W93KYH9hSOzMcdGygqStSTmpOm3ZtvVZ3sm0U-0INFYf-9afbSJsAUmhiDLQt7PBcwQyRnzxVcbQs-2ndAIOp_jFdfoXudz_skGyQadTIOSHc7wr8Ds1SXRAN1GOfioMeE9cWy2RYnrmhKy1vZFWY_wobQ0cHIDye0tPlYwaR-PFeh4xoFiaYghdkpenv2vkwLA6DJOTdSP8-35qh1YFjMiTjKZ1FZzz3wjSdmvfkHPAWXm6PKLdpHUhtt-Ix6uoYDfjCFSowkt3IGgIyhXusLgjY_rZXaeF6CcCy_iuJR0g010aPAdhnTlgQLoa0ANtj26iMfI71JlKvdcp_hJAgKBelZOrC3NfpDyNkqjNz3i0suZoaoY9ISMHuWsEtvmzQFfPQ9v8GcBqwR5lxMn4SZHTW50fRpkeSWektLWWHhu0qBiiUEaleaoUaXf7_yCEQU8J5F2XCA65KTIbLpb57YTs0MFELXQgMnvtjGSFayAbhkniG1Hd1uu_sQKe8BjSKmpazS0TXIEqlwCRI41fWXahiNWC4G-26qSi9fU9TTNxA-tWHZbf9qhmF2VdXOddCTOkuI9FwmDdbRiZ4-bOlf-bnzw9HryftVEanLq-X1-qkco9GuOGq0M=",
+        "status": null
+      },
+      {
+        "id": "msg_08299969983b0322016aad411b624087d2ab36fc2b3ba59a44",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\"description_visuelle\":\"La reproduction montre un paysage boisé et montagneux, dominé à droite par de hautes ruines ou formations bâties en pierre, partiellement couvertes de végétation. Un chemin ou cours d’eau traverse le premier plan vers une zone lumineuse au centre gauche, tandis que plusieurs très petites figures humaines apparaissent au bas de l’image, dont une personne vêtue de rouge près d’un animal ou d’un objet sombre. L’ensemble est présenté dans un cadre sombre et ornementé.\",\"sujet_principal\":\"Architecture\",\"sujets_secondaires\":[\"Nature\",\"Personnage\"],\"justification_sujet\":\"Les éléments les plus structurants sont les constructions ou ruines verticales en pierre au centre et à droite, même si elles sont intégrées à un paysage naturel.\",\"style_visuel_probable\":\"Pictural, paysager, atmosphérique, naturaliste stylisé\",\"justification_style\":\"La scène privilégie les effets de brume, de lumière diffuse et de profondeur par plans successifs, avec des contours parfois fondus et une palette sombre de verts, bruns et gris bleutés.\",\"figuration\":\"figuratif\",\"couleurs_dominantes\":[\"vert sombre\",\"brun\",\"gris bleuté\",\"ocre\",\"noir\",\"rouge\"],\"elements_visibles\":[\"cadre sombre ornementé\",\"forêt dense\",\"arbres et végétation\",\"relief ou montagne lointaine\",\"ruines ou constructions en pierre\",\"chemin ou cours d’eau\",\"petites figures humaines\",\"figure vêtue de rouge\",\"animal ou forme sombre indéterminée\"],\"composition\":\"La composition s’organise autour d’une diagonale allant du bas vers le centre gauche, guidée par le chemin ou le cours d’eau. Les ruines verticales forment le principal accent visuel à droite du centre, équilibré par l’ouverture lumineuse du paysage à gauche et encadré par les masses d’arbres latérales.\",\"limites_visuelles\":[\"La faible résolution empêche de déterminer avec certitude si les structures sont des ruines architecturales ou des formations rocheuses aménagées.\",\"Les petites figures et la forme sombre à proximité ne permettent pas d’identifier précisément les personnes, leurs activités ou un éventuel animal.\",\"Aucun indice visuel suffisamment net ne permet d’attribuer la scène à une époque, un lieu ou un récit précis.\"]}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1789739295.0,
+    "conversation": null,
+    "max_output_tokens": 3500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "medium",
+      "generate_summary": null,
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "resultat",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "description_visuelle": {
+              "type": "string"
+            },
+            "sujet_principal": {
+              "type": "string",
+              "enum": [
+                "Architecture",
+                "Culture",
+                "Histoire",
+                "Mythologie",
+                "Nature",
+                "Objet",
+                "Personnage",
+                "Quotidien",
+                "Religion",
+                "NA"
+              ]
+            },
+            "sujets_secondaires": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "Architecture",
+                  "Culture",
+                  "Histoire",
+                  "Mythologie",
+                  "Nature",
+                  "Objet",
+                  "Personnage",
+                  "Quotidien",
+                  "Religion"
+                ]
+              }
+            },
+            "justification_sujet": {
+              "type": "string"
+            },
+            "style_visuel_probable": {
+              "type": "string"
+            },
+            "justification_style": {
+              "type": "string"
+            },
+            "figuration": {
+              "type": "string",
+              "enum": [
+                "figuratif",
+                "abstrait",
+                "mixte",
+                "indetermine"
+              ]
+            },
+            "couleurs_dominantes": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "elements_visibles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "composition": {
+              "type": "string"
+            },
+            "limites_visuelles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "description_visuelle",
+            "sujet_principal",
+            "sujets_secondaires",
+            "justification_sujet",
+            "style_visuel_probable",
+            "justification_style",
+            "figuration",
+            "couleurs_dominantes",
+            "elements_visibles",
+            "composition",
+            "limites_visuelles"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 803,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cached_tokens": 0
+      },
+      "output_tokens": 611,
+      "output_tokens_details": {
+        "reasoning_tokens": 114
+      },
+      "total_tokens": 1414
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  }
+}

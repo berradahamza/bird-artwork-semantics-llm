@@ -1,0 +1,482 @@
+{
+  "signature": "0fe005246b64cd2989186e88e4669126ce099a63696d51e75abd71ca3fdd4e51",
+  "response": {
+    "id": "resp_0bc31b2087aa71d8016aad3ad9a3fc87d2b56c2b4f583c6bf2",
+    "created_at": 1789737689.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.6-luna",
+    "object": "response",
+    "output": [
+      {
+        "id": "ws_0bc31b2087aa71d8016aad3ada3f5087d28770c8a9268d29e6",
+        "action": {
+          "type": "search",
+          "queries": [
+            "site:musee-des-beaux-arts.nancy.fr \"La Marchande d'Amours\" \"Claude Michel\"",
+            "site:collections.musee-des-beaux-arts.nancy.fr \"La Marchande d'Amours\"",
+            "\"94.5.1\" \"La Marchande d'Amours\"",
+            "\"La Marchande d'Amours\" \"Claude Michel\""
+          ],
+          "query": "site:musee-des-beaux-arts.nancy.fr \"La Marchande d'Amours\" \"Claude Michel\"",
+          "sources": [
+            {
+              "type": "url",
+              "url": "https://collections-mba.nancy.fr/fr/notice/94-5-1-la-marchande-d-amours-6eaab7e3-f422-4477-8658-2a49cf999684"
+            },
+            {
+              "type": "url",
+              "url": "https://www.mutualart.com/Artwork/19th-century-FRENCH-school-afterClaude-M/4BE9089E230A4EF60837FA5E25FB10CE"
+            },
+            {
+              "type": "url",
+              "url": "https://collections-mba.nancy.fr/fr/search?f=562291&o=562261"
+            },
+            {
+              "type": "url",
+              "url": "https://www.christies.com/en/lot/lot-5930451"
+            },
+            {
+              "type": "url",
+              "url": "https://www.sothebys.com/en/auctions/ecatalogue/2009/important-old-master-paintings-including-european-works-of-art-n08516/lot.363.html"
+            },
+            {
+              "type": "url",
+              "url": "https://www.codart.nl/wp-content/uploads/2024/10/Clark-Art-Institute.-Complete-List-of-Tavitian-Collection-with-captions_v2025.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://electronicsandbooks.com/edt/manual/Art/Museum/US/Clark%20Art%20Institute%2C%20Williamstown%2C%20Massachusetts/Clark-Art-Institute.-Complete-List-of-Tavitian-Collection.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://lotsearch.de/index.php/lot/plaque-ovale-en-terre-cuite-figurant-loffrande-su-dieu-signee-dans-le-39136159?order=ASC&orderBy=lot-title&page=1&perPage=50"
+            },
+            {
+              "type": "url",
+              "url": "https://boudewijnhuijgens.getarchive.net/amp/topics/clodion?page=2"
+            },
+            {
+              "type": "url",
+              "url": "https://docs.prod-indb.io/2022/04/05/180807_308722406_79b44f4c5e5419ec8f6e8761be73a1ab.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://de.wikipedia.org/wiki/Die_Amorettenh%C3%A4ndlerin_%28Fresko%29"
+            },
+            {
+              "type": "url",
+              "url": "https://dewiki.de/Lexikon/Clodion_%28Bildhauer%29"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.scribd.com/document/1054405849/Le-guide-du-Louvre-Muse-e-du-Louvre-Sefrioui-etc-z-library-sk-1lib-sk-z-lib-sk"
+            },
+            {
+              "type": "url",
+              "url": "https://picryl.com/topics/nymphs/mythology"
+            },
+            {
+              "type": "url",
+              "url": "https://picryl.com/topics/clodion/sculpture"
+            },
+            {
+              "type": "url",
+              "url": "https://commons.wikimedia.org/wiki/Category%3AClodion"
+            }
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0bc31b2087aa71d8016aad3add2a2487d2a83d75535155a844",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTr9lGJE28oUlgktjtm9wPIZVBxszMKcpZaYSZdxO4nZsRnPlVSuCq-PnfE_OKaBrhvPvHz5iJCna4F8Al6HrpzoKsDbta9j6VDl2KqXc11ujTWwMgfumftY3D04WxXgBLISC_CK6jvuPavW571ZbElGdTkeXqu-9qj40jzQspCH2iX00-3yUNcDoc2Q5SRc5M_w74gNxusK-lw6KzqHOemUzjdZshbYfVWdMGebI_jhWsvSbRVKo32L7_thlPNwYQ3HeIAOrqW-4Y5OVr9sae-g1PbciZELuIocvP39uwgEmeMnTh7XD4X4QKvD0DwVlc-leYmQU9Z7xgHoSlQ-veCxYCM9vpWhnmbn7tnQWGGbaI9taDLCvR1KM2gz0y8RllKtj0TgDGRU3QkpxEkL6A4p2zbldu1yO4-gUqVnOCTOYGWy7JdtE7fTooKfEfKxBxUuTsfF-ct3CPf-whRhIOoK_fdEHy1fsEFiF0VLpXgpWhGkKCDjHsxe1KPolJzZzAx8c6Upy77kVgq0iDjYIZxUnkTURn_JcI76FVrWMpotEJvqmyrrkjhqQW8BzPUydGGjFspsee8xk9nh4T9KrfDv7rH1pcoJlosiwCIMFBXVmNw3Wd5A_5tObKZu6wvFmB6ndsMZGRi8I6pHqQdM1U_hLzLtUinjq0yhY3Io-GOTuyrV27eC09-XRfz0pHc4jlAno1KkiIqyWligQ_P1V1LEuuhu9Q6Q2r2xH9D-BY7LwZCPD9ij5wZj1PgRN5bmLhvyo7jO8Hy5vf5fpswNYBnIe5oPxf7fUUPiTL5EdCOGS5YYowCDax8qVdHxqq6rBkMSa46qANTQvgxMsmdUhiEfW6TT2sTXU8P51xVMqnRrTFvFUSSD-gpczuSZFyZbrlAmfxW-m0HLblvXbpldB3OP8h0HUBsH3p5y-wT7ojdPI8-hOAicZdEcj_C5QJUInzOjG_nEicZkNfpcwFBUpHxa3_RDaUBIEReXzYKPA-N9UpDiriyP2EJaiPSQjwOfF5hAi62-7YmrizhjNFeiGGqr2bzmPRiA67k1cp__FfbXG1iAps8cJNwxNz7a-XRg43kNQQJOccl67cuqP49R_tEiw30zD2ln7Q3IQiZQlDzPeLaZZIDhb7dk0ffihCuHXYe5B0Ezmn6LZNuNjLRB6MhqJfU0NCN1tN_lTRGZoWivgXfwpnO5x4VmMqhLdpDWHNN5wnCpfC1QpdQBa5n0I2UEWhrkwnArfI8od3ANpmvYXjsdICcLHfy0XO76nEMzCBiYCOJWTIcIW0KbxGfWMvqBJFKgQQtxKVXHcyU26oYz-5fIO4fPyayAN0wAaMk_8eIbYJ5tkkYkpfcjex00A4Hh31m-yd0ID6udeQ1hWaaVrL626kNUPt1ydW7TYKv_ioZsZPBfMs25K_cVX4cC6_Di4atWFVtvsWSfFzxeMRx6iT0Wwq7Mtu1kwnknyHxXCuAqfy3m1zgiWy1BRkunpSRFoQzNJXhLXGVBT4DR7pr2wQ09qmuo5ep8nHsKCjtNpCw1tG8VB5zZ6TagWjY2mVpdFf_80kfvaMqd_5dSrP0qGfB09ZJBO5Q3AQrzYXfiAH9LZ35BxIHdCYX-4qEyxkGfCWOJLlGMI-LA3IH3ID8MmOTbS3EbL9jycHvT1mg9HAwqkCebODEqHBKOSh9MbogSNMtwPH57CciP6TzQuOqjY6IzwZK9fM4KmMOR13qc--V17-Lg-bwlwuRT3RPLzl04gP4za5j1WGLEl4C247tFONM=",
+        "status": null
+      },
+      {
+        "id": "ws_0bc31b2087aa71d8016aad3ade618087d285e49cc6732acaf0",
+        "action": {
+          "type": "open_page",
+          "url": "https://collections-mba.nancy.fr/fr/notice/94-5-1-la-marchande-d-amours-6eaab7e3-f422-4477-8658-2a49cf999684"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0bc31b2087aa71d8016aad3ae1280487d2986f3abe8b3da98c",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTr9aZfB3Xc_ydM2VrwM-4MzbH8zJy80SVCXrLraggYqgZd-eYZl-fEQtg6Rq_bGugGbXdsvX4SUtwo7_fPetNJOqvI4fBuIF4EfFAM7fl3M2IsP_XVFUyWsYCZM8roQ1XQ7mwPl9OmXJDdazfbYukQQMQskWhZqMEVjv9524bRUpJNom1ufpAen9A_YK9LYdmn3-49yoEvp0bmcl5ACetB5p8KrQXSxPVojwYIejyOKjMI02P7TF63x9bK7VXdK2GR_xf3q_GYkjINDNmjz7hUN3dzBeNFH7biADCtBKaSyaQaCYc8ZP9u1jD5wK5bo0UWlxnZ9nkVVt0tY3Y_UUry3Z_czNiJ7aCCpGo7lefAIe5XSGQ0H-w3IlcAGEXMWfUUWabD83EC9uzcE4mz8MAt7mDy82os74jeAo7lhWrW9EwTm313DG8hWc_lMD0Lu9fwBv5i5h8uDHFHoz4VvZyxZwTRn2v0l5SGZZhsS7ICnAz5714-4y03_wCKJ7_2Fu_XT1AnXsmmvfXgDinKLb-dvSm0DqKRXTHILMBqq8xZKpiDf1QpjfU6yUodHaIh0eRWtq1vvXGbw5n5cXDI9KtL7cFL83sndMNrXf_uv5lZ2uHfwgER3HkOvG6qEuaOrT0LPgEJiE78v_ljMZW9soR3ALzsD9QPowkwRFUsgFTcL0UGgWhFrJn_AzjfuOjVMqy2xRzinVNaJgB_0cSITuRZCoRQJZngYyApPJvKGEotnUqWhezvA_f4z09_vjw11TWITEC9kL0zQ8sv2OXa7Z96mdKNzBVjTOrrBBCH7Nx5IUsGhNeWFvLNlsb4bBN50yqc3Txzr2fI5Ykgs4BwEMCA8ONpxdFfiXEIj81O1hc87b0BwMGykrutCUR2b6IsHt9VfwWt9nNpznlCuKC_R7wNJhiXm2m3UHmreY5jFKVTs7PLdrP-y5rUOn91ojTYOIkGNAxo7-Drl847qdPTo1kPpqdkFeXlHlAnw-5YxoST3wXufYXn245pCHqsAZzAyTbfaGS6Hp2X97kYudOPnhb0BSyBha8kbJ2frCS-Hk6Eet0pFahsLrxeRK0jo96Sw3xYE0bch0Xm-1WJScWMOW85eD-MDx_c9J3phD3zMa6brMjVKdlBQCtQ1PJQEt6U7xrg1mThTUO8xrg4sWASufkrlRBm6se_qzfSxJEZ2pwKmmZVdoNkXCuiWzPk2IHj_nsVl2I1g-K0dhdPirA6zEN6NFB2PtlUxXCxXiNnKGBUX83r-05Aw7BBazjFAxuCaVNZM",
+        "status": null
+      },
+      {
+        "id": "ws_0bc31b2087aa71d8016aad3ae1bfd487d2b5a1c5fc625856e4",
+        "action": {
+          "type": "open_page",
+          "url": "https://collections-mba.nancy.fr/fr/notice/94-5-1-la-marchande-d-amours-6eaab7e3-f422-4477-8658-2a49cf999684"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0bc31b2087aa71d8016aad3ae5d3b087d2a92f3e7b38902e90",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTr9m69lHmLRnaL9Rdcj_9C1nJLLlXIqRZ0wBNEqASGo_rCAg3vh37NRTojO5a2jsckkq4ScdelOfuyBicGFmjCLGbHsAvrkSnchhb-YvGCDbXy60K1xG6Yr_kHX73-uyZCaiLtrhZNhmM6AdHQDoL3yyRQLfl1nmFhmh2SVBy81gA6rj_yrByMhqfH78NezrlHigfblrE7HjBjq-H4vUGARbw6Q9j4qaX-wQp0sLdShVwN9n2253oFC5GKZjhkixNbDs3IofLGpW9SWZ7_B16RfGAl4vlNb6b4emPsp7abCZwztQPBzB4lvJRa0Fbod2nP0paDRjoYL2GpWFTdMFhWfF_4HNj6Rc0vHAz6nT3xz0f7V65rjEI3pLAWWFkHF4OiD9v8N8Adb1wVahkS-YtSh2DVVkRqupn8gDfhTzAkvUq1Q0VbOjH63xJPQNfLn3PXknt8TrxjyYuo6e-ZSrhLFQqZO0EwK_oxRsBcwMwBhXUycAbDnau5XpkeoGZ2EwNfvMJ5kfUVEVH-8VLQk9L6iAVe7Jn5xCsidDsPFpoR6m_5KY9cehdsRoeisxnvqAIVRtMRV89eQu_2O7-CYohQJxhXzq6uSkM3Xc2g6yZYvby9c3uGnh05LViJCtRqdd6iiN-sd2Sh7F3IfY6PCVyKd23Yo_xahcx3RvkuL5Wx4E4omkB9n-ib_aLs92YbjMN3hzglbJsyhOswV7evgF0wv64C9dUARfwLO-UXVzB5o0PopXTDmh8FHbiCcDr0IaBVrNfR8I0qRyHcmuDvEAd0Kfb66AtvnH3B09mSAadwAp9JdVsWjh0vvsZIkP0Uk8buOxQ3hx1TWJ6iE0ZNK1MUjDSPJuRvrOAYwFiJ6VqgD8LVJatuKM56eeFH8PD0NfJGNTJcZtcOPKs7dVfw9aDeqJqcAjyo-Jhd5PmMhrGllk9pXnq3O5_WPVHS9DhvmtVulnETQrMYioUKkK3qPQoi2y8Ey5a4jdXf0-AnCFcA_XuWT6aU7DFGJKcyhehACfE0k5IjZ8AnB2rwgzAabBU96JvXTHwNWEC3kUN0PcSLDmHeVRyuY2kfPSUxn7riOX_u0cHT3HafXbPwIk-Czv-lz-dab6idVrQHIPn9Q7p03ReYwquedQcgdKQtQsF1npKwHqt2cKBmJvsZkSJ-empc-fN26rgZoz54-0_5Jfr1E0ky1p-B_hmGeQZt5i8GvLXHTxevZJ6FZZYuRT_hI75T3X-MyRBQSeyj8Ql3TDuUbe3Pm3yqffDfpbiU2383OS0vkVJ7f9eFsTqB67pp6rLeBVNQCocK2vVFe_U0r565sNsuAFUA4mwY7Vr7zxCeq6-ppfSIeGNc67ronvK8LofdAuiyfdDol9Cjx-kgjWzCoNwIYVSOvtLUQ-kSWUB53xna2YuaYa1EM5ilCcWl4u28gvxpEid3VwgXAkP_NmdaSWj1xbRfPOonY3vuo-MJYUsCVFOPhVVa0sk2fzRoqaoyGFxq6z7IISe8g717Vm5e-TIs=",
+        "status": null
+      },
+      {
+        "id": "ws_0bc31b2087aa71d8016aad3ae6b69087d28fb8b970a35dd0fb",
+        "action": {
+          "type": "open_page",
+          "url": "https://commons.wikimedia.org/wiki/Category%3AClodion"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0bc31b2087aa71d8016aad3ae954e487d2abbd5d721d904b87",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTr9pGFyAQcH26UGCDolyf0Bo94d4l7mcty0euFsY1zeDI5c1c3W9Oyy-CW5jcFxg3x4WfGAGbVHcpkfQS79V5xyB-oABWnuZgyuS-wbq36IaGwG6DATcOuFCEmK1-KYPq_f-kAh-gO3Lq7E5gXJQKbLi8i829oGYCNaljfPF5LD6k7IYoi-_Mqz-_66S19pVpGcvj9oD9E1oPZsqPS3OlX9sceTqfDY-OpuwjbB7nV6eLnVjN9X1v0AVknuq1NAnWLe17lW1RbCnd3cJXkTFcxGFNn0BMO53EjEToKY-O90Xrp6lY4FBJy_sGZNmYMM2Mv_wbFiLoVXTcEjBbaosiTLF2-y3d0Cw6w2qp5o_PfdlMainyUAE5-ZNAP-1BXxdI87XFfnx1Q8rItZMRq4xsOSMPm_E29SEPrr5Bj6pKK0IO7G1wXLLipn_BAc00jxuk1vUy4E8DlXYSVYmLDaUsFXdVeKb_ooE4UeTF71GlKWhlbdkDktyC_X5FIshreQ4FcSbmB_psIMhKtMH8EpR6jf8gsHJqg0zLyPNrcffPArHor95T8iAPjOBgKtwq1M0N1-maKyZpMSq6ywtRhjZ_MMrdP1PXFF5nV43Z0MWRD8xRueqUxU9Zw6hiNVyhGnrLjoCHf_NY9_Sb8NnfwEvD_EM3c13TlBhHQC5mf2YyOmHYFJ4tfuYr_bhzBL5vzhvWsLu9ZkvD2BPIHpda4fd0d4_bHX9gyirQVzplDm6gtLqjfm1cJl1VjhRwkjBLwP48qgxjOBnzmIkmkbmGFYY7xLhU9wsAEdrVYgQ0wtavB2dBLEyu8NRxatn4BWiXb3KmjcedDPhBUtyR89g2oF9LLuIPNZc9n5crQGIanA7ntyMmxp5quGQR_wjWQ-61LdPytIbNhqvrRlc_0QNl9UnQ7pIBPHDiuKkPcjFTVfnQYPb4vsZOnUMDzuVZYAaaK3sUotZMd8IxHGNpgrZ0CSNtEdS47w5cpuCBB7xqFtY0rILlEEhCOEBgp8wuhmBPL2x5BG7HQudsY3oJhtdbkEFFqbpquZtHzMEJ_FTv-zmSrxed3kZKhbsCQEzjPMoVJG0luwj273wMfLKqvPF4tOoLzQr5k23k9cDk6veRav8Ypf7Dg2z79vha9jvynfT8VvMORRGcmu_6aUP1NNWEVbvUlNkAJ-_MDbdeuZt6HsccXBBKThOyV1v00GWZjSSCUq8H_x-QIMsNDBgbrw_oU6kfuvdoaAelm9qi7remCozxLcI_nDz-Ep2lD2VFUpKoiwDSwtbKQHz-9EU7zoxUEeINjLh-94_ylSnfbo5u85xqjwSvEmbTlnC_Djt3ErX9wFK7LQSlFSraicXkH-dnovll0HD_Kvb7sultXX105dfTNisn5-mpPHLOdufbPdu7DiD1QIageOav0jXANd9i7Uo1ZbU6-0259KhUBNac_rv4qYg6WvCSjOVuNOArr-e9EEw3n8A5Oy5on77KnJ2fA4lEDxaflKvytSL2_bPTM9Y58jAQsc0qQXZnAg1fNFzb1b6_0stlTuU22iHmJf5L3ykIHsCVUl6whmFvDCHu_WULbWV3W9TeoipUT2zyrTRzLw1oAW8wM7DmOsUtMBfDSsfFZwNCQUxpRILOZAQpjYNmYdb4mK4p7kaxTZ9k9WnLLYRB0oSVQSukG6Lf3BFUo02nbFQ4_qJIA67gbyeWZq3bUCKnBC6XnuTm51VnI60u_x4wqy8QZfPjUkzMiV7C_9ypUy9zMx70pxJ3GagDZBM0xBDSvoxIv3ysPsx1vkTdmiEaksofhhuVh8E8T4bs7hUkddYvmtItIaDrVByMApN1pnpjTNEtNtDp09fGXXm3qYM1NE7ucWHaW-gus3DX6fwvLei5u-uX9wQxKYq2tNLcvkwwCsRwcXZ6wxmiMLlVVey7N2a6K-QI4684K-kqrgHlkZRataURuZCo2j4yov7UgB2Gu8krDRhbfNUzuMWIM0pouWAdqjJcgZN30cSSgq6_qlQnoxTgXSy3oGbNv9NKJZTFOBoh5OfSQRHgSj_BSOS7rdQFJOWrSxmILT-P2RZ0MhbsM_nxhQpL9N9eRs7-rdow7WqlldqG1CQPmTEEC1VCIb2idUKVcKJj2GNNaRHEoc5dp33tTsl8IALbVPlIEneN1LOr20Cg3k82JE_gIuiwLyqT1y4Sh1jSXSiQLq0fUbToh1YhQWtyGaFziPQx4m5APT6omyWb2vyrn_ziR2F4WexVXF1y8l_PBHDjEodBGrxgVpY1M6oowAbjs7LB_havg0rhN6bXZl220fBFRHNT50rJbalPyYDObVkXGJxg4SYjhBYc6x7QM8kFuSKTZSGf2Xemau-eazCRH9WmJm5zlZywhuihORSvm_dr0L6zM-0A==",
+        "status": null
+      },
+      {
+        "id": "ws_0bc31b2087aa71d8016aad3aedd16c87d2be3c06e29e9a9ed9",
+        "action": {
+          "type": "search",
+          "queries": [
+            "\"94.5.1\" Clodion",
+            "\"94.5.1\" \"Marchande\"",
+            "\"La Marchande d'Amours\" Nancy musée photo",
+            "\"La Marchande d'Amours\" \"Musée des Beaux-Arts de Nancy\""
+          ],
+          "query": "\"94.5.1\" Clodion",
+          "sources": [
+            {
+              "type": "url",
+              "url": "https://collections-mba.nancy.fr/fr/notice/94-5-1-la-marchande-d-amours-6eaab7e3-f422-4477-8658-2a49cf999684"
+            },
+            {
+              "type": "url",
+              "url": "https://pop.culture.gouv.fr/notice/joconde/M0121003672"
+            },
+            {
+              "type": "url",
+              "url": "https://enfilade18thc.com/wp-content/uploads/2021/12/dp_adam_mba_2021_2022.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://collections.louvre.fr/ark%3A/53355/cl020043469"
+            },
+            {
+              "type": "url",
+              "url": "https://www.metmuseum.org/art/collection/search/221866"
+            },
+            {
+              "type": "url",
+              "url": "https://www.mutualart.com/Artwork/19th-century-FRENCH-school-afterClaude-M/4BE9089E230A4EF60837FA5E25FB10CE"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/La_Marchande_d%27amours"
+            },
+            {
+              "type": "url",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Guide_g%C3%A9n%C3%A9ral_du_Mus%C3%A9e_national_de_Naples_-_suivant_la_nouvel_arrangement_-_avec_plan_du_mus%C3%A9e_%28IA_guidegeneraldu00mona%29.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://www.musee-orsay.fr/en/artworks/la-marchande-damours-221704"
+            },
+            {
+              "type": "url",
+              "url": "https://collection.nationalmuseum.se/en/collection/item/78460/"
+            },
+            {
+              "type": "url",
+              "url": "https://collections.louvre.fr/ark%3A/53355/cl010057666"
+            },
+            {
+              "type": "url",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Archives_des_missions_scientifiques_et_litt%C3%A9raires_%28IA_archivesdesmissi05arch%29.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://commons.wikimedia.org/wiki/Category%3ALa_Marchande_d%27Amours?uselang=fr"
+            },
+            {
+              "type": "url",
+              "url": "https://utpictura18.univ-amu.fr/notice/16787-marchande-damours-stabies-villa-arianna"
+            },
+            {
+              "type": "url",
+              "url": "https://www.parismuseescollections.paris.fr/es/node/225743"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Liste_de_peintures_de_Joseph-Marie_Vien"
+            },
+            {
+              "type": "url",
+              "url": "https://picryl.com/media/la-marchande-dand39amours-91eb5a"
+            },
+            {
+              "type": "url",
+              "url": "https://resources.warburg.sas.ac.uk/pdf/cbh738b2212143.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/La_Marchande_d%27amours_%28Vien%29"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Joseph-Marie_Vien"
+            },
+            {
+              "type": "url",
+              "url": "https://es.wikipedia.org/wiki/Le_Antichit%C3%A0_di_Ercolano_Esposte"
+            },
+            {
+              "type": "url",
+              "url": "https://de.wikipedia.org/wiki/Die_Amorettenh%C3%A4ndlerin_%28Joseph-Marie_Vien%29"
+            },
+            {
+              "type": "url",
+              "url": "https://resources.warburg.sas.ac.uk/pdf/kok50m34b2464476v1.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://www.e-periodica.ch/cntmng?pid=zak-003%3A2013%3A70%3A%3A338"
+            },
+            {
+              "type": "url",
+              "url": "https://commons.wikimedia.org/wiki/File%3AClodion_-_La_Marchande_d%27Amours_1773.jpg"
+            },
+            {
+              "type": "url",
+              "url": "https://enfilade18thc.com/wp-content/uploads/2021/12/dp_adam_mba_2021_2022.pdf?utm_source=openai"
+            },
+            {
+              "type": "url",
+              "url": "https://collections.louvre.fr/ark%3A/53355/cl010057666?utm_source=openai"
+            },
+            {
+              "type": "url",
+              "url": "https://collections.louvre.fr/ark%3A/53355/cl020043469?utm_source=openai"
+            },
+            {
+              "type": "url",
+              "url": "https://pop.culture.gouv.fr/notice/joconde/M0121003672?utm_source=openai"
+            },
+            {
+              "type": "url",
+              "url": "https://commons.wikimedia.org/wiki/File%3AClodion_-_The_Cupid_Seller_-_cropped.jpg"
+            },
+            {
+              "type": "url",
+              "url": "https://www.christies.com/en/lot/lot-5930451"
+            },
+            {
+              "type": "url",
+              "url": "https://www.sothebys.com/en/auctions/ecatalogue/2009/important-old-master-paintings-including-european-works-of-art-n08516/lot.363.html"
+            }
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0bc31b2087aa71d8016aad3af3d3c487d29261f18ff66996e0",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTr9Kpw6NbWu0JkJtr7vrJiDaFMGE9tQvB4RhHrJsn03zqsG1WMYV0ZKWbodO67jkyfimcmosSRvgIYWmqySj0weWvWZk40QuKynXGZcgDh5DUuDeRiyztzeGgnV5VAaLUoKnLPbD3sZRq7W5RSB1PnOn1jaW4GZh-AEegx8lDDZt4mgGfhULbz-nk9OxxSi5Trw167LICpP_iPgxLzfz6g8H3jZpzDrPAhKp3sE3GABaLqVP_in8CcKV79YwivGbTYLNLo5WustSwlO-SvMPbV0QHiVHTdwXklwovPo5sijt7JwVg5ZcPTQ2bfJO7OMRmUSNOEsIBv2vmTNEess8Pojw1tTRXma8dPCgFbJDlCsdT29wAdzkTiBJs2yCtPDStL-PielK-uwzE74ymF0jYsq7oVVV54XOCINrc4DAOrLYAexwVCIKVdWQDuvs5wCtQeNPwSpTKrNzTOlCe9mPdVlE5NmdDX3WmxK_arND0sKYTV5ckojaEoZZw5uuo7JJbbwCn6z8LmExsk26VSxMBoiU0K8GxLCrvEp9-1xbohK7keAcyftyjavzlKlkwTQoqQqjJl_DMHis4M5XV9oTXhI8430wYxbQGpfXL_4NgDtqTyQ6Kx1vewjK3fK7HPwiwu9h174dwDjJ_ZR6q6GmZYE3M5wxF1SOlE5zns3XuOOCJbwh9MnJ1Nt1xzihsqW-QzFibNVZ-RSslZiPBcT7CVD6IowZQrH_eBhIb8Mz8IxcVlCpvRQ1GJwSuFhlRmno-0N-Qh8XZrR137fno2_OujJyXdSbwKn1_IpveEEPrH0cPbeE0tUOeuUaBD_ZNXmUutoPsv0CUy_7YdW5CZep5zKGBJx19WRUFkLQoJOyrltTziyKLNGyVKqLF7lmVQbOO_dB9AF_DhKg6peh-LcPD5myBP1n3SjuBtSahHbNqWcNQABVz1Td-qBkAt6h5cPxVYK9B9sHsULpzvnUCl4miWb13TbiOWenOLPq7Q0c9nHBCnXbAf1jSS4VY9RZtYbf9rXAIA6BJJkycE9-Dh0BBaX7MVgR_nX6d2Ytv0iHQqfRENX83T_-IN8FL75mhzqaHaX1jT4p8Ydi1EBEyRL-qY8oNistYfV0g3msDXOAFT-BblfdO5sDIAGSIUseHDpkw0AsHLl9P7XOSWRlv4Nhy9DS-qJVLPFJKPSnwjIWPAcbMWIRr-1CA-jKUzyMWVH3aOXLciOKyIMHsHZaysMhvvt6YoH8Lwi9BHtX9mZLeevW560bU_Z56U7AWVx8nBavc1lldfNar57yWzQCxVOH5lr4DOrqhbAVC_LlGHCtfDoqAa5s6R5tZwUcFj6DlCs_40FdS0yhS50PXjkNOnfp7FMEkw54zp8y2TYetzwwOU8T4QCkzLY6WOpo9oFPktNcEITDYwlqf3iOKbEePpiice0POA2QlNl8EYhFfXzj0_AcH9uI3wN5Hiyw9DfQgTujcIfP-_cmIqSZok5y0fuFZQ6uZsWbDAZUHzetIs3endh0zH4y8lj_FVg4Q0iH-OF0GAbcnjOO3m0H7beAHrjTYjoeLxhRZQpKOlBDsqaJorpIz_emXAU0XJ-pDyRD0jN3FVuqn_J5VIlbFkg8ScUnO6Tx5yVfBJ_pCEiwhGEDaMyCymevKj3wuVSj8hDqTkFX9u2_VxqC774-OEAVb7bP277jM9KTt83UVQRSCX7-jxRHf_myOfg9vBJEgtvADBd-2tf1CMLt03ECFy3VfbSeAVrBkTcpuqw8y8XAfXgCb-Wnbiirp8JsH9gNslk1oNzOi7biguGB-uxtmZvslRWqu8LszXBKtqfb47zljMWFWnN55zbGZ4odBHqkDDCU-owe2bBvvwkvfGvFE7QrHnTFFZ2Wzgm3otBDgLeRXBisvpI4A1h78yGxRjA4LnpSYD0QXnjh5WqZcCRHXfkUx5v9OvkKCBPpK-J2njFv6Guc9jKh5Hjx_PHVpoln-jOYqrneIeC-s3kiBBbm9swZT1psdwz2hvfHUcIOYIvTeERyg966f-AiHVcjWi2Hpu9NwZ6s6THf76NAWZz7lOqHLf7PJu6vyO_QOBqIQtm4UhRgNDVz0qbaV7hNHwEnOwZt7oq4pv-G7risxMQW2Sl8xOZrZwt61ze0hxAMM1Vf22sYjM4TqqANO4YvJC6bN8I3pw0POm836N5CFstRaj7In3u9FHqJFVXBuAGO4P3kKkCckQPgvE-zaFJrM2A1ZJ0KAbtu7yYRGsL69LwMF0QlAJhCz-joMNgXEfffh5f7ufG39bFfstRhYg1mxJ3bNTJlEShqgeSM-1-VwFhRJD0Ls26B7f3fcoI3qoQrWbzw3ufN99r7fMaFNJ4B-3ShNvW59EnYkyy3brNZdc-CA93sNu5LuHy1EIwqUt5xayH5eFsy8Idfd5nSwLKqprSFRXb_27eLuEallceMKEfaep7D7nAdJ1HqvfWnVCwcpWpzaEcVIhBXADu3_fVzQZLgmMSwCaAkEepzm8o6iedDHqpnsCcRDfNNTqWlGno7mdikZ_zjOHjIMg7qQ_M-bolYLegZaUP_ZvlahnV8FfvgyJEFy6oDdfT9KiYkq5zstqPidq0-GwDWbI=",
+        "status": null
+      },
+      {
+        "id": "msg_0bc31b2087aa71d8016aad3af7894487d2a8d01eefc7cd48ea",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 847,
+                "start_index": 709,
+                "title": "La Marchande d'Amours - Clodion Claude-Michel, dit",
+                "type": "url_citation",
+                "url": "https://collections-mba.nancy.fr/fr/notice/94-5-1-la-marchande-d-amours-6eaab7e3-f422-4477-8658-2a49cf999684"
+              },
+              {
+                "end_index": 1257,
+                "start_index": 1119,
+                "title": "La Marchande d'Amours - Clodion Claude-Michel, dit",
+                "type": "url_citation",
+                "url": "https://collections-mba.nancy.fr/fr/notice/94-5-1-la-marchande-d-amours-6eaab7e3-f422-4477-8658-2a49cf999684"
+              },
+              {
+                "end_index": 1854,
+                "start_index": 1743,
+                "title": "File:Clodion - La Marchande d'Amours 1773.jpg - Wikimedia Commons",
+                "type": "url_citation",
+                "url": "https://commons.wikimedia.org/wiki/File%3AClodion_-_La_Marchande_d%27Amours_1773.jpg"
+              },
+              {
+                "end_index": 2389,
+                "start_index": 2270,
+                "title": "dossier\nde presse\nLES\nLA SCULPTURE \nEN HÉRITAGE\nEX",
+                "type": "url_citation",
+                "url": "https://enfilade18thc.com/wp-content/uploads/2021/12/dp_adam_mba_2021_2022.pdf?utm_source=openai"
+              },
+              {
+                "end_index": 2730,
+                "start_index": 2631,
+                "title": "La Marchande à la toilette, dite La Marchande d'amours - Louvre site des collections",
+                "type": "url_citation",
+                "url": "https://collections.louvre.fr/ark%3A/53355/cl010057666?utm_source=openai"
+              },
+              {
+                "end_index": 2975,
+                "start_index": 2876,
+                "title": "La marchande d'amours - Louvre site des collections",
+                "type": "url_citation",
+                "url": "https://collections.louvre.fr/ark%3A/53355/cl020043469?utm_source=openai"
+              },
+              {
+                "end_index": 3204,
+                "start_index": 3107,
+                "title": "",
+                "type": "url_citation",
+                "url": "https://pop.culture.gouv.fr/notice/joconde/M0121003672?utm_source=openai"
+              },
+              {
+                "end_index": 3446,
+                "start_index": 3337,
+                "title": "File:Clodion - The Cupid Seller - cropped.jpg - Wikimedia Commons",
+                "type": "url_citation",
+                "url": "https://commons.wikimedia.org/wiki/File%3AClodion_-_The_Cupid_Seller_-_cropped.jpg"
+              },
+              {
+                "end_index": 3675,
+                "start_index": 3612,
+                "title": "BAS-RELIEF EN MARBRE REPRESENTANT LA MARCHANDE D'AMOURS , ATELIER DE CLAUDE MICHEL DIT CLODION (1738-1814), FRANCE, VERS 1800  | Christie's",
+                "type": "url_citation",
+                "url": "https://www.christies.com/en/lot/lot-5930451"
+              },
+              {
+                "end_index": 4008,
+                "start_index": 3855,
+                "title": "(#363) A French Marble Relief of 'La Marchande d'Amours', By Clodion (1738-1814), Circa 1765-1770",
+                "type": "url_citation",
+                "url": "https://www.sothebys.com/en/auctions/ecatalogue/2009/important-old-master-paintings-including-european-works-of-art-n08516/lot.363.html"
+              }
+            ],
+            "text": "## Résultat vérifié\n\nL’œuvre correspond bien à la notice du **Musée des Beaux-Arts de Nancy**, et non à une peinture :\n\n- **Titre :** *La Marchande d’Amours*\n- **Artiste :** **Claude Michel, dit Clodion** — le musée donne la forme « Clodion Claude-Michel, dit »\n- **Date :** vers **1765-1768**\n- **Lieu de création :** Rome\n- **Technique :** bas-relief en marbre\n- **Dimensions :** 24,3 × 28,9 cm ; avec cadre, 32 × 37 cm\n- **Numéro d’inventaire :** **94.5.1**\n- **Signature :** « CLODION.M.feci », en bas à gauche\n\nLa notice officielle comporte une reproduction photographique, créditée à **Thomas Clot**. Elle confirme aussi l’exposition de l’œuvre en 2021-2022, avec une illustration au catalogue, p. 295. ([collections-mba.nancy.fr](https://collections-mba.nancy.fr/fr/notice/94-5-1-la-marchande-d-amours-6eaab7e3-f422-4477-8658-2a49cf999684))\n\n### 1. Notice prioritaire — Musée des Beaux-Arts de Nancy\n\n**Notice officielle de la collection :**  \n*La Marchande d’Amours*, Clodion Claude-Michel, dit — inv. **94.5.1**.  \nLa page affiche directement la reproduction et fournit les données d’identification complètes. ([collections-mba.nancy.fr](https://collections-mba.nancy.fr/fr/notice/94-5-1-la-marchande-d-amours-6eaab7e3-f422-4477-8658-2a49cf999684))\n\n### 2. Reproduction publique — Wikimedia Commons\n\n**Fichier :** *Clodion – La Marchande d'Amours 1773.jpg*\n\nCette page reproduit le même bas-relief de marbre et l’identifie comme une œuvre de **Claude Michel, dit Clodion**, conservée au **Musée des Beaux-Arts de Nancy**. Elle indique toutefois « 1773 » et ne donne pas le numéro d’inventaire : pour la datation et l’identification définitives, il faut donc privilégier la notice du musée, qui donne **vers 1765-1768** et **94.5.1**. ([commons.wikimedia.org](https://commons.wikimedia.org/wiki/File%3AClodion_-_La_Marchande_d%27Amours_1773.jpg))\n\n### 3. Dossier d’exposition illustré\n\nLe dossier de presse de l’exposition **Les Adam : la sculpture en héritage** reproduit également l’œuvre et donne la légende suivante : **Clodion, *La Marchande d’Amours*, vers 1765-1768, marbre, inv. 94.5.1**, avec crédit « Musée des Beaux-Arts, Nancy / Photo T. Clot ». La reproduction se trouve dans le dossier, à la page indiquée autour de la planche consacrée à l’œuvre. ([enfilade18thc.com](https://enfilade18thc.com/wp-content/uploads/2021/12/dp_adam_mba_2021_2022.pdf?utm_source=openai))\n\n## Notices écartées pour éviter les homonymes\n\nJe n’ai pas retenu comme notices de **cette œuvre précise** :\n\n- **Joseph-Marie Vien**, *La Marchande d’Amours* / *La Marchande à la toilette* : peinture différente, conservée à Fontainebleau. ([collections.louvre.fr](https://collections.louvre.fr/ark%3A/53355/cl010057666?utm_source=openai))\n- **Anonyme français**, dessin *La marchande d’amours*, conservé dans les collections du Louvre/Musée d’Orsay, inv. RF 34721 : œuvre différente. ([collections.louvre.fr](https://collections.louvre.fr/ark%3A/53355/cl020043469?utm_source=openai))\n- **Jacques Gamelin**, *La marchande d’amours*, peinture du musée d’art Roger-Quilliot de Clermont-Ferrand : autre œuvre homonyme. ([pop.culture.gouv.fr](https://pop.culture.gouv.fr/notice/joconde/M0121003672?utm_source=openai))\n- **Frick Collection**, *The Cupid Seller / La marchande d’amours* : variante en terre cuite, dimensions et collection différentes. ([commons.wikimedia.org](https://commons.wikimedia.org/wiki/File%3AClodion_-_The_Cupid_Seller_-_cropped.jpg))\n- **Atelier de Clodion**, vente Christie’s, vers 1800 : autre bas-relief en marbre, explicitement attribué à l’atelier et non identifié comme l’exemplaire de Nancy. ([christies.com](https://www.christies.com/en/lot/lot-5930451))\n- **Sotheby’s, lot 363** : bas-relief en marbre de Clodion, vers 1765-1770, mais objet de vente différent ; la page le présente comme une autre version, sans l’inventaire 94.5.1. ([sothebys.com](https://www.sothebys.com/en/auctions/ecatalogue/2009/important-old-master-paintings-including-european-works-of-art-n08516/lot.363.html))\n\n**Conclusion :** la notice de Nancy est la référence d’autorité et la seule qui permette de vérifier sans ambiguïté l’association **titre + Clodion + datation vers 1765-1768 + inventaire 94.5.1**. Wikimedia Commons et le dossier d’exposition fournissent des reproductions concordantes, mais doivent être cités après la notice muséale.",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "required",
+    "tools": [
+      {
+        "type": "web_search",
+        "filters": null,
+        "search_context_size": "medium",
+        "user_location": {
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null,
+          "type": "approximate"
+        },
+        "return_token_budget": "default",
+        "search_content_types": [
+          "text"
+        ]
+      }
+    ],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1789737725.0,
+    "conversation": null,
+    "max_output_tokens": 2500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "medium",
+      "generate_summary": null,
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 41539,
+      "input_tokens_details": {
+        "cache_write_tokens": 96,
+        "cached_tokens": 4251
+      },
+      "output_tokens": 1996,
+      "output_tokens_details": {
+        "reasoning_tokens": 930
+      },
+      "total_tokens": 43535
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 2
+      }
+    }
+  }
+}

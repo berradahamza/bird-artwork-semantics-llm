@@ -1,0 +1,197 @@
+{
+  "signature": "0df41c01ec804791d1e8a58f5647a21589bf59d7356811eb90db4a782bfe9c40",
+  "response": {
+    "id": "resp_016501815c58c28b016aabe8473c9087d297cad5b15e73dc2c",
+    "created_at": 1789651015.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": "Analyse uniquement ce qui est visible dans cette image, sans recherche web ni identification de mémoire. Réponds en français. Décris précisément objets, personnages, décor et composition en 2 à 4 phrases. Pas de noms de personnes, dates ou récits non démontrables visuellement. Sujet principal parmi les neuf catégories ou NA. Religion/Mythologie/Histoire exigent des indices visibles, sinon NA ou catégorie plus générale. Culture : pratiques/symboles culturels identifiables ; Quotidien : activités ordinaires ; Objet : objets/nature morte ; Personnage : figure/portrait ; Nature : paysages/faune/flore ; Architecture : bâti. Style visuel probable en mots courts (ex. naturaliste, géométrique, impressionniste), sans affirmer une appartenance historique. Mets indéterminé si nécessaire. Ne confonds pas technique, sujet et style. Indique les limites et justifie les choix.",
+    "metadata": {},
+    "model": "gpt-4.1-2025-04-14",
+    "object": "response",
+    "output": [
+      {
+        "id": "msg_016501815c58c28b016aabe848468087d2b5903b985cba8a2a",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\n  \"description_visuelle\": \"L’image représente un groupe de personnages habillés de façon élégante marchant ou se tenant sur une promenade en bord de mer. À l’arrière-plan, on voit la mer, des vagues stylisées, deux voiliers et le ciel aux couleurs douces d’un coucher ou lever de soleil. Les personnages portent principalement des manteaux, chapeaux, et certains tiennent des parapluies. Une balustrade sépare les personnages de la plage ou de la mer.\",\n  \"sujet_principal\": \"Quotidien\",\n  \"sujets_secondaires\": [\"Nature\", \"Architecture\", \"Personnage\"],\n  \"justification_sujet\": \"La scène montre des personnes ordinaires profitant d’une promenade en bord de mer, activité de la vie quotidienne. On observe aussi des éléments naturels (mer, ciel) et architecturaux (balustrade).\",\n  \"style_visuel_probable\": \"expressionniste, stylisé\",\n  \"justification_style\": \"Les coups de pinceau sont visibles, les couleurs sont posées de manière libre et les formes sont simplifiées et stylisées plutôt que naturalistes.\",\n  \"figuration\": \"figuratif\",\n  \"couleurs_dominantes\": [\"bleu\", \"rose\", \"brun\", \"noir\", \"blanc\"],\n  \"elements_visibles\": [\"personnages\", \"parapluies\", \"balustrade\", \"mer\", \"bateau\", \"voiliers\", \"ciel\", \"plage\"],\n  \"composition\": \"La composition est horizontale avec la ligne d’horizon placée au tiers supérieur. Les personnages occupent la partie inférieure de l’image, en ligne le long de la balustrade, et la mer ainsi que le ciel prennent la majorité de l’espace.\",\n  \"limites_visuelles\": [\"Pas de détails précis sur les visages ou vêtements\", \"Impression de stylisation et simplification des formes\", \"Absence d’éléments historiques ou religieux directement identifiables\", \"Impossible de dater précisément l’époque uniquement via le visuel\"]\n}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": null
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 1.0,
+    "background": false,
+    "completed_at": 1789651020.0,
+    "conversation": null,
+    "max_output_tokens": 3500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "in_memory",
+    "reasoning": {
+      "context": null,
+      "effort": null,
+      "generate_summary": null,
+      "mode": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "resultat",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "description_visuelle": {
+              "type": "string"
+            },
+            "sujet_principal": {
+              "type": "string",
+              "enum": [
+                "Architecture",
+                "Culture",
+                "Histoire",
+                "Mythologie",
+                "Nature",
+                "Objet",
+                "Personnage",
+                "Quotidien",
+                "Religion",
+                "NA"
+              ]
+            },
+            "sujets_secondaires": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "Architecture",
+                  "Culture",
+                  "Histoire",
+                  "Mythologie",
+                  "Nature",
+                  "Objet",
+                  "Personnage",
+                  "Quotidien",
+                  "Religion"
+                ]
+              }
+            },
+            "justification_sujet": {
+              "type": "string"
+            },
+            "style_visuel_probable": {
+              "type": "string"
+            },
+            "justification_style": {
+              "type": "string"
+            },
+            "figuration": {
+              "type": "string",
+              "enum": [
+                "figuratif",
+                "abstrait",
+                "mixte",
+                "indetermine"
+              ]
+            },
+            "couleurs_dominantes": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "elements_visibles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "composition": {
+              "type": "string"
+            },
+            "limites_visuelles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "description_visuelle",
+            "sujet_principal",
+            "sujets_secondaires",
+            "justification_sujet",
+            "style_visuel_probable",
+            "justification_style",
+            "figuration",
+            "couleurs_dominantes",
+            "elements_visibles",
+            "composition",
+            "limites_visuelles"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 1190,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cached_tokens": 0
+      },
+      "output_tokens": 439,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 1629
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  }
+}

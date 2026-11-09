@@ -1,0 +1,205 @@
+{
+  "signature": "a83661ee5b9946b439536b87b42e85f2ddd437a612c51eb9663178efff7e6f69",
+  "response": {
+    "id": "resp_05edf05dd9cd1d75016aad40c1e97c87d28be1706d07c0a863",
+    "created_at": 1789739201.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": "Analyse uniquement ce qui est visible dans cette image, sans recherche web ni identification de mémoire. Réponds en français. Décris précisément objets, personnages, décor et composition en 2 à 4 phrases. Pas de noms de personnes, dates ou récits non démontrables visuellement. Sujet principal parmi les neuf catégories ou NA. Religion/Mythologie/Histoire exigent des indices visibles, sinon NA ou catégorie plus générale. Culture : pratiques/symboles culturels identifiables ; Quotidien : activités ordinaires ; Objet : objets/nature morte ; Personnage : figure/portrait ; Nature : paysages/faune/flore ; Architecture : bâti. Style visuel probable en mots courts (ex. naturaliste, géométrique, impressionniste), sans affirmer une appartenance historique. Mets indéterminé si nécessaire. Ne confonds pas technique, sujet et style. Indique les limites et justifie les choix.",
+    "metadata": {},
+    "model": "gpt-5.6-luna",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_05edf05dd9cd1d75016aad40c2846887d292b5481092b44885",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrUDLkiaWf79u3JPZNbSx_ojUeU7I4KmzCvKw2J55duDo106xwt2frpE-XGvN-X80Iyrz6PMYt0Jlp6F7mawfSInY3gZCLX_ZT9EeNa7uIL757t3g4Fg_O5iEtJs-awXp9QVbataEEz67ymEgRyCFy5ZDY9FdThOnOuz8mOb_irfvwkVoE9fjXnfXFRfmCzssERVng2aKLO8gCYtmdAqhI7eTYCyoKEjqB_8vfYjIs4Ldmfks795MiLBD7A8aeJKEySimcJDj8_wfZDcaQgIAcXjdSqhZyUvin90h2YShAWLVlF4pSvHvysP_ewUjYEFyMwUfeiz4oq5nv0DXbLs5Br1E_kUTbeL02NFm5AN4Jj27IkRFIQ0ULipteKWOGNWLNtmFnjGnr6woa10ism9WSGLWPrSXzp23OdRJyWOZiSFlxLHOR_6BUEHjhb1WfOs4YETDs9zr17bdAGh35E1WgNz0_Loz40_pIHieu5z1paz4gXFbYK1VOgtH2EnLLEg5PxioYhWck6L0YxYHO_KZF5JXSMOSZQArMcqJlZrIfGwc_yANAFg0uMxM0-14ucjGbNRhhcCjw6Kjr2eqb1BKrgt-6A46dUQkwT4hGEHmVo8mrpd1p8um8fjw5lM6Bi4j5XPxaUNlyz3NFSbYjbR-eYfLbetnBDq94CMCCUs-WV_F0tDqyoCB2NimXIqpanYRpD5YprNMBfUI0luyMOwDj_7BPkPhLUBRgTKBj8yAfEfyW92fm64DyS0vzxAo_tIvC2LAfI6KXK9hXLK_YBKNG4hgGP03Z9Pj1X85dGpncf1YLZ3iF86t2rEiXM4JzzRUlv3iLSdaW7DuTsytWeWY-KjRy_TzhqNiCzO4U3vv3Kuq9nAnqJCu6Zl9c-U6eapj6RYVxDpBZQE0E5_3D-VaLF1ArguQpl2TXYeFdAjapKKLcmoDvQPVqDQn1Y5ArCf13kafMJius3uTb9r1My8c5gTLaKjccw-Eyfajf3SUpJyzBxBCgHZuwRVVyAmje85Fx_LeRWtibZA0Uy5gbmdlOdyxoDlvkucfOZUoeFhWOcnGiPtNXeAERz5fwdi1XbklhmQBuY5saFVA309pF18xTyv5cniRX6fz2apV2u1kMBhJB21g457zZqjbH-mpcVAYgSaJP0w33djP4cKWjjFaY0Oay_wfvcBAU3D6yqiEslQb_4kpWkufw79uo2O0NWTna8e7Z6Pw3lTMhlEWJnj41_mJycSCekOWKQENSxgqZjakj9tJtd9tirCRS5Lq9tXfohfsXGroovyq9TA4cjtUi_4cAMSNEvsOWBRZnyICWKPo6a3utpBS8v1mgCM6qY9eCh8bmhvkx_qHo3816Zuctg1U8Qd2hb3I6ZZN2OcGibvYi4dSj23vMrxRFXaT-Tfem47ALPgN8Hxt8qwxUXbTQsWVBlxl29EVD3euXvLj7Obpt6jVkrtwaSw44Fa4EI9aUrXWBUZhx0dgljBPdmdjOUrqlHIIjIZbZLy4vJbnVRem2ZBxTZ4DB2TVIeX2Ron4L13IkcOjx8EqYeXZxG0wajPuyY7BIz6S4gYdcXGtXmpDuYl5vRVyD99xhhARWHN0dE6EwlxQRZo5mS0kxxYk97dTLP816xO5xJ3gIKX7csIuT40_aD3daEhECIOvYciAWIxfnFMlQ14y1znTrob91yeqjfOSIzZ9YrqBoMYSEo_o6VvUJRsvTezOhTYroM2DaXaE-hMnP-vb8jSlbcJyIKbFANrvXCYJeFMstE2P1q6Pod8dYEitxF9-5jajU9mLgbRFS0LE4tteCCMY8WoFTQIT5XlsThVabJZBw71u6ytJWXTTImeZ1En5R4J_P-ba-X1K0Fhkg_TqwzOqsSRNHVahbASCgP1nEJkeZTgrRf2HhUcWcFx2evVxiDoiNakd3TI37lxyy4ddSe8I5Qj9APbixNRh9DxUQHD4AJSDVH9S8gHJfZDkq2tJbRK4FfZ4CJeSNupgwxLRJAV4Dft-dT6MsAK9MQWAa_9XGMVBIbdy-WmP_WVbHN9gtRsXsxt7BicvLXNNo4lNzryRTpa9vpoa51cTS0f6y6fhrYVrXtgpzEG0TK21DQGlORdAR25idybYfmcoUHD_HraeAeKnzIfkjjOyL56VHc4CCjKBPzvdv0cZLhxfuFOLF9NpvyPgT-CnIvyhJ0dgOmiAQ3CBoJ8LUQZP-ACSdsY2WXPb-lKOk7BJI2vrbVfQ7h1GB7yARZyfUqzHwNOkvE07q4ryv7a2kpSsaxtUD5zRAPSxy30ki84ZujEvicip2Ea4EIbNTy6HUBDvaFIWiAjt8lOYHAVuLhaxYUBrRSMfdPU-6X4WjWw=",
+        "status": null
+      },
+      {
+        "id": "msg_05edf05dd9cd1d75016aad40c488ac87d2988bb1b64a050704",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\"description_visuelle\":\"Une nature morte sombre présente au premier plan un homard rouge posé sur une table, entouré de coquillages et d’huîtres ouvertes. À l’arrière se trouvent une grande coquille, des ustensiles ou objets allongés, ainsi que des formes animales difficiles à distinguer dans l’angle supérieur droit. L’ensemble se détache sur un fond presque noir, avec une lumière chaude concentrée sur les aliments et les matières brillantes.\",\"sujet_principal\":\"Objet\",\"sujets_secondaires\":[\"Nature\"],\"justification_sujet\":\"La composition est dominée par des éléments disposés comme une nature morte : homard, coquillages, huîtres, récipient ou coquille et objets de table. La présence d’animaux marins justifie le thème secondaire de la nature, sans permettre d’identifier précisément toutes les formes.\",\"style_visuel_probable\":\"Naturaliste, réaliste, clair-obscur\",\"justification_style\":\"Les textures, les reflets et les volumes sont rendus de manière figurative et détaillée, tandis que le contraste entre le fond noir et les zones éclairées produit un effet de clair-obscur. La faible définition empêche une caractérisation stylistique plus précise.\",\"figuration\":\"figuratif\",\"couleurs_dominantes\":[\"Noir\",\"Brun foncé\",\"Rouge\",\"Orange cuivré\",\"Blanc crème\"],\"elements_visibles\":[\"Homard rouge\",\"Huîtres ouvertes\",\"Coquillages\",\"Grande coquille ou récipient arrondi\",\"Objets allongés ressemblant à des ustensiles ou à des éléments marins\",\"Table ou planche sombre\",\"Formes animales indistinctes dans la partie supérieure droite\"],\"composition\":\"Les éléments sont regroupés au centre et dans la moitié inférieure de l’image, avec le homard comme point focal. Le fond noir crée une forte profondeur et laisse une vaste zone sombre à gauche ; des objets suspendus ou empilés occupent la partie supérieure droite.\",\"limites_visuelles\":[\"L’image est sombre et de résolution limitée.\",\"Les formes situées dans l’angle supérieur droit sont trop indistinctes pour être identifiées avec certitude.\",\"La nature exacte de certains objets allongés et de la grande forme arrondie reste indéterminée.\"]}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1789739211.0,
+    "conversation": null,
+    "max_output_tokens": 3500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "medium",
+      "generate_summary": null,
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "resultat",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "description_visuelle": {
+              "type": "string"
+            },
+            "sujet_principal": {
+              "type": "string",
+              "enum": [
+                "Architecture",
+                "Culture",
+                "Histoire",
+                "Mythologie",
+                "Nature",
+                "Objet",
+                "Personnage",
+                "Quotidien",
+                "Religion",
+                "NA"
+              ]
+            },
+            "sujets_secondaires": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "Architecture",
+                  "Culture",
+                  "Histoire",
+                  "Mythologie",
+                  "Nature",
+                  "Objet",
+                  "Personnage",
+                  "Quotidien",
+                  "Religion"
+                ]
+              }
+            },
+            "justification_sujet": {
+              "type": "string"
+            },
+            "style_visuel_probable": {
+              "type": "string"
+            },
+            "justification_style": {
+              "type": "string"
+            },
+            "figuration": {
+              "type": "string",
+              "enum": [
+                "figuratif",
+                "abstrait",
+                "mixte",
+                "indetermine"
+              ]
+            },
+            "couleurs_dominantes": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "elements_visibles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "composition": {
+              "type": "string"
+            },
+            "limites_visuelles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "description_visuelle",
+            "sujet_principal",
+            "sujets_secondaires",
+            "justification_sujet",
+            "style_visuel_probable",
+            "justification_style",
+            "figuration",
+            "couleurs_dominantes",
+            "elements_visibles",
+            "composition",
+            "limites_visuelles"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 853,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cached_tokens": 0
+      },
+      "output_tokens": 674,
+      "output_tokens_details": {
+        "reasoning_tokens": 188
+      },
+      "total_tokens": 1527
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  }
+}

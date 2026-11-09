@@ -1,0 +1,58 @@
+{
+  "image_id": "1_5909",
+  "titre": "Portrait de Lucien Wiener dans son atelier",
+  "artiste": "Victor Prouvé",
+  "room_id": "Room_18",
+  "sujet_existant": "Personnage",
+  "fingerprint": "551a432b50315ba989ed459ebc2c67fcae35a0d276d8f88acde043452c844a87",
+  "model": "gpt-5.6-luna",
+  "prompt_version": "bird-vision-v1",
+  "date_utc": "2026-09-18T14:16:09.190782+00:00",
+  "statut": "ok",
+  "image_path": "images\\1_5909.jpg",
+  "source_page": "https://musee-lorrain.nancy.fr/les-collections/les-oeuvres-majeures/oeuvre-majeure/portrait-de-lucien-wiener",
+  "source_image": "https://musee-lorrain.nancy.fr/fileadmin/_processed_/f/f/csm_image_src_mo514_5114_mbo_0a36ba4f3f.jpg",
+  "controle_identite": "retenu_par_IA_non_verifie_humain",
+  "raison_identite": "La page du Musée lorrain rattache explicitement l’image au « Portrait de Lucien Wiener » de Victor Prouvé, daté de 1890, en huile sur toile, avec l’inventaire 5114. Le titre, l’artiste, la date, la technique et le sujet correspondent à la notice de l’œuvre ; l’image montre bien Lucien Wiener dans son cabinet, consultant un carton à dessins.",
+  "original_width": 541,
+  "original_height": 720,
+  "download_url": "https://musee-lorrain.nancy.fr/fileadmin/_processed_/f/f/csm_image_src_mo514_5114_mbo_0a36ba4f3f.jpg",
+  "sha256_download": "3b83300e83eb527d85650f56d3859f61b7948d453489b85d93c6b71cd16f555b",
+  "description_visuelle": "Un homme âgé, barbu et vêtu d’un costume sombre est assis dans un fauteuil, tenant une grande feuille ou un plan déployé devant lui. Il se trouve dans un intérieur sombre, près d’un chevalet ou d’un support de présentation, avec des livres, des meubles en bois et divers objets autour de lui. La scène est éclairée par des tons chauds et composée autour de la figure centrale, légèrement tournée vers la feuille.",
+  "sujet_principal": "Personnage",
+  "sujets_secondaires": [
+    "Objet",
+    "Quotidien"
+  ],
+  "justification_sujet": "La figure humaine occupe la majeure partie de la composition et constitue le point focal visuel. La feuille, le mobilier et l’activité de lecture ou d’examen complètent cette scène intérieure ordinaire.",
+  "style_visuel_probable": "Figuratif, naturaliste, pictural",
+  "justification_style": "Les volumes du visage, des vêtements et du mobilier sont rendus de manière reconnaissable, avec des modelés, des ombres marquées et une touche visible. La palette sombre et chaude renforce l’effet d’intérieur réaliste, sans permettre d’attribuer précisément une école ou une période.",
+  "figuration": "figuratif",
+  "couleurs_dominantes": [
+    "brun",
+    "noir",
+    "ocre",
+    "gris bleuté",
+    "beige",
+    "rouge sombre"
+  ],
+  "elements_visibles": [
+    "homme âgé barbu",
+    "costume sombre",
+    "fauteuil",
+    "grande feuille ou plan déployé",
+    "chevalet ou support incliné",
+    "livres ou documents",
+    "meubles en bois",
+    "intérieur sombre",
+    "cadre de la reproduction"
+  ],
+  "composition": "La figure est placée au centre-gauche et occupe la hauteur principale de l’image. Ses bras et la feuille forment une diagonale dirigée vers le centre, tandis que le support incliné crée une seconde ligne oblique vers le bas. Le fond, plus sombre et moins détaillé, sert de contraste à la tête, aux mains et au document.",
+  "limites_visuelles": [
+    "La nature exacte de la feuille — plan, dessin, carte ou document — n’est pas déterminable avec certitude.",
+    "La fonction précise du support incliné et des objets du fond reste incertaine.",
+    "Aucun indice visuel suffisamment explicite ne permet d’identifier la personne, le lieu ou le contexte historique."
+  ],
+  "desaccord_sujet": false,
+  "erreurs_telechargement": []
+}

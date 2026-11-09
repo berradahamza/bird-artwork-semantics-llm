@@ -1,0 +1,28 @@
+{
+  "image_id": "0_0353",
+  "titre": "Coin de jardin",
+  "artiste": "Jules Antoine Voirin",
+  "room_id": "Room_9",
+  "sujet_existant": "Nature",
+  "fingerprint": "76fa491623dab636a569fd2caaf9f7aca4804dff3c5b5374274420cec93ed0ab",
+  "model": "gpt-4.1",
+  "prompt_version": "bird-vision-v1",
+  "date_utc": "2026-09-17T12:51:04.046363+00:00",
+  "statut": "a_verifier",
+  "motif": "Aucune correspondance suffisamment étayée.",
+  "nombre_candidats": 8,
+  "erreurs_telechargement": [
+    {
+      "url": "https://musee-des-beaux-arts.nancy.fr/typo3/sysext/core/Resources/Public/Icons/Flags/FR.png",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://musee-des-beaux-arts.nancy.fr/typo3/sysext/core/Resources/Public/Icons/Flags/en-us-gb.png",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://musee-des-beaux-arts.nancy.fr/typo3/sysext/core/Resources/Public/Icons/Flags/DE.png",
+      "error": "ValueError"
+    }
+  ]
+}

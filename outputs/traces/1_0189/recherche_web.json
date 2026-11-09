@@ -1,0 +1,597 @@
+{
+  "signature": "7b76de5b5e5221064a2f12e15a197ec364f91e29bad31db64c37180422c0c0c3",
+  "response": {
+    "id": "resp_0913e3a95c98c9f0016aad3a28680487d288ad7bb318882c23",
+    "created_at": 1789737512.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.6-luna",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0913e3a95c98c9f0016aad3a291e6c87d29c2ab233849cfdc2",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTpFdKfRDyAJpD8pM0EDscijqi4YZ65Q23AjiON2jRspTv6qGA4Ew1xh8WucmQwOXmF1BcmaW60-CeqwGW7UZq2fD0E530hBIf8brWnxdIB95mSGQujVBVrZIGKwi_LBBFdrhhxVBLzH8N8lrcSqeD1njiimMNzjPH7vbYXxwrz_bdk2k6-Y8LE5QAETJ8Fm1mZUbRCBFkSFwd9p5458N5y5YQJDKZ7dGrIMBIJBwkUie1lvV_MioRY3oOLlEsEULzc_T8BaZgidehd7NDAaw8FO1aWyOoqwvenkORAXeFamvSOCjZr6gmDNPbrT9y3POV4yCSZbCora_9sdmnuR9xXuYFy1hzkn3XeufeaZdSYt46jDFfzgkzRU7-8EwZZKVHAoe4EVLaEIT44tgS8nRXQVykkNtHrUHw6u_84HLrSZ52l4ACoeI7CF5_bs1022kv7ZBAzu6eTjc3w5pwk8AklaJjti3ixmALk5om8APW1XiggQQqmfpg6NpwZNE3WfAQ60SHAKC-NXI2zO9271LZZKNcBjv8n4O1_zNpz6sCneE6q0zY4KVTl4ZXztEm0zN-xXeomYv0JdZTPyPzTelUsfvSFB5cBK8LaC0aB924zwHY1mvAgwLKwSLL371YtrLwe-JJRGAOw8Yh6tofD1fxHvPX_QHq3Y3yQ7XsSnfxrKn_ncuRNg20jVS4Lm2Nwl00eDdPTm1EUATymdtnVLKsQkEwX4X1XkHj7ryDmW9vlNnFk4wXEAH2QGBP6KjJqM0Y56UuXJ2ZnrAJgSzRXvLwz0uV-GSPPmbAVM38QXpDzWXQqnyQm70SLBloyduMuzAkbUxZuK1GHX4Efc05KTZd1F5gOXuW1naDgxo_8DYbyKw3uI9HP-k3yYlJDTYTN5UYy4wqH3Kcnwm3geshfOdmpq4hG4Ys_hXUfmGI3nHzhQwkM3XcKnDZ0RXjfdMzhvGBGXNMvftgKha4wKD2PmN42knGIBrsXlGvbzRQyOkUb8v548oaD7EnIQtMiknX7cch67i2R9nVQ5YHhyuE1YuAk1B4uB2DMwJ3hg_pgZW2Bmfgvh9TUofuTOvgv8qLqJ-eAOvqQ_APyHK1LiQTxLCPoXGEU9yG3HYBSPOMdmhXU7FTz8duf1Qpme7IyjfDIAGWqp0I8VtvzQsLFsguLsApVOE1g1tTQ1sNAbNKnDh0pgvI5NKHkP65cnUIUN2LTXx3HGKNMzeqfsDrbpXbCFmIpj52ERBNwDmV5HObnGXJFtgJNqOtGdDdiqsPqNkleDlhVUqbduu7aHPIvTHdKWoy6sqA==",
+        "status": null
+      },
+      {
+        "id": "ws_0913e3a95c98c9f0016aad3a297c2487d2bd8aee418e68e751",
+        "action": {
+          "type": "search",
+          "queries": [
+            "site:mban.nancy.fr \"L'Annonciation\" \"Charles-Antoine Coypel\"",
+            "\"L'Annonciation\" \"Charles-Antoine Coypel\" 1738 Nancy",
+            "\"Charles-Antoine Coypel\" \"Annonciation\" 1738"
+          ],
+          "query": "site:mban.nancy.fr \"L'Annonciation\" \"Charles-Antoine Coypel\"",
+          "sources": [
+            {
+              "type": "url",
+              "url": "https://collections-mba.nancy.fr/fr/notice/75-4-1-l-annonciation-9f7359ac-b596-4b44-a3da-e93ca04383e3"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Liste_de_peintures_de_Charles_Antoine_Coypel"
+            },
+            {
+              "type": "url",
+              "url": "https://www.wikidata.org/wiki/Wikidata%3AMus%C3%A9e_des_Beaux-Arts_de_Nancy"
+            },
+            {
+              "type": "url",
+              "url": "https://musees.laval.fr/beaux-arts/charles-antoine-coypel/"
+            },
+            {
+              "type": "url",
+              "url": "https://www.patrimoine-histoire.fr/P_Lorraine/Nancy/Nancy-Musee-des-Beaux-Arts.htm"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikisource.org/wiki/Encyclop%C3%A9die_m%C3%A9thodique/Beaux-Arts/Tome_2/Lettre_P"
+            },
+            {
+              "type": "url",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Getty_Research_Institute_%28IA_livrejournaldela01duva%29.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/La_peinture_fran%C3%A7aise_au_d%C3%A9but_du_dix-huiti%C3%A8me_si%C3%A8cle%2C_1690-1721_%28IA_lapeinturefranai00marc%29.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Getty_Research_Institute_%28IA_lapeinturefranai00levi%29.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://collections.louvre.fr/ark%3A/53355/cl020012200"
+            },
+            {
+              "type": "url",
+              "url": "https://www.gazette-drouot.com/telechargement/catalogue?venteId=171218"
+            },
+            {
+              "type": "url",
+              "url": "https://arts-graphiques.louvre.fr/detail/expositions/0/11990-Le-Baroque-des-Lumieres-Chefs-doeuvre-des-eglises-parisiennes-au-XVIIIe-siecle"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.scribd.com/document/938250542/Les-Collection"
+            },
+            {
+              "type": "url",
+              "url": "https://www.marcilhacexpert.com/expert_data/upload/files/catalogue%20vente%20Baron%20Ribeyre%202025%2012%2008.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://s555667578eb235d0.jimcontent.com/download/version/1769191158/module/15450109923/name/CR%20AG%20DU%2010%20JANVIER%202026-4.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://wikipedia.cabillot.eu/content/wikipedia_fr_all_maxi_2024-05/A/Jean_Audran"
+            },
+            {
+              "type": "url",
+              "url": "https://collections.louvre.fr/ark%3A/53355/cl020004783"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Jean_Audran"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Louis_Desplaces"
+            },
+            {
+              "type": "url",
+              "url": "https://objects.library.uu.nl/download/1874-189829/fulltext/"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Collection_de_peintures_du_palais_des_Beaux-Arts_de_Lille"
+            },
+            {
+              "type": "url",
+              "url": "https://arts-graphiques.louvre.fr/detail/expositions/0/imprimer/11015-From-Poussin-to-David-French-Master-Drawings-from-the-Louvre"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Jacques-Philippe_Caresme"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Nicolas-Henri_Tardieu"
+            }
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0913e3a95c98c9f0016aad3a2cab9487d2934f8214d9763787",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTpFzyJyHlrYs-1qrnxOOqoDXHkXy14TgeOqgtFeqLH93mec_tCjwk8_HoMOrtOHd3cQ5Uj1rlebQafEWzSEwb7RJtzqbi28B8QN_cCBAEf_Us0ap-490UVd0rWRL4YILIRoJNjGbq1aPH6ctVfAgqpvVPzg_Rdg5kZpJnYyHV3-PpCmbRU1FkgbjBqIIKRkXoamPi8CrPdO0kHdXzoQ5-8UGEDoeNAAkcCjL4Mvk3L4WcgOumnpbunx1iqKK1hFxTm4quD7yzx3U0QNhpmb2wBwgXoYrhU7QSsJ3Vs0NKvQC7yGLgv_Gc2PiOXHraMd-zHjJp1QkXC7aSmYgY7_QidTq6aLfBZT8PHpaUGwJJEVdr1n2h9HupPHkCtKgw-bdgXLjxW3B77LEySyAHJ4gU7fUcTTXH-uZZe62q1WplKj5XLNmb3AZ3EcxvNKtogjJA2Mt3kxaBBFzuCGjQ0P_gJ4BG-m72rH-O-2tYEjiZWPPypYswZNf8s6PFXxAZf5SJq2ZhbN2DXLQ5_hf-7Xa55_u_ALvmVPwIrMOTrwXd_yKf_l5JzxDqfO1AhpzirRk4BCNLh4vagl6SKxUYv2mj-9gt6JeG3Zyba9TJ9m5c92D8ZY_LTn0NLCYRl9bBb_zSRUaII5-c-SyBZWsWjq0Q4RwTYJBSinpcZAWRigOit58uwstvvjKqYgR-J5qJ1WNYq5-pbjXegKi1LtQyntk_3PaRt7vQfGhwdpjAJA8RnA_r50L5zgPaPNAxC9A3OzhwjxiiZfiLzXb9hD4cB0dBtktaaojBG2n_j94TMHyybZ_wiNZ_qeqp7u_UBSK59cnoD4ctX4wUQQ8GMvZugOYNcvcg8vAxDJ4i1-PP8MX9EpbS43DTQVcPFeo-kPwDZRas4kZoF-WwVESlqQr6jp_fSHkzM9sVQaja2EjRUKtub9kkMUm3LmRz3B1uyytZ9FjlVUqrVUP2ozqOc8ViFVNb6lTfOfCTjJXUWLyasNOHkBy3yNovkIuDPhbnguhGuyIFErmUTmswFhAR3Cl519smyoqoq7HhUA7k2LlbnivNcs_C8mJcmceepslFRik3b7LVHUXMzaYIocBnORg6GCGCUDniPp60FmAVyS-go4FzWqjFcedbx8MGwSWC7VziadPjaREutrV-p54F8Q02oQPPtHIWnE8bo7S8OS8XGa9g1aQkXARy4TUsHMrXs_8BKrB2XotEMM_wlLq57jyRpH8FfWqW1hbUG-PApUPooACbCbpZ0Tnd0gKOoeX-kTrsIk1251rAdp7LinOWDPsfX_ZjolLFW1O5J90TawnJ_crsUKg4eo9BnM4m5oC5McNru--bbjehpJmpRztsIB1xBsZiJ0djX__WdWCZefchbv60EUitMmi6d6LJBOdjhgpaYoq_6DHKAlJhCBD41zNfT6XD0mVA==",
+        "status": null
+      },
+      {
+        "id": "ws_0913e3a95c98c9f0016aad3a2d052c87d29cf0f580be30c0c1",
+        "action": {
+          "type": "search",
+          "queries": [
+            "\"75.4.1\" Coypel Nancy",
+            "\"L'Annonciation\" \"75.4.1\"",
+            "site:pop.culture.gouv.fr \"Charles-Antoine Coypel\" \"Annonciation\" Nancy",
+            "site:collections-mba.nancy.fr/fr/notice/75-4-1"
+          ],
+          "query": "\"75.4.1\" Coypel Nancy",
+          "sources": [
+            {
+              "type": "url",
+              "url": "https://commons.wikimedia.org/wiki/Paintings_in_the_mus%C3%A9e_des_Beaux-Arts_de_Nancy"
+            },
+            {
+              "type": "url",
+              "url": "https://collections-mba.nancy.fr/"
+            },
+            {
+              "type": "url",
+              "url": "https://www.wikidata.org/wiki/Wikidata%3AMus%C3%A9e_des_Beaux-Arts_de_Nancy"
+            },
+            {
+              "type": "url",
+              "url": "https://collections.lacma.org/object/34091"
+            },
+            {
+              "type": "url",
+              "url": "https://www.wikidata.org/wiki/Wikidata%3AWikiProject_sum_of_all_paintings/Collection/Mus%C3%A9e_des_Beaux-Arts_de_Nancy"
+            },
+            {
+              "type": "url",
+              "url": "https://collections-mba.nancy.fr/fr/search?f=564170&o=562263%2C562261"
+            },
+            {
+              "type": "url",
+              "url": "https://www.askisopolis.gr/upload/3787_140973.4-75.4.1.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://www.metmuseum.org/art/collection/search/244831"
+            },
+            {
+              "type": "url",
+              "url": "https://www.theoritiko.gr/themata/bank/arxaia-a-lykeioy.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://www.parliament.mn/files/0bd94b430bd2439eae664ead6088161e/?d=1"
+            },
+            {
+              "type": "url",
+              "url": "https://de.scribd.com/document/505079218/2%CE%BF-%CE%95%CF%80%CE%B1%CE%BD%CE%B1%CE%BB%CE%B7%CF%80%CF%84%CE%B9%CE%BA%CF%8C-%CE%9A%CF%81%CE%B9%CF%84%CE%AE%CF%81%CE%B9%CE%BF-%CE%98%CE%BF%CF%85%CE%BA%CF%85%CE%B4%CE%AF%CE%B4%CE%B7%CF%82"
+            },
+            {
+              "type": "url",
+              "url": "https://tica.org/phocadownload/UCD.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://acta.astrouw.edu.pl/Vol75/n4/a_75_4_1.html"
+            },
+            {
+              "type": "url",
+              "url": "https://collections-mba.nancy.fr/fr/notice/101-l-annonciation-44111ca9-ac30-4070-83ad-de806bacc0e5"
+            },
+            {
+              "type": "url",
+              "url": "https://www.ekpaideysh.gr/images/%CE%91%CE%A1%CE%A7%CE%91%CE%99%CE%91_%CE%91_%CE%9B%CE%A5%CE%9A%CE%95%CE%99%CE%9F%CE%A5.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://pop.culture.gouv.fr/notice/joconde/06070002041"
+            },
+            {
+              "type": "url",
+              "url": "https://gyujtemeny.imm.hu/gyujtemeny/falitextil-falikep/33268?f=Wz4S6YjaQbZzPhpAFQ3xvxiBnUIM5SWOcYoaL8WvtlQXtN8Brx7V7BIA7xLxrh7V7Anxa18K7yDxnS8AnmgEqRUuo5kOnN8Y&n=1995"
+            }
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0913e3a95c98c9f0016aad3a2fe43087d2a6b2ea8e7fbfc95e",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTpFCELb_I0Vq00cnUoWvOmtL1rt05iXcqIgV6txG4L81sNcPH-TP4IG5doLLZXu85ELFWkVr7S0fvx7j_V5mWus09rZHeTu6UzSXFEmEh-jHbPnLm0bByY4hLQrJuqcnsoke7dihE1-8JvHPvCnUI5lbkX8ffKBloT2pDTtj1rGZzCGLMDLf-TRZPSKdQdMCIt6UXEHgQPkJ6zBpmwmEYjUN3tiO3WCWIh2hQw-8HcbBoMhWWwl79wVOIs9is_PZ76gEeTetDxrrVpDGmT68dMmP4ge6T3DcYfAMiaWk0kC_a4fPbhuVjknev48Fj23UowiGTiMp3kHey_7lWRxx_9Vy4bXz8toA857M4qrz6P4DKVgRtK_0T8PaLK1F320JLeVMdsNpG2refUeJlZcFvPLFr4mXmJpWu0c09_04y92dNdwuzK3Jqd4lgEDC-AsMCSLNaj5VF6L_upZC6sKXPDBTYzDh19K0b6nWajgQI2MN-Huw4zdktp3cdxRPGJrf1G7R_WJBfySy87Xtxkn4UhBCb06itDvTCMWm8CdIhN_vGwu6bGI_uhlWEOeqmWvXR8pkFKKP-ON3bGWgsbDtGP3Hw5p5D3e38OmhQXQRBqUlmRoigKSimkH2DtgDt7_QSEDqwMm30atm7_FBDUiJmFeEW5jbjID58X3-Wp8kyXqyxIprda6KwnFTIuxXbh7uadJnM-Sa4yuz9kc-4Tb3eoshmhpFCArs4VU797EuDUqEr9hjkci3kJparFaG8HQghG9MCftg4b2GZSS8T0vq9fCm7ecOIJN-PlOJ4zn7sL6K0PeV7p2x4r17ZcvGibHXO1jCDk0nD78BWw9TDSNO-aMFudqF_tPzonctw-sJz0ivDLkuSIE1GcylHD1aMiC5OlnYAaWQNUoi7e89GXJCSPmITrW0XyErPqrC_ZwvlQ_w35TWUm8rtu1CANZ-V8wyXTl2JVjEdlVvFUZEfzuomfWi1Iw3arOwlCCnUdnQqLhV_JylEYjwd0_tPtfSDUgjSqGbBkwWQwVlDBo-K1OXMleZlvT6VnJVWWbS3AcNYQSQaW_L4c86FaODaPnsrtr5-5RM7bB_T93UpkQIwvHWIannu4RhUQS_jbxNRz06O-9JYzBBbKVSbmRJ3CEJOa8bFuZ-toKdNlASrh1rUmqqfJKGz9qKB4TBEG9XHmYeuIrhVmFgZKDwB85_zhVoeSRckGV_pxMKatwP3abCWrzjcnoYMNzRDDmRIxCdTbN0oHkLWg=",
+        "status": null
+      },
+      {
+        "id": "ws_0913e3a95c98c9f0016aad3a30005087d2b80aff43dd2b3b05",
+        "action": {
+          "type": "open_page",
+          "url": "https://collections-mba.nancy.fr/fr/notice/75-4-1-l-annonciation-9f7359ac-b596-4b44-a3da-e93ca04383e3"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0913e3a95c98c9f0016aad3a3225a887d29d33f4f9aee233a6",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTpFHAmpGDDulW3jh_34tEwW1wNwjUGL7YYfihy5FYEwo2-mknVFIIqNnmvALggxFTcJd3gYNdJVIjAeU34gKc9I3Rsm4yxgVoxC9GyB1_4BO9f2xuCJvxptKRfPXhUGmsfh-0rVWcFpfvPmMccxcUGBFa6B7rrXjOUBz15q-c94j5k1-AGUq6_ytQn6NXy3fkZu5uMXYCtWrJLOWSIwRbpjQ7bPhILTvOK3_i6NMalfrsTe-jhvXXqxgLcZX8_XHC2PVsAbqFoUCNNdS4cLycZL20RK3i5HEQIMhewp66vVPIu5GK3Cld_6gmTCVfdX1EjSJFdhfY2vwUQC41JO7Sb5QXyPoPQEKmIxYTKe7LXjlI9rvrKEgDfi04zqK3hY2ClVDJLNRVcucVMIdb8aTiBlaR_McFRF2pZETCaWwZHgc-pxa9Mph47qqud_qdnZSKlrg3bvy6YkASo6oLKrY3g1Lz4lDIKFGMwI_peoN6dyBDp9AybTrA_yuZXKIo8w7mbgoPNtnEW4nEUdX0qI8W0Z81Bx0pGJL-7IG9IcuSlblG2lOVYJntwvdaoFqRDMFi1OOA6qKFZH1mx4Ug_KdgGLLR1lSxrp5AbMec6qevkehgJYJmNbs3YXuHu14ePV7zVrV3QN-tFtZqnizIpAedQhAMqL52wnxVTHko5z2q6WVizZ3sd_TFMpSeywUD3fpHKQro6Ml9gKKaiH1YLVGObEOcb16weTelZdNyHVJVwC-sSrJ3RshNdvnwIXT2XMetJIH9XEsT2AOlmo1tgOlztL2gwMGm7mpjt7KAqY2TGRKx0rpdI3qK4qTG_29AQRh_DWHwmtjqsqqzl4xrh90krS17BqcgmYJPCNcgTyCcND8r8oDoUcxSOrhH__C40yEHgolN0IvxXZLMu-LRt8B_86TVcv_OLs6cn-5gc0vUbgQvMHpVLaADbAVVrbOz_8fD-vQlIzXER-2bCSUxCCFvP0yFLPPFnQSwXACFd8Ujghea4uUuSaP6NhnIKFNZi1Veo3kORhxPUFH_Ef4XTG-VI0-ncVF_FZKgNUMUNW6g6UVr8WUfHjePO63TkqYmSoAlLcfiFSSVcZWswF3L5GKAvnA03p0v9E-lVi5FaWX2r2hg38ixbIHJxG3Wk62Eirb1kAZ1PLNcosPMM2e7EfAW6gouRYgXdMaUXMcUzVo_5GlHZhfIgEtx34sszolZTOWrYAk9Ce7rKK1fjvzl4An70up6ztSnScT21q8UAvso3FNw0=",
+        "status": null
+      },
+      {
+        "id": "ws_0913e3a95c98c9f0016aad3a32748c87d2862159344212f81d",
+        "action": {
+          "type": "search",
+          "queries": [
+            "site:pop.culture.gouv.fr/notice/joconde \"L'Annonciation\" \"Coypel\"",
+            "site:pop.culture.gouv.fr \"75.4.1\" \"Coypel\"",
+            "site:pop.culture.gouv.fr \"Charles Antoine Coypel\" \"1738\""
+          ],
+          "query": "site:pop.culture.gouv.fr/notice/joconde \"L'Annonciation\" \"Coypel\"",
+          "sources": [
+            {
+              "type": "url",
+              "url": "https://pop.culture.gouv.fr/notice/palissy/PM87001582"
+            },
+            {
+              "type": "url",
+              "url": "https://pop.culture.gouv.fr/notice/palissy/PM34001529"
+            },
+            {
+              "type": "url",
+              "url": "https://pop.culture.gouv.fr/notice/palissy/PM68000805"
+            },
+            {
+              "type": "url",
+              "url": "https://pop.culture.gouv.fr/notice/palissy/IM59000640"
+            },
+            {
+              "type": "url",
+              "url": "https://pop.culture.gouv.fr/notice/palissy/IM02002106"
+            }
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0913e3a95c98c9f0016aad3a35da7087d299c4f830e0cbae9d",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTpF9VKZ97haFtU5yRosGllBVcfNNesCyo_2p5ueVZpVS-ImwZ7KRHAVBLQz8WiUKxOFZ9dYAsmRSFyXzlvxc-1BOrmCQDiDKZFa3ohas82-lsIz-Om4oxA4RtrTqQT8g1qygx7MQULJYw2Cfi_-8MU8jxST1l03vACiIcF_-72GI4S11M9K7xMuVgQ0_i-HjLzUbBAOLjyxgMU7cBait0s1dtFqX6BvnlP8QVAqXW3b6M1nlgdKND4xnG9F38RYwweOSzyupC1fQOnnhMk45z1bCajkod7YXBvMHy3iHZMCQgcLlkh8s5GBY6iGBhJgcqcOrHfzzgwuvXBoCz9HhWM9XYfNQxF6zevyS4bcBByS1AMdOchWWOgi4GaAUqcCkutwlBxL7vBmRI8Olc2O3UCJOwT8gyeqsyB-4svYY8ySiMrokPcFjUnNbBuDTnZnru_mBmyAQxRO3uP3P8gRP_Njs1wreVeo69IFubYIND6_1cboLyX3SBQgq0KZNxSGTZueYvmzjtPWNIrUyoNFDr7CsZlmPjL35QiVZcB9pfVuWpBsqQLUcpUdShkhVddSTfrLZGdo_qSYQCZbC4ulSl6kJw9Y3pkXhs52Bey_E8IHo3rZ7HwxE8m5v_DvRErTEg9QN8dXTYk3TIN-8pdC5eY2_WwMTmAuPpJCn-2IQ8bOiTRYOu9auGr56YBz4MzJfmqGT13zMANjDJhGtc05UD8RVLr2toB30eIBXq6FWcJ6OucPHRkrDbVhDfPDDy_iEArbSe4o7bDie7itNqI4kj5STu9LlPLDsZ-T-F1lR-7tFM9PMpWc7CGBP4wZ1mH7khkHuX6JJXaHxOBW_lx4Tb9rIRt3M4IPXQ_KdNv6rRDDqadxTpy2ao7-188-A2V8RNrCAOreMUMnyTsOYQKuE5i3k2YfZlAlftMWcV_lZF3-wlovvevsPx3ddZlVG7_MRWkbfwBzOPhMYPE2CIpcmJmfPhgUajU7AYW4mX32KRvLnGMK9tmwbEh7vy-3byX1hR9KF0DR9M4NlnZfWTzLcV9Chzujy4hje_Wc646nsov7XsjsLiA_llo42hOqNELTDzEVyFXaPkXXoMY_VWWklBnBOkCTA6ogivCLZwYIAl-nb3kPtxC-6eWfZMqOgja4hE4nPnI5QPQJvKwbtBaab-_of0sSZG5wrHUxSAHa3OXz-aPoW4GR67M5gfTitYFqisbH5SiXv5QEDs2-nwBRi3BfgwJy_Ta0BUu4iN3BD8oP-DCU05LsBFMFQTVidffCsKMjzo392WPma6ru7EgYer0Iw890ncUnRxN-m5FrDPtx7mysqJpKCGC6JEwwd057ewIlKtX3g_NV8jYO8JYSqTnDaLC1dP73-eJVfdA-G2Gq_yYIcC1Mftb-zc9zjJHxjqHuawnsQc5fO3ADPZbI0dnDXUyB4v-uAQDyKj7vX_dsywFp-ekznap3VZEQ7CmtfOOCTfLgdnvOYCaNZjoMIZ705wVKMBmU6GZTG85bAUaBNf2B4DZkhdKVz0cx3A5Om633qWOS27OQUe-kOil4MpeKoszEnX-2BFl-l-AU-oTHb_yRbyqBOWbP4df02jg0VzqB44Lzb34E2mVBvNdNctlisDNBlQ0h7llnc1OaaDYfAIf-MjQjKT6O-FO1LVq_cRep9inKujr9FJ0-SYFozzEcQgdcDae9tLzEQSc-rHKKw7NAA8UcdISqy_adrB9r7HrOPbg56STrxTMU9ThJITxKr2-pvdZUGC2kNROJ0wQFp52INkzPb97jyg-T-AqysZVUAjio-n0wS9CQsykbApiLyAsdMUBWYK1Vnzm890w8ScdLMs52CuPrgna0_Vore07pJ2T9lN1L49TYP_x5GTU1TATUJdlMvPUVjI-7U5rfblXLvbW8Cshs2BbAJ1L5MhIIcBClKgn_IWmza9zhEoyM1XkWgfNwuRTfMCjKDJQacU_yykhA5RLO12eySDrxEXxWGE8RBq-BD7t0INNfMDsOzbg4-j5jnyAb0IC04Bzb1stS3OhjJ5nehuvLJXnzSL0-TvQGHVK8S4uIJnrK_3b-E3GTSSFpjf2CfIv3kEAzOFyrnWVBPZCSM_5HNeSFpPt6ZxAV6dtnLsA37zSEnuKmblVFV3lHSzwKxgSByj51_VRrRrC7s3rB74j3zVKbsmiLlPgd65uQmzPAvaXpwHKhBtkA_7x_yw1nwdxhqS40mok=",
+        "status": null
+      },
+      {
+        "id": "ws_0913e3a95c98c9f0016aad3a37b2d487d2a1eef95976ba0365",
+        "action": {
+          "type": "search",
+          "queries": [
+            "\"L'Annonciation\" \"Charles-Antoine Coypel\" \"140\" \"94\"",
+            "\"C. Coypel 1738\" Annonciation",
+            "\"L'Annonciation\" \"Coypel Charles-Antoine\" Nancy"
+          ],
+          "query": "\"L'Annonciation\" \"Charles-Antoine Coypel\" \"140\" \"94\"",
+          "sources": [
+            {
+              "type": "url",
+              "url": "https://collections-mba.nancy.fr/fr/notice/75-4-1-l-annonciation-9f7359ac-b596-4b44-a3da-e93ca04383e3"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Liste_de_peintures_de_Charles_Antoine_Coypel"
+            },
+            {
+              "type": "url",
+              "url": "https://www.wikidata.org/wiki/Wikidata%3AMus%C3%A9e_des_Beaux-Arts_de_Nancy"
+            },
+            {
+              "type": "url",
+              "url": "https://www.patrimoine-histoire.fr/P_Lorraine/Nancy/Nancy-Musee-des-Beaux-Arts.htm"
+            },
+            {
+              "type": "url",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Getty_Research_Institute_%28IA_lapeinturefranai00levi%29.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://www.pastellists.com/Articles/coypel.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://www.pastellists.com/Misc/Exhibitions_1750.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://www.marcilhacexpert.com/expert_data/upload/files/catalogue%20vente%20Baron%20Ribeyre%202025%2012%2008.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://collections.louvre.fr/ark%3A/53355/cl020004783"
+            },
+            {
+              "type": "url",
+              "url": "https://www.gazette-drouot.com/telechargement/catalogue?venteId=171218"
+            },
+            {
+              "type": "url",
+              "url": "https://megaconstrucciones.net/en/nancy/"
+            },
+            {
+              "type": "url",
+              "url": "https://arts-graphiques.louvre.fr/detail/expositions/0/imprimer/11015-From-Poussin-to-David-French-Master-Drawings-from-the-Louvre"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Jean_Audran"
+            },
+            {
+              "type": "url",
+              "url": "https://resources.metmuseum.org/resources/metpublications/pdf/French_Paintings_in_The_Metropolitan_Museum_of_Art.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://objects.library.uu.nl/download/1874-189829/fulltext/"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Louis_Desplaces"
+            },
+            {
+              "type": "url",
+              "url": "https://ogcma.byu.edu/0000WebGalleryofArtCatalog.htm"
+            },
+            {
+              "type": "url",
+              "url": "https://toutsurlagenealogie.blogspot.com/2012/02/charles-poerson-peintre-lorrain-du.html"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Jacques-Philippe_Caresme"
+            },
+            {
+              "type": "url",
+              "url": "https://jeanluc.matte.free.fr/nouveau.htm"
+            },
+            {
+              "type": "url",
+              "url": "https://hapenews.mine.nu/library/46183"
+            },
+            {
+              "type": "url",
+              "url": "https://webfiddle.net/21ideas-org/fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Meudon"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Meudon"
+            },
+            {
+              "type": "url",
+              "url": "https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Meudon"
+            },
+            {
+              "type": "url",
+              "url": "https://collections-mba.nancy.fr/fr/notice/75-4-1-l-annonciation-9f7359ac-b596-4b44-a3da-e93ca04383e3?utm_source=openai"
+            },
+            {
+              "type": "url",
+              "url": "https://commons.wikimedia.org/wiki/Paintings_in_the_mus%C3%A9e_des_Beaux-Arts_de_Nancy"
+            },
+            {
+              "type": "url",
+              "url": "https://www.patrimoine-histoire.fr/P_Lorraine/Nancy/Nancy-Musee-des-Beaux-Arts.htm?utm_source=openai"
+            },
+            {
+              "type": "url",
+              "url": "https://collections-mba.nancy.fr/fr/notice/101-l-annonciation-44111ca9-ac30-4070-83ad-de806bacc0e5?utm_source=openai"
+            },
+            {
+              "type": "url",
+              "url": "https://pop.culture.gouv.fr/notice/palissy/PM87001582?utm_source=openai"
+            }
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0913e3a95c98c9f0016aad3a3cc81887d2827bb3cd9fbb2861",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTpFUTd3tPsTT56mIGrB7WqmVqczk3wVSySVoag68dHN58UWwoTappCD52VDWJClFQ1M4oiSOmAk5xi8ySKDBN9tCU5939aaogEHF6OSRtf2ZoHVtHp9aXAqDt_CPPhDa0EcdyxenxEDeKnoHr8Df_TPk9GMAaSCN-UAb9Pvlzgeu673ftvTHKjV_2owknHhpFgC82W8sILtyEbEmIoQVRdXoAQ04V48-jtxUs2tJq0LAcKNA1cnL_W6fWbx7cEJIQZJ-FrGviBcDaWlmk4ffMvnJXo1eeOzYKc1ORRRdpwFpg3THuJzzg_UqAgPDPvu9cmj33yuif-fYmzlPly__qndeeQoPZqx-_MKkcg8I8YQfDgL593LkTHNxbpBw2ufUG8COVPgGRgXzhHpEaP23kZq8TcUqao2jRBP6PWh4guHGVHws3BphvLX5liiCKc9FpFkzfz0U41BwnbLpcRnDozUK9BoDgjxWEalwj6Hn1r5v2O8EgIcLStxOPj3lMKlgS0-JjMrZ5gA5wvRUOzXJu85frLVJHD1glS71tE3m1-1eDv2mYHKhZuFm9pYvQhTlP08_qtD4M5uvCZtsscydTL7e4pGTHWnhI0QDoIQ8psdaDIUMeabrC5deLa6Ul3-uHTx48ckeawogPF2WHoWKatDDNRwgBp2Qm58HrXyKkuannOHltr9LgStitfWLm6PxNL8PjMTWOX8Tum7O_FVDbyAfOf9t5bpKbTfTDizjfxn4z_leSk_3HSChiR0QiNM3d3zAcaGrxmDGhYg5jdpSd-QOKYagZA_FlymIWqWCuIbjLmLhPu8tCjrxmsXLDzC6bIC2DX2eZugM-XS9w5b5FoNX4sEKEHqdelGyLOKQhFQiD6dyLkmPqCHMIQxySi8oMfGtktgN2fgdzhqeYKkLvTySGCz5lgEGArjImpouoo3KhQW7IArDYV-pdO_1PdnQD45GZFQEGa7iS0qGoFpdwfm8gUSfeHiae65qAOrS2y5Rtc9b0HCMkrFr9G6OBbUaiWZ8XLJ9nt1ef8HvRAGyb_xx_EnNc1p9vdPF1qgnJgIMKDkP-A4s9UwL5CAGypgQrlyOSGIVWc72VGy2GVclj6xgcIt2eHtcYbhrk6sLfFq_xAmZNqHFGNbvjf6btKDT7l8tbkUBzsVlsX3AzFe8JgjMFuPfRh3ra06dIS4Qm3PM_qXEITBjZl3A9L3KIU6h8YvL6ZXWcrZDVtPv1sTMWO3oCLjSpzIBcBPHU9wqfWNsnlsbsrzElfR_KncqBK4ERKa64t5RZjQmz2l-_RhgMeMXSr1luY1fLa2qaZLa29bc8Kiem_J8oBoHPDDgKhuavv7GpgMQCI9bKLT80kZYlkZ1Y-1nrdyDqiuniq3UwIjmOXvCNkkeB01DGjzEGbykMrrn1JJi_oHd58YAgles1uI_ll--UTIO8v4NQRnT3UwlKxsgx4ScfOTZ9L0PAHyKrCbtSGjswBY_tUmE9H8CDgvVlkpkO85JSx-pbrUVztWaMXkoVvpq6HDyBeXWloyrkiDd7BuEfdL1_fFnIfsGdmhoUNWJpzXLjzSTAp1Qle5r4HPlct6WGLxZyqplAm6fjUy09URSYrf6oHkw8rodNq_JHOTSM6kal5KADCe3FhywV8csPm1oWlOS4H-jPwuZ9NMuvefBtFIESkg1FNoa0PlEB5S-FNQ0Jv5IeCDmH8DbHvqSegvp-2s6P0FuQ1THnWrE9JcDtS4zo2AiJMeDShDzma2VHEDDTT9q7uZ2ryp-A2rFmz8x65YiRFsUfp4FOdaZbXRnXNBA2csyIvKkWhKjwEIvw2UWqieb09UVOFk-O2KbGBvlDTVTunZkfHavLqiMDUuSzO8-ef6X1nzHj0b8bQBsixNHqGC0nn1-KbDor1ub9CSzpJZrGMqnSJPOGFHiUd36nFXWywSjdSZLCTjLLxTZ4gQpJZ7KjhNckCcuVJXR6QbO45Pw_ZToCO1hhOg7pGwhh73aILbmRypeCH5N4EG0t_AkRYx-3CoLwxGsD1GCABzk6uEDQvD6JsCWGIuvsbDBjCGtLFKCXWATJ70OJbTOFCgee8QHUixblsSXilsX-os4VUI0TI8zjlRzlpl8xJIq28Yrt1_ixYwnKNnJvnyjdHMQ-mDkrTWgvT-gDOMh_Urg_UdGUqO_vQ1pUMfm5OZpXyj4_Sj0w-y2diwDRYhM97zzkGYZmhEhmL_xvg0cg_FJ7vIiFD-y1Do5uHFRu57CODeHChX9OxXhrJNrqKG5hszpSCpgUJF2_bkw1hcVLs29syzoV0tqmuWFL6PA8m4lEJ5YjrETkiknYHuJz_2EoW7ypwJOr7GAsQXJmOHMsi6AgbXSwHyYdbuk_mZDtiMt7fKzM4yq5r4MjQTBipaY5spQXf9hpB3RfU46m7mBUP8gWRaMUwQJ6hR7WLEM3HyweNTpBz1fn7fCd5UB5ZNCL-wxFC7RsRoeiFyTC10Bty7e5KyQO8kEfW_Ibdb49y66roHAaRbWt2gA1QIdt2qDtbD8YDRD3WlLnm-l3e33HoATNWG9BJwRIvl0dj50F1bpsekmNwH-nGjKEl4UFb-YfJKjGF-6NXJx6bnklJK28W7L-stw_d9FA56I1hSpMxYoPfUom7S69o4IzDE7uVwIJNeDW2b3cr2DEhuL7rKXzwn_FjB4l65zPeCqgW0LTOPkGeGqfjJK7S3Odvx84EgwHrxoiaNDEut1MVSa5GusSbNnMU3C_aywVb8yxfIYQGTtF2GfS7FfXOsky7TTepr4lGI_L4VREBQPib15GoSPYyklh0jx7E7HgTQmzaE5p7WaiVpjlgcEvQ3eMnbZt_DoBXS5WdEYp1_YSLDwkYLpDl2HorzExCH1wtfyqjkOWZLKhNP3XUArmZsJM_LcoSYUUp7FuZtUpaZ3uyGAg_bcediXoh-6Y_sOA-B2wG2tvgyOIKxov_6JEv6-bF2jg==",
+        "status": null
+      },
+      {
+        "id": "msg_0913e3a95c98c9f0016aad3a3ea13087d2a9181303ef5a53ed",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 648,
+                "start_index": 499,
+                "title": "L'Annonciation - Coypel Charles-Antoine",
+                "type": "url_citation",
+                "url": "https://collections-mba.nancy.fr/fr/notice/75-4-1-l-annonciation-9f7359ac-b596-4b44-a3da-e93ca04383e3?utm_source=openai"
+              },
+              {
+                "end_index": 1146,
+                "start_index": 1015,
+                "title": "L'Annonciation - Coypel Charles-Antoine",
+                "type": "url_citation",
+                "url": "https://collections-mba.nancy.fr/fr/notice/75-4-1-l-annonciation-9f7359ac-b596-4b44-a3da-e93ca04383e3"
+              },
+              {
+                "end_index": 1605,
+                "start_index": 1492,
+                "title": "Paintings in the musée des Beaux-Arts de Nancy - Wikimedia Commons",
+                "type": "url_citation",
+                "url": "https://commons.wikimedia.org/wiki/Paintings_in_the_mus%C3%A9e_des_Beaux-Arts_de_Nancy"
+              },
+              {
+                "end_index": 2081,
+                "start_index": 1968,
+                "title": "Paintings in the musée des Beaux-Arts de Nancy - Wikimedia Commons",
+                "type": "url_citation",
+                "url": "https://commons.wikimedia.org/wiki/Paintings_in_the_mus%C3%A9e_des_Beaux-Arts_de_Nancy"
+              },
+              {
+                "end_index": 2645,
+                "start_index": 2517,
+                "title": "Musée des Beaux-Arts de Nancy",
+                "type": "url_citation",
+                "url": "https://www.patrimoine-histoire.fr/P_Lorraine/Nancy/Nancy-Musee-des-Beaux-Arts.htm?utm_source=openai"
+              },
+              {
+                "end_index": 3010,
+                "start_index": 2864,
+                "title": "L'Annonciation - Pourbus Frans II",
+                "type": "url_citation",
+                "url": "https://collections-mba.nancy.fr/fr/notice/101-l-annonciation-44111ca9-ac30-4070-83ad-de806bacc0e5?utm_source=openai"
+              },
+              {
+                "end_index": 3356,
+                "start_index": 3260,
+                "title": "",
+                "type": "url_citation",
+                "url": "https://pop.culture.gouv.fr/notice/palissy/PM87001582?utm_source=openai"
+              },
+              {
+                "end_index": 3664,
+                "start_index": 3515,
+                "title": "L'Annonciation - Coypel Charles-Antoine",
+                "type": "url_citation",
+                "url": "https://collections-mba.nancy.fr/fr/notice/75-4-1-l-annonciation-9f7359ac-b596-4b44-a3da-e93ca04383e3?utm_source=openai"
+              }
+            ],
+            "text": "## Identification vérifiée\n\nL’œuvre correspond bien à :\n\n- **Titre :** *L’Annonciation*\n- **Artiste :** **Charles-Antoine Coypel** (1694–1753)\n- **Date :** **1738**\n- **Technique :** huile sur toile\n- **Dimensions :** 140 × 94 cm\n- **Numéro d’inventaire :** **75.4.1**\n- **Conservation :** Musée des Beaux-Arts de Nancy\n\nLa notice du musée confirme également la signature « **C. Coypel 1738** », ainsi que la présence d’une reproduction photographique (« Voir l’image 1 » ; cliché Michel Bourguet). ([collections-mba.nancy.fr](https://collections-mba.nancy.fr/fr/notice/75-4-1-l-annonciation-9f7359ac-b596-4b44-a3da-e93ca04383e3?utm_source=openai))\n\n## Notices avec reproduction\n\n### 1. Musée des Beaux-Arts de Nancy — notice de référence\n\n**Notice :** *L’Annonciation — Coypel Charles-Antoine*  \nC’est la notice institutionnelle à privilégier : elle donne le titre, l’artiste, la date, l’inventaire **75.4.1**, les dimensions, la technique, la signature, l’historique d’acquisition et une reproduction de l’œuvre. ([collections-mba.nancy.fr](https://collections-mba.nancy.fr/fr/notice/75-4-1-l-annonciation-9f7359ac-b596-4b44-a3da-e93ca04383e3))\n\n### 2. Musée des Beaux-Arts de Nancy — notice courte / identifiant de ressource\n\nUne autre ressource du portail des collections reprend l’œuvre sous l’identifiant **9f7359ac-b596-4b44-a3da-e93ca04383e3**, avec la même association :\n\n> *The Annunciation* — Charles-Antoine Coypel — 75.4.1 — 1738\n\nElle renvoie à la notice et à l’image du musée. ([commons.wikimedia.org](https://commons.wikimedia.org/wiki/Paintings_in_the_mus%C3%A9e_des_Beaux-Arts_de_Nancy))\n\n### 3. Wikimedia Commons — inventaire illustré des peintures du musée\n\nCette page secondaire recense l’œuvre parmi les peintures du Musée des Beaux-Arts de Nancy et renvoie vers la notice officielle du musée. Elle confirme les éléments d’identification **Charles-Antoine Coypel / 1738 / 75.4.1**, mais il faut utiliser la page du musée comme source principale. ([commons.wikimedia.org](https://commons.wikimedia.org/wiki/Paintings_in_the_mus%C3%A9e_des_Beaux-Arts_de_Nancy))\n\n### 4. Patrimoine-Histoire — reproduction secondaire\n\nLa page consacrée au Musée des Beaux-Arts de Nancy reproduit également l’œuvre et l’attribue à Charles-Antoine Coypel, avec la date **1738**. Toutefois, sa légende comporte une incohérence — « Noël Coypel » — et donne une date de décès erronée pour Charles-Antoine Coypel. Cette page est donc utile pour la reproduction, mais **ne doit pas être retenue comme notice d’autorité**. ([patrimoine-histoire.fr](https://www.patrimoine-histoire.fr/P_Lorraine/Nancy/Nancy-Musee-des-Beaux-Arts.htm?utm_source=openai))\n\n## Contrôle des homonymes et fausses pistes\n\n- Le Musée des Beaux-Arts de Nancy conserve aussi une autre œuvre intitulée *L’Annonciation*, de **Frans II Pourbus**, datée de **1619** : ce n’est pas l’œuvre recherchée. ([collections-mba.nancy.fr](https://collections-mba.nancy.fr/fr/notice/101-l-annonciation-44111ca9-ac30-4070-83ad-de806bacc0e5?utm_source=openai))\n- Plusieurs notices de la base POP concernent des copies ou des œuvres inspirées d’une *Annonciation* d’**Antoine Coypel**, notamment à Ladignac-le-Long, Saint-Gervais-sur-Mare ou Durlinsdorf. Elles ne correspondent pas au tableau de Nancy de 1738. ([pop.culture.gouv.fr](https://pop.culture.gouv.fr/notice/palissy/PM87001582?utm_source=openai))\n- La notice de Nancy établit bien la distinction avec **Noël Coypel**, le grand-père de Charles-Antoine, en comparant les deux artistes dans son commentaire. ([collections-mba.nancy.fr](https://collections-mba.nancy.fr/fr/notice/75-4-1-l-annonciation-9f7359ac-b596-4b44-a3da-e93ca04383e3?utm_source=openai))\n\n**Conclusion :** la notice pertinente et sûre est celle du **Musée des Beaux-Arts de Nancy**, sous le numéro d’inventaire **75.4.1**. Les autres pages sont des relais ou des reproductions secondaires ; les notices POP trouvées renvoient à des œuvres homonymes, des copies ou des compositions d’Antoine Coypel.",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "required",
+    "tools": [
+      {
+        "type": "web_search",
+        "filters": null,
+        "search_context_size": "medium",
+        "user_location": {
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null,
+          "type": "approximate"
+        },
+        "return_token_budget": "default",
+        "search_content_types": [
+          "text"
+        ]
+      }
+    ],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1789737541.0,
+    "conversation": null,
+    "max_output_tokens": 2500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "medium",
+      "generate_summary": null,
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 46602,
+      "input_tokens_details": {
+        "cache_write_tokens": 89,
+        "cached_tokens": 4251
+      },
+      "output_tokens": 1849,
+      "output_tokens_details": {
+        "reasoning_tokens": 916
+      },
+      "total_tokens": 48451
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 4
+      }
+    }
+  }
+}

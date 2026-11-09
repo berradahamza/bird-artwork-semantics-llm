@@ -1,0 +1,197 @@
+{
+  "signature": "e2ba3343b9b475a69fc373b880463cf112dd4acaff80d284d3c48f4743b6bcde",
+  "response": {
+    "id": "resp_05c64535a0b5f20e016aabe911871087d2b757f5b126d081f0",
+    "created_at": 1789651217.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": "Analyse uniquement ce qui est visible dans cette image, sans recherche web ni identification de mémoire. Réponds en français. Décris précisément objets, personnages, décor et composition en 2 à 4 phrases. Pas de noms de personnes, dates ou récits non démontrables visuellement. Sujet principal parmi les neuf catégories ou NA. Religion/Mythologie/Histoire exigent des indices visibles, sinon NA ou catégorie plus générale. Culture : pratiques/symboles culturels identifiables ; Quotidien : activités ordinaires ; Objet : objets/nature morte ; Personnage : figure/portrait ; Nature : paysages/faune/flore ; Architecture : bâti. Style visuel probable en mots courts (ex. naturaliste, géométrique, impressionniste), sans affirmer une appartenance historique. Mets indéterminé si nécessaire. Ne confonds pas technique, sujet et style. Indique les limites et justifie les choix.",
+    "metadata": {},
+    "model": "gpt-4.1-2025-04-14",
+    "object": "response",
+    "output": [
+      {
+        "id": "msg_05c64535a0b5f20e016aabe912ae3887d2825b9027f1fd76be",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\n  \"description_visuelle\": \"L’image montre un homme debout de dos, vêtu d’une blouse claire, évoluant dans ce qui semble être un atelier d’artiste. Il se penche sur une table encombrée de papiers, de livres et d’objets divers, une chaise et un seau se trouvant à côté de lui. À l’arrière-plan, on aperçoit un chevalet avec des toiles ou dessins, ainsi qu’un haut-relief sculpté sur le mur. Une blouse ou un linge blanc pend sur le dossier de la chaise et un masque repose sur le mur du fond.\",\n  \"sujet_principal\": \"Quotidien\",\n  \"sujets_secondaires\": [\n    \"Personnage\",\n    \"Objet\",\n    \"Culture\"\n  ],\n  \"justification_sujet\": \"La scène illustre le quotidien d’un artiste ou d’un étudiant dans un atelier, l’activité ordinaire étant la préparation ou l’étude artistique ; la présence d’un personnage, d’objets liés à l’art et d’éléments évoquant un contexte culturel justifient les sujets secondaires.\",\n  \"style_visuel_probable\": \"naturaliste\",\n  \"justification_style\": \"Les formes et détails sont rendus de manière réaliste, avec une attention à la lumière, aux textures et à une palette de couleurs douces, évocatrice de la vie réelle.\",\n  \"figuration\": \"figuratif\",\n  \"couleurs_dominantes\": [\n    \"beige\",\n    \"brun\",\n    \"gris\",\n    \"blanc\"\n  ],\n  \"elements_visibles\": [\n    \"homme en blouse\",\n    \"table\",\n    \"papiers et livres\",\n    \"chaise\",\n    \"seau\",\n    \"blouse ou tissu\",\n    \"chevalet avec dessins/toiles\",\n    \"masque accroché\",\n    \"haut-relief sculpté\"\n  ],\n  \"composition\": \"Le personnage est placé au centre-gauche de la composition, de dos, focalisant l’attention sur son activité ; les éléments d’atelier forment des plans successifs, organisant l’espace de manière à évoquer l’intimité et l’accumulation d’un lieu de travail.\",\n  \"limites_visuelles\": [\n    \"Seul l’atelier est visible, sans indication nette de l’identité du personnage ou de son œuvre précise.\",\n    \"La scène reste cantonnée à une activité de préparation ou de réflexion, sans action spectaculaire.\",\n    \"La fenêtre ou l’ouverture extérieure est absente, l’espace est clos.\"\n  ]\n}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": null
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 1.0,
+    "background": false,
+    "completed_at": 1789651224.0,
+    "conversation": null,
+    "max_output_tokens": 3500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "in_memory",
+    "reasoning": {
+      "context": null,
+      "effort": null,
+      "generate_summary": null,
+      "mode": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "resultat",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "description_visuelle": {
+              "type": "string"
+            },
+            "sujet_principal": {
+              "type": "string",
+              "enum": [
+                "Architecture",
+                "Culture",
+                "Histoire",
+                "Mythologie",
+                "Nature",
+                "Objet",
+                "Personnage",
+                "Quotidien",
+                "Religion",
+                "NA"
+              ]
+            },
+            "sujets_secondaires": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "Architecture",
+                  "Culture",
+                  "Histoire",
+                  "Mythologie",
+                  "Nature",
+                  "Objet",
+                  "Personnage",
+                  "Quotidien",
+                  "Religion"
+                ]
+              }
+            },
+            "justification_sujet": {
+              "type": "string"
+            },
+            "style_visuel_probable": {
+              "type": "string"
+            },
+            "justification_style": {
+              "type": "string"
+            },
+            "figuration": {
+              "type": "string",
+              "enum": [
+                "figuratif",
+                "abstrait",
+                "mixte",
+                "indetermine"
+              ]
+            },
+            "couleurs_dominantes": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "elements_visibles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "composition": {
+              "type": "string"
+            },
+            "limites_visuelles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "description_visuelle",
+            "sujet_principal",
+            "sujets_secondaires",
+            "justification_sujet",
+            "style_visuel_probable",
+            "justification_style",
+            "figuration",
+            "couleurs_dominantes",
+            "elements_visibles",
+            "composition",
+            "limites_visuelles"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 850,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cached_tokens": 0
+      },
+      "output_tokens": 533,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 1383
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  }
+}

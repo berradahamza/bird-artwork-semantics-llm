@@ -1,0 +1,205 @@
+{
+  "signature": "378236f0c7f98e489378a782f2b1e8ac0661ab68bfa388adb9a987807c6d5636",
+  "response": {
+    "id": "resp_0ec8f994a05fed18016aad40ea2a2887d29abb0578b1e4ea80",
+    "created_at": 1789739242.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": "Analyse uniquement ce qui est visible dans cette image, sans recherche web ni identification de mémoire. Réponds en français. Décris précisément objets, personnages, décor et composition en 2 à 4 phrases. Pas de noms de personnes, dates ou récits non démontrables visuellement. Sujet principal parmi les neuf catégories ou NA. Religion/Mythologie/Histoire exigent des indices visibles, sinon NA ou catégorie plus générale. Culture : pratiques/symboles culturels identifiables ; Quotidien : activités ordinaires ; Objet : objets/nature morte ; Personnage : figure/portrait ; Nature : paysages/faune/flore ; Architecture : bâti. Style visuel probable en mots courts (ex. naturaliste, géométrique, impressionniste), sans affirmer une appartenance historique. Mets indéterminé si nécessaire. Ne confonds pas technique, sujet et style. Indique les limites et justifie les choix.",
+    "metadata": {},
+    "model": "gpt-5.6-luna",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0ec8f994a05fed18016aad40eaad9487d288612b22a9c7e09a",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrUDwwaGykHAAvpWO-wB1ogluqZ2wd0bpNJpd7aFWKUDbyZoM6vLHkuBxJd5U6R-nQWfg1TDj5rRkZuLvkvc3wfeJOQ3efxT4uPJqnYdMrWERJEkw7XeMl4tgsbHqTrBHwVIeuRBotNF07ehnbSj3QZ5TogOmErP3AgC327I9Qs_HrLSVy5hSsA15dMjturk9kByykbb0q_OVmu0IcJbEjHlRV1v7PoPuRttAAvDToWrC8XRlJ_DhNkMiPdzRSVmTJoHPNNg8nauTO3AbigMuVZtOxvIcWN_LN_-v9XV6_CXcrniJ5ejbrQ1-HQVVw9F_GNKqYTiX7uCm9Bt2CRG76Fb7WWEr3WAk7zuZ2bZ0vZ-JfyymO2IvRVJk8TmYuE7LXQwzgEBRox5EVBjkCGeQZ4TfRPR1B80fn5-rnrM8JTg4e-5FEXRkvMVQHCnVZLHeJX02DfXXZPW2hJqc57MhdEpITiKXaAydyD8-OvT5-hsWcp6-Ou6nDk0qnR7TFXZzDnb7l4emNi06ftkR7DIU3mmKmJ8zWl0KxQkjdFTmeygcfRRvztwNnQDWATGa36XZJoNn59cESnotAbxh7lU_hPwuumenwOwEnbbpaJCceCsRh1WND25bAgApTPlIePJgvBjafLehYlNWa3AwQIOHwKfmGjtEqiccwDWCyJWxDghmPgipSEX-FOCD-pJBuXUHY6tF86GgaeeRbxtiiissPg_8DYoXAJConQmz-7Pcpp0XlDTjS8I3tyei77MjRSIog7XaLmi93CisepEgp1r0RHouvEIe0ZDn8EimupCnMQZnz6Gt3VPqsUDheoKz9Xd8bTB4QaY_l08_zsIB73eWVL47WRmVaJOBfSCVBQu8-w9zxR9jMvxqWm6an49AtUPIY4k3G7AVim06h5OayE3QvC4PP-3qhmYtJ9EGZyCl6VoMy1GP685Wc28IwPS_9CnXaWGDDcIr3vg3YMS_nKxb6gBjUZJVYKBv81cG8ks8FgmRaopCPb6GJgqRpbqsuXbxV1B7SXfeJKnaBjI9hljIUzGnRPwbGeo7mnmqpg_GW4SM_3OCjeujoMBTFvnVAhQkpqquPLOShLwmo4sIs08OBK87mlVvMpGp3_u7SP2vzEydvFIt2lLmHrLnYDe4vQQ1GhiVYCoFxolkFh_K_u7Z-zI_PL8AeYjcdQ1BCLHOpyVBobcWprDgxCGeAO5wcNfVK9dV8NGn8u_P49Gii8FU8s4edyAK7UUdBazBXgcHo3K-8MVyY8aulKSzN8YSIGqrDiBZ6D4HSSIQM095oSLeuUOlGjMvu47W4-qddG1NIDBjQB2Z1-ixFSTXAE2eFUN-cGYVho40cM-8Y4Pm2flhWidJ91vuIHeZeYTHf8u-1ru4gNXvRYUIlZfnVfO2tr2z_QxGt5zRz10MjorudDl011RCJSxyR8V9UwZDe-FnXvGpIC89cVd7OusvybQZrzpzmlggIYqbCOajDkNCFSht0oYKgUmmma0UZNm-oFA6TcfcJqcCMDMiLcG_lKSm8lZoZ5WSZHbwBjhnMrOkpalpXzoOnS_01cXHT4zJyFIALsFQ2u--Ne-mVSo1fS8PYhMzkliHOhQ0umKosdfOZyMxdlwA455cFRAmldNqqoqImE7sFIol2GCYoXWXFJ3mrmK18ekvVdz8SSlzLeN_NmFsx4fPtb-13rElh3e3Ivtv-WpCdAzXZAf_qvLGOc_KMZzzZtlwOkHakdEZ5bjrF-wygy6MZ1MphLpYqR8hGxFGy0zHWpO6EFiBpGrSlLdYy2KMMNRL6hcniNI-ZUqujRsy7XcFrXTcK7Ucy608djl122Urdz621L83dI4moThv5uPTDy3DXT15zJuhI24snfex75-CzSGF3--YGoKSN0M8scfKa2P-9m4sbx7dlbGVan9zfN-WmgsoEhIBTK4Onfj2bPwPrUcTaVzKL-7bcsBXcuwpQxfKP9GTIRgJw2LX52INPRXHSaDZyHTbzGi0Gexd597WSRM209BZO9xmQyMgny0oemgetMVam-LhbR5BHFGQjAwh",
+        "status": null
+      },
+      {
+        "id": "msg_0ec8f994a05fed18016aad40ec114887d2aa54a32ca1617681",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\"description_visuelle\":\"Scène sombre représentant un milieu aquatique peu profond, avec une grande plante feuillue et fleurie à gauche, des pierres et des galets au premier plan, ainsi qu’au moins deux tortues au bord ou dans l’eau. Plusieurs papillons clairs sont visibles autour de la végétation, tandis que des formes végétales et animales plus indistinctes apparaissent dans le fond. L’ensemble est présenté dans un cadre doré orné.\",\"sujet_principal\":\"Nature\",\"sujets_secondaires\":[\"Objet\"],\"justification_sujet\":\"La scène est principalement consacrée à la faune, à la flore et à un environnement aquatique naturel. L’élément « Objet » renvoie au cadre visible autour de la reproduction, sans devenir le sujet de l’image.\",\"style_visuel_probable\":\"Naturaliste, sombre, détaillé\",\"justification_style\":\"La représentation cherche à rendre reconnaissables les tortues, les papillons, les feuilles, les fleurs et les galets, avec un modelé réaliste mais fortement assombri. La technique exacte et l’appartenance historique ne sont pas déterminables à partir de cette reproduction seule.\",\"figuration\":\"figuratif\",\"couleurs_dominantes\":[\"brun très sombre\",\"vert foncé\",\"ocre\",\"jaune doré\",\"gris pierre\",\"blanc cassé\"],\"elements_visibles\":[\"cadre doré orné\",\"grande plante feuillue à gauche\",\"fleurs ou feuilles claires\",\"deux tortues au premier plan\",\"papillons clairs\",\"galets et pierres multicolores\",\"végétation aquatique sombre\",\"petites formes blanchâtres ressemblant à des fleurs ou à des coquillages\"],\"composition\":\"La végétation occupe la partie gauche, les tortues et les galets structurent le bas de l’image, et un espace aquatique sombre s’étend vers le centre et l’arrière-plan. Les contrastes lumineux attirent surtout l’attention sur la plante, les papillons, les tortues et les pierres du premier plan.\",\"limites_visuelles\":[\"La faible luminosité et le contraste très sombre rendent certaines formes du fond indéterminables.\",\"Les petites formes animales ou végétales à l’arrière-plan ne peuvent pas être identifiées avec certitude.\",\"La reproduction ne permet pas de déterminer précisément la technique, l’auteur ou la date.\"]}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1789739248.0,
+    "conversation": null,
+    "max_output_tokens": 3500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "medium",
+      "generate_summary": null,
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "resultat",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "description_visuelle": {
+              "type": "string"
+            },
+            "sujet_principal": {
+              "type": "string",
+              "enum": [
+                "Architecture",
+                "Culture",
+                "Histoire",
+                "Mythologie",
+                "Nature",
+                "Objet",
+                "Personnage",
+                "Quotidien",
+                "Religion",
+                "NA"
+              ]
+            },
+            "sujets_secondaires": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "Architecture",
+                  "Culture",
+                  "Histoire",
+                  "Mythologie",
+                  "Nature",
+                  "Objet",
+                  "Personnage",
+                  "Quotidien",
+                  "Religion"
+                ]
+              }
+            },
+            "justification_sujet": {
+              "type": "string"
+            },
+            "style_visuel_probable": {
+              "type": "string"
+            },
+            "justification_style": {
+              "type": "string"
+            },
+            "figuration": {
+              "type": "string",
+              "enum": [
+                "figuratif",
+                "abstrait",
+                "mixte",
+                "indetermine"
+              ]
+            },
+            "couleurs_dominantes": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "elements_visibles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "composition": {
+              "type": "string"
+            },
+            "limites_visuelles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "description_visuelle",
+            "sujet_principal",
+            "sujets_secondaires",
+            "justification_sujet",
+            "style_visuel_probable",
+            "justification_style",
+            "figuration",
+            "couleurs_dominantes",
+            "elements_visibles",
+            "composition",
+            "limites_visuelles"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 853,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cached_tokens": 0
+      },
+      "output_tokens": 626,
+      "output_tokens_details": {
+        "reasoning_tokens": 129
+      },
+      "total_tokens": 1479
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  }
+}

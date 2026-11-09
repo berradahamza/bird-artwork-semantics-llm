@@ -1,0 +1,117 @@
+{
+  "image_id": "0_5836",
+  "titre": "L'application à la décoration des brodeuses au métier et à l'aiguille",
+  "artiste": "Théophile-Alexandre Steinlen",
+  "room_id": "Room_5",
+  "sujet_existant": "Quotidien",
+  "fingerprint": "7c738a1b11574d41e49e1105296225f41f7b21fd8e7c21d159ee5f46ef991d4b",
+  "model": "gpt-4.1",
+  "prompt_version": "bird-vision-v1",
+  "date_utc": "2026-09-17T13:43:14.584453+00:00",
+  "statut": "ok",
+  "image_path": "images\\0_5836.jpg",
+  "source_page": "https://www.flickr.com/photos/51366740%40N07/10678691065?utm_source=openai",
+  "source_image": "https://live.staticflickr.com/5477/10678691065_61d140b545_b.jpg",
+  "controle_identite": "retenu_par_IA_non_verifie_humain",
+  "raison_identite": "La notice Flickr décrit précisément l'œuvre représentée par l'image : elle mentionne le titre exact (« L'Application à la décoration des brodeuses »), l'artiste (Théophile Alexandre Steinlen), la date approximative (vers 1900) et la provenance (panneau provenant de l'Exposition universelle de Paris 1900), toutes ces informations correspondant parfaitement à la notice fournie sur l’œuvre. Cette correspondance détaillée permet de confirmer l’identification.",
+  "original_width": 1024,
+  "original_height": 684,
+  "download_url": "https://live.staticflickr.com/5477/10678691065_61d140b545_b.jpg",
+  "sha256_download": "d5d69be76882f42ca398be8a8ca9cf34b1b3c45b3670f236cd287c94dfef15b0",
+  "description_visuelle": "L'image montre trois femmes assises devant une grande fenêtre qui ouvre sur une vue de toits urbains et d'immeubles. Deux d'entre elles cousent ou brodent un grand tissu bleu, tandis que la troisième travaille sur une broderie à un métier. Au centre se trouve un panier rempli de pelotes de laine colorées et un vase de fleurs rouges. Les couleurs sont douces et le style est décoratif et synthétique.",
+  "sujet_principal": "Quotidien",
+  "sujets_secondaires": [
+    "Personnage",
+    "Culture"
+  ],
+  "justification_sujet": "Les activités ordinaires de couture et de broderie, ainsi que l'ambiance intimiste, relèvent du quotidien. Les personnages sont bien visibles et la scène peut évoquer une dimension culturelle liée au travail manuel.",
+  "style_visuel_probable": "décoratif synthétique",
+  "justification_style": "Les contours sont simplifiés, les formes adoucies, et les couleurs pastel confèrent à l'ensemble une impression de scène stylisée plutôt que réaliste.",
+  "figuration": "figuratif",
+  "couleurs_dominantes": [
+    "bleu",
+    "rose",
+    "vert",
+    "beige"
+  ],
+  "elements_visibles": [
+    "trois femmes",
+    "panier de laine",
+    "vase de fleurs",
+    "tissu bleu brodé",
+    "vue urbaine par la fenêtre"
+  ],
+  "composition": "Scène horizontale encadrée de façon arrondie, trois personnages côte à côte occupant le premier plan avec un élément central (panier et fleurs); en arrière-plan, la vue urbaine apporte de la profondeur.",
+  "limites_visuelles": [
+    "Aucune indication temporelle précise",
+    "Scène figée sans indication de narration ou de contexte historique",
+    "Absence d'éléments religieux ou mythologiques explicites"
+  ],
+  "desaccord_sujet": false,
+  "erreurs_telechargement": [
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:De_regreso_al_hogar_(Théophile_Alexandre_Steinlen).jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:Fortifs_(1886)_-_Théophile_Alexandre_Steinlein_(MCBA,_Lausanne).jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:Filles_et_souteneurs_au_Moulin_Rouge_-_Théophile_Alexandre_Steinlen.jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:Steinlen_-_the-kiss.jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:(Albi)_Femme_au_corsage_blanc_-_~1900_-_Théophile_Alexandre_Steinlen.jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:Fête_de_nuit_673.png",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:Les_éléments._formes_et_couleurs_9675.png",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:L'aurore_Théophile-Alexandre_Steinlein_(1859-1923).jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:La_Libératrice_(Théophile_Alexandre_Steinlen).jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:Steinlen,_Théophile_Alexandre_-_Les_Pauvres_gens_-_222_-_Maison_de_Victor_Hugo.jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:Apothéose_des_chats_-_Steinlen.jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:Steinlen_-_Détente_(1912).jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:Portrait_de_Masseida_par_Steinlen.jpeg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:Théophile-Alexandre_Steinlen-Poilu-1917.jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:Théophile_Alexandre_Steinlen_Café_à_Léon_1921.jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:Théophile_Alexandre_Steinlen_-_Chat_sur_un_fauteuil_-_Piscine_Roubaix.jpg",
+      "error": "UnidentifiedImageError"
+    }
+  ]
+}

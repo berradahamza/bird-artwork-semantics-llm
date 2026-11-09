@@ -1,0 +1,197 @@
+{
+  "signature": "cd2c54ffc996ded77d8a97bb6df7656510c9cbf2de549b055918233548472d05",
+  "response": {
+    "id": "resp_0b5a4fa7a2abfbe9016aabe18e2bbc87d29cfb462692e55050",
+    "created_at": 1789649294.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": "Analyse uniquement ce qui est visible dans cette image, sans recherche web ni identification de mémoire. Réponds en français. Décris précisément objets, personnages, décor et composition en 2 à 4 phrases. Pas de noms de personnes, dates ou récits non démontrables visuellement. Sujet principal parmi les neuf catégories ou NA. Religion/Mythologie/Histoire exigent des indices visibles, sinon NA ou catégorie plus générale. Culture : pratiques/symboles culturels identifiables ; Quotidien : activités ordinaires ; Objet : objets/nature morte ; Personnage : figure/portrait ; Nature : paysages/faune/flore ; Architecture : bâti. Style visuel probable en mots courts (ex. naturaliste, géométrique, impressionniste), sans affirmer une appartenance historique. Mets indéterminé si nécessaire. Ne confonds pas technique, sujet et style. Indique les limites et justifie les choix.",
+    "metadata": {},
+    "model": "gpt-4.1-2025-04-14",
+    "object": "response",
+    "output": [
+      {
+        "id": "msg_0b5a4fa7a2abfbe9016aabe18f719887d2a52bca2035246002",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{ \"description_visuelle\": \"La scène représente un port méditerranéen entouré de collines verdoyantes. Au premier plan, on distingue des rochers clairs et de la végétation, tandis qu'au centre, l'eau bleue accueille plusieurs bateaux, dont un voilier. En arrière-plan, un village aux maisons à toits rouges s'étend le long de la rive, devant des collines colorées. L'ensemble est rendu avec des touches visibles et une palette vive.\", \"sujet_principal\": \"Nature\", \"sujets_secondaires\": [\"Architecture\",\"Objet\"], \"justification_sujet\": \"Le sujet principal est la nature, illustrée par la mer, le relief et la végétation. L'architecture apparaît avec le village et les maisons, et les bateaux sont des objets remarquables dans la scène.\", \"style_visuel_probable\": \"impressionniste\", \"justification_style\": \"La touche est apparente, les couleurs sont vives, et la représentation privilégie la lumière et l'ambiance plutôt que le détail précis.\", \"figuration\": \"figuratif\", \"couleurs_dominantes\": [\"bleu\", \"vert\", \"ocre\", \"rouge\"], \"elements_visibles\": [\"rochers\", \"eau\", \"bateaux\", \"voilier\", \"maisons\", \"collines\", \"phare\", \"arbustes\"], \"composition\": \"La composition organise l'espace avec un premier plan rocheux, un plan d'eau central animé par des bateaux et un arrière-plan architectural et naturel. Les diagonales formées par le rivage et les collines dirigent le regard vers le village.\", \"limites_visuelles\": [\"Absence de détail précis sur les personnages potentiels (personne n’est visible)\", \"L’arrière-plan est légèrement flou ou esquissé\", \"Pas d’élément religieux ou historique clairement identifiable\", \"Aucune indication temporelle directe\"] }",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": null
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 1.0,
+    "background": false,
+    "completed_at": 1789649299.0,
+    "conversation": null,
+    "max_output_tokens": 3500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "in_memory",
+    "reasoning": {
+      "context": null,
+      "effort": null,
+      "generate_summary": null,
+      "mode": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "resultat",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "description_visuelle": {
+              "type": "string"
+            },
+            "sujet_principal": {
+              "type": "string",
+              "enum": [
+                "Architecture",
+                "Culture",
+                "Histoire",
+                "Mythologie",
+                "Nature",
+                "Objet",
+                "Personnage",
+                "Quotidien",
+                "Religion",
+                "NA"
+              ]
+            },
+            "sujets_secondaires": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "Architecture",
+                  "Culture",
+                  "Histoire",
+                  "Mythologie",
+                  "Nature",
+                  "Objet",
+                  "Personnage",
+                  "Quotidien",
+                  "Religion"
+                ]
+              }
+            },
+            "justification_sujet": {
+              "type": "string"
+            },
+            "style_visuel_probable": {
+              "type": "string"
+            },
+            "justification_style": {
+              "type": "string"
+            },
+            "figuration": {
+              "type": "string",
+              "enum": [
+                "figuratif",
+                "abstrait",
+                "mixte",
+                "indetermine"
+              ]
+            },
+            "couleurs_dominantes": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "elements_visibles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "composition": {
+              "type": "string"
+            },
+            "limites_visuelles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "description_visuelle",
+            "sujet_principal",
+            "sujets_secondaires",
+            "justification_sujet",
+            "style_visuel_probable",
+            "justification_style",
+            "figuration",
+            "couleurs_dominantes",
+            "elements_visibles",
+            "composition",
+            "limites_visuelles"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 850,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cached_tokens": 0
+      },
+      "output_tokens": 401,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 1251
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  }
+}

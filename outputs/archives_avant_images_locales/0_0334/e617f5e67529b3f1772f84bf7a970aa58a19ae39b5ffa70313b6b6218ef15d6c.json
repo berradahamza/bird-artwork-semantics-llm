@@ -1,0 +1,72 @@
+{
+  "image_id": "0_0334",
+  "titre": "Paysage",
+  "artiste": "Max Pechstein",
+  "room_id": "Room_9",
+  "sujet_existant": "Nature",
+  "fingerprint": "bf202ab57f708ebcafb9455fa0403650c80606707c1ee6482eacea4986d9cfae",
+  "model": "gpt-4.1",
+  "prompt_version": "bird-vision-v1",
+  "date_utc": "2026-09-17T12:48:55.076312+00:00",
+  "statut": "a_verifier",
+  "motif": "Aucune correspondance suffisamment étayée.",
+  "nombre_candidats": 5,
+  "erreurs_telechargement": [
+    {
+      "url": "https://www.inha.fr/fr/actualites/actualites-de-l-inha/en-2021/d-un-seminaire-a-une-restitution-nus-dans-un-paysage-de-max-pechstein.html",
+      "error": "HTTPError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:Max_Pechstein,_1915.jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:Grab_Pechstein.JPG",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:Pechstein_-_Das_grüne_Sofa_(The_Green_Sofa)_1910.jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:DBPB_1982_Max_Pechstein.jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/static/images/icons/wikipedia.png",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-fr.svg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/static/images/mobile/copyright/wikipedia-tagline-fr.svg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Info_Simple.svg/40px-Info_Simple.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Info_Simple.svg/20px-Info_Simple.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/2017-fr.wp-orange-source.svg/120px-2017-fr.wp-orange-source.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/2017-fr.wp-orange-source.svg/60px-2017-fr.wp-orange-source.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Grab_Pechstein.JPG/250px-Grab_Pechstein.JPG?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "error": "ValueError"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "image_id": "0_0720",
+  "titre": "La Veillée",
+  "artiste": "Edouard Pignon",
+  "room_id": "Room_7",
+  "sujet_existant": "Quotidien",
+  "fingerprint": "dd39b6d9f402b465d4d9a8054b66bdf17e83aa27d683718058362283d130aa88",
+  "model": "gpt-4.1",
+  "prompt_version": "bird-vision-v1",
+  "date_utc": "2026-09-17T13:04:44.693737+00:00",
+  "statut": "a_verifier",
+  "motif": "Aucune correspondance suffisamment étayée.",
+  "nombre_candidats": 7,
+  "erreurs_telechargement": [
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:Shoshana_at_exhibition_with_Picasso.jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:SignaturePignon.jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:The_Letter_or_the_Young_by_Goya.jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:Lille_PdBA_goya_les_vieilles.jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Fichier:Salon_de_Mai.jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/static/images/icons/wikipedia.png",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-fr.svg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/static/images/mobile/copyright/wikipedia-tagline-fr.svg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Shoshana_at_exhibition_with_Picasso.jpg/250px-Shoshana_at_exhibition_with_Picasso.jpg?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/SignaturePignon.jpg/330px-SignaturePignon.jpg?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/SignaturePignon.jpg/250px-SignaturePignon.jpg?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Info_Simple.svg/40px-Info_Simple.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Info_Simple.svg/20px-Info_Simple.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "error": "ValueError"
+    }
+  ]
+}

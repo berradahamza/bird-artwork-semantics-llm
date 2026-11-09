@@ -1,0 +1,205 @@
+{
+  "signature": "fe9db3a50fe982564c72c85ae44e6e1b88aa95fa05e727f8019844fb8606fc68",
+  "response": {
+    "id": "resp_02a242d1cc00af0f016aad3c289b6087d2bc1823c44f36cc5f",
+    "created_at": 1789738024.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": "Analyse uniquement ce qui est visible dans cette image, sans recherche web ni identification de mémoire. Réponds en français. Décris précisément objets, personnages, décor et composition en 2 à 4 phrases. Pas de noms de personnes, dates ou récits non démontrables visuellement. Sujet principal parmi les neuf catégories ou NA. Religion/Mythologie/Histoire exigent des indices visibles, sinon NA ou catégorie plus générale. Culture : pratiques/symboles culturels identifiables ; Quotidien : activités ordinaires ; Objet : objets/nature morte ; Personnage : figure/portrait ; Nature : paysages/faune/flore ; Architecture : bâti. Style visuel probable en mots courts (ex. naturaliste, géométrique, impressionniste), sans affirmer une appartenance historique. Mets indéterminé si nécessaire. Ne confonds pas technique, sujet et style. Indique les limites et justifie les choix.",
+    "metadata": {},
+    "model": "gpt-5.6-luna",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_02a242d1cc00af0f016aad3c2993a887d280f0543f333b1ee1",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTwwcuf6VjS5KTVQ1dJ0fFXf8N6MTwBnJnFWBn_OpniCfKhN7_fFKOHLI49juMX6gZ_8-J52OujyHJ24H7rsOiXEqavEO8acs8MLlk1jeyEMo0rpiAwh7tPbsfB8DHuiVVy7vt3AcBCiQyT-Q6RwZJn6ef3GXvpVdQsViKdfq1KBGrCPtJkvhYSczZiXsx6tmngqDkvIz5oH9d0QGgbboOpLQe4uCjyXKbZy87U_s3RzjlCD-G3NwZEZ5fOsPmz2slIqqj_DA2QzhGGclK2KAXKqi4SidY8crDS5OpP-apNooFMlhB6L4BJRhoF7Q120Ist9CHsgsE_dGFFCdm7b-oYXJa0sShaTE7knriu66x_Kf3rPmCk-kyui8JS8oUBiE2V3g8z7zQmb3AdysH-5VYUbQsImljuiuNI3gYUKe7DvBjEn92gx5uB5tDvXgo5V58_LGSN9xO0xgMX1Cu8-X-rgrpfQF3pQtZARwZ0j8CY-AZyMjSSHqkD68GSHaLj3NNAcUntNupyYR1_aYnHhwhKR6jJA6-eTVg_WDwJfrn-YKNvdeTO-0g9iYGF0V8IOK3bpI-AUgP8tKZ8tQ11g31FhKhldHSHqQHWmr-MpKTeVr9gkA6qfrTdK9ykkkUtQQtasPA1o6FS5ZPwOQbwM1SZqTArHxfPG737W39OGwygQwtHMZMuzZxyHcyjU-5bwJXHk-vJ8tprAdRc7OdlRhHEnF7hkAM-Of6wLfU0h0i4kulzUwUF6qdasAMTqMDieWotTJ3flxzyM_UMwzksigm5KGrAzzJMO79tDUfLYLfH_SRAfnCJdepi598ArCH2TumOMt9ydgpIOR9lpXZmgzp6AJCJv7zD0w45e-EzGOTM8lHMfvzKSVr0HmAMgfx6I4bC7SkEHOzDOcN5yto2al93Fkwl6xHC6fVtgSZE1NNalkVB6n-I334X1dYr1f2JwxtJFrQumuTMGMHk_O1f5xtDUgrHE3U4WS6CUsnYKDyrIN0zsUSOLfgDdP4S6jwAgjj0VDR3tv7VIn3aNakyRuzSfmMRcHfIbTA8bi8v5ix4HF6KVBZk-AINXhhivOv3yAhUKnbn6eJFahkciIqM6H0SeCaV3sTHexafjjUYlyoRCAQdVemXNtCygPwRsNHmKHFfp8nf2oYY43u2EoM2D2-nmN2_y8w8DTduRV6ozoihN6yEEEcd3lO7IDIsLhXvo4uJ6nOUiLrx6YBYawdDaPaa2Ei_Tgm6pELLQcKm5sYIQfqjLWgmPp44tad3oEEUTohjZ-ZsL8YaeMvSxTpWgcfw5JLDxny3DAh3FitVvSutLkVYKLQMrT7UfymzSP6VPRC-_LgmuzH_wQ2VKtNXJNIrSJf4MigqWP0xhPYyYWiCJUojtC6f5yot7qa74H2O7pTFWbojD8Q7L7W76avonMNT9DHYt5gBM-eod-sqq1GgsW7JIH-sRJYBSRmqF1m07hPhsQ-aXRplaHoFCZBbIMq1qsQE9z-TPnSJH7Xd3jOWOjWmd3k4bzZpOcEnG8ZHpzGNqbSq_KMmM_yc1k4fn9IxA8rk7pILeZQFwnPLpSM-4b0lgEzwTPN7JGO-yRYgMCLPJneMVj2AHZA2DWj9p8fMPFkAvZiw0AS31xBkd33acW8DiKwUClwvj_DPEZhHzv73FtbUNfF5gvfjcochOsudt8TsTxmQspTgLyFGbmi40VYdZO4yWUI1BX8Tx513HcX3gK8rGxYb0hAi14Mz_jwn8vwYDuPbsKS7fMk7PhcQn6xcaeCvrTc01tHe0cVT-wxw1SK7cpK4wEJ_hadjtTBxampzDCnEWd3xf4pBq9ElkJKehlI4OGiihth2v9Gym5jkPMip_DKvceW9C0WpXpq9AfXCRXDEUj93PGJQOaD7gG_2o5fzs8p-ItA7nlhYddj9yjk1g_yi4XSgW0hYnNFsEMtQQGG-A9igU58kX5wfd5eWOUDUk_DjbQQfnopF2iw82Yg86uL0g78gCIOPnyMP1PKxDs2RcLHUfL3u7hzNNeLjo3NmnE8OOLiSqADBm2_lMxTXWAjy-A8fC4H1-l0MrnwuzOk9USo0MeM6MhzF5g7wqrZpRjkRv6PzHrEPyMeaNKpvBTO4QJNnkzCzs55jjQviqItt2j5R6KghN1in5cwED4zroeNUSyMzUE2Ncxcr7jMsFNx0dyd7gUxJ-gTDaFmhlISk_9niFInleza_Elc5RlVi8uLhWICO1hiNq7YAMPU1x0uLF6nyqMm8g446UWQ00ecCpXdLPYs0Y5sgDW7sA12T4ofKg98Q2aKUHrcSR9a9IWEm9PmVQ0FSDyQ9fqmPCPTy4bYJcd6Kj8bysM6AYNg7ss6i96mJ54oUq09YFsT10SIk-lp6kwxZSfRolcwGp9ZYF9y87ZEx9koTik3zGtG3VF-cLDB2Mzn4zBgi5BuuVO0ExZSQOIUz7lCxmW-9TjFafPV9KQvoRHS1oqtXwZO20ZK7Xrpeb5PXefROvs-_LTQKLkB8qOPyf-V49At5PaJ1DYPfQMyoCVRKDUVNUjDibID1xOMUqo-xbK8w9nafjoOp0aLsoINgCdLPrkTPW9YSzbx-msqqB1NnNmEW69-w26H-bHo0o6u9o57Lf4COdxlrx6KH4SQ7-sSaNtQ==",
+        "status": null
+      },
+      {
+        "id": "msg_02a242d1cc00af0f016aad3c2bf85487d29d367f2f4c9cd4ab",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\"description_visuelle\":\"Peinture verticale encadrée de bois, montrant plusieurs figures humaines nues ou partiellement drapées dans un paysage sombre et végétalisé. Une figure semble flotter ou descendre dans la partie supérieure, tandis qu’une autre occupe le centre, entourée de feuillage, de fleurs et d’un écoulement ou d’une gerbe d’eau ; deux petites figures apparaissent sur les côtés et une forme animale ou végétale indistincte se trouve en bas à droite. L’ensemble est organisé selon un axe vertical animé de diagonales et de mouvements ascendants.\",\"sujet_principal\":\"Personnage\",\"sujets_secondaires\":[\"Nature\",\"Objet\"],\"justification_sujet\":\"Les figures humaines, leurs corps et leurs gestes occupent la majeure partie de la composition. Aucun attribut visuel suffisamment net ne permet d’identifier avec certitude une scène religieuse, historique ou mythologique.\",\"style_visuel_probable\":\"Figuratif, pictural, tonal, mouvementé\",\"justification_style\":\"Les formes sont reconnaissables mais fondues dans des touches visibles, des contours souples et une gamme sombre et chaude. La composition privilégie les effets de mouvement, de lumière et d’atmosphère plutôt que des contours géométriques précis.\",\"figuration\":\"figuratif\",\"couleurs_dominantes\":[\"brun\",\"ocre\",\"vert sombre\",\"gris bleuté\",\"beige\",\"noir\"],\"elements_visibles\":[\"cadre rectangulaire en bois\",\"plusieurs figures humaines\",\"corps nus ou partiellement drapés\",\"végétation sombre\",\"fleurs sur la gauche\",\"écoulement ou gerbe d’eau dans la partie supérieure gauche\",\"fond paysager indistinct\",\"forme animale ou végétale indéterminée en bas à droite\"],\"composition\":\"Format très vertical avec une succession de figures réparties du haut vers le bas. La figure centrale forme le principal axe visuel, tandis que les bras, les jambes, la végétation et l’écoulement d’eau créent des diagonales et conduisent le regard à travers la scène.\",\"limites_visuelles\":[\"La reproduction est sombre et de définition limitée.\",\"Les détails des visages, des objets et de la forme située en bas à droite sont difficiles à distinguer.\",\"La fonction exacte de l’écoulement d’eau et l’identité éventuelle des figures ne sont pas démontrables visuellement.\"]}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1789738032.0,
+    "conversation": null,
+    "max_output_tokens": 3500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "medium",
+      "generate_summary": null,
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "resultat",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "description_visuelle": {
+              "type": "string"
+            },
+            "sujet_principal": {
+              "type": "string",
+              "enum": [
+                "Architecture",
+                "Culture",
+                "Histoire",
+                "Mythologie",
+                "Nature",
+                "Objet",
+                "Personnage",
+                "Quotidien",
+                "Religion",
+                "NA"
+              ]
+            },
+            "sujets_secondaires": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "Architecture",
+                  "Culture",
+                  "Histoire",
+                  "Mythologie",
+                  "Nature",
+                  "Objet",
+                  "Personnage",
+                  "Quotidien",
+                  "Religion"
+                ]
+              }
+            },
+            "justification_sujet": {
+              "type": "string"
+            },
+            "style_visuel_probable": {
+              "type": "string"
+            },
+            "justification_style": {
+              "type": "string"
+            },
+            "figuration": {
+              "type": "string",
+              "enum": [
+                "figuratif",
+                "abstrait",
+                "mixte",
+                "indetermine"
+              ]
+            },
+            "couleurs_dominantes": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "elements_visibles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "composition": {
+              "type": "string"
+            },
+            "limites_visuelles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "description_visuelle",
+            "sujet_principal",
+            "sujets_secondaires",
+            "justification_sujet",
+            "style_visuel_probable",
+            "justification_style",
+            "figuration",
+            "couleurs_dominantes",
+            "elements_visibles",
+            "composition",
+            "limites_visuelles"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 1289,
+      "input_tokens_details": {
+        "cache_write_tokens": 1286,
+        "cached_tokens": 0
+      },
+      "output_tokens": 724,
+      "output_tokens_details": {
+        "reasoning_tokens": 222
+      },
+      "total_tokens": 2013
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  }
+}

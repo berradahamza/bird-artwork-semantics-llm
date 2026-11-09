@@ -1,0 +1,60 @@
+{
+  "image_id": "2_0459",
+  "titre": "Portrait d'Antoine de Ville",
+  "artiste": "Atelier d'Hugues de Lafaye",
+  "room_id": "Room_38",
+  "sujet_existant": "Personnage",
+  "model": "gpt-5.6-luna",
+  "prompt_version": "bird-vision-v1",
+  "date_utc": "2026-09-19T14:29:19.608902+00:00",
+  "mode_acquisition": "image_locale",
+  "fichier_fourni": "2_0459.jpg",
+  "controle_identite": "association_par_id_fournie_par_utilisateur",
+  "raison_identite": "Image associée à cette œuvre par son nom de fichier ; identité non contrôlée automatiquement.",
+  "source_page": "",
+  "source_image": "",
+  "erreurs_telechargement": [],
+  "sha256_image_locale": "1f39cb5f6fa099da740ffb0f44e1f82680cfe39ecddcf3d12c7412ed82dd4949",
+  "fingerprint": "335b4d548ff922df1c0e1cbc5689788675627dc86fccf3f2e8e1c65fe1e7f74d",
+  "original_width": 646,
+  "original_height": 720,
+  "statut": "ok",
+  "image_path": "images\\2_0459.jpg",
+  "description_visuelle": "Portrait peint en buste d’un homme barbu, vu de trois quarts, portant un large couvre-chef sombre, un vêtement noir à bordures dorées et rouges, ainsi qu’une manche rouge. Il se détache sur un fond rouge sombre et tient un petit objet ou ses doigts près de la poitrine. L’image est entourée d’un cadre monumental en bois sombre, abondamment décoré de reliefs dorés représentant des motifs végétaux, des figures et des animaux stylisés.",
+  "sujet_principal": "Personnage",
+  "sujets_secondaires": [
+    "Objet",
+    "Culture"
+  ],
+  "justification_sujet": "La figure humaine occupe le centre de la composition et constitue le sujet dominant. Le cadre ornementé et le costume témoignent d’un objet artistique et de codes décoratifs, sans permettre d’identifier précisément une époque, une personne ou une tradition.",
+  "style_visuel_probable": "Portrait figuratif, naturaliste, ornemental",
+  "justification_style": "Le visage et les vêtements sont rendus de manière reconnaissable et modelée, tandis que l’encadrement présente une décoration dense, symétrique et en relief. La technique exacte et l’appartenance historique ne sont pas déterminables à partir de cette reproduction seule.",
+  "figuration": "figuratif",
+  "couleurs_dominantes": [
+    "brun sombre",
+    "noir",
+    "or",
+    "rouge",
+    "beige"
+  ],
+  "elements_visibles": [
+    "homme barbu",
+    "couvre-chef noir",
+    "vêtement noir",
+    "bordures dorées",
+    "manche rouge",
+    "fond rouge sombre",
+    "cadre en bois sombre",
+    "ornements dorés en relief",
+    "motifs végétaux",
+    "figures et animaux stylisés"
+  ],
+  "composition": "Composition frontale et centrée, avec un portrait vertical inscrit dans un cadre intérieur rectangulaire. Les bordures dorées et les panneaux bruns forment plusieurs cadres concentriques autour de la figure, créant une forte symétrie.",
+  "limites_visuelles": [
+    "Aucune inscription lisible n’est visible.",
+    "L’identité du personnage, sa fonction et le contexte historique ne peuvent pas être établis visuellement avec certitude.",
+    "Le petit élément tenu près de la poitrine est difficile à distinguer.",
+    "La reproduction ne permet pas de déterminer avec précision la matière ni la technique originale du portrait et du cadre."
+  ],
+  "desaccord_sujet": false
+}

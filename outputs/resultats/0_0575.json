@@ -1,0 +1,53 @@
+{
+  "image_id": "0_0575",
+  "titre": "Vues d'architectures 5",
+  "artiste": "Lucien Hervé",
+  "room_id": "Room_3",
+  "sujet_existant": "Architecture",
+  "model": "gpt-5.6-luna",
+  "prompt_version": "bird-vision-v1",
+  "date_utc": "2026-09-19T14:27:24.941653+00:00",
+  "mode_acquisition": "image_locale",
+  "fichier_fourni": "0_0575.png",
+  "controle_identite": "association_par_id_fournie_par_utilisateur",
+  "raison_identite": "Image associée à cette œuvre par son nom de fichier ; identité non contrôlée automatiquement.",
+  "source_page": "",
+  "source_image": "",
+  "erreurs_telechargement": [],
+  "sha256_image_locale": "820904dbb4020d9f630fb419a0833abfd6c3258018ca43d934aad1b01772585a",
+  "fingerprint": "1250b181014e94e24e10e0a1b1105b760e9eb64631a15a3296f58bf64e3221b3",
+  "original_width": 335,
+  "original_height": 451,
+  "statut": "ok",
+  "image_path": "images\\0_0575.jpg",
+  "description_visuelle": "Photographie en noir et blanc d’un bâtiment urbain à plusieurs niveaux, construit en briques apparentes avec de larges éléments horizontaux et verticaux en béton. La façade présente des fenêtres rectangulaires, une porte sombre, des volumes en retrait et des saillies géométriques ; un passage ou une entrée apparaît à gauche, tandis que des dalles composent le sol au premier plan. Quelques feuillages se découpent dans le ciel au bord supérieur de l’image.",
+  "sujet_principal": "Architecture",
+  "sujets_secondaires": [],
+  "justification_sujet": "Le sujet dominant est une façade bâtie, dont les matériaux, les ouvertures et les volumes structurent toute l’image.",
+  "style_visuel_probable": "géométrique, moderniste, documentaire",
+  "justification_style": "La composition repose sur des formes rectangulaires, des contrastes d’ombre marqués et l’association de brique apparente et de béton brut ; le cadrage photographique reste descriptif.",
+  "figuration": "figuratif",
+  "couleurs_dominantes": [
+    "noir",
+    "blanc",
+    "gris",
+    "gris sombre"
+  ],
+  "elements_visibles": [
+    "façade en briques apparentes",
+    "éléments en béton",
+    "fenêtres rectangulaires",
+    "porte sombre",
+    "volumes en saillie",
+    "dalles au sol",
+    "feuillage partiel",
+    "entrée ou passage à gauche"
+  ],
+  "composition": "Le bâtiment occupe presque toute l’image et est vu en contre-plongée légère, avec des lignes horizontales et verticales qui compartimentent la façade. Les ombres profondes accentuent les retraits et les saillies, tandis que le sol en diagonale au bas de l’image crée une ouverture vers l’architecture.",
+  "limites_visuelles": [
+    "L’usage précis du bâtiment n’est pas identifiable avec certitude.",
+    "La fonction des volumes et des ouvertures ne peut pas être déterminée uniquement à partir de l’image.",
+    "La photographie est monochrome, ce qui empêche de décrire les couleurs originales des matériaux."
+  ],
+  "desaccord_sujet": false
+}

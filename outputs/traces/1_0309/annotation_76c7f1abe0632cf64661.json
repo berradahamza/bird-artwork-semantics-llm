@@ -1,0 +1,205 @@
+{
+  "signature": "8d38faf63b985564711fe9ae5b345c1edd2bf8b86ddd0ea1cbc1cede3cb3b244",
+  "response": {
+    "id": "resp_0388a9ddc795fa46016aad407564e887d280a13320a04a0b92",
+    "created_at": 1789739125.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": "Analyse uniquement ce qui est visible dans cette image, sans recherche web ni identification de mémoire. Réponds en français. Décris précisément objets, personnages, décor et composition en 2 à 4 phrases. Pas de noms de personnes, dates ou récits non démontrables visuellement. Sujet principal parmi les neuf catégories ou NA. Religion/Mythologie/Histoire exigent des indices visibles, sinon NA ou catégorie plus générale. Culture : pratiques/symboles culturels identifiables ; Quotidien : activités ordinaires ; Objet : objets/nature morte ; Personnage : figure/portrait ; Nature : paysages/faune/flore ; Architecture : bâti. Style visuel probable en mots courts (ex. naturaliste, géométrique, impressionniste), sans affirmer une appartenance historique. Mets indéterminé si nécessaire. Ne confonds pas technique, sujet et style. Indique les limites et justifie les choix.",
+    "metadata": {},
+    "model": "gpt-5.6-luna",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0388a9ddc795fa46016aad4076068887d2a80055c45180e423",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrUB8DPYTodI6RLrFbvc3y6YJkPwkZ-_B_HAbjkP1dQgcVSAQ7AGiz3afVuc9NeNVZsAfRTZoOpbJec9IUHxKr4fYdj3-AT1v9Z9GqgBrZbJNtq8j0tgJDzQpMa5N997mN51_P6C5LVgThBGXOCq2oEYyi9HF0iCT6fABp1Dh0SYijBnN1z8S6QXp7zk8rV5mcQJJf8KM5HjW2ZabkFkhoSO72nnvK1A7s3BI3LF1BTX6FNfVAsVo5anskNI8WEp01jaGkTGaLyU69gZjHEJRxqdhCVMs-L4grDRQeegJHIcvU2151Ly4toVdV0s5aTRciT3tj4iQ_0H1icrgv_A7CWeCbx4v8PHPm_u3HLES4SLs_NcknKHB-DO9iC745ovIUBzcDUz5WbPWCAgNXkJkKwMp4QN31SK-bblcxxnaOzAG4WxqPyVS3oe6burpgx-Pf1rwhR7HIQvtqEwbklwV_byHtvkuEA_maQrTlSLI7_fEe8CPQTImZg9gimqML1gH9Fy4NHk9kMYcGlbwO9fZ2BfMiOvQ3gQzVLTHugDx9X9IJRPpSRTNoXSjpkHkk_EpKX19wqQO_pqRHzVJhFX_8pH1zQGRLbmWfNoLnBxO_jwBYUMz946Tty7jSFsTshgz8IS0iKgnnU3VVbISLpEIUzleUiuitiNevYOQAQoVih8DfR6rgNZ3carbh8reR42YBIeRa-5aey4nrJSrlTU3JkElgagHCZciArcpnzb8c1VZ3kFMLzCTTqIALuz4cpol21kRh1QUP9w0QqvvcxDys5lzsDIremLHqYun87-3sjP4mRxReiFy6SG42T0cxiH14qIbPRr9d8RwY26T9iPA26phPgp8s1Su-2jqBNuJBaNH3Uj4etzSODFljMfjd4UfTq5RoRTkgHrQkCMJiRN3zUsdYwkugEPtEIRTqTtrPItfiEthToPt5DLF5EV-6cn_CDAprXXgpMLGwAHr0p3l4DaM8t9dv0u9yoPG514ZhYEhcACeOGUNnPehHimFsGFCGGtcVr7TpVKhqBY_fudvhZK23JOvBBvUlbUvfRgNNqL1oMgAcYgYSyWOlE4eIDMyt3OHblHRQ5JugB46hudPs4njMZw1IQYadNJ-tJcn5JZ-3eJkBFHg-vJNBMv__0p4rdD9kIH-HX3xWu00xKH5-fmyVMNlM2QqjbqtMjN3Nwqo-DUl14B-tBR0O6AAJUbBrKqrbjW0foZMUXkkfycCTxwbKPDgz9_qp3Ky5RyCPcXU6daYuHxnVqZ9W1zV-kXkMnkD2LWNGSRvun4FzjfoT2y6oRmPyyR4tH4ltt8QO-Wc6QsUg0mbhg1wi3oiwJxETC115fOks1GCt3Z3EeU46Dj3MnkRV2g4Ay99BgOSzYAiQGaAIVvHqJL_7falZUQ4mGkXC3zEgm4T7k9WTVN04V0AHuLlcH8mH7SMvDXsn0prdgteZ2TbS2X2hpewh7mXLKtfmsW9qz9_zWGPqkoFxDd3Uoj34pbWWjFeKS9VeRu1TbgDsDUorl1xoSaeSexg45mvEC8--MTjLHM6UpJKmE3TSjQcihlmzG2NmeX8F42f9dcFOcMs_tWw7LcHSssffwmGXa4Bbj5PipDvM_Whc1YlgYykW1BhlZ-C2gcO01dzFNmJpMppu0wNPAMaVgL715I29kCDTMhWu5utT9z2RvZK1hIGE2A_I5hN95JXwpH5JbMeZgkgSBvvGH309ghztGOOMRdjATdO5wFE5OZrJ6L4Pd-kk7u_oUhIA2Kc-V7w6dMXLbKqYsF7wvAKiN4R4amWwd2htbKHoz8BCeGFuXYhoA==",
+        "status": null
+      },
+      {
+        "id": "msg_0388a9ddc795fa46016aad4078200887d29933daec43e1f092",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\"description_visuelle\":\"Une peinture sombre montre trois grands oiseaux de proie aux tons bruns : un oiseau central posé sur un oiseau clair étendu au sol, un autre apparaît à gauche et un troisième se tient en hauteur à droite sur une branche ou un support peu visible. Le fond est brun-rouge, peu détaillé, et un cadre entoure la composition. Les contrastes lumineux soulignent surtout les têtes, les serres et les plumes de l’oiseau central.\",\"sujet_principal\":\"Nature\",\"sujets_secondaires\":[\"Objet\"],\"justification_sujet\":\"La scène est principalement consacrée à des oiseaux, éléments de faune clairement visibles ; le support peint et encadré constitue un élément secondaire, sans être le sujet représenté.\",\"style_visuel_probable\":\"Figuratif, naturaliste, tonal, pictural\",\"justification_style\":\"Les oiseaux sont reconnaissables et rendus par des volumes, des plumes et des ombres, tandis que la palette sombre et les contours peu nets produisent un traitement tonal et pictural.\",\"figuration\":\"figuratif\",\"couleurs_dominantes\":[\"brun foncé\",\"brun rougeâtre\",\"noir\",\"ocre\",\"beige clair\"],\"elements_visibles\":[\"trois oiseaux de proie\",\"un oiseau clair étendu au sol\",\"serres et becs\",\"support ou branche sous l’oiseau de droite\",\"fond brun-rouge\",\"cadre en bois sombre\"],\"composition\":\"La composition est verticale et centrée sur le grand oiseau au premier plan, qui domine l’image ; deux oiseaux plus petits occupent les zones supérieure gauche et supérieure droite, tandis que l’oiseau clair au sol forme un contrepoint clair dans la partie inférieure.\",\"limites_visuelles\":[\"L’espèce exacte des oiseaux n’est pas déterminable avec certitude à partir de cette reproduction.\",\"La nature du support sous l’oiseau de droite est partiellement masquée par l’obscurité.\",\"La scène ne permet pas de déduire un récit, une date ou une identification historique.\"]}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1789739132.0,
+    "conversation": null,
+    "max_output_tokens": 3500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "medium",
+      "generate_summary": null,
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "resultat",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "description_visuelle": {
+              "type": "string"
+            },
+            "sujet_principal": {
+              "type": "string",
+              "enum": [
+                "Architecture",
+                "Culture",
+                "Histoire",
+                "Mythologie",
+                "Nature",
+                "Objet",
+                "Personnage",
+                "Quotidien",
+                "Religion",
+                "NA"
+              ]
+            },
+            "sujets_secondaires": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "Architecture",
+                  "Culture",
+                  "Histoire",
+                  "Mythologie",
+                  "Nature",
+                  "Objet",
+                  "Personnage",
+                  "Quotidien",
+                  "Religion"
+                ]
+              }
+            },
+            "justification_sujet": {
+              "type": "string"
+            },
+            "style_visuel_probable": {
+              "type": "string"
+            },
+            "justification_style": {
+              "type": "string"
+            },
+            "figuration": {
+              "type": "string",
+              "enum": [
+                "figuratif",
+                "abstrait",
+                "mixte",
+                "indetermine"
+              ]
+            },
+            "couleurs_dominantes": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "elements_visibles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "composition": {
+              "type": "string"
+            },
+            "limites_visuelles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "description_visuelle",
+            "sujet_principal",
+            "sujets_secondaires",
+            "justification_sujet",
+            "style_visuel_probable",
+            "justification_style",
+            "figuration",
+            "couleurs_dominantes",
+            "elements_visibles",
+            "composition",
+            "limites_visuelles"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 929,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cached_tokens": 0
+      },
+      "output_tokens": 537,
+      "output_tokens_details": {
+        "reasoning_tokens": 102
+      },
+      "total_tokens": 1466
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  }
+}

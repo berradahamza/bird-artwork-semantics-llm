@@ -1,0 +1,59 @@
+{
+  "image_id": "1_0333",
+  "titre": "Paysage pastoral",
+  "artiste": "Le Lorrain/Claude Gellée",
+  "room_id": "Room_32",
+  "sujet_existant": "Nature",
+  "model": "gpt-5.6-luna",
+  "prompt_version": "bird-vision-v1",
+  "date_utc": "2026-09-23T13:35:17.591861+00:00",
+  "mode_acquisition": "image_locale",
+  "fichier_fourni": "1_0333.png",
+  "controle_identite": "association_par_id_fournie_par_utilisateur",
+  "raison_identite": "Image associée à cette œuvre par son nom de fichier ; identité non contrôlée automatiquement.",
+  "source_page": "",
+  "source_image": "",
+  "erreurs_telechargement": [],
+  "sha256_image_locale": "5c1e0bf0ec97deda9de2b507296de290f664e5a83ea57c2bfe1436e15bb21627",
+  "fingerprint": "69f70c3b122c38665ce1cd4721744fa6dbb792d5c00ea83b1cc57b4ee5b44859",
+  "original_width": 426,
+  "original_height": 585,
+  "statut": "ok",
+  "image_path": "images\\1_0333.jpg",
+  "description_visuelle": "Paysage rural en tons sépia, avec un cours d’eau au premier plan, des arbres et une végétation dense. À mi-distance se trouvent plusieurs bâtiments en pierre, dont une tour cylindrique, au pied de reliefs boisés et montagneux. Quelques animaux et de petites figures semblent présents près de l’eau et des constructions, mais leurs détails restent peu lisibles.",
+  "sujet_principal": "Architecture",
+  "sujets_secondaires": [
+    "Nature",
+    "Quotidien"
+  ],
+  "justification_sujet": "Les bâtiments ruraux et la tour structurent la scène, tandis que le paysage naturel et une activité pastorale possible complètent la composition.",
+  "style_visuel_probable": "paysage gravé, monochrome, naturaliste",
+  "justification_style": "Le rendu utilise des hachures, des contours peu contrastés et une palette sépia évoquant une impression ou une gravure plutôt qu’une peinture aux couleurs franches.",
+  "figuration": "figuratif",
+  "couleurs_dominantes": [
+    "sépia",
+    "brun",
+    "gris",
+    "beige",
+    "vert sombre"
+  ],
+  "elements_visibles": [
+    "cadre rectangulaire",
+    "cours d’eau",
+    "végétation",
+    "grands arbres",
+    "bâtiments en pierre",
+    "tour cylindrique",
+    "reliefs boisés",
+    "animaux indistincts",
+    "petites figures indistinctes",
+    "chemin ou berge"
+  ],
+  "composition": "La scène est organisée en profondeur : végétation et eau au premier plan, animaux et figures au centre, bâtiments et reliefs à l’arrière-plan. Un grand arbre sombre borde la partie gauche et encadre la vue, tandis que le ciel clair occupe la moitié supérieure.",
+  "limites_visuelles": [
+    "Les inscriptions éventuelles et les détails des personnages ou des animaux sont trop peu nets pour être identifiés avec certitude.",
+    "La fonction exacte de la tour et la nature précise des bâtiments ne sont pas démontrables visuellement.",
+    "La technique semble imprimée ou gravée, mais le procédé exact reste indéterminé."
+  ],
+  "desaccord_sujet": true
+}

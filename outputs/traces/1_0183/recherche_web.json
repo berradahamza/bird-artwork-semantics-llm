@@ -1,0 +1,507 @@
+{
+  "signature": "07d47de2d8935a9715cb7178d7ff22c7d14dfefbc65d038ecbc4f6dd8733209d",
+  "response": {
+    "id": "resp_047fe67bbddf3f25016aad3980bea487d2adc9376cc754071e",
+    "created_at": 1789737344.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.6-luna",
+    "object": "response",
+    "output": [
+      {
+        "id": "ws_047fe67bbddf3f25016aad3982477087d2845d4dac3f2aef63",
+        "action": {
+          "type": "search",
+          "queries": [
+            "site:mba.nancy.fr \"La Rencontre de Didon et Enée\"",
+            "site:collections.musees-nationaux.fr \"La Rencontre de Didon et Enée\"",
+            "\"La Rencontre de Didon et Enée\" peinture anonyme 1750"
+          ],
+          "query": "site:mba.nancy.fr \"La Rencontre de Didon et Enée\"",
+          "sources": [
+            {
+              "type": "url",
+              "url": "https://www.nancy.fr/fileadmin/NAN/culture/scolaires/2017/2017-la_mythologie.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://collections.louvre.fr/ark%3A/53355/cl010099917"
+            },
+            {
+              "type": "url",
+              "url": "https://utpictura18.univ-amu.fr/galeries/3188/antoine-coypel-enee-achate-apparaissant-devant-didon"
+            },
+            {
+              "type": "url",
+              "url": "https://collections.louvre.fr/en/ark%3A/53355/cl010099917"
+            },
+            {
+              "type": "url",
+              "url": "https://sites.ac-nancy-metz.fr/langues-anciennes/de-leneide-aux-images-venus-anchise-enee/"
+            },
+            {
+              "type": "url",
+              "url": "https://www.chateauversailles-spectacles.fr/app/uploads/sites/2/2024/05/PROG9-Didon-et-Enee-Avril2024-32pages-HD_compressed-1.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://www.gazette-drouot.com/telechargement/catalogue?venteId=92948"
+            },
+            {
+              "type": "url",
+              "url": "https://operasandcycling.com/fine-arts-museum-in-nancy/"
+            },
+            {
+              "type": "url",
+              "url": "https://www.gazette-drouot.com/telechargement/catalogue?venteId=143715"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikisource.org/wiki/Page%3ALucr%C3%A8ce%2C_Virgile%2C_Val%C3%A9rius_Flaccus_-_%C5%92uvres_compl%C3%A8tes%2C_Nisard.djvu/296"
+            },
+            {
+              "type": "url",
+              "url": "https://wikiland.org/wiki/Aeneas"
+            },
+            {
+              "type": "url",
+              "url": "https://www.christies.com/en/lot/lot-6589674"
+            },
+            {
+              "type": "url",
+              "url": "https://arts-graphiques.louvre.fr/detail/expositions/0/imprimer/2765-Notice-des-dessins-peintures-emaux-et-terres-cuites-emaillees-exposes-au-Musee-Royal-dans-la-Galerie-dApollon"
+            },
+            {
+              "type": "url",
+              "url": "https://www.bude-orleans.org/Theme-Eneide/Eneide-Images/Eneide-Images.html"
+            },
+            {
+              "type": "url",
+              "url": "https://bude-orleans.org/Theme-Eneide/Eneide-Images/Eneide-Images.html"
+            },
+            {
+              "type": "url",
+              "url": "https://opera-carthago.com/resume-de-lhistoire/"
+            }
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_047fe67bbddf3f25016aad3984b64887d299bf48a01a135d43",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTmmdfFy3N68sDacMjtWcjxnv989nKa5tDP8BgikqkqraFFlmPEzAe-QyyFjLaGYeVQH2e0zGUjHGgtXHUohhpZYTTiANLOU-9pkcpgc450ilbIBlcx2knXUTR_GXy4oFmkMVFSlGZM6F5l-YVvm6NTXyF8C_susdMfcGEzctBy2dYKItQ7by31DrT8XwONuy2jHfy6V__uKwCqcssFjxhWJ1mzyz_okKjwKDbKRlXWtC_nuijKLUGL_dYIfkkyPgOmttBJdV44XIWD4kPqHsTQVWpDFMcmeFYprDG_TpTAZ96V_bmyCzOVJPwdYreX7OjgG6MactJHEXzszf679Tjalwctq4ofhOOmJtyLLuDNOBqKVk1Yj2rpPpZH-W1Ypf4OucQyoZrPBMsGtBd9bdH54odwgDup_UxjwZBGQam2xRBc362Dp9jagNXRhS48kcNQZn6E7-ipwHGG3PhmOk6CZ103hpnvQ-iYfHmgubIGeio01X9WdvFpxOCW-41Hj0Trevujt24q6dxqYGWs6vWxI4x7iFne5qvlT53iyyEX5TfzY9oSjVIHRa7JTge5s0K8qlE0Dm0yfp4_0o6WNPdoLVDNa1HQ-q4ZT5XCCQrLzBGPfb2rfj6XcydPFU6oVcAOuQJDhx1FDq11o678tiLTCdE_mb_b0xU-tMulB9zeryDzhcMGt2yDLD2c3Zq1rjeY4p3NdfzbtsP3GUWtO6-uQ8UldN66bIR2EXIBZ0JHyLa4pYWrPs4S3KrMDKQYbwxR-256AZr7gEQvjMGOKjwh9pCzQMKb9ddEMoqIUJQeUHaTB5d4Hv3JkZJSqrACWIpIaX2i-0CgdEQ7DdB2morEB8Bc3mjg3cR2tvCABh5kIl7jvUCESygdgn7kRGyIl4-PpwHOolDeMoIIpX1y_7aj2d8zON1Bijqn1VzkHQ2hZrfzGqWz1eUHPIQyXqW-dUgi7kM8YDaWsG74cFoB7_wJzcslL5Qgsp3i6RNNFiweRkPmaBtffjkLFMXmhFVl0Md91SHdn7Ju3yEMe76PHqCSDAkDOFe3JBXoOx2GtF0Srb9dNUndRcveukzC7e6KQdkI49Snw7LPAQQe4zaoGwJqFgNzaHAcBqbqb0OXK24CTngqNHYGJBWWGulQDscB6t9iknPe69w_TWgdIch2m9Tt3YxkbFoFEqiwbfnUOcNpcD17nOqClMejEtNa8mrQ2u1aHaM28o8Rs5bEUjL0GoA5KHQIdFeJBdBkI2vh0ELQRMR9-0dPqJtVZO8zeRqHvQQxkmrc7_vQJrHsulskSUHoTPJ4MHpy1zwdx6TDtu1qGcoypdodUb27PKkIcpAy_a-wD5bZg5MSPY5GUHkyNcJ9OzWlNCS2QTaqnKns70trtLxeQmJiV02j8X0kJybwJHRh443o5hzrxKdg_kK9bqZR9MOzXBBozN8pMq3KGbj59fO3XVTCvc2G2geELcuv7aFesA4z_lCIKtSy30AN52xm0Ag2OsMTGkioXvkeIjfnyYJc4pYDxbqeFbQsgw56B13ht",
+        "status": null
+      },
+      {
+        "id": "ws_047fe67bbddf3f25016aad3985614887d2836717af3863e780",
+        "action": {
+          "type": "search",
+          "queries": [
+            "\"La Rencontre de Didon et Énée\" \"Nancy\" musée",
+            "\"La rencontre de Didon et Enée\" \"Anonyme\" \"Nancy\"",
+            "site:musee-lorrain.nancy.fr \"Didon\" \"Énée\"",
+            "site:pop.culture.gouv.fr \"La Rencontre de Didon et Enée\""
+          ],
+          "query": "\"La Rencontre de Didon et Énée\" \"Nancy\" musée",
+          "sources": [
+            {
+              "type": "url",
+              "url": "https://www.nancy.fr/fileadmin/NAN/culture/scolaires/2017/2017-la_mythologie.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://manualzilla.com/doc/6405166/la-mythologie---mus%C3%A9e-des-beaux"
+            },
+            {
+              "type": "url",
+              "url": "https://operasandcycling.com/fine-arts-museum-in-nancy/"
+            },
+            {
+              "type": "url",
+              "url": "https://sites.ac-nancy-metz.fr/langues-anciennes/de-leneide-aux-images-venus-anchise-enee/"
+            },
+            {
+              "type": "url",
+              "url": "https://it.scribd.com/document/386067182/Manuel-de-Culture-Generale-Jean-Francois-Braunstein"
+            },
+            {
+              "type": "url",
+              "url": "https://recherche-archives.nancy.fr/document/FRAC054395_4-104Fi"
+            },
+            {
+              "type": "url",
+              "url": "https://www.pourunerepubliqueecologique.org/tutti-frutti/"
+            },
+            {
+              "type": "url",
+              "url": "https://manualzilla.com/doc/6394296/-i----questions-d-analyse-du-discours--de-rh%C3%A9torique"
+            },
+            {
+              "type": "url",
+              "url": "https://eduscol.education.gouv.fr/sites/default/files/document/exemplesmiseenoeuvrecm2francaispdf-111540.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://shs.cairn.info/revue-roman2050-2007-2-page-17?lang=fr"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.scribd.com/document/863992866/ad15a76b-38e5-4691-80f6-294c44ecdb12"
+            },
+            {
+              "type": "url",
+              "url": "https://elibrary.narr.digital/xibrary/vox-2003-1"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.scribd.com/document/994273266/Petit-Fute-Les-Plus-Beaux-Musees-de-France-2025-WebZone"
+            },
+            {
+              "type": "url",
+              "url": "https://www.finoreille.fr/fichier/o_media/11128/media_fichier_fr_20201015.petits.motets.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://www.finoreille.fr/fichier/o_media/11120/media_fichier_fr_prog_retour.ido_web.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://www.opera-lille.fr/wp-content/uploads/2022/05/media_fichier_fr_20201013.les_.elements.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://tmsete.com/media/pages/saisons/2020-2021/aimer-a-perdre-la-raison/fedbe508c5-1600077598/dossier-aimer-a-perdre-la-raison.pdf"
+            }
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_047fe67bbddf3f25016aad3988fd8087d29e158db0ac061bfd",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTmmx1THScJgidQizyh9p6d7-lXzuqm5k5SUK-K7m_xxF0cf5vrn8HO8XZw3NaaPnHBFCRDMaXZ_VOeYORMYBthQLU49TgXvJNRWeH6LE38uKVEXsfzywJjO_XxDscdg1M3qN2rH6Whj0LiuuJLa8JMPtqMthbZrJb9tsM4D3alu9kDM-BocjZkJ6Dip5zIAX3ydvQkejkTX-ylXndYzg17qeEWfgWAaaMPmPxwx4NtYxGL25YvTUmVoIQorWJXWSJyKIbBXDNWS3AkjVH6EW-NkfxdmaWKp8LujKknjNYZW5qr78UzY7aarP4zZUI66ZaChB28gDoRoF5dJimYJTVevJR9TfaQairPvOuhSHmiiurqJAIqII3sP4mc8GUZGihsJsYhU9SbQDYxVx1KqEYM4cKlBeJlxvfJuLD6bisWPHxc7xgSw9bBJAR-AVDQZmkmsb7GmN8uOzsj0eilbZ8EpIG5lhsz3q3FZjAmab6b_WbsqIuuH8ECJNJZrRHDeCwTNASFPFYX96b2WsutjY2pdKsOANuhrUjHE1mQJ7WURrMyUhkKZKjzaQt8W7spBNH85wQoud1Ytrt4VWJ33xNXZMxHMFdbOMBRbwjQCIJFA0f6bCiyokbpRPQSQ64O6ZjuDD78nkqDexGXxjHZEXNzJXm5WSzV_U4v_TUrq06GLyYVG0F8fLL1VXncqYkM_RvoprBuncz1w8qa1a7zcswFM6r7TyTH4SlABa8yIBJsny-okdVdxO22t2lerroPTf9zTMZi2L0ORLGuvtlcjr-zmjdHIU--Nxlvx6YtIGBbsoTWRMxuuOni21qWLVmSBXuqNbfxk7Iu-9derTbpAw7BHeVOgSl6vNfO9qgRtFdMxKQhnw80RF6TPKZ8KJf6-igrAGTmewXQGe7FJeSLwAWmLcAHcN4C-DwSqiKvSCBe-k-EFofm_u0ZuK1fkWcois5ix-sosko5Pl-SKKbZdIWxQ8nGFSRnwIHUsCbdeSyKPqLZ66fXNV3AGBbm2AGbOXwaXz2rTTWV689tmtLipEloGhGjWunlpl7LvihkEyh5ogaNcEz8gD2aDV8vABJ3aPvMxKXFMlg3RTKko0CSavusqtVTfVQl7aD-k0hcktJCmwDGiUV15pwuhTp2A8mDOBj7PwNsHC30rQm01suhtuOVcXEuler-GRQSUSwXLjHyvcfv1wRZ7UYWzvaoH0pCwm_xQHJjv5in7-aPm3qxPsN53_HqrcfX-ikNdTIhnF0axifzNH-UJiuv2x4XAxmv4jJDVRpUPM-Higf1v5ai5X3-VBHMP7Zm17U806PPHLsawuEj2Zw8dhpOvyoe4Wact6RmBqhNmFFidVsNQgCFGAXBmXSVGMso1ax-k2hkQYgbSiDVgqTZQMxLdgpdthz7V1QU_s24wjhARwVOJEtzSTEsMjbexdYPek5lDg7mP8eswE9DYXQWn64HxdqIs2ak62q73lyLDtZzZ7btWfuGd_fdMzwXgEvIEKobOJ2OyMWfU4is=",
+        "status": null
+      },
+      {
+        "id": "ws_047fe67bbddf3f25016aad3989ec0c87d2ab757ea052f415bf",
+        "action": {
+          "type": "open_page",
+          "url": "https://operasandcycling.com/fine-arts-museum-in-nancy/"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_047fe67bbddf3f25016aad398ac89c87d29338b9e6f5fecea5",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTmmRRSe-lwBEqTX9jlvV3_8t9k4GuZ9Q39kM37b_RQ4ZZMrlUjnE8vflV4u7aMB68TBFoXoQCVZZuF9c9c2O25UsA3tP5935V16MPqI_BoPc4yy7FaQBU9nTiD-k_GjSPHpfjL3jG2R_c_u4FLCKF6GQUgsQZTbjYZAacqcakALmyxBQR3oKFbH4KxzJMqZJHeJ4dsXq2BhWM4JOqcLpT1yehkaBpDYf3fex7Z6jXsfC0gY0sQA8zH6dGeObgM1I1yAKalHNN6NJi4x2rGTUAm6OtsgTDvpWzbu-voC2rFjwUbMnROPsuP4NOmK5C9UUbufE7aYBACxkmmVG6jrwkx98kIdoIoh1EYTDZMBoawh_BZes5nH92aGX_QInK6Qz3ojVZeNvETj94tppre_ZEJdm9fG0kYpJVTQZqQRFSzgH46M8m-sovfnXC1L0u0nMp_Ecq3QL1kQBeh2fFZfvM7wLHYQW3-VieobZkiHCJzz0efvEJU0VagKrq-uc7-equGWd4HA8YdUDiaH98PritmgS50XNzWfMPLR2pccnFuBVCFxNd3ccPFaSSpedkWiMS2PYwDxbU4eZep1sXX9PpvPFTflDBJCKTE0Qj5kM_tngOaaUIrWHRqKjlYhSk771FCqr_OuMo0SDRIOfZgK-jmmPKZHa6VSgFW20gj4aOKjMzXkDlY5XVuj1uhnqpdmH-Gc1fLHFg93cnsSnhZ-NY5qemHkqcYRhHydvCdlyv-3TiTPWrUEXj8e0u0XIAyk3e1awoF1GH2WO5tCOQtx6YneANN1oHGFIsgWLoIvVA3I8KE8AVUG88LC_590lcvSJXqJ4mNbZ2UeMbHK7Ju2fHN5WpBEtMfVczS6G7DA8b_R0abAKpM4YjEiwFPp0IxGXdhcegs6GCee8vNw3iAhJuz4oeNY3VRYwMJ7W0_Qw4R81j-jLTeuaYuKLyImP6ouRiASH25vGGttu7p09lZif3Six9qK9UP9wLy-3Ay0LeAPKSN43xtVZfPc1js-vTYO_134qUGfYuziBuutB8f3sXEpuRfmXcW2uXTY3UxU6S_6c4ZxXnxRhAw_sTGbWqSubdInFI2F9J9YKcG7hivjbDyTjfXodFVBIT_Y8i9HZCXGv_aFMWkYI6uk4-VJQC4Rlixh6pdTBII-vQFKlSak11DAdmsXzxjzxizMMiMA3KBYW8oJXS1n3vbUTYIClapyKKnH_9BLtctZ532Qg6juo9wR3KYGuncJZcBpumjgNU9zktjGvMrz2MM4g70Kk0_b4GRoszzC58PXEWLHdAk97StDTsi6M6JKeAo3HWFjoXGK1zA2uTxHLuzFUN_icrej2vV5SyEy65yQkP5XPFlxQu1QL-8cJir21KeClIWikWqond4ME4EpkV0th8RcVXpmak6J",
+        "status": null
+      },
+      {
+        "id": "ws_047fe67bbddf3f25016aad398bb20c87d29403c394ee1adf18",
+        "action": null,
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_047fe67bbddf3f25016aad398ee17087d2aed05e105e0bac05",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTmmtxksApEzcGseXeUG1Lm5yQslJX5ySwi-qDRfvtaVwiLjD97W301Wo38UYxO6NTDiWVd0O7tBZxldAYGQdqphiMgtqscZjITNh9cM1KXcPXPIKkBNOqG4Y9nFZizAsOi0VZKak3PomwoK6xmCUUxUXotS3uzbQ8YhnTIXW5nysM42uo-Mz4Ok1KPJI05ZRzfObaTBYzL9aSwtHOb2LbD7SIZlENC3K8n1XePBhw1CgvtB_mFBUm7B3jh14Xbg_umIAvyxsQKWLnmM6dhOHxzIBSwCH6c1PHAef1g8IM8r5N3YxUZ-zB6p6QOClkdRU6jieI3ekifBFK7Ft6Q-PJl3IWpCH3Jd40IinIQO0iW1o9iRIxbubbSZp4c4qnweVwtkryF_F5dVxQh8PHaIf6wXzRuR0wLRwotGMiQIlbNgiiN-CCYf9a4nz-z5pVp2yKztSBtJSC-7GQKuKLDrBlZqsPP6oykygCSpcJDPu0-7wDohzCl5AtMlGRby9-YxwRcABvPDqcxD7nw4rpd_xd9j3sVcCYNqXmZ-eyydL5V97lsDuzVvc76_d5PtzTTZfs-ZZzZVr4kt6TfnSVKz-KAIeeE7Xw4fkWLmV_9j7hcU7ew2p4IvLuisqZQdf-FARQZyHC5SM7pi28Hdv2Gje7ltB9ipNR_P1vtqO7e6mEyx8v7ZWXTRCmFXhTRj8qUTlbowp2lQ1zAzZRm0ltt8PCuQ7rscaU7z3mSdTlNQlxxJTjDlE8Jua-Ui6h8sXkSENYDIinEG-9LFj1jtyVGDGmaXHHpAcwRrYxUjBfaAC5Z2UfZ0E1EK1nqhR6bUMLVC0BIHJ3nYBR3WjqGdCnmLbuuwC2ablxTiKl9uDV2Vnh-CzubqOx48FnS4COmKiInmAL1MzehqELidnnXLlXf62gZ2XnWYg1xfadmiSydXCAV7QRUt36nV5TPmQCdESLIHdJ-A92J-dpQXZyS-OZKdt6Jtm0vmlqBzhwcFghyEsSKTuVO7lxztYBxsFEHw3WA3pTsnCyjipE7rul4yhih2mKfzkJGJM7tlN0q26n66Qy2EIMlnjb5a56QHb_aRuvEIUORIpw22lef_Xot6DqcPtBlQq-wnSUutv00YNVz9gRZIni-wGDtUt7_UdpUpevvBjAIT_jW0-8kM_rGWv1FHuwTcYzmLD9fBLkujt3sFu2XVaL1lpwIQEkv_dZ9pPk7UHYzh1a4QeUllNQJJUFipAZqclXt7AyvPrDm5BY2jUa9JEO9IueXPAP07hw75zui_QwSM",
+        "status": null
+      },
+      {
+        "id": "ws_047fe67bbddf3f25016aad398f3e8487d2a4bee3630fd8857e",
+        "action": {
+          "type": "open_page",
+          "url": "https://operasandcycling.com/fine-arts-museum-in-nancy/"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_047fe67bbddf3f25016aad39918c8087d290cdd28de582cecf",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTmmrBC_QO2ad30AYES0yi7ETBbiXs20ToLxhIVucRFcM_k6JuOHRksMX2GMMOgczYVwLZpzgrcg_vsq6PjwZyWZvIGQ0LesDL4OHuQqJl8tJpcW62qwJpE5v1zl43AEK5rjECtp5qYyn-jYtieu3kr0LkEXj8Nbxf1d4qDN6KvK1ayVyww7LUf9FH2dx3syIpe-Bz1jJZ5f8dWX_0fo8DdBajHVJ_Ijmkqz2ev21zMu2BQNDLrm80xLEByjKmnUcZV0y3n5vYZ0BSDdMPKu5Ee2YnQnzY_qGLZ64hXdleH79pRcC1sPUTHfbgHOAPbh3l7KQUwgsWbW3UapWEqqfo3PYiTMW53SwNpFuLo7KhVrZ9eGqLnYISvrjGqwZtLKk4drpoQf7zcRrGsRhZ-faxNdJvO5poZwx6Pn1XlkyazmUG9MMaBnb2adRsug_0izzWEwTJ9GvA6kOrQEYSrwGMaa-J4dfiGd0P4BvsV7TN-t-0wmNztLZlxoEvSw7tMtyqFVpgjh5ExhWkks-D3KXvsGA5Q7Sf8fn-Z8q_l97c0fE6ts5GUfRlNda-fAdOdW1UkMetqI7wPldOy6AK6a_J94AvcStyZhlZHMRl2l_abyyYgOUWZIeUFB5MBQ1wmn3o1mSrZD-jq5i4cTMaXyNE9j-6d7rhR2qJJd8maIZOvS2BwthYVjYP6eG_y13S2H7mDYZ-2vLV0hEdsqNVrYjp6dhoq-Lo7T-KALiie6KHcnsGMfHqLsv7KYabfrD5nm_woTVkGzto5cObzc4rDfeMdWP-Bg01kq1cIXKc7_f8gcNv4r5xF-UWBMukbzKrJ4pEq7V2qYKq0-mCV1s1XS2tDic2ULCh9WE5kr2TJehyYjJq2Yu-k0gBugIDJ0ejz5GY5AixLNIw7odpqhMEYX0jwrnVpUhrKmTNBAxt3xIrlLdGLEFmCqzug3-mSqPlz8_SU4x88Qf49W4Mhp1t4uf952EWXm4IB6LDJqcXtizR8ER6SRJCyj1dNMcqElLjQ8hUjcI4UVPOBsd9iXCAQdovS7syLyqy-XDWsQGbRYqRm7lBARFxU9iNcvhaTXy1hfcx_Gm_w_N0Pg5axP9zzYo2wlCFEPLVZyC15vNjtVPSfmpPb4wujHDjB_OTkAg4jBCHPnSZ3igqksflPXP9ee2EegznGI9BAu5Tw2sAPY1ZqWoH9k_WlAmcqFG3msz00pCHsEfYeBv5djNuND_s8Ynm5wmvyopnySjTNVkei9ZOEqjBP2EfslQU-BhKR0t0cpdtfp0NdhwfbN4cBsUXxhfy_WkuEs1X0HHze8dKJCbiHSvFwzBzV8hc3vMHtSN5dRcu9sFTPrezjZOXb3XHO3Y5YCS8aqemA9OWWMvyBFi82cFG0jWVHTn_c0BPnlfXKFFbt7pg3tEyHTQqLyo9sfmhYg_XzdO1CMfX0ShKYrEKwNZIBTD4aJXEH3aGYurOdHvbvYfhiET24ddeFN4_tXo-8L_Q==",
+        "status": null
+      },
+      {
+        "id": "ws_047fe67bbddf3f25016aad39925b9c87d28068e5f35cc7d5f7",
+        "action": {
+          "type": "search",
+          "queries": [
+            "\"La Rencontre de Didon et Énée\" peinture \"vers 1740-1760\"",
+            "\"La Rencontre de Didon et Enée\" \"vers 1740-1760\"",
+            "\"La Rencontre de Didon et Enée\" \"Musée des Beaux-Arts de Nancy\" image",
+            "\"La Rencontre de Didon et Énée\" musée peinture anonyme français"
+          ],
+          "query": "\"La Rencontre de Didon et Énée\" peinture \"vers 1740-1760\"",
+          "sources": [
+            {
+              "type": "url",
+              "url": "https://www.nancy.fr/fileadmin/NAN/culture/scolaires/2017/2017-la_mythologie.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://utpictura18.univ-amu.fr/galeries/3188/antoine-coypel-enee-achate-apparaissant-devant-didon"
+            },
+            {
+              "type": "url",
+              "url": "https://arts-graphiques.louvre.fr/detail/expositions/0/imprimer/2765-Notice-des-dessins-peintures-emaux-et-terres-cuites-emaillees-exposes-au-Musee-Royal-dans-la-Galerie-dApollon"
+            },
+            {
+              "type": "url",
+              "url": "https://operasandcycling.com/fine-arts-museum-in-nancy/"
+            },
+            {
+              "type": "url",
+              "url": "https://media.interencheres.com/246/2016/06/03/170542_16488735e1592aa3e0fab1bedf3e0545.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://www.chateauversailles-spectacles.fr/app/uploads/sites/2/2024/05/PROG9-Didon-et-Enee-Avril2024-32pages-HD_compressed-1.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://media.interencheres.com/246/2016/05/27/083754_16488735e1592aa3e0fab1bedf3e0545.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://www.christies.com/en/lot/lot-6589674"
+            },
+            {
+              "type": "url",
+              "url": "https://wikiland.org/wiki/Aeneas"
+            },
+            {
+              "type": "url",
+              "url": "https://opera-carthago.com/resume-de-lhistoire/"
+            },
+            {
+              "type": "url",
+              "url": "https://www.bude-orleans.org/Theme-Eneide/Eneide-Images/Eneide-Images.html"
+            },
+            {
+              "type": "url",
+              "url": "https://sites.ac-nancy-metz.fr/langues-anciennes/de-leneide-aux-images-venus-anchise-enee/"
+            },
+            {
+              "type": "url",
+              "url": "https://manualzilla.com/doc/6405166/la-mythologie---mus%C3%A9e-des-beaux"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.scribd.com/document/391063451/Grimm-Correspondance-Litteraire"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.clearharmony.net/articles/a122813-%E2%80%98Pietas%E2%80%99-%E2%80%98Virtus%E2%80%99-%E2%80%98Familia%E2%80%99-quelques-lecons-tirees-de-l%E2%80%99-Eneide-de-Virgile.html"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.scribd.com/document/672676908/Syllabus-Introduction-Litteratures-occidentales-22-23"
+            }
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_047fe67bbddf3f25016aad399763bc87d2b3804a0d49bde1c9",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTmmi6H6RNzqDxyy2Z4E2bpNxbiHEUJF6B2bP4vELWCwwCHkCWNCZ8a2CfnO2rDu8M8bwJorQ5WgaQy4wQSJPjQ9TyeuQE-hBBxvm56Tf4Lh3VN0WApZGEAz93tykfoH7pixY374ZUpT3W82QCOtlU0XHfGJO_IgKJ2F-V5C3HRaH3-6I-00VDloFLWYHqn_f2Ofd03QXoTGiU5XnCwKpXZ3I6wusDHVrl4XHxfQOLDx1Riq3w1dIUILJbdOaMDtBN61nDBFf5g006zT97NbwuNm8BKsBP6NteqGE-3mLyg6FyjjKqSHZvzkJnds0WQWaIGsF6fKPzb2Gbaxvcd0gf8gftn00DlTtFZXBErV6bDQvZ6HRLQfvaWUrUr8h7qCvo4SmOARoEqiDM0-FZSox_ce3Ixi7a0ptI0YrPf0BenPzOZyEqG_kKNkVhVlt43lh8wsTbFg90IrAIRU3N25n8uRm68vMxdfIjRMykkzq8PMzTLVhSXaYeKG80F62f2WV1HkQPJjXQ28iwazFr5B1UKW8ftV5FJPpT1nkWCPM2bSWBrWSE---5orH8HAA5liaM8Xie4dnI7tKUIGqWFbCIHbodLDSCAKuthWVH1Uaw4Oy1vOHeuxAmoBo4mO7mY8Ou6R0Onu1Vt5SzL5abZuUpnaHgJZUUkJQd9nawRNzQlQo_rKGqHq1j6F2cKKlZ5bdZtF2LRAlIMFfZ_p1i1kvHMAvE5s-AVu4VtgQRGwKS-tMdCe7kYc5De-_R3vPuxs4eRjkv50k-fvvR3uaHUHToEMYpY7O8_ho6VmvrohywyJhtA1d2BK4dS1YENU7VSjPei32cffuWf-f-peLyJ--yYktJ3eXCkBetBmCsUatoBFnj3ymClekxHSHARaNo-FbuPvOGyQjt-ZUBAz_BpzlRKgp_Fnf25OPvPllgYGTpaX2_PrEY_H0D0vLaU6AHKl1gidvHIqMm5qzm-OJHdLKR4sbB6fCbLIl5dTltIPRAcYDl3vKUgCKljC6zNm4d8faTAaVwMZ-3sbBFeRd0FvoAdw6y5iaFEpJ-O1NalG_Qlkn1CLv3cdh_1JSm88Irxe1TkBrXjyJPfs7Kbe4h7SWsvP2yJxbS_bJb8BaJfYqZnDlKxh49BuFoRzPDyphEWToF8geJhAo2YFe2F81p_NjfeHd6JSSBkSVCzSKgGzt3vdYfidASTqaO2ealYGQ0Cbq06zA1Hrnaaf4ouftfd5900EWsFT8ubBwFAM75It30_6TaxuNKzVxruh9b_EReLEeSYOvi0IghEw3EH0Bw5fgu8-TrJHR-ZdkR2ea9W0vPnQBnRCQl8oonFkgMN5-quweipjAnEBQ6S0jPK0H5OO4mSBITmHuHzdqegMp1xX4rNWqV2zVEAmru8WkEs9Idh4MPGRTUbk200343hFdBF8HMXGfuRX86IdO_7R0QpIegt_S68XWlkhentHSHAtVcvVpqZ3Bc62aBEh_NpBtUetX16RaLQMKn_hAndwp9LUNpJd233VHe5yBG0OkfboLkLDrEAsEM1q8Xqt4j651VhGQ4A0Fw==",
+        "status": null
+      },
+      {
+        "id": "ws_047fe67bbddf3f25016aad3998773c87d2a139d4aa07e84fef",
+        "action": null,
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_047fe67bbddf3f25016aad399beb7487d2b386c0e39bae99b1",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTmmO5Qf-h6h-lBEGOBGV3cHWsht-5v4ybd0bwR_efV5g7LWE_V_eSHuum_F062zG-FaSIsezTZvRCY3f1fTaYv1AFfH7khjvw5cmcrcVjpr5KOICskcD73zAcRYhuwkZQPWJ9Woj_kSW3nfOi0woWfB12yCf_slzpSFRBU1olULHorxg6KF_shzYzVXxs6jSWeM75fCiQ7OJ0KIjiEEH0xCQq1hUDQahWdyhc12TD9v52pWl4zpNs4mN4Z06-kRAW2FQ5ES08nGHawzw85wh4MSqbVG5Dy8YL_SLimf2em8nmwGEu3q8o2khSepQfn9RHoOJpqw1BM53jN9WRws4nmKIU4aKcRzCPLnjqabxdv0eJKW_0MqATh-LNE_J8StHwauNXRA3JKFGD39pbidkUCNMLJlKWcMTNoO3fXiT_HNkF_S6CS_17i4KcGFi62ntJslMXZpme__kKRhoiY1luLRnfmi8fzIMEqzCjgDDtCAAZQHoW4Jey4dgy5cCKNjLH4qrr7WK7Rg8zcrKyMdRDFdEtU4ap84ED3VyhgahSeYJj5sCE5FHjgaEnjE5bPlalx8vSdpUEBHuSMp3plH3McmGm-aJxvYMjpI8A3RQz-1VQNaT8CNOmHsB5vxvFSXBrunKkLt_bxYADZfhMJhY-fy1EW3eu4SVE-K5SHqLcLP0iv9OHjsRODdNo8jaIDpNdLllABCPAFXnPlMzAGMTbPYOiIL13fMKEpAWIm8wdIjsC6306voEVLfSHRktA1mmUzKHy02SJLs2mygBbCZ0jb_JPHgs0jwA7p8Q3bm3wLVDbvRbtmptHbB39k-ppiuQ0OFvLTy8jzr6f5x8Ua-k44-n22Gs3TKSydLoDkaIsvz5vRfky3yA2abGAZ5I-XxFrjXRICBLb1DhZ5bfrNHrXywb25xR5PIHkrA0yRfMicUggoEegpn2p5FewpzSYrdjoizMo33KFh4ZzMZPRylTmyk9cuvseFOzUNMph2rmT3Do9UEVtNtsfZrdWMszm0vYQ_dBitEnRZcrOW0vlmltM8uiNGnMVsURvJepr-MkQRWYURoU0y33XLDTOa-v9oTsyvPU8OFYhrCAuouRhZNXDqgx0LXXZTysT9vMwEdVIoGrAHuPlMqmJvDKRkErdI1kDcaAhlC3xD1UnAFpAoeuni7CSWh9NYZfJKgmkkk39Mk0GdtYa31V5ZGd7NXxGQi3iL3NxpIPjtGaxOoL0BZN-EF2t17gVPJc4Kb_FRZAp-pRnk8R7uMGZG5grJw2pf94zLVJvJcAB3fqt5I_2BPVqWECrZfRZFylQg4kYEluulVljWWr7Bmgv-1YVC8fBaRoTX6nxB4T1xTlCioN3oP-pZZQbiotHbkgTaGpABBEXfu9FktXnOI91BHPRLMbuCB3zJ6yiPx3y-t1mfs38Ff-1J94Pd6aZlDArT7Ttv_abMprO2T5Xuw63rvXQehMOhFuNCzceLtfNIknfULXN6EOu6-PFe_SmTWoKjOxmVlwKL6neHuZCuv4UiMwBIygdEMgS8p_DO-bKh2gL5r4vMaA-T3VioMGfgNa0Uj_qq_qKVGDhN8rihlr1MEfiL8bNm_Z4CNn4yRFybRCHUqZCQRNqirbu4SFM586N2mae61aW1zIUyPeNbTtXp6zvUDPZPDoOhXZ4I7_nOM3gSVecLfBKz5oRtHBzaA5ndVrdCCpyN6M0xOhVtjfC2OYhvDRB0hdCR5QxmJfFZSrJrInmZ0myfvDSv_-gwbSG852rxi5udvlKz-LgVJugXysFqs-uqcbz7y7LB8lrtQX_YbrZE77dot7AKt9sXtINXNd0K_qdl4xbHIMo-Xlaqc0-MuVnT1rkl0zeFppM2exW7q6uM4pOELo_WPoguuAeGQ8s5mAo84rpG7-vwH2ysL4HXCHHTkbW3QKLzCOya6wFhbW40htbIry1uePGmII1gVvDQeC1OHyjwAG1vU6Z5AOckMzz4amUJlv5QoZKqdHvUMM_g4shwX3SVuQzjdp00G0ZbpdOAzpcQtudsOevZ2v1puULIGuY9r",
+        "status": null
+      },
+      {
+        "id": "msg_047fe67bbddf3f25016aad399db38887d28ca2acf083b70d6b",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 765,
+                "start_index": 684,
+                "title": "Fine Arts Museum in Nancy - Nemorino's travels",
+                "type": "url_citation",
+                "url": "https://operasandcycling.com/fine-arts-museum-in-nancy/"
+              },
+              {
+                "end_index": 981,
+                "start_index": 900,
+                "title": "Fine Arts Museum in Nancy - Nemorino's travels",
+                "type": "url_citation",
+                "url": "https://operasandcycling.com/fine-arts-museum-in-nancy/"
+              },
+              {
+                "end_index": 1430,
+                "start_index": 1336,
+                "title": "La mythologie 1er dossier_mythologie.qxd",
+                "type": "url_citation",
+                "url": "https://www.nancy.fr/fileadmin/NAN/culture/scolaires/2017/2017-la_mythologie.pdf"
+              },
+              {
+                "end_index": 1611,
+                "start_index": 1517,
+                "title": "La mythologie 1er dossier_mythologie.qxd",
+                "type": "url_citation",
+                "url": "https://www.nancy.fr/fileadmin/NAN/culture/scolaires/2017/2017-la_mythologie.pdf"
+              },
+              {
+                "end_index": 2371,
+                "start_index": 2226,
+                "title": "Antoine Coypel - Énée et Achate apparaissant devant Didon | Utpictura18",
+                "type": "url_citation",
+                "url": "https://utpictura18.univ-amu.fr/galeries/3188/antoine-coypel-enee-achate-apparaissant-devant-didon?utm_source=openai"
+              },
+              {
+                "end_index": 2581,
+                "start_index": 2500,
+                "title": "JEAN RAOUX (MONTPELLIER 1677-1734 PARIS), La Rencontre de Didon et Énée | Christie's",
+                "type": "url_citation",
+                "url": "https://www.christies.com/en/lot/lot-6589674?utm_source=openai"
+              },
+              {
+                "end_index": 2879,
+                "start_index": 2742,
+                "title": "Cat 19-06-16 interenchères",
+                "type": "url_citation",
+                "url": "https://media.interencheres.com/246/2016/06/03/170542_16488735e1592aa3e0fab1bedf3e0545.pdf?utm_source=openai"
+              },
+              {
+                "end_index": 3290,
+                "start_index": 3063,
+                "title": "Les collections du département des arts graphiques - 1820 - 1838 Notice des dessins, peintures, émaux et terres cuites émaillées exposés au Musée Royal, dans la Galerie d'Apollon",
+                "type": "url_citation",
+                "url": "https://arts-graphiques.louvre.fr/detail/expositions/0/imprimer/2765-Notice-des-dessins-peintures-emaux-et-terres-cuites-emaillees-exposes-au-Musee-Royal-dans-la-Galerie-dApollon?utm_source=openai"
+              }
+            ],
+            "text": "## Résultat vérifié\n\n### 1. Reproduction de l’œuvre — identification concordante\n\n**Nemorino’s travels, “Fine Arts Museum in Nancy”**  \nLa page reproduit une photographie du tableau conservé au Musée des Beaux-Arts de Nancy — image placée sous la rubrique **“Dido and Aeneas / The Death of Dido”**. Elle identifie l’œuvre comme :\n\n- **Titre :** *La Rencontre de Didon et Énée*  \n- **Artiste :** anonyme  \n- **Lieu :** Musée des Beaux-Arts de Nancy  \n- **Sujet :** première rencontre de Didon, reine de Carthage, et d’Énée  \n- **Chronologie :** peinture française du milieu du XVIIIe siècle  \n\nLa page distingue explicitement cette œuvre de son pendant thématique, *La Mort de Didon*. ([operasandcycling.com](https://operasandcycling.com/fine-arts-museum-in-nancy/))\n\n> **Notice avec reproduction :** voir l’image et le paragraphe “Dido and Aeneas / The Death of Dido” dans la page du musée de Nancy. ([operasandcycling.com](https://operasandcycling.com/fine-arts-museum-in-nancy/))\n\n### 2. Source institutionnelle du Musée de Nancy — notice de référence\n\nLe dossier pédagogique officiel **La mythologie au musée des beaux-arts**, publié par la Ville de Nancy / les Musées de Nancy, donne la référence suivante dans la liste des œuvres du parcours consacré à l’Énéide :\n\n> **« La Rencontre de Didon et Enée, Anonyme, vers 1740-1760 »**. ([nancy.fr](https://www.nancy.fr/fileadmin/NAN/culture/scolaires/2017/2017-la_mythologie.pdf))\n\nLa même référence est reprise dans la liste finale des œuvres, sous le numéro **8**. ([nancy.fr](https://www.nancy.fr/fileadmin/NAN/culture/scolaires/2017/2017-la_mythologie.pdf))\n\nCette source institutionnelle corrige donc légèrement la date fournie dans vos données : **vers 1740-1760**, plutôt que strictement **vers 1750-1760**.\n\n## Identification retenue\n\n**La Rencontre de Didon et Énée**  \n**Anonyme français**  \n**Vers 1740-1760**  \n**Musée des Beaux-Arts de Nancy**  \n**Numéro d’inventaire : non retrouvé dans les sources en ligne consultées**\n\n## Homonymes écartés\n\nLes résultats suivants ne correspondent pas à l’œuvre de Nancy :\n\n- **Nathaniel Dance-Holland**, *La rencontre de Didon et d’Énée*, 1760/1766, Tate Britain, inv. T06736 : œuvre anglaise, signée et conservée à Londres. ([utpictura18.univ-amu.fr](https://utpictura18.univ-amu.fr/galeries/3188/antoine-coypel-enee-achate-apparaissant-devant-didon?utm_source=openai))\n- **Jean Raoux**, *La Rencontre de Didon et Énée* : huile sur toile attribuée à Raoux, de provenance privée / vente Christie’s. ([christies.com](https://www.christies.com/en/lot/lot-6589674?utm_source=openai))\n- **Dessin attribué à Gérard de Lairesse**, intitulé *La rencontre de Didon et Enée* : œuvre graphique de vente, sans rapport avec le tableau anonyme de Nancy. ([media.interencheres.com](https://media.interencheres.com/246/2016/06/03/170542_16488735e1592aa3e0fab1bedf3e0545.pdf?utm_source=openai))\n- **Anonyme italien, Louvre**, *Didon conduisant Énée au banquet* / *Didon visite avec Énée la ville de Carthage* : dessin ancien, non reproduit et différent de la peinture de Nancy. ([arts-graphiques.louvre.fr](https://arts-graphiques.louvre.fr/detail/expositions/0/imprimer/2765-Notice-des-dessins-peintures-emaux-et-terres-cuites-emaillees-exposes-au-Musee-Royal-dans-la-Galerie-dApollon?utm_source=openai))\n\n### Conclusion\n\nJ’ai trouvé **une reproduction identifiable** de l’œuvre de Nancy dans la page consacrée au Musée des Beaux-Arts de Nancy, ainsi qu’une **référence institutionnelle officielle** confirmant le titre, l’anonymat de l’artiste et la datation **vers 1740-1760**. Je n’ai pas retrouvé, dans les collections publiques indexées en ligne, de notice muséale plus complète donnant un numéro d’inventaire ou une reproduction officielle en haute définition.",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "required",
+    "tools": [
+      {
+        "type": "web_search",
+        "filters": null,
+        "search_context_size": "medium",
+        "user_location": {
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null,
+          "type": "approximate"
+        },
+        "return_token_budget": "default",
+        "search_content_types": [
+          "text"
+        ]
+      }
+    ],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1789737382.0,
+    "conversation": null,
+    "max_output_tokens": 2500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "medium",
+      "generate_summary": null,
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 45044,
+      "input_tokens_details": {
+        "cache_write_tokens": 93,
+        "cached_tokens": 4251
+      },
+      "output_tokens": 1735,
+      "output_tokens_details": {
+        "reasoning_tokens": 875
+      },
+      "total_tokens": 46779
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 3
+      }
+    }
+  }
+}

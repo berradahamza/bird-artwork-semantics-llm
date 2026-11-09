@@ -1,0 +1,197 @@
+{
+  "signature": "c9ea01207ee200aec8e991466005b74c260fa2125a841352bb0390aaa2175593",
+  "response": {
+    "id": "resp_0d71479e01223653016aabe6e019f487d28ca878633a6e886d",
+    "created_at": 1789650656.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": "Analyse uniquement ce qui est visible dans cette image, sans recherche web ni identification de mémoire. Réponds en français. Décris précisément objets, personnages, décor et composition en 2 à 4 phrases. Pas de noms de personnes, dates ou récits non démontrables visuellement. Sujet principal parmi les neuf catégories ou NA. Religion/Mythologie/Histoire exigent des indices visibles, sinon NA ou catégorie plus générale. Culture : pratiques/symboles culturels identifiables ; Quotidien : activités ordinaires ; Objet : objets/nature morte ; Personnage : figure/portrait ; Nature : paysages/faune/flore ; Architecture : bâti. Style visuel probable en mots courts (ex. naturaliste, géométrique, impressionniste), sans affirmer une appartenance historique. Mets indéterminé si nécessaire. Ne confonds pas technique, sujet et style. Indique les limites et justifie les choix.",
+    "metadata": {},
+    "model": "gpt-4.1-2025-04-14",
+    "object": "response",
+    "output": [
+      {
+        "id": "msg_0d71479e01223653016aabe6e0dc6487d2a2440693b8531aa5",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\n  \"description_visuelle\": \"L'image montre une scène en plein air où plusieurs figures humaines aux vêtements colorés interagissent dans un paysage vallonné et verdoyant. Certaines semblent ramasser ou cueillir des fruits tombés au sol, tandis que d'autres lèvent les bras vers un arbre en haut de la composition. À gauche et à droite, la végétation est dense et on distingue des fruits éparpillés et une corbeille renversée. Le ciel bleu et la lumière suggèrent un moment de la journée ensoleillé.\",\n  \"sujet_principal\": \"Mythologie\",\n  \"sujets_secondaires\": [\"Nature\", \"Personnage\"],\n  \"justification_sujet\": \"La présence de plusieurs personnages regroupés dans un acte de cueillette, leur gestuelle théâtrale, les drapés colorés évoquant l’Antiquité, ainsi que l’atmosphère idyllique et narrative, suggèrent une scène mythologique inspirée des récits anciens de dieux, déesses ou nymphes de la nature.\",\n  \"style_visuel_probable\": \"impressionniste\",\n  \"justification_style\": \"Les contours sont flous, les couleurs sont posées en touches visibles, la lumière et l’atmosphère priment sur la précision du dessin, ce qui évoque un style impressionniste ou symboliste.\",\n  \"figuration\": \"figuratif\",\n  \"couleurs_dominantes\": [\"vert\", \"bleu\", \"rose\", \"ocre\", \"rouge\"],\n  \"elements_visibles\": [\"personnages humains\", \"arbre\", \"fruits\", \"corbeille\", \"végétation\", \"ciel\"],\n  \"composition\": \"La scène est centrée autour de la pente du terrain, avec une disposition circulaire et montante des personnages, l’arbre surplombant la scène et les éléments naturels répartis autour.\",\n  \"limites_visuelles\": [\"Absence de détails précis sur les visages et costumes\", \"Lieu indéterminé\", \"Impossible d’identifier les personnages ou de relier à une histoire précise sans plus d’indices visibles\"]\n}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": null
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 1.0,
+    "background": false,
+    "completed_at": 1789650660.0,
+    "conversation": null,
+    "max_output_tokens": 3500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "in_memory",
+    "reasoning": {
+      "context": null,
+      "effort": null,
+      "generate_summary": null,
+      "mode": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "resultat",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "description_visuelle": {
+              "type": "string"
+            },
+            "sujet_principal": {
+              "type": "string",
+              "enum": [
+                "Architecture",
+                "Culture",
+                "Histoire",
+                "Mythologie",
+                "Nature",
+                "Objet",
+                "Personnage",
+                "Quotidien",
+                "Religion",
+                "NA"
+              ]
+            },
+            "sujets_secondaires": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "Architecture",
+                  "Culture",
+                  "Histoire",
+                  "Mythologie",
+                  "Nature",
+                  "Objet",
+                  "Personnage",
+                  "Quotidien",
+                  "Religion"
+                ]
+              }
+            },
+            "justification_sujet": {
+              "type": "string"
+            },
+            "style_visuel_probable": {
+              "type": "string"
+            },
+            "justification_style": {
+              "type": "string"
+            },
+            "figuration": {
+              "type": "string",
+              "enum": [
+                "figuratif",
+                "abstrait",
+                "mixte",
+                "indetermine"
+              ]
+            },
+            "couleurs_dominantes": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "elements_visibles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "composition": {
+              "type": "string"
+            },
+            "limites_visuelles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "description_visuelle",
+            "sujet_principal",
+            "sujets_secondaires",
+            "justification_sujet",
+            "style_visuel_probable",
+            "justification_style",
+            "figuration",
+            "couleurs_dominantes",
+            "elements_visibles",
+            "composition",
+            "limites_visuelles"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 850,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cached_tokens": 0
+      },
+      "output_tokens": 449,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 1299
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  }
+}

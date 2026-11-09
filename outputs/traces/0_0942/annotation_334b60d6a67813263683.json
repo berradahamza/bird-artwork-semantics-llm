@@ -1,0 +1,197 @@
+{
+  "signature": "515edd1cffaba59f0be25014b886c366df4ebb54535b42128f7f83fb2e186b7b",
+  "response": {
+    "id": "resp_01183eaed93fee79016aabebfb7b8c87d2a8fdb9f437cc56ae",
+    "created_at": 1789651963.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": "Analyse uniquement ce qui est visible dans cette image, sans recherche web ni identification de mémoire. Réponds en français. Décris précisément objets, personnages, décor et composition en 2 à 4 phrases. Pas de noms de personnes, dates ou récits non démontrables visuellement. Sujet principal parmi les neuf catégories ou NA. Religion/Mythologie/Histoire exigent des indices visibles, sinon NA ou catégorie plus générale. Culture : pratiques/symboles culturels identifiables ; Quotidien : activités ordinaires ; Objet : objets/nature morte ; Personnage : figure/portrait ; Nature : paysages/faune/flore ; Architecture : bâti. Style visuel probable en mots courts (ex. naturaliste, géométrique, impressionniste), sans affirmer une appartenance historique. Mets indéterminé si nécessaire. Ne confonds pas technique, sujet et style. Indique les limites et justifie les choix.",
+    "metadata": {},
+    "model": "gpt-4.1-2025-04-14",
+    "object": "response",
+    "output": [
+      {
+        "id": "msg_01183eaed93fee79016aabebfc9a5087d2ab3ee26186dff2ad",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\n  \"description_visuelle\": \"L'image montre une scène extérieure où trois personnes se trouvent sur ce qui semble être un ponton ou une terrasse en bois, au bord d'un port. Deux personnages sont assis ou allongés sur des fauteuils, l'un en blanc avec casquette évoque peut-être un marin ou plaisancier, une autre personne est allongée en robe claire. À droite, une troisième silhouette plus sombre s'esquisse. À l'arrière-plan, on voit plusieurs mâts de bateaux à voile et des voilures tendues. Le style de la peinture est rapide et esquissé, avec des touches visibles et larges.\",\n  \"sujet_principal\": \"Quotidien\",\n  \"sujets_secondaires\": [\n    \"Personnage\",\n    \"Architecture\"\n  ],\n  \"justification_sujet\": \"La scène montre des individus dans une activité de détente, probablement en bord de mer ou de rivière, ce qui illustre un moment de vie quotidienne. Les personnages sont clairement représentés et il y a aussi des structures de bateaux et de pontons.\",\n  \"style_visuel_probable\": \"impressionniste\",\n  \"justification_style\": \"La touche de pinceau est large, visible et rapide, les contours sont parfois fondus, les détails sont suggérés plutôt que précisés, typiques d'une approche impressionniste.\",\n  \"figuration\": \"figuratif\",\n  \"couleurs_dominantes\": [\n    \"gris\",\n    \"blanc\",\n    \"rose pâle\",\n    \"vert\",\n    \"noir\"\n  ],\n  \"elements_visibles\": [\n    \"personnes\",\n    \"fauteuils\",\n    \"chapeau ou casquette\",\n    \"ponton ou terrasse en bois\",\n    \"bateaux à voile\",\n    \"voile tendue\",\n    \"cordages\",\n    \"petit chien ou objet au sol\"\n  ],\n  \"composition\": \"Le plan est assez serré sur le groupe au premier plan, avec une ouverture sur le port et les mâts à l'arrière-plan. Les lignes obliques des voilures et du ponton dynamisent l'ensemble.\",\n  \"limites_visuelles\": [\n    \"Certains détails (visages, objets au sol) restent flous voire indéterminés.\",\n    \"Impossible d’identifier l'époque ou l’identité des personnages.\",\n    \"La scène exacte (moment, narration) reste ouverte à interprétation.\"\n  ]\n}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": null
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 1.0,
+    "background": false,
+    "completed_at": 1789651971.0,
+    "conversation": null,
+    "max_output_tokens": 3500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "in_memory",
+    "reasoning": {
+      "context": null,
+      "effort": null,
+      "generate_summary": null,
+      "mode": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "resultat",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "description_visuelle": {
+              "type": "string"
+            },
+            "sujet_principal": {
+              "type": "string",
+              "enum": [
+                "Architecture",
+                "Culture",
+                "Histoire",
+                "Mythologie",
+                "Nature",
+                "Objet",
+                "Personnage",
+                "Quotidien",
+                "Religion",
+                "NA"
+              ]
+            },
+            "sujets_secondaires": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "Architecture",
+                  "Culture",
+                  "Histoire",
+                  "Mythologie",
+                  "Nature",
+                  "Objet",
+                  "Personnage",
+                  "Quotidien",
+                  "Religion"
+                ]
+              }
+            },
+            "justification_sujet": {
+              "type": "string"
+            },
+            "style_visuel_probable": {
+              "type": "string"
+            },
+            "justification_style": {
+              "type": "string"
+            },
+            "figuration": {
+              "type": "string",
+              "enum": [
+                "figuratif",
+                "abstrait",
+                "mixte",
+                "indetermine"
+              ]
+            },
+            "couleurs_dominantes": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "elements_visibles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "composition": {
+              "type": "string"
+            },
+            "limites_visuelles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "description_visuelle",
+            "sujet_principal",
+            "sujets_secondaires",
+            "justification_sujet",
+            "style_visuel_probable",
+            "justification_style",
+            "figuration",
+            "couleurs_dominantes",
+            "elements_visibles",
+            "composition",
+            "limites_visuelles"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 1190,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cached_tokens": 0
+      },
+      "output_tokens": 514,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 1704
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  }
+}

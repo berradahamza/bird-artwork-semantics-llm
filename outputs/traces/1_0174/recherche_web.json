@@ -1,0 +1,430 @@
+{
+  "signature": "c564f60b66267f021496514f8d030561c03fae3a6955b39521c50a64ae3be26b",
+  "response": {
+    "id": "resp_00356ba641ff9d97016aad38bf10d887d290af91b6b38a1ba8",
+    "created_at": 1789737151.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.6-luna",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_00356ba641ff9d97016aad38bf806087d2ba9b95eb1a258f6e",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTjYCmxxMYUlfv7uB-1uD4jY9O05upapcXJxT_Ux_8eY8pZRreWn8Uf_TmKMH6RdBnQb4Pv1leuJQrJ2_0PHhBCLu0x5axYyQaCLVv4BPqiOR3JxROkBNL7FFGlEYhfl74-ue-vJdvYLK_ThQPafqdlA4T9hrKtbR3yK26z_nrx5I-BH_1O_AOkwTFDq-2aQDje646LPW4Rzeop2Sr2fymcAoXRcrOlyquJU4o-tcL9M1hGuLx_Sk_xAqcWEYd2fB5rwO7r5bvn8dKLTkO7KIsJZvehNj6r7Jl8rp2johUvqTsoZ1pFKTAtNHCdsod57CPA4NJWDfN9xXIj5R0qm48C_UJNRTjly_NgwbDU4oKfyphqyhxhGIvGfuKv_qI1dfPVVxK17p1DWS5CITG_5qysNphsyohaVT6YK6PfWqy8JmeeGidbTAed8peyPwAyTKyX4eiXPfRG1nPdnAd_ggNpH0R55fUTodQtkcrXCdCwjtKeq8AMWdE2ro-WO9J9eJ4HJxmL57EQ4rLAyxy2PCuOBEaeHlCo8IizoSLX-KUPGuKg5osYoL4m3qe0hJbKN3K_dXbrROO7k6bQAYSoCeczN3rnIdub5ios2MjLimbOAQCR6f5T0fKgG1W5NAYwaDvnIdvXGY8ri41bb8aRL6gsZmIY9xM2ooa8dTEOwFHDZER5d8Kd6p3yol8k2Lc0hVdzJF62qQhUvaG8sDBzVv_LNVeYx6WC4Z64wmx90-_sFhfF9A-ep4G64HNJbBoEnZrymP_f7IVlX87tB_yjlK4VdAaCBBxc2ohBnXO8Cc-LP0A71yibKB6_sHDnIafYTPJZTGrlv4gtATpFIEJs6dieR5BFEWficY4gwdKpDCGeBdafhF8dhfZjY46Gje03hEWDhaBEUO0830iqoKykw5B3iS4NZ6i0LrT0gDUxqOxpRzbnFiLcslYZFC9mfTMD5iBh__b2U5AwsEnn6gffho_mlxdfCG6d6yvynNWioIH2D3YhifJ2JHMC7CZJqIgqqbyv-UJq-z2eLnvLXGsDifReBXHLOQXdazf6e5AWqmF6x4TjO2bu_s6VSjgmajOozqcFG4vA21Tv1GoJKkBkUxFIYN-0jxVIUD7Cw8JiMSYiYdmzcK-I9yYzRfN3CUObLTXwYS4SW6u7rPwwgPU3cLRK36kl_BcrsIwgHjFUKu2amDMAHmkwpZj1dpsilY_AX904Z55mTq3YbpkC_cBJ1FiAa9A==",
+        "status": null
+      },
+      {
+        "id": "ws_00356ba641ff9d97016aad38bfd2b487d2b6c36ccbadc126a7",
+        "action": {
+          "type": "search",
+          "queries": [
+            "site:mba-nancy.org \"Le repos de Diane\" \"Jean-François de Troy\"",
+            "site:pop.culture.gouv.fr \"Le repos de Diane\" \"Jean-François de Troy\"",
+            "\"Le repos de Diane\" \"Jean-François de Troy\" 1726 270",
+            "\"Le repos de Diane\" \"Nancy\" \"270\""
+          ],
+          "query": "site:mba-nancy.org \"Le repos de Diane\" \"Jean-François de Troy\"",
+          "sources": [
+            {
+              "type": "url",
+              "url": "https://collections-mba.nancy.fr/fr/notice/270-le-repos-de-diane-8a32d469-d3d5-415f-a827-2acdd4fbf061"
+            },
+            {
+              "type": "url",
+              "url": "https://utpictura18.univ-amu.fr/en/notice/3958-repos-diane-jean-francois-troy"
+            },
+            {
+              "type": "url",
+              "url": "https://sites.ac-nancy-metz.fr/langues-anciennes/wp-content/uploads/musee_parcours_numerique.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Liste_de_peintures_de_Jean-Fran%C3%A7ois_de_Troy"
+            },
+            {
+              "type": "url",
+              "url": "https://culture.ac-nancy-metz.fr/wp-content/uploads/LAC21-Monstres-et-Musee-des-Beaux-Arts-de-Nancy-2022.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://www.clavim.asso.fr/wp-content/uploads/2025/06/16_Grand-Est-NUM.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Fran%C3%A7ois_Boucher%2C_Lemoyne_et_Natoire_%28IA_gri_33125012607335%29.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/La_Continence_de_Scipion_%28Lemoyne%29"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Jean-Fran%C3%A7ois_de_Troy"
+            },
+            {
+              "type": "url",
+              "url": "https://kiwix.frbxdan.fr/content/wikipedia_fr_all_maxi_2025-06/Jean-Fran%C3%A7ois_de_Troy"
+            },
+            {
+              "type": "url",
+              "url": "https://sites.ac-nancy-metz.fr/langues-anciennes/diane-inspire-encore/"
+            },
+            {
+              "type": "url",
+              "url": "https://fr-academic.com/dic.nsf/frwiki/860072"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.scribd.com/document/729947141/ponson-du-terrail-la-jeunesse-du-roi-henri-6"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Lemoyne"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/D%C3%A9partement_des_peintures_du_mus%C3%A9e_du_Louvre"
+            },
+            {
+              "type": "url",
+              "url": "https://www.gutenberg.org/files/46183/46183-h/46183-h.htm"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikisource.org/wiki/Encyclop%C3%A9die_m%C3%A9thodique/Beaux-Arts/Tome_2/Lettre_P"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/%C5%92uvres_de_peintres_fran%C3%A7ais_au_mus%C3%A9e_de_l%27Ermitage"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikisource.org/wiki/Encyclop%C3%A9die_m%C3%A9thodique/Beaux-Arts/Lettre_P"
+            },
+            {
+              "type": "url",
+              "url": "https://www.gazette-drouot.com/en/auctions/173952-collections--26amp-estates?modeDiapo=false&page=3"
+            },
+            {
+              "type": "url",
+              "url": "https://www.proantic.com/en/1213847-jean-francois-de-troy-1679-1752-and-workshop-danae-and-the-golden-rain.html"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikisource.org/wiki/Catalogue_du_mus%C3%A9e_de_peinture%2C_sculpture_et_des_dessins_de_la_ville_de_Rennes"
+            }
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_00356ba641ff9d97016aad38c2fa9487d28d4155a046c8c51e",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTjYbPVzxI8ZM85af5h4wTUEEZ0YiDU9sdjIesO3zIkQUuuffiVWu1ycoXupGH6mVIm_WLvPl6ehN3YmrCTSuU-AbD1hcWsVziuEAQJRK-V5w7_oo_qcDY9KT6Sci8VZoqzBQf9r-C5t09YOq9ItxQm5t6dEReqikp2L2zOMeCx_OTHnGxzy_pe0JfoyaTbPAByYkOwrqhQTZsuzyjZ-G5QYO30a6pUicfipFkAoMXM9ctiHBvAGt6MW-HykE3LZFN7B4A75TIQ4KOe7rEFZu1MkpBdJ3dQ6RyfNNFhheiUtxAXNuT2Ckmgr0_ctHsahVxQIjvaJ5uNyPIk4RUAVu73FM1apRe5nFONh266DrbuTipu4X_ypDcTGko-UoFnZ1y9nSdSNbi3p1uXJ3AjZxUT_XUuo6l0Og6Bz4cwu6Cbbl16htZ40AcgrJxxqbM8FzdN5fU92G2CW3IP7VGgzILkTDlPR3iuavUD1DmU6Dar3eUyQO2Fvw-1RvfmmHdTfeWM-DnmJbMuNAbY5FfiktFeJgYzgLlHkKybZtXu4AFRc3mCrktwkmhXqs8V6uM8fnVlq1OLoDSHpveHD5CHjvRzUNkdtfq9oqPD6GempV2Wg-faApD6VxkG4p4IizYLphGCT585HPPrwmLBDR5arTg6ec1mcmQHhkp4LKcZTabeGIvVmod64NDkOxvjT-dcd6n_q-xjSdA_j15kvXEgCdc_p_qIHtUQYIFixK4uvB5rTMogYkRlER64tmE1-BmyG7s2FqyZWeRnNew3fCV_4cPhGofyNxXWYYzi68cs6MvG9EAIPmtssCD6rz0T4cBtCZhJ11hzu5ZxvcHA29ZA8PCgrlGQqiBVCfW2Amyk-xKxZXaT-vtUf_PGZrVqrvyit67MS8dF_mDDjkKHZYEFZtZ5pX8Htn7J86YztEWoj0LEFj4O2uh8xay4yMQYrgwl1RXHIsJtGaZKwPqShE5m3-b1n4yRiHnPeb7IvaUF9T6ZCB0ZAJkHz70kXqykB4nA5SWPH9IHgeUrnhXfwSZ6sNgM1fwuIX2AqK4RV07VaIGbqlBXoV4-H3fcqy9V_iEP4XjzL1oNCuBfmTaHzXLFbpgnjVLMKzr4q90FunsS4zfMjDzhAOcdYNfRr8nnlc1NWnX32zPnaBwq7x4DQfNN_bSqj7Vf5-ueERUk-kyVZB_enngrkfxE8Nr1-c356AlYP_0xZZHFn5Q_ibtup3GoEFE7-JGT4auxZtUzSZp7gD1qAvzZAdwJGo3-wu8kKbTv70zfG1GN1Lu0ytOELacIVfMAQgl_4V5xERN7-q7ryfE3IsFnOr1MdoA9I_xxjZ4i_iNdnU4Jum273mHor0vU4FvEJQ3BFEgMiMeMGfI7Smt6A43DGpIQcv2ZE3exdEhafzsvviClaMgNMHG46SfbWfZbIYx37_fU38a0tVAMMTL5nqM8=",
+        "status": null
+      },
+      {
+        "id": "ws_00356ba641ff9d97016aad38c39f6c87d28a48aed1f986f06c",
+        "action": {
+          "type": "search",
+          "queries": [
+            "\"Le Repos de Diane\" \"Jean-François de Troy\" image",
+            "\"Le Repos de Diane\" \"Musée des Beaux-Arts de Nancy\" reproduction",
+            "\"Jean-François de Troy\" \"Le Repos de Diane\" \"collections\"",
+            "site:francearchives.gouv.fr OR site:pop.culture.gouv.fr \"Repos de Diane\" Troy"
+          ],
+          "query": "\"Le Repos de Diane\" \"Jean-François de Troy\" image",
+          "sources": [
+            {
+              "type": "url",
+              "url": "https://collections-mba.nancy.fr/fr/notice/270-le-repos-de-diane-8a32d469-d3d5-415f-a827-2acdd4fbf061"
+            },
+            {
+              "type": "url",
+              "url": "https://utpictura18.univ-amu.fr/en/notice/3958-repos-diane-jean-francois-troy"
+            },
+            {
+              "type": "url",
+              "url": "https://pop.culture.gouv.fr/notice/joconde/M0332006747"
+            },
+            {
+              "type": "url",
+              "url": "https://pop.culture.gouv.fr/notice/joconde/M0536000510"
+            },
+            {
+              "type": "url",
+              "url": "https://sites.ac-nancy-metz.fr/langues-anciennes/wp-content/uploads/musee_parcours_numerique.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Liste_de_peintures_de_Jean-Fran%C3%A7ois_de_Troy"
+            },
+            {
+              "type": "url",
+              "url": "https://commons.wikimedia.org/wiki/Category%3AJean-Fran%C3%A7ois_de_Troy"
+            },
+            {
+              "type": "url",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Fran%C3%A7ois_Boucher%2C_Lemoyne_et_Natoire_%28IA_gri_33125012607335%29.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://chateauversailles-recherche.fr/corpus/IMG/pdf/i._gensollen_-_administrer_les_arts_sous_louis_xv.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://www.utb-chalon.fr/media/files/Documents_conferenciers/Pinette/Concours-de-1747.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://musee-des-beaux-arts.nancy.fr/de/die-sammlungen/malerei/malerei-im-18-jahrhundert-in-europa/fokus-auf-kunstwerke?cHash=b6cd316bd32fbd8a7833a9fc44335cd3&tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bnews%5D=118"
+            },
+            {
+              "type": "url",
+              "url": "https://www.patrimoine-histoire.fr/P_Lorraine/Nancy/Nancy-Musee-des-Beaux-Arts.htm"
+            },
+            {
+              "type": "url",
+              "url": "https://culture.ac-nancy-metz.fr/wp-content/uploads/LAC21-Monstres-et-Musee-des-Beaux-Arts-de-Nancy-2022.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Jean-Fran%C3%A7ois_de_Troy"
+            },
+            {
+              "type": "url",
+              "url": "https://kiwix.frbxdan.fr/content/wikipedia_fr_all_maxi_2025-06/Jean-Fran%C3%A7ois_de_Troy"
+            },
+            {
+              "type": "url",
+              "url": "https://commons.wikimedia.org/wiki/File%3ANancy_%28Meurthe-et-Moselle%29_-_Mus%C3%A9e_des_beaux-arts_-_%22Le_Repos_de_Diane%22_%28Jean-Fran%C3%A7ois_de_Troy%2C_1726%29_%2833027820028%29.jpg"
+            },
+            {
+              "type": "url",
+              "url": "https://sites.ac-nancy-metz.fr/langues-anciennes/diane-inspire-encore/"
+            },
+            {
+              "type": "url",
+              "url": "https://fr-academic.com/dic.nsf/frwiki/860072"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/La_Continence_de_Scipion_%28Lemoyne%29"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/D%C3%A9partement_des_peintures_du_mus%C3%A9e_du_Louvre"
+            },
+            {
+              "type": "url",
+              "url": "https://myopenmuseum.com/fr/artist/jean-francois-de-troy-707729"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/%C5%92uvres_de_peintres_fran%C3%A7ais_au_mus%C3%A9e_de_l%27Ermitage"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Lemoyne"
+            }
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_00356ba641ff9d97016aad38c7707c87d2a4844edf12725b35",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTjYNMAq7PxT4o8Eq3YWYJ68U45AbB2cXiuYwGRh57REd2HwmmIJXmh-GD_F6I2AGvjaW_YnAWV_tPaqhzjlIft2gNe1LBjOL-ZSJmnRavTp7OgxlqPQJPtC_qXNGsOnG3akrPFFb-oGOXmjAx1X9aMbSsF_WYfE0vGx3PDswyXgb3RrtPSxjtdfhRNlCi2bQzurJYmhlxD4VvqQ3UKjfJ5tdj5mwpDRVUv3sODUE97E0iRcOklZ_3Ked-dCnwaotK4PHAi_MH2zFLmxuKRebKd9H1akAjgVP2CbcZASJE2aoG-6U45_ocZu7ZQDdflxLBtuubkrGBWnW28qwmR90QfZmncAduhB-gmCl7r9__9KYAVa94qDu3nsDFwGBFIy1syBNQHn4aHH59kbjhwmap7eZI25GkuQywufPRuxOBk93hg_BH1_43zTeOi5I2EeQYXAAzlKfbhJxvBeV36wlBwOxrRt6vCTjhuzvV-_EWA6u4z55UU2_NI6MBJOQFB3BfGwbpduxPpWPIN9XPZbSnirzi9zSPgR90BUgIZVgk0qMHSTAuHv0hfoMgLFMErsltAu5_FSw4YTUh5sHNClAbsKRqGgIFJyqwt2CM-y4dsVinUELr2Jrj0A-ZiOQQx6X5u-YLLrSv7dX2pARMn58CqzYZT26Md_LJR4uOm4s7fPEc_6Lfsw8YSBg_K1tTjK8N4t2oKFe4ZtPWD_A650pLmrL91ls6rpfDWFWYjVIME7fScy0F4XMlq18E1qj9G4AYz0hGrxI_GJ5yRzgmy5MotA9pW5cwLAqoV4sT4cK-f8OJQwnGbS1NwN1onAJIlEJTpLZ_HBbZOtQt-taKKxmU7-mjdbMnWtrZZ37z6LO4mrZrFLp3wunIU-RUh4MmRhIHM4aFtTHToUVUU4N34KgcAvSh9VsS0Fld88ttMAxd-zfbOPXjnmgXNvcqWGZsrDRXk6Wv49Wn2xygGALvWUSGthj7XxHugpT7RGJ_RDvWckmXcx3JpOnnv4Cn2k0eTZ4TiSpHuHA9dPuNGkT--QVIHQ2wWC4LrN4k9LzZrzQHBM72Uyk4mIKTfDnBDKJBY8b1v9YUtdEXjPEup7fMePmOi29QNJZRLcbjr5hxHCRTEU-ZVwzaxquY1wVkXendgUt45sYkQ-lNaLFSMIYPsCPl1_HIJn3rCMlGIT8kzdlknOvIT2oSI72A5n3Gt3UB_MHaXboEcVy8lhrGos16Ats4B05yRT_b-Ug7ZgnMULpCascr6tZFszFD70XcebXwOcqsdzTouoWGfNLiIDO6brz0mWjC5Er0cw9HQM641KRTUqNL9ZOHljnZ6qKfwbxT2lkr9hCGZi7EZ8DolPowkhkXQFTsFNDGwYaBXPydnLQJ96qVuZYHyTsaKsWzl4hIeZW_UX",
+        "status": null
+      },
+      {
+        "id": "ws_00356ba641ff9d97016aad38c818f487d2b2057d36efab8263",
+        "action": {
+          "type": "open_page",
+          "url": "https://musee-des-beaux-arts.nancy.fr/de/die-sammlungen/malerei/malerei-im-18-jahrhundert-in-europa/fokus-auf-kunstwerke?cHash=b6cd316bd32fbd8a7833a9fc44335cd3&tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bnews%5D=118"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_00356ba641ff9d97016aad38ca78c087d2a3a0f8c59bf8a5cf",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTjYFMy6htDoqDcqJy0JxG4bnz_kUzQ72PlnDgzWQ_yFlX8vlvS3-2aPhofSpcHHwrNBF6G0gCSFjDpS6doKUPmZkKFF4rKWeL5a-TY26knsG5hx-Lk3SZYbY_bq5yMaElfmSaXlIPjyM2MHRYt8TYlwj0rBjAsv6cMSsltqnehOcUDA1sp_3zal6r04D2JnHXWAePc0qYCD8y3e-AFX3smIb5wrel7gu5M_ocGadeV4uSypkcQep-j0Dqcl0g8eqnw2viPI07tdu8gRwwAkH87Ac8xp5wmEGo_iXcstsd5fzBfdBnxsPHVoQtqr4cfKT0YpMhrxgIZxXndB3gdIK8dLhxlX6aCM1wbJJAVsFgYNy-QjqHibgPEZsZR5cxSP6bjImQMDNx7CAblx-MHQixKvbOPpTJL1dUdH4rjvXCP8s44Rq82OR3hIEVQ27yYhr-lKsxEN9cvpvCoNUZjD-5xaFZjZTyv98a_N65qFti_1Rjr0XrY98myoklFUZ1Z5bjtefb6cQ9hPim_iBvd8tkzqz3OuTNQsMCGkO3zqBgGMhWuFp-R0dmLkJTQrwLszle1_90SgiPPa3C3BwcsSYdoEenELLkAaNDuT_K7KgpaWxf_pZhocNPNLabDJ5O-lM-3ry2P-L4bh2_UGhWPk0tDcj4SHks_bKCBrVvb1bbrFs8ybBA_I3fY8Bi6JsMmpCRhoitBFaVQGoVEMnVPrY7huCJ3OQYSMnsGyX8Enfm4jsiv-Oz5Wpua8Yq-_oYMGDyYVIAjgyB842AR8c6NUKuQl6QZ1V5yDVOz_pY-npHqIQWikjIZKrUzn33r4IlTrPXur6fVWT2F-G6fq5Xp5iAMSO5D_dFrFFkhx5vA2ADU6Mxo3haHgO-SyxR191YW6Bra9wQVynf-Dj0N9MPIacuWQ7OGIuGY0tXnUMol8xpixn-cKswEw3LyGxHYN_f125T0ZOzLfNa1tKHtYJeg7qrwp2bX4BmxKPYPVrWJDIxbhGTFCJRJktCFYuv8SvPkwIFLu2J4jUES4VGeFll49IPrNnYPl3BmPkpK9qCh-odj9F7BzgbKoUO02ESmZJwJzh___IbXm5DPyr7j4lZELGs_2Rs-2zq3gxhOMeKydTnOIaiwEKNV8BPvPAhyiudTt6gP__bSHSVxniNj8OZkYbWzv2AXYk_L19Tw3iPH_-N1Q5ublBeS7ar4if7jGc8E1aY9C3i0vohPibIDzRqc364dTAkhtOpCVfvxnYdkRMnFCOtg2Tw5m8cMlewFja5J41r1u5MS-N6Hb3ZUPw4O6ctAEJ6lmf3KX10nodxPxnhci81BKrfXGnXJ8oFG-cdNvI7zTTVpno5gF5UwPoR3EgotunjXNgXxRqu5MACDFcpRam8GYO-iyb24_PIxWQ_qX5F6En5mdoP5TdrI77VS_RfwjxyDh5CXYjOoZw0ANNs6mxEgiP_rotLS5SzewfYekKOYIyjIPR3GcrmrfI9uZwBiBAVDMoaOquB6s28hYoWp-hNYPI5QncegQ2GASVgiEAE0eHGIAxRIjy-2SGcFesKvq3M0q6ynaMQpk7qAuPqZv4Al0b7HMZWfSonekaLSYwHlIpcoC92KPBItkAT4UPpKgPSsMqH8nyJdU58CUUQa2McNcL9I1NmZk4iVsrmESMr9ZhIyfSwlHvq5P4_o4T5KoCfLtw1zSqOW0VwonO1OnpZtJD4yx5yQq0Vu2r7KjGNqD5tx4xoU_T4NLUKbpIHV8Ke-ForJOw_tJaZuHNAr7eMjlSrT5df68-VdcmAVBqPIBGyZB0l9EZhziebUm6qQZyotdGg9hpK-yGOgSULET2m46mLplmUUCEWGLs54K8gC8meKV4tQm1EoW_4pLzCObEZt2HPX7FCaQWy724ib7zbozf9d1h51O3eCRTk-hdPVS6fKO_Y-AzIbWjG2LkqnLAT9P1bjdwcu1WpV6P_d1nVKEma_QZo54-0zgLrvKcxTCCjwanMFlof4MnjWZ2W6pJX45K6P87FYn3V_sxrFCr0DDcf4f2t2QA8Mc3lF4ZdIAcX81QCB9v1WmruYg8m2NM-SwQ9pm5luRC_ajeTj87sbKuwFX2Z2wT7sYmygol0VgdEEx2rJHBTrlcWII-xQ1C7V8e-_7PawtiFHTg9q0DIK2djn8Z37JoL9HTytSQEHOM3G03nNTr-5tHXgoIPCYIEtmc8ZKZu8SIgIjiBnBSZ-6RIjWrnqISTxmphz3IYw3YyZ7SzoxtWByibTgZFOUnZlFVZXUKQyh5Iw-oCUrmABK4Ad7DvdD5DhTMb9I9GLZuYTF7l0P5fza4gBvDyO5fg==",
+        "status": null
+      },
+      {
+        "id": "msg_00356ba641ff9d97016aad38cc60b887d2a2a1c89fe9eecd9c",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 630,
+                "start_index": 481,
+                "title": "Le Repos de Diane - Troy Jean-François de",
+                "type": "url_citation",
+                "url": "https://collections-mba.nancy.fr/fr/notice/270-le-repos-de-diane-8a32d469-d3d5-415f-a827-2acdd4fbf061?utm_source=openai"
+              },
+              {
+                "end_index": 1290,
+                "start_index": 1141,
+                "title": "Le Repos de Diane - Troy Jean-François de",
+                "type": "url_citation",
+                "url": "https://collections-mba.nancy.fr/fr/notice/270-le-repos-de-diane-8a32d469-d3d5-415f-a827-2acdd4fbf061?utm_source=openai"
+              },
+              {
+                "end_index": 1893,
+                "start_index": 1787,
+                "title": "Le Repos de Diane - Jean-François de Troy | Utpictura18",
+                "type": "url_citation",
+                "url": "https://utpictura18.univ-amu.fr/en/notice/3958-repos-diane-jean-francois-troy"
+              },
+              {
+                "end_index": 2773,
+                "start_index": 2557,
+                "title": "File:Nancy (Meurthe-et-Moselle) - Musée des beaux-arts - \"Le Repos de Diane\" (Jean-François de Troy, 1726) (33027820028).jpg - Wikimedia Commons",
+                "type": "url_citation",
+                "url": "https://commons.wikimedia.org/wiki/File%3ANancy_%28Meurthe-et-Moselle%29_-_Mus%C3%A9e_des_beaux-arts_-_%22Le_Repos_de_Diane%22_%28Jean-Fran%C3%A7ois_de_Troy%2C_1726%29_%2833027820028%29.jpg"
+              },
+              {
+                "end_index": 3316,
+                "start_index": 3174,
+                "title": "PARCOURS MUSÉE",
+                "type": "url_citation",
+                "url": "https://sites.ac-nancy-metz.fr/langues-anciennes/wp-content/uploads/musee_parcours_numerique.pdf?utm_source=openai"
+              },
+              {
+                "end_index": 3889,
+                "start_index": 3810,
+                "title": "pop.culture.gouv.fr",
+                "type": "url_citation",
+                "url": "https://pop.culture.gouv.fr/notice/joconde/M0332006747"
+              },
+              {
+                "end_index": 4178,
+                "start_index": 4099,
+                "title": "Le Repos de Diane - POP",
+                "type": "url_citation",
+                "url": "https://pop.culture.gouv.fr/notice/joconde/M0536000510"
+              },
+              {
+                "end_index": 4711,
+                "start_index": 4460,
+                "title": "Fokus auf Kunstwerke - Die Sammlungen — Musée des Beaux-arts de Nancy - Ville de Nancy",
+                "type": "url_citation",
+                "url": "https://musee-des-beaux-arts.nancy.fr/de/die-sammlungen/malerei/malerei-im-18-jahrhundert-in-europa/fokus-auf-kunstwerke?cHash=b6cd316bd32fbd8a7833a9fc44335cd3&tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bnews%5D=118"
+              }
+            ],
+            "text": "## Identification vérifiée\n\nL’œuvre correspond bien à :\n\n- **Titre :** *Le Repos de Diane*  \n- **Artiste :** **Jean-François de Troy** (1679–1752)  \n- **Date :** **1726**  \n- **Technique :** huile sur toile  \n- **Dimensions :** 130 × 196 cm  \n- **Musée :** Musée des Beaux-Arts de Nancy  \n- **Numéro d’inventaire :** **270**  \n- **Signature :** « I. DE TROY. 1726 »  \n\nLa notice officielle du musée fournit ces éléments et propose une reproduction de l’œuvre (« Voir l’image 1 »). ([collections-mba.nancy.fr](https://collections-mba.nancy.fr/fr/notice/270-le-repos-de-diane-8a32d469-d3d5-415f-a827-2acdd4fbf061?utm_source=openai))\n\n## Notices avec reproduction\n\n### 1. Musée des Beaux-Arts de Nancy — notice de référence\n\n**Notice :** [Le Repos de Diane — Jean-François de Troy, inv. 270](https://collections-mba.nancy.fr/fr/notice/270-le-repos-de-diane-8a32d469-d3d5-415f-a827-2acdd4fbf061)\n\nC’est la notice prioritaire : elle identifie explicitement l’artiste, la date de 1726, le numéro d’inventaire 270, les dimensions, la technique, la signature et l’historique de l’œuvre. Elle comporte une **reproduction photographique du tableau**. ([collections-mba.nancy.fr](https://collections-mba.nancy.fr/fr/notice/270-le-repos-de-diane-8a32d469-d3d5-415f-a827-2acdd4fbf061?utm_source=openai))\n\n### 2. Utpictura18 — Université d’Aix-Marseille\n\n**Notice :** [Le Repos de Diane — Jean-François de Troy](https://utpictura18.univ-amu.fr/en/notice/3958-repos-diane-jean-francois-troy)\n\nCette notice universitaire reprend les bons critères d’identification : Jean-François de Troy, 1726, huile sur toile, 130 × 196 cm, conservée à Nancy. Elle propose un lien vers une **image HD**. La page précise toutefois que la reproduction et la réutilisation de la notice sont interdites sans autorisation. ([utpictura18.univ-amu.fr](https://utpictura18.univ-amu.fr/en/notice/3958-repos-diane-jean-francois-troy))\n\n### 3. Wikimedia Commons — reproduction photographique\n\n**Fichier :** [Nancy — Musée des beaux-arts — *Le Repos de Diane*](https://commons.wikimedia.org/wiki/File:Nancy_(Meurthe-et-Moselle)_-_Musée_des_beaux-arts_-_%22Le_Repos_de_Diane%22_(Jean-François_de_Troy,_1726)_(33027820028).jpg)\n\nCette page contient une **reproduction photographique en haute résolution** — fichier original annoncé à 4 194 × 3 042 pixels — et identifie le tableau comme celui de Jean-François de Troy conservé au Musée des Beaux-Arts de Nancy. La photographie est publiée sous licence **CC BY-SA 2.0** ; il faut donc respecter les conditions d’attribution et de partage à l’identique. ([commons.wikimedia.org](https://commons.wikimedia.org/wiki/File%3ANancy_%28Meurthe-et-Moselle%29_-_Mus%C3%A9e_des_beaux-arts_-_%22Le_Repos_de_Diane%22_%28Jean-Fran%C3%A7ois_de_Troy%2C_1726%29_%2833027820028%29.jpg))\n\n### 4. Site pédagogique de l’académie de Nancy-Metz\n\n**Document :** [Parcours musée — PDF](https://sites.ac-nancy-metz.fr/langues-anciennes/wp-content/uploads/musee_parcours_numerique.pdf)\n\nLe document renvoie à la notice du musée de Nancy et reproduit les principaux éléments d’identification : titre, artiste et date. Il associe bien l’œuvre à la notice du musée correspondant à l’inventaire 270. ([sites.ac-nancy-metz.fr](https://sites.ac-nancy-metz.fr/langues-anciennes/wp-content/uploads/musee_parcours_numerique.pdf?utm_source=openai))\n\n## Attention aux œuvres homonymes\n\nLe titre *Le Repos de Diane* est porté par plusieurs œuvres conservées dans des collections publiques. Elles ne correspondent pas à l’œuvre de Nancy :\n\n- **Besançon, musée des Beaux-Arts et d’Archéologie :** œuvre intitulée *Le repos de Diane*, attribuée à **un anonyme / école de Jean-François de Troy**, inventaire **852.24.1**, dimensions 95 × 78,5 cm. Ce n’est donc pas le tableau de Nancy, qui est signé, mesure 130 × 196 cm et porte l’inventaire 270. ([pop.culture.gouv.fr](https://pop.culture.gouv.fr/notice/joconde/M0332006747))\n- **Épinal, musée départemental d’art ancien et contemporain :** *Le Repos de Diane* d’**Antoine Coypel**, inventaire **L.I.20**, dimensions 89 × 122 cm. Il s’agit d’une autre composition, attribuée à Coypel. ([pop.culture.gouv.fr](https://pop.culture.gouv.fr/notice/joconde/M0536000510))\n- Le site officiel du musée de Nancy affiche également, dans une autre page, la date **1727**. Cette date renvoie vraisemblablement au concours organisé en 1727 ; la notice d’œuvre du musée, la signature du tableau et la notice Utpictura18 donnent **1726** comme date de création. ([musee-des-beaux-arts.nancy.fr](https://musee-des-beaux-arts.nancy.fr/de/die-sammlungen/malerei/malerei-im-18-jahrhundert-in-europa/fokus-auf-kunstwerke?cHash=b6cd316bd32fbd8a7833a9fc44335cd3&tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bnews%5D=118))\n\n### Conclusion\n\nPour une référence sûre, il faut citer en premier la notice du **Musée des Beaux-Arts de Nancy, inv. 270**. Les reproductions complémentaires les plus pertinentes sont celles d’**Utpictura18** et de **Wikimedia Commons**. Les notices Joconde de Besançon et d’Épinal sont utiles surtout pour écarter les deux œuvres homonymes.",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "required",
+    "tools": [
+      {
+        "type": "web_search",
+        "filters": null,
+        "search_context_size": "medium",
+        "user_location": {
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null,
+          "type": "approximate"
+        },
+        "return_token_budget": "default",
+        "search_content_types": [
+          "text"
+        ]
+      }
+    ],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1789737176.0,
+    "conversation": null,
+    "max_output_tokens": 2500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "medium",
+      "generate_summary": null,
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 30647,
+      "input_tokens_details": {
+        "cache_write_tokens": 88,
+        "cached_tokens": 4251
+      },
+      "output_tokens": 1743,
+      "output_tokens_details": {
+        "reasoning_tokens": 541
+      },
+      "total_tokens": 32390
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 2
+      }
+    }
+  }
+}

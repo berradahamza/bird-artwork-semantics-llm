@@ -1,0 +1,56 @@
+{
+  "image_id": "1_0150",
+  "titre": "Portrait présumé d'Emilie Charton",
+  "artiste": "Adolf Ulrick Wertmüller",
+  "room_id": "Room_24",
+  "sujet_existant": "Personnage",
+  "fingerprint": "1d58055c6fc59c72ef0e09068bfd123c98ff6a84672e9bd5773b450615ff1f18",
+  "model": "gpt-5.6-luna",
+  "prompt_version": "bird-vision-v1",
+  "date_utc": "2026-09-18T12:56:22.256568+00:00",
+  "statut": "ok",
+  "image_path": "images\\1_0150.jpg",
+  "source_page": "https://collections-mba.nancy.fr/fr/notice/1063-portrait-presume-d-emilie-charton-482e9ead-94f2-4d02-a587-c9329ba1638c",
+  "source_image": "https://d2lkryo36aywim.cloudfront.net/eyJidWNrZXQiOiJvcGFjLXByb2QtbWVkaWEiLCJrZXkiOiJiYW5hbmN5MDFcL21iYW5hbmN5b3cwMlwvNjBhMzkxMGMtNDY1YS00NjAyLTg1YjAtMjk0YjVjMGUzMmFhLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NjUwLCJoZWlnaHQiOjY1MCwiZml0IjoiaW5zaWRlIn19fQ==",
+  "controle_identite": "retenu_par_IA_non_verifie_humain",
+  "raison_identite": "La page du musée de Nancy rattache explicitement l’image à l’œuvre « Portrait présumé d’Émilie Charton », peinte par Adolf Ulrick Wertmüller en 1781. L’image correspond visuellement à un portrait d’enfant en costume avec cadre ovale, et la notice fournit le même numéro d’inventaire 1063 ainsi que les dimensions et la description concordantes.",
+  "original_width": 498,
+  "original_height": 650,
+  "download_url": "https://d2lkryo36aywim.cloudfront.net/eyJidWNrZXQiOiJvcGFjLXByb2QtbWVkaWEiLCJrZXkiOiJiYW5hbmN5MDFcL21iYW5hbmN5b3cwMlwvNjBhMzkxMGMtNDY1YS00NjAyLTg1YjAtMjk0YjVjMGUzMmFhLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NjUwLCJoZWlnaHQiOjY1MCwiZml0IjoiaW5zaWRlIn19fQ==",
+  "sha256_download": "07050eeb81d11cbc95fd200accb18a9238849e269b30e2813424d4cb3ae66780",
+  "description_visuelle": "Portrait en buste d’une jeune fille tournée de trois quarts, au visage clair, aux joues rosées et aux cheveux relevés. Elle porte un vêtement sombre bordé d’une étoffe à motif tacheté évoquant une fourrure, avec un tissu clair visible à la taille. L’ensemble est inscrit dans un cadre ovale en bois brun orné de motifs décoratifs, sur un fond très sombre.",
+  "sujet_principal": "Personnage",
+  "sujets_secondaires": [
+    "Objet"
+  ],
+  "justification_sujet": "La figure humaine occupe presque toute la composition et constitue le centre visuel ; le cadre est un objet nettement visible mais secondaire.",
+  "style_visuel_probable": "Figuratif, portraitiste, naturaliste",
+  "justification_style": "Le visage, les étoffes et les effets de lumière sont rendus de manière détaillée et réaliste, avec une pose composée et un arrière-plan assombri. L’image seule ne permet pas de déterminer une époque, une école ou une attribution.",
+  "figuration": "figuratif",
+  "couleurs_dominantes": [
+    "brun",
+    "noir",
+    "ocre",
+    "rose pâle",
+    "blanc cassé"
+  ],
+  "elements_visibles": [
+    "jeune fille",
+    "visage de trois quarts",
+    "cheveux relevés",
+    "vêtement sombre",
+    "bordure de fourrure ou tissu tacheté",
+    "tissu clair à la taille",
+    "cadre ovale en bois",
+    "ornements du cadre",
+    "fond sombre"
+  ],
+  "composition": "La figure est centrée dans un médaillon ovale et représentée en buste, avec le visage placé dans la partie supérieure centrale. Les diagonales du corps et du vêtement apportent une légère orientation latérale, tandis que le cadre répète la forme ovale autour du personnage.",
+  "limites_visuelles": [
+    "La reproduction est cadrée très près et ne montre pas l’œuvre dans son environnement.",
+    "La nature exacte de l’étoffe tachetée et des ornements ne peut pas être confirmée visuellement.",
+    "Aucun nom, date, lieu ou récit historique n’est déductible avec certitude de l’image seule."
+  ],
+  "desaccord_sujet": false,
+  "erreurs_telechargement": []
+}

@@ -1,0 +1,88 @@
+{
+  "image_id": "0_0678",
+  "titre": "Dante et Virgile",
+  "artiste": "Gérard Garouste",
+  "room_id": "Room_7",
+  "sujet_existant": "Culture",
+  "fingerprint": "0469eb855a7d8e4b909c67089daa20a392d2adba02fe08f9a038cb755aa471e5",
+  "model": "gpt-4.1",
+  "prompt_version": "bird-vision-v1",
+  "date_utc": "2026-09-17T13:01:01.703129+00:00",
+  "statut": "a_verifier",
+  "motif": "Aucune correspondance suffisamment étayée.",
+  "nombre_candidats": 8,
+  "erreurs_telechargement": [
+    {
+      "url": "https://www.centrepompidou.fr/media/picture/10/3e/103e52906d576cf605b27e45e7565d14/thumb_small.jpg",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://www.centrepompidou.fr/media/picture/d2/26/d2269811762e5a1f225622f0afd37664/thumb_small.jpg",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://www.centrepompidou.fr/typo3temp/assets/_processed_/a/4/csm_thumb_medium_1e0320a50f.jpg",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://www.centrepompidou.fr/typo3temp/assets/_processed_/6/f/csm_thumb_medium_40b0dccaa4.jpg",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://www.centrepompidou.fr/typo3temp/assets/_processed_/f/4/csm_thumb_medium_bb3f55c2da.jpg",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://www.centrepompidou.fr/typo3temp/assets/_processed_/8/e/csm_thumb_medium_25ecaf17d5.jpg",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://www.centrepompidou.fr/typo3temp/assets/_processed_/c/5/csm_thumb_medium_aa6819e4d8.jpg",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://www.centrepompidou.fr/typo3temp/assets/_processed_/b/9/csm_thumb_medium_ac3233dbde.jpg",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://www.centrepompidou.fr/typo3temp/assets/_processed_/d/c/csm_thumb_medium_0a35de03ed.jpg",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://www.centrepompidou.fr/typo3temp/assets/_processed_/5/3/csm_thumb_medium_791ca17373.jpg",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://www.centrepompidou.fr/typo3temp/assets/_processed_/5/5/csm_thumb_medium_c6de46f14e.jpg",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://www.centrepompidou.fr/typo3temp/assets/_processed_/b/4/csm_thumb_medium_0a2362b451.jpg",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://www.centrepompidou.fr/fileadmin/user_upload/RS-Threads-BLANC.svg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.centrepompidou.fr/fileadmin/user_upload/RS-Bluesky-BLANC.svg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.centrepompidou.fr/fileadmin/user_upload/TikTok.svg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://musee-des-beaux-arts.nancy.fr/typo3/sysext/core/Resources/Public/Icons/Flags/FR.png",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://musee-des-beaux-arts.nancy.fr/typo3/sysext/core/Resources/Public/Icons/Flags/en-us-gb.png",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://musee-des-beaux-arts.nancy.fr/typo3/sysext/core/Resources/Public/Icons/Flags/DE.png",
+      "error": "ValueError"
+    }
+  ]
+}

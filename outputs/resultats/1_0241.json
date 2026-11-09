@@ -1,0 +1,60 @@
+{
+  "image_id": "1_0241",
+  "titre": "La Charité",
+  "artiste": "Philippe de Champaigne",
+  "room_id": "Room_30",
+  "sujet_existant": "Mythologie",
+  "fingerprint": "5c26f0ae10cc403f0e17d76f160cdd3232bc22aaf7a6450ef3e0a8681db43e8c",
+  "model": "gpt-5.6-luna",
+  "prompt_version": "bird-vision-v1",
+  "date_utc": "2026-09-18T13:38:51.481700+00:00",
+  "statut": "ok",
+  "image_path": "images\\1_0241.jpg",
+  "source_page": "https://collections-mba.nancy.fr/fr/notice/67-la-charite-fd5e6c0b-c9ad-4e47-86d7-69ea411fab7e",
+  "source_image": "https://d2lkryo36aywim.cloudfront.net/eyJidWNrZXQiOiJvcGFjLXByb2QtbWVkaWEiLCJrZXkiOiJiYW5hbmN5MDFcL21iYW5hbmN5b3cwMlwvNzQxZWM3YzUtMGIwYy00YjdlLTg3OTktMTM5NTY0MTM1ZjM2LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NjUwLCJoZWlnaHQiOjY1MCwiZml0IjoiaW5zaWRlIn19fQ==",
+  "controle_identite": "retenu_par_IA_non_verifie_humain",
+  "raison_identite": "La notice candidate correspond clairement à l’œuvre : même titre (« La Charité »), même artiste (Philippe de Champaigne), même datation (vers 1635-1636), même musée de Nancy et numéro d’inventaire 67. Les dimensions indiquées correspondent également au cadre et à l’œuvre, et l’image représente bien l’allégorie de la Charité avec trois enfants et une flamme sur la tête.",
+  "original_width": 550,
+  "original_height": 650,
+  "download_url": "https://d2lkryo36aywim.cloudfront.net/eyJidWNrZXQiOiJvcGFjLXByb2QtbWVkaWEiLCJrZXkiOiJiYW5hbmN5MDFcL21iYW5hbmN5b3cwMlwvNzQxZWM3YzUtMGIwYy00YjdlLTg3OTktMTM5NTY0MTM1ZjM2LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NjUwLCJoZWlnaHQiOjY1MCwiZml0IjoiaW5zaWRlIn19fQ==",
+  "sha256_download": "739dfb3109312bc5f8afe848e6348df49b4b591af15c555e38f4922af49a5d85",
+  "description_visuelle": "Une femme assise, vêtue d’une robe bleue et enveloppée dans un vaste drapé rouge à motifs, tient un jeune enfant contre elle et présente un fruit rouge dans sa main droite. Deux autres enfants nus ou partiellement vêtus l’entourent : l’un est porté sur son bras droit, tandis que l’autre se tient debout au premier plan en levant les bras. La scène se déroule devant une architecture monumentale sombre, avec des reliefs sculptés et un paysage aperçu à gauche.",
+  "sujet_principal": "Personnage",
+  "sujets_secondaires": [
+    "Architecture",
+    "Objet",
+    "Culture"
+  ],
+  "justification_sujet": "La composition est dominée par un groupe de figures humaines organisé autour d’une femme centrale et de trois enfants. Aucun attribut explicitement religieux, historique ou mythologique n’est assez visible pour retenir ces catégories.",
+  "style_visuel_probable": "Figuratif, naturaliste, théâtral, contrasté, richement drapé",
+  "justification_style": "Les corps et les visages sont rendus de manière reconnaissable, avec des volumes modelés par la lumière. Le contraste entre les étoffes lumineuses, le fond sombre et les gestes expressifs produit une composition théâtrale, tandis que les plis détaillés et les motifs du tissu renforcent l’effet décoratif.",
+  "figuration": "figuratif",
+  "couleurs_dominantes": [
+    "bleu sombre",
+    "rouge orangé",
+    "brun",
+    "blanc cassé",
+    "rose chair",
+    "noir"
+  ],
+  "elements_visibles": [
+    "femme assise au centre",
+    "trois enfants",
+    "robe et drapé rouge à motifs",
+    "tissu bleu",
+    "fruit rouge tenu dans la main",
+    "colonne ou pilastre monumental",
+    "reliefs sculptés",
+    "ouverture sur un paysage à gauche",
+    "sol et fond très sombres",
+    "cadre de la reproduction"
+  ],
+  "composition": "La femme forme l’axe central de la scène et est placée légèrement au-dessus des enfants. Les gestes et les regards créent une circulation diagonale entre le visage de la femme, l’enfant porté à droite, l’enfant assis à gauche et l’enfant debout au premier plan. L’architecture latérale encadre le groupe, tandis que le drapé rouge occupe une large partie inférieure de l’image.",
+  "limites_visuelles": [
+    "L’image montre une reproduction encadrée et non l’œuvre originale ; la texture et les couleurs peuvent être altérées.",
+    "Les zones sombres du fond masquent certains détails architecturaux et vestimentaires.",
+    "L’identité des personnages et la signification précise de la scène ne sont pas démontrables à partir des seuls éléments visibles."
+  ],
+  "desaccord_sujet": true,
+  "erreurs_telechargement": []
+}

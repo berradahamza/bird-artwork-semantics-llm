@@ -1,0 +1,63 @@
+{
+  "image_id": "0_0922",
+  "titre": "Menton, le port",
+  "artiste": "Edmond Sigrist",
+  "room_id": "Room_14",
+  "sujet_existant": "Nature",
+  "model": "gpt-5.6-luna",
+  "prompt_version": "bird-vision-v1",
+  "date_utc": "2026-09-19T14:28:09.688549+00:00",
+  "mode_acquisition": "image_locale",
+  "fichier_fourni": "0_0922.png",
+  "controle_identite": "association_par_id_fournie_par_utilisateur",
+  "raison_identite": "Image associée à cette œuvre par son nom de fichier ; identité non contrôlée automatiquement.",
+  "source_page": "",
+  "source_image": "",
+  "erreurs_telechargement": [],
+  "sha256_image_locale": "5aad6599633355fd89d751bb2e2d7919e5e8fcdf42ff8e1309a480309dcee815",
+  "fingerprint": "7b25029a4fc7c13d6f27d0b94a2ef23d23709640eaff4b440129fa53ebab789a",
+  "original_width": 647,
+  "original_height": 481,
+  "statut": "ok",
+  "image_path": "images\\0_0922.jpg",
+  "description_visuelle": "Vue peinte d’un front de mer avec une rive au premier plan, plusieurs petites embarcations sur l’eau et des personnes rassemblées près du bord. Des bâtiments clairs s’étagent derrière le quai, dominés par une haute tour étroite, tandis que des collines ou montagnes ferment l’horizon sous un ciel nuageux. Les reflets colorés des constructions, des bateaux et du ciel se prolongent dans l’eau.",
+  "sujet_principal": "Architecture",
+  "sujets_secondaires": [
+    "Nature",
+    "Quotidien",
+    "Objet"
+  ],
+  "justification_sujet": "L’élément structurant est le quartier bâti du bord de l’eau, avec ses façades, ses toits et sa tour visible au centre. Le paysage montagneux, les activités ordinaires sur la rive et les embarcations complètent la scène.",
+  "style_visuel_probable": "Pictural, impressionniste, touches visibles, palette lumineuse",
+  "justification_style": "Les formes sont suggérées par des touches colorées et des contours peu détaillés, avec une attention portée aux variations de lumière et aux reflets sur l’eau.",
+  "figuration": "figuratif",
+  "couleurs_dominantes": [
+    "bleu",
+    "gris bleuté",
+    "ocre",
+    "beige",
+    "blanc cassé",
+    "vert",
+    "brun"
+  ],
+  "elements_visibles": [
+    "front de mer",
+    "quai ou rive",
+    "tour claire",
+    "bâtiments serrés",
+    "collines ou montagnes",
+    "ciel nuageux",
+    "bateau à voile",
+    "autres embarcations",
+    "reflets dans l’eau",
+    "petits groupes de personnes",
+    "végétation ponctuelle"
+  ],
+  "composition": "La scène est organisée en bandes horizontales : personnages et rive au premier plan, bassin et bateaux au centre, constructions et tour à l’arrière-plan, puis reliefs et ciel. La tour attire le regard près du centre, tandis que les embarcations et les reflets donnent de la profondeur vers l’eau.",
+  "limites_visuelles": [
+    "Les détails des personnes et des bâtiments sont trop petits pour être identifiés précisément.",
+    "Aucun texte lisible ni symbole permettant de déterminer un lieu, une époque ou une fonction religieuse n’est visible.",
+    "La nature exacte des embarcations et de la tour reste indéterminée."
+  ],
+  "desaccord_sujet": true
+}

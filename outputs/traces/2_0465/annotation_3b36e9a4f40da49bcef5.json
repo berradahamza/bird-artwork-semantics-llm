@@ -1,0 +1,205 @@
+{
+  "signature": "7d737148502094f9afc77a417409ae2b2a86fcc4993467bee3b5781d0d0f55b8",
+  "response": {
+    "id": "resp_06b548ae5e4962fc016aad48605d7487d281dfddf50dcdff0d",
+    "created_at": 1789741152.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": "Analyse uniquement ce qui est visible dans cette image, sans recherche web ni identification de mémoire. Réponds en français. Décris précisément objets, personnages, décor et composition en 2 à 4 phrases. Pas de noms de personnes, dates ou récits non démontrables visuellement. Sujet principal parmi les neuf catégories ou NA. Religion/Mythologie/Histoire exigent des indices visibles, sinon NA ou catégorie plus générale. Culture : pratiques/symboles culturels identifiables ; Quotidien : activités ordinaires ; Objet : objets/nature morte ; Personnage : figure/portrait ; Nature : paysages/faune/flore ; Architecture : bâti. Style visuel probable en mots courts (ex. naturaliste, géométrique, impressionniste), sans affirmer une appartenance historique. Mets indéterminé si nécessaire. Ne confonds pas technique, sujet et style. Indique les limites et justifie les choix.",
+    "metadata": {},
+    "model": "gpt-5.6-luna",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_06b548ae5e4962fc016aad4861010c87d29086f636ae2a01ff",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrUhlfDchteKdXixjS-yOXW-goAWvec_IiOLg5IyoGxlEdjwu9ykWaaM_L7_ODXs1sMTDyO0CN_KoxkL5XOBbwbmI7tZIGL77tkTUKMTXhMyyz3VvHWFphFYnA03CvmBtWKsL-0xYkPuuRKUaRX5a1lAPtXouteeCccXWFjlFO32eslCu_2_p0pSJzqtdx0y_A_kNYFwdcxHipV_Kgz_yA0R5jn5IspRenlzjNh5NYPMvDEE25o1y9wyNIGPqKjk2CyaaKNrxMjLV0RBEqEH4HDzvmYYTXS533eyj6TPfhguItojQvqDO6lviFYl9HGjKIACfCiBG-EDWiOGBoSCAP7MY65N_fU_GtTQwul74fUdolCJG4ITGNmMhftGEXbC04THr02bEpvaACijZbmMCi5GMzbeSZBWSFdA_Nt9cMC0QFEaDlhHys27QiEghu0QtbnvWnccnva2kuANrC1B5QntkFP1CAmrLZjUNypheCdKO-LCDxxjSG5J1tgtQXveBqVg5NXLdA7L5_baips0FlgsCKOPPNROS-UgmSuiY41B8TWE_ywdPL1WyBhPUXvK7LKM8Oi6BH5UR36bjP4EMeLEOxviIYsRKPjPHsag0cJkiZfTtSfuhFhVfXLUsluF2kdFBJBTuJXMI5WX40vsm7cfLR129J_Dvq3bQy5N3CdZKhgCtAyJa2c0UVRpbL8RJfdZIyueNQ2-YEhY4-Q6SEMSvTpJbrev_I11AkX_FBGeJVevlyRTYAzN6fAfyzsb9rZAlJ0GPuTuvm1l1jB_8Lrgx4KJv3-LPqoqCsvB748Bb-DZ5WRe77Ze-y836bM2i0TvobEb1TYfn3-fc7MFABGwj5IBgxKmulvccYUpgUCiSD7aLMjej2CQFRKiSEUx_Blpxxqd61egYftldOEC6pq_PxFUQZy5pdDm7Pn_LkvWpHSKHZX82cnJvNmOLMHGBMd3Fk1xKFRSoJ2f-gN7ckzCO9VkwWppWruGEhBsHoujlk-QTSIf0336hi75YUzShc13kC94N_bm4PxhM3OTPjFzosm5OGCUWxmJPJxaTW_TVPifyOz1ZoOitu6qc1ZfH6HOttSbVD0rCu52BLBMfLgcWsgkIxwSAlmR5pixBVbLaN66qIIm7vlRPvjxNnenFTUxe55Fo34UCkYySyMVds9ewE1GYriJV4nDhOrHk8_IxRVNaoOsdP5TACjaFX4nEPAXQxpuZCJWqqQrZd6hzw_Kk-2EoYxHIER2mNm796Q1NQdYlOWIc77MuxUjQ3y4T_rAXwyD9MdNMybYJulQfuO6lKtDYVOXehy5mCLtfYjdI7miLE8UbwGHjWkJHwPNmQ0VDqlC57eO5QLw8pV1sZcM5KwBODXYO1MZigp4tW66XJ8T8u-UxJQQG93KicNQePscFscUL6h6RvVP0q97VG7e8LY1-aG35B9RWdK8gI0oN1i0tBARcIzz21EUV9GrlwFohDz2tHafFwJ7FD68SLTHSK-IiLnfHkclofUOhBLF6z-pLMAr7xGUB7vNmufINGIfrZ6TrbwG9xbrmK0LcIzCvy9H5BgwWCcy9dtm0AS9eYSBQB3k3pOimS-DDJX1vkTNJHO3W2ZKk5I3a9uADhc1dBrcCN3cqwn1z7oP4XwwXTUa6PwkVbZ0blfJhRONmtWOgLDrWWxG3yGgdN2kqTkMbPuZ8aYUqZ-UQidS0EtD7jAAlITCpCQV8aQQZeEQDOjD6UNiNhOYF-cW1ydIE_2ZDlCHH9NaSUTh43ZqDZNyf4iEDN-KuJuFYTVB2IQ0w1qJLCt9ZXhOnObLXVZzy7-IgHQ==",
+        "status": null
+      },
+      {
+        "id": "msg_06b548ae5e4962fc016aad4862114887d2976b5306887e32d6",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\"description_visuelle\":\"Portrait peint en buste d’un homme barbu, vu presque de face, portant un couvre-chef rouge-brun à larges pans et un vêtement sombre. Son très long visage est encadré par une barbe épaisse, tandis qu’un fond vert uni et un cadre ancien entourent la figure. L’éclairage doux met surtout en évidence le visage, la texture de la barbe et les plis du vêtement.\",\"sujet_principal\":\"Personnage\",\"sujets_secondaires\":[],\"justification_sujet\":\"La composition est dominée par une figure humaine représentée en portrait, sans action ni décor narratif identifiable.\",\"style_visuel_probable\":\"Figuratif, portrait naturaliste, détaillé, palette sourde\",\"justification_style\":\"Les traits du visage, les cheveux, la barbe et les étoffes sont rendus de manière reconnaissable et minutieuse, avec une modélisation sobre des volumes et des couleurs peu saturées.\",\"figuration\":\"figuratif\",\"couleurs_dominantes\":[\"vert olive\",\"brun rougeâtre\",\"noir\",\"brun foncé\",\"beige clair\"],\"elements_visibles\":[\"homme barbu\",\"couvre-chef rouge-brun\",\"vêtement noir ou très sombre\",\"fond vert uni\",\"cadre en bois sombre\"],\"composition\":\"La figure est centrée et occupe presque toute la surface, cadrée en buste avec les épaules visibles. Le visage se situe dans la partie supérieure centrale, au-dessus d’une barbe qui forme une masse verticale dominante; le fond uniforme crée un contraste avec la silhouette sombre.\",\"limites_visuelles\":[\"L’identité, la fonction et le contexte historique du personnage ne sont pas démontrables à partir de l’image seule.\",\"Le couvre-chef et le vêtement ne permettent pas d’attribuer avec certitude une origine culturelle ou religieuse.\",\"La reproduction montre une peinture encadrée, mais les dimensions, la technique exacte et les matériaux originaux ne peuvent pas être établis avec certitude.\"]}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1789741157.0,
+    "conversation": null,
+    "max_output_tokens": 3500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "medium",
+      "generate_summary": null,
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "resultat",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "description_visuelle": {
+              "type": "string"
+            },
+            "sujet_principal": {
+              "type": "string",
+              "enum": [
+                "Architecture",
+                "Culture",
+                "Histoire",
+                "Mythologie",
+                "Nature",
+                "Objet",
+                "Personnage",
+                "Quotidien",
+                "Religion",
+                "NA"
+              ]
+            },
+            "sujets_secondaires": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "Architecture",
+                  "Culture",
+                  "Histoire",
+                  "Mythologie",
+                  "Nature",
+                  "Objet",
+                  "Personnage",
+                  "Quotidien",
+                  "Religion"
+                ]
+              }
+            },
+            "justification_sujet": {
+              "type": "string"
+            },
+            "style_visuel_probable": {
+              "type": "string"
+            },
+            "justification_style": {
+              "type": "string"
+            },
+            "figuration": {
+              "type": "string",
+              "enum": [
+                "figuratif",
+                "abstrait",
+                "mixte",
+                "indetermine"
+              ]
+            },
+            "couleurs_dominantes": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "elements_visibles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "composition": {
+              "type": "string"
+            },
+            "limites_visuelles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "description_visuelle",
+            "sujet_principal",
+            "sujets_secondaires",
+            "justification_sujet",
+            "style_visuel_probable",
+            "justification_style",
+            "figuration",
+            "couleurs_dominantes",
+            "elements_visibles",
+            "composition",
+            "limites_visuelles"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 853,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cached_tokens": 0
+      },
+      "output_tokens": 523,
+      "output_tokens_details": {
+        "reasoning_tokens": 101
+      },
+      "total_tokens": 1376
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  }
+}

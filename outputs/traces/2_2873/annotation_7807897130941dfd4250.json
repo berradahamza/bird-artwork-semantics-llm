@@ -1,0 +1,205 @@
+{
+  "signature": "433d159b201dfc1f25176ba2e8e36fc81a1698ea54ec6fd4bd57aab6b68d9767",
+  "response": {
+    "id": "resp_06a8e68d07c50764016aad4af0c2d487d29d5558bbaf319a08",
+    "created_at": 1789741808.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": "Analyse uniquement ce qui est visible dans cette image, sans recherche web ni identification de mémoire. Réponds en français. Décris précisément objets, personnages, décor et composition en 2 à 4 phrases. Pas de noms de personnes, dates ou récits non démontrables visuellement. Sujet principal parmi les neuf catégories ou NA. Religion/Mythologie/Histoire exigent des indices visibles, sinon NA ou catégorie plus générale. Culture : pratiques/symboles culturels identifiables ; Quotidien : activités ordinaires ; Objet : objets/nature morte ; Personnage : figure/portrait ; Nature : paysages/faune/flore ; Architecture : bâti. Style visuel probable en mots courts (ex. naturaliste, géométrique, impressionniste), sans affirmer une appartenance historique. Mets indéterminé si nécessaire. Ne confonds pas technique, sujet et style. Indique les limites et justifie les choix.",
+    "metadata": {},
+    "model": "gpt-5.6-luna",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_06a8e68d07c50764016aad4af1a13887d287c9c025b7788b40",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrUr33TIErP3COh-pgGsxahaNSL6MuVD8TWrzOvYky7GGPNzWHJjYCTkrp4G2yaCa36WosGOwqbcZaLsChxOpRvMka6E6aMQeH631dZmnJ_cZM5wzrSmkGr5sHyrDOBVKx6d__Xm1tL9dtwnXBoxzMDIKdTTkOf-Iz6eghab67t2MbsfJO-bJU_wjBB9RlaGFNOxCCDvtI6gsX4WwNAA6mrbmyUg6fXeRhl1pouKPLcxIREYA5eyIvUbKRP0qwvwqd9j6zBDRc_yd1UIWbufA9CLlqq4qRisUseZs33Tyg3GVX4OSSMRWaOGnRKRztRid2TlyNcCTl8bcnn-QQOLqmRi0HMsphyAMV_1FwYN54VZopPaCiGoJjE68ifpTwWlLPEBpQkKncu-r5Nx5FJnW4Mv6XFLdSt0EcQN71crL3b7zHhg9qfcSLDQc5AC4AmW3pCm-i3sL2iFvUdwrhv15jSGiEDgp1Otb8EYKbJCz0mnixsavuI6k3_-YkHGDQYY97_bi0XYC-qSdb2Abcjw5ISNpqQWB6SL-OYQKiZ3_AuzW186cHA36ObKzitom5FWpNrqwP4wKPgCUW_uceoDqEL4xAavDwU1R8mtCHVROrIkL1g8T81j51qXLGrRrmaPMdLRXmtQfGWksRuQwajQ1gbO3VgZAni8xI04HZKIzGdwaq2AtI-dzQ84ZHAtMg-R4_LptUojK7sXSoE3QAPLKWCn7HqJ6md3MWVGD6-QTKzM7j-JNQUpYyWGJ6KEhEQlIhJA7RaXlWL3tD6EK05rzq8IlsfWofV7kDjdeVSs51FDCW-CvuSpb-hYEKWf9gsfQ3IdJ0a5gFqJk-M-nsaEsjnvHnwLy4D8oG6ieEVg0OsI_vK4U9KOF_K15AmmxXWnQ5xPqfPzmYjWrdjDOcJOv5TlgqT0QLqAmV_o51QDUPn0mDPzjk8MtfBuE5QlzoeA42UvN0ZbOm4-pnYz5RmAH5assGj6ZOC9ZU5UxkSLOXgyGJzZ2BSWRuj1fRaZpeqXezxVposbYTQlPzpUfpMtI3jQsknCmoEFilfj_UPRumIkvjpucO1CDJZVKcV8yPQiwZxWzIgPufGd971UCico0XGGM7pPjHhJuqicGZ404etW65OkDIruTw4SMwMpUBc7E5UoZq2V0FpueP9KZtmuquN1thEBAd5TLmQe0C9e1ksOzqByikOo5NzxFmm4vH8ow5fgiws286egOKOcotsftML14v0QCtkM5cB3Oh3NPBE2bAR-fdxBuVVGqlknr2I3TrYp1WGTOP32xD29hF2xTayUYF_QdkXvSfgiRrh8ti_9VmAp736HFWMY1_oY53XaeVHeY2OFigruNFxhgzw5EauAG0pB3yXu6CGa9V6PX4K4hd-6EwykGWWClMaes-YXN3R-3n_6QzU22YHZ_gysxWEPIFf9lhzipIACdu4zYVc29x2czOfMPgAafnMwrgpBJ6Vb9fStbLtD2fmQ9FoeiH9QeHAT78vL-cn6xrvtnBzPXygQQDkxVu0-9DpvL_hE3qXjdsp0EiVqF1ghjxtd4UeT1fUbqliii6BKS1BJzVtWIjSQ1LJ7GOcPIgKJKxHgp_VJ9aMcBCXEgoDhc_wM5JGt8TP6cs-f7K1kwuhzJu_uBAYrpIEJqjhupxhSifVCQoa46bEo82vCF7AU0W8nau3xp5bWIBzXfuhReFCdvUkSeqZy_bGPYHwu75_s5f3jgPJKccfu5r7oZAngq9I7UOrFAaI9jKqrH6eY6tkdusoyq5VfrR9NDiOzmJ3xJKwgx8ohoWfHYcs16HtZ_j9RAS64VNYGGP0ul0V9LSb6AAJTQbR5diJxdQlTD79qPeRhX1K9Ceq1DUyIq14sj8KGUvfqt_Yiow5nJsOZKN7feJZ_0lXsCcAPi4JLyyG2_WdkK2J9_PKkxkBydvWpxK61elFn1BfXKapx9GGPPdlg6SGKJ2hWSHHaDakNt_mkVElBmT5rUgmsYVwkLjEuTal_L2nkYW0Xx8pF42pPKoNIAgDYcPIW7OBJn4gKSwrWROSSMnOvlKmcu_7D1BnSK8oRWboii1cmUo104Su_ou0J0xczK_hT-q98YCc3GSSVIhNthxstTcJ3EWfsPyOkNOw9TRpG0E6l4u4nvbXpqpW-BFPlU_f9ilvWQcqw9n0neGj08-EfTN5ptFL2Cirt4-R-iZoTL_h3eJ81qAzlrka9IR4hp_iA4QIOM8xfkZsYelnNMddRhKAS6y-ifgUrAOkXG1eUAsZg08-Tn3Qhbubg1meh9HHozek7QOT2iJN17wnHtiD7B6asBiWd5vKs9jCc8d2aHdn3P4Frt0ZmwHxqd47VIQtOm0hQZg8_e741gA32pAwM0MHJf4oPmW3kAt8-17rUMb5yiE42085ayMmqwmsEGLYFwHReauAny2GaAnCqGVI719OFIdgHbgwdcfYqxVcxrKaA5zqSzE94r29Moi4Nhe6TU4IUNKdLqNahG7LjCqQPUZLVJ-9yak4WXTK33K32Puh6aHfAH1tkHJuJyp8qIc8PzMasqGj89FLXKOfUxOEAbINkkFErCNqlKt8MLU4CXqZYfAZpJ967B9iWk7nFi3cg6o2nBbeZGT2Su6lGGJphOobB52pbx8-K7rw5UeAhcZGdZ_GC1-fYMDg5IY9TiQoQPeZ-I2ibtYRbEoE42Meeg-ZcLoAy9QbNwgbAjIUyJ7ah9sjGcovxQJip4qgieRY5-al2-WKXkkF6AJjZNef83Os4y59TRrJgRG1nzi9wBfwvTq6by5Kke2ORyGHTB3Jlkh7QMqFkIFak1I5rNJx_fah8bhE5FjoFxEM4nVGlm4A==",
+        "status": null
+      },
+      {
+        "id": "msg_06a8e68d07c50764016aad4af4035087d2a1528e2a1bf3ef1c",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\"description_visuelle\":\"La scène montre une figure vêtue de rouge et de sombre, assise au pied d’un grand arbre et entourée d’un halo lumineux, tandis que plusieurs figures ailées présentent des plats autour d’une table couverte d’une nappe blanche. Le décor comprend une rive ou un paysage aquatique, des arbres, des oiseaux en vol et de petits animaux au premier plan. L’ensemble est peint dans des tons doux et terreux, avec une composition diagonale allant de la masse sombre de l’arbre vers les figures et l’espace clair du ciel.\",\"sujet_principal\":\"Religion\",\"sujets_secondaires\":[\"Personnage\",\"Nature\",\"Objet\"],\"justification_sujet\":\"Le halo autour de la figure centrale, les vêtements de type religieux et la présence de figures ailées constituent des indices visuels d’une scène à caractère religieux, sans permettre d’identifier précisément le récit représenté.\",\"style_visuel_probable\":\"Figuratif, narratif, atmosphérique, palette douce\",\"justification_style\":\"Les personnages, animaux, objets et paysages sont représentés de manière reconnaissable, avec des contours souples, une lumière diffuse et des transitions colorées peu contrastées.\",\"figuration\":\"figuratif\",\"couleurs_dominantes\":[\"brun\",\"vert sombre\",\"gris bleuté\",\"beige\",\"rose pâle\",\"rouge sourd\",\"blanc cassé\"],\"elements_visibles\":[\"grand arbre et végétation à gauche\",\"paroi ou rocher sombre\",\"figure assise avec halo\",\"plusieurs figures ailées\",\"table rectangulaire couverte d’une nappe\",\"plats et aliments disposés sur la table\",\"oiseaux dans le ciel\",\"étendue d’eau ou paysage clair à l’arrière-plan\",\"petits animaux au premier plan\",\"rivage ou terrain rocheux\"],\"composition\":\"La partie gauche est dominée par un arbre et une masse rocheuse verticales et sombres. Les figures se déploient ensuite vers le centre et la droite autour de la table, tandis que le ciel et l’arrière-plan aquatique ouvrent largement l’espace supérieur et droit.\",\"limites_visuelles\":[\"La reproduction est partielle et ne montre pas nécessairement l’ensemble de l’œuvre.\",\"L’identité des personnages et la signification exacte de la scène ne sont pas démontrables uniquement à partir de l’image.\",\"Les petits animaux du premier plan sont trop peu détaillés pour être identifiés avec certitude.\"]}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1789741815.0,
+    "conversation": null,
+    "max_output_tokens": 3500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "medium",
+      "generate_summary": null,
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "resultat",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "description_visuelle": {
+              "type": "string"
+            },
+            "sujet_principal": {
+              "type": "string",
+              "enum": [
+                "Architecture",
+                "Culture",
+                "Histoire",
+                "Mythologie",
+                "Nature",
+                "Objet",
+                "Personnage",
+                "Quotidien",
+                "Religion",
+                "NA"
+              ]
+            },
+            "sujets_secondaires": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "Architecture",
+                  "Culture",
+                  "Histoire",
+                  "Mythologie",
+                  "Nature",
+                  "Objet",
+                  "Personnage",
+                  "Quotidien",
+                  "Religion"
+                ]
+              }
+            },
+            "justification_sujet": {
+              "type": "string"
+            },
+            "style_visuel_probable": {
+              "type": "string"
+            },
+            "justification_style": {
+              "type": "string"
+            },
+            "figuration": {
+              "type": "string",
+              "enum": [
+                "figuratif",
+                "abstrait",
+                "mixte",
+                "indetermine"
+              ]
+            },
+            "couleurs_dominantes": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "elements_visibles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "composition": {
+              "type": "string"
+            },
+            "limites_visuelles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "description_visuelle",
+            "sujet_principal",
+            "sujets_secondaires",
+            "justification_sujet",
+            "style_visuel_probable",
+            "justification_style",
+            "figuration",
+            "couleurs_dominantes",
+            "elements_visibles",
+            "composition",
+            "limites_visuelles"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 1865,
+      "input_tokens_details": {
+        "cache_write_tokens": 1862,
+        "cached_tokens": 0
+      },
+      "output_tokens": 768,
+      "output_tokens_details": {
+        "reasoning_tokens": 260
+      },
+      "total_tokens": 2633
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  }
+}

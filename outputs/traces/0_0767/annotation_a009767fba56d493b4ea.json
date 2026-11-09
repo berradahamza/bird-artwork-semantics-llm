@@ -1,0 +1,197 @@
+{
+  "signature": "167a40f54ca33e12245761e25a1b4a9788e0b852c749a7cb680d3b95ca11a3cd",
+  "response": {
+    "id": "resp_0fcc38eb0a03bc7a016aabe71d4a5087d2aa944549d75de887",
+    "created_at": 1789650717.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": "Analyse uniquement ce qui est visible dans cette image, sans recherche web ni identification de mémoire. Réponds en français. Décris précisément objets, personnages, décor et composition en 2 à 4 phrases. Pas de noms de personnes, dates ou récits non démontrables visuellement. Sujet principal parmi les neuf catégories ou NA. Religion/Mythologie/Histoire exigent des indices visibles, sinon NA ou catégorie plus générale. Culture : pratiques/symboles culturels identifiables ; Quotidien : activités ordinaires ; Objet : objets/nature morte ; Personnage : figure/portrait ; Nature : paysages/faune/flore ; Architecture : bâti. Style visuel probable en mots courts (ex. naturaliste, géométrique, impressionniste), sans affirmer une appartenance historique. Mets indéterminé si nécessaire. Ne confonds pas technique, sujet et style. Indique les limites et justifie les choix.",
+    "metadata": {},
+    "model": "gpt-4.1-2025-04-14",
+    "object": "response",
+    "output": [
+      {
+        "id": "msg_0fcc38eb0a03bc7a016aabe71dce4487d2b25daf53948812d3",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\n  \"description_visuelle\": \"L'image montre un groupe de personnages nus ou partiellement drapés, rassemblés au bord d'un plan d'eau dans un paysage bucolique. Au centre, une figure nue, debout, semble s'apprêter à entrer dans l'eau, entourée de deux autres personnes dont l'une lui tend une couronne de fleurs. En arrière-plan, des arbres fins bordent le rivage, des montagnes s'élèvent au loin, tandis qu'un personnage ailé plane dans le ciel au-dessus du groupe principal. D'autres figures nues apparaissent près de l'eau, donnant une impression de scène idyllique ou mythologique.\",\n  \"sujet_principal\": \"Mythologie\",\n  \"sujets_secondaires\": [\"Nature\", \"Personnage\"],\n  \"justification_sujet\": \"Les personnages nus, la présence d'un être ailé et l'atmosphère onirique évoquent une scène inspirée de la mythologie classique, probablement un bain de déesses ou une scène liée à Vénus, avec un lien évident à la nature et à l'humain.\",\n  \"style_visuel_probable\": \"postimpressionniste\",\n  \"justification_style\": \"Le traitement des couleurs est vif et les contours sont adoucis, la composition baigne dans des tonalités lumineuses et la touche reste visible, sans recherche du détail réaliste.\",\n  \"figuration\": \"figuratif\",\n  \"couleurs_dominantes\": [\"rose\", \"bleu\", \"lavande\", \"ocre\"],\n  \"elements_visibles\": [\"personnages nus\", \"personnage ailé\", \"arbres fins\", \"lac\", \"montagnes\", \"fleurs\"],\n  \"composition\": \"La scène est centrée sur la figure debout entourée de personnages, un équilibre est créé par la disposition des personnages assis et debout à droite et à gauche, tandis que le personnage ailé attire le regard vers le haut.\",\n  \"limites_visuelles\": [\"Absence de détails précis sur les visages\", \"Décor stylisé qui ne permet pas d'identifier un lieu exact\", \"Symbolisme suggéré mais pas explicitement démontré\"]\n}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": null
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 1.0,
+    "background": false,
+    "completed_at": 1789650720.0,
+    "conversation": null,
+    "max_output_tokens": 3500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "in_memory",
+    "reasoning": {
+      "context": null,
+      "effort": null,
+      "generate_summary": null,
+      "mode": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "resultat",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "description_visuelle": {
+              "type": "string"
+            },
+            "sujet_principal": {
+              "type": "string",
+              "enum": [
+                "Architecture",
+                "Culture",
+                "Histoire",
+                "Mythologie",
+                "Nature",
+                "Objet",
+                "Personnage",
+                "Quotidien",
+                "Religion",
+                "NA"
+              ]
+            },
+            "sujets_secondaires": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "Architecture",
+                  "Culture",
+                  "Histoire",
+                  "Mythologie",
+                  "Nature",
+                  "Objet",
+                  "Personnage",
+                  "Quotidien",
+                  "Religion"
+                ]
+              }
+            },
+            "justification_sujet": {
+              "type": "string"
+            },
+            "style_visuel_probable": {
+              "type": "string"
+            },
+            "justification_style": {
+              "type": "string"
+            },
+            "figuration": {
+              "type": "string",
+              "enum": [
+                "figuratif",
+                "abstrait",
+                "mixte",
+                "indetermine"
+              ]
+            },
+            "couleurs_dominantes": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "elements_visibles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "composition": {
+              "type": "string"
+            },
+            "limites_visuelles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "description_visuelle",
+            "sujet_principal",
+            "sujets_secondaires",
+            "justification_sujet",
+            "style_visuel_probable",
+            "justification_style",
+            "figuration",
+            "couleurs_dominantes",
+            "elements_visibles",
+            "composition",
+            "limites_visuelles"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 850,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cached_tokens": 0
+      },
+      "output_tokens": 456,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 1306
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  }
+}

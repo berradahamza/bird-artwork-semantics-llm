@@ -1,0 +1,205 @@
+{
+  "signature": "ae635bc2cf01f0b44c1ebe5b7ef1c43191a009d6552f0e27ab94169329ed0f0a",
+  "response": {
+    "id": "resp_02d9cfafc6316a63016aad3f1dcfc487d2be873922ff827f5c",
+    "created_at": 1789738781.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": "Analyse uniquement ce qui est visible dans cette image, sans recherche web ni identification de mémoire. Réponds en français. Décris précisément objets, personnages, décor et composition en 2 à 4 phrases. Pas de noms de personnes, dates ou récits non démontrables visuellement. Sujet principal parmi les neuf catégories ou NA. Religion/Mythologie/Histoire exigent des indices visibles, sinon NA ou catégorie plus générale. Culture : pratiques/symboles culturels identifiables ; Quotidien : activités ordinaires ; Objet : objets/nature morte ; Personnage : figure/portrait ; Nature : paysages/faune/flore ; Architecture : bâti. Style visuel probable en mots courts (ex. naturaliste, géométrique, impressionniste), sans affirmer une appartenance historique. Mets indéterminé si nécessaire. Ne confonds pas technique, sujet et style. Indique les limites et justifie les choix.",
+    "metadata": {},
+    "model": "gpt-5.6-luna",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_02d9cfafc6316a63016aad3f1e5de487d2803316982d091252",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrT8kIE0_0OwzVq2sa5COcpYKVKbrNrr5mQ3vENGIQ7w9tXse5o-_vbTvzFd3pCRvxNwF-nCi9yq7iruLLvavWVSoNFxc4WMuqyKR1WwUcQ3_yL2jORGpJjdAscgFDZYgNYh2fUDcHFzjQNFA-l2ZaF8Xcpt8lpS2Q4_X9kq_hmz4R4FmzWLxgi59hTYzF5gU-iAJPRImF3fshcV5NFw7jzQObW8I2EEmo-QqqPcSRR47LFJxoK1CW1cKo7eGZVAoAnkoNgxnAxd1M4EuySs9qBwlpy6cj9yNRlb886N6uexPXy3Gk_pKSGukAo8nil-Qu7FI_y4n7dmML62Fb7WuHSWX4-l-P7mzgDpSlLWdE4bpKs339JvmzcMop4pk9VcPc97zhctcDu-rfp67KOaWCUmlty6qIA80o77IgX9c6nIJolmF6kHvYjMM1a3ahWe7WBbsMm9hPZ1VqDNMjhQaOwal8Aa0ZMVj3BR5oo4I4DEFvRFqTJ_vlQV4ajYOfINH6kG7QBbbtMYhisqpV_OsJ_29ak_e9_lGqhnNwg927T4iEkvgRwM92mnppyMjvTyvVnnc4pRlLd7jtruLiEwRucLVOGqrQ7-JB9zu5F7ld9_2BvN9a4jXzKLDY6xm8aGf3n5ASn3Wf8VHJNNftPaDMu-6ZXECJvhGWkUMKnw9Zd_tkWOVZuPXnawjSK0P4orS-E09i-b7WB3EkgPpxkDI0eaa7Sez5LajJc-ZeWXPDz_aaJNkn9ikJyBeDN2D_RJdBR3-GfbqNsXD0qyWufsEXWJOq5vue8JUekwGB3x5HfgiaBOUNPB_F2i5zDknF4GS7e27giUE4kZYvnJROAmnIRwVgOCF94-4VAu5CmqUv5kCpnaElm7NZtGqg8pbYJrBSHx228-asuBp1zn1ftGDxYXE8dAYd0fRF05NPKmGmrDjc5OntrITuUuy56XfWhJlOdNed4NZK2O5A9O9yoT9EMxqNwv8Avf2wSv1QfXxsVbG5StsEIaSfyNVIcFHnXewbrrFyDamYwq7EhzLJ_hcD-kYfdSUS77no3H2MuYCaqJyKOQoZZQ6kY5sBoPLn6mMKDdNBcCRvhHaEe2Y-rcRDDDPQCg29YIs8zHgE3yht9-MP9lJpbLqf5ugrl3vZTv45MqOulXqfw0aHJLLYoiojk6kyJGWBHpMbSIQw3TbQZ4otgv57qYq9ZY9oHdlVpoMBzA7iZyb8SriYeDB6scSt0C8mqKDr8xZ7NEhOVWUVYuf9_8ecq2FsEZ_Ii7IiUkzCzTwDcdKTjlKn_AghxntaxvzAtgL1Fs7SXNWNNcOPjkr81SdAb4Xgyf0HzUUMspCUqMQFuIwFvpop67hxWMR1zX7q-hk-q9M_S68LKHFd48Y0BEbCRuUlOM62KlJPwKQUCNhtsPd8_rYp9IH4Sb303gj3ZDjn2cj3XuF6_mKgq08TgC-tR827bZQ-h24yz5Fc1dLu89ugc0gd6plqwNzOlTNbuOX1W9djvSwzH465uJmO_X_ZKAj1r03rAdELQbJser9QFA4PJgy9uikZznme7ETctDWS8HsvD--x_S2JCOtAZ1FJwHwCPZyR4cHlsRVf7j-Ch25Cvr0VILMPvRds4HdF6_hsaV6usAylDHlipc8WfN-c04klFMUF8omPVskMwzhSVYbwKePC3fUaAuSDirBGAuiRy0-T0rKft9oA-Yv80ZxTqGdSVA5P-q_U3sQF468erJeZnnQYEx-pyjF0YerLD65QYo-saVdpTah2dPbVQ_ldMpCMan1wbx7M5JdZdHkerSFz2jareyZAVlt5XzCNJg99BZpc3YhPRtwpeFxbdrtmN174O5fvzQ4SZr3DPqCM0R_PtQH1dKRzCMuYvZ-m2bazyoxUdR7TqXEDPn31_uPk7Ys3BJn5zx5t4D4HziSMuFTznT1OWaT8Xu32WWwirJ9cCz4Q1EonVlHlO7J-aWyJsBCwlIZbpW0AxxXqrXW",
+        "status": null
+      },
+      {
+        "id": "msg_02d9cfafc6316a63016aad3f2001e887d2bbf26908da552640",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\"description_visuelle\":\"Peinture figurative montrant une femme assise ou agenouillée, vêtue d’un drapé clair et rose, tenant contre elle un jeune enfant presque nu. Un second enfant apparaît à droite, partiellement dans l’ombre, tandis que le groupe repose devant un grand élément drapé bleu ; le fond est très sombre et les bords de la reproduction sont usés.\",\"sujet_principal\":\"Personnage\",\"sujets_secondaires\":[\"Objet\"],\"justification_sujet\":\"La scène est dominée par trois figures humaines, avec une femme et deux enfants disposés au centre et à droite. Aucun attribut visuel suffisamment explicite ne permet d’affirmer une scène religieuse ou mythologique.\",\"style_visuel_probable\":\"Figuratif, naturaliste, modelé doux, clair-obscur\",\"justification_style\":\"Les corps et les visages sont rendus de manière reconnaissable, avec des volumes modelés par de légers dégradés de lumière et une forte opposition entre les figures éclairées et le fond noir. La matière picturale et les contours légèrement fondus évoquent un traitement doux, sans permettre d’identifier une période ou une école.\",\"figuration\":\"figuratif\",\"couleurs_dominantes\":[\"noir\",\"rose\",\"blanc cassé\",\"bleu\",\"brun\",\"ocre\"],\"elements_visibles\":[\"femme aux cheveux bruns\",\"enfant blond tenu dans les bras\",\"second enfant brun-roux à droite\",\"drapé clair\",\"vêtement ou drapé rose\",\"grand drapé ou coussin bleu au premier plan\",\"fond noir\",\"bords irréguliers et usés de la reproduction\"],\"composition\":\"Composition verticale et centrée : la femme forme l’axe principal, l’enfant porté occupe le centre gauche et le second enfant équilibre la scène sur la droite. Les lignes des bras et des drapés conduisent le regard vers le rapprochement des visages ; le bleu du premier plan contraste avec les tons chauds des carnations et du vêtement rose.\",\"limites_visuelles\":[\"L’identité des personnages n’est pas démontrable à partir de l’image seule.\",\"La fonction exacte de l’élément bleu au premier plan est incertaine : drapé, coussin ou autre support.\",\"La technique, la date, l’auteur et le contexte de la reproduction ne peuvent pas être établis visuellement avec certitude.\"]}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1789738788.0,
+    "conversation": null,
+    "max_output_tokens": 3500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "medium",
+      "generate_summary": null,
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "resultat",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "description_visuelle": {
+              "type": "string"
+            },
+            "sujet_principal": {
+              "type": "string",
+              "enum": [
+                "Architecture",
+                "Culture",
+                "Histoire",
+                "Mythologie",
+                "Nature",
+                "Objet",
+                "Personnage",
+                "Quotidien",
+                "Religion",
+                "NA"
+              ]
+            },
+            "sujets_secondaires": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "Architecture",
+                  "Culture",
+                  "Histoire",
+                  "Mythologie",
+                  "Nature",
+                  "Objet",
+                  "Personnage",
+                  "Quotidien",
+                  "Religion"
+                ]
+              }
+            },
+            "justification_sujet": {
+              "type": "string"
+            },
+            "style_visuel_probable": {
+              "type": "string"
+            },
+            "justification_style": {
+              "type": "string"
+            },
+            "figuration": {
+              "type": "string",
+              "enum": [
+                "figuratif",
+                "abstrait",
+                "mixte",
+                "indetermine"
+              ]
+            },
+            "couleurs_dominantes": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "elements_visibles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "composition": {
+              "type": "string"
+            },
+            "limites_visuelles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "description_visuelle",
+            "sujet_principal",
+            "sujets_secondaires",
+            "justification_sujet",
+            "style_visuel_probable",
+            "justification_style",
+            "figuration",
+            "couleurs_dominantes",
+            "elements_visibles",
+            "composition",
+            "limites_visuelles"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 828,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cached_tokens": 0
+      },
+      "output_tokens": 635,
+      "output_tokens_details": {
+        "reasoning_tokens": 131
+      },
+      "total_tokens": 1463
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  }
+}

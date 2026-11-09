@@ -1,0 +1,13 @@
+# Secrets
+.env
+
+# Environnements et caches Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Système
+.DS_Store
+Thumbs.db
+desktop.ini

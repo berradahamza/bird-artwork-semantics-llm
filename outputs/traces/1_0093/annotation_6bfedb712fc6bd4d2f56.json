@@ -1,0 +1,205 @@
+{
+  "signature": "5e8306c6c2a289f656666eaa754819e155de35aed1964a46c0b2de076201b997",
+  "response": {
+    "id": "resp_05a4ac94ad273927016aad317b20dc87d181e27a9236147d95",
+    "created_at": 1789735291.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": "Analyse uniquement ce qui est visible dans cette image, sans recherche web ni identification de mémoire. Réponds en français. Décris précisément objets, personnages, décor et composition en 2 à 4 phrases. Pas de noms de personnes, dates ou récits non démontrables visuellement. Sujet principal parmi les neuf catégories ou NA. Religion/Mythologie/Histoire exigent des indices visibles, sinon NA ou catégorie plus générale. Culture : pratiques/symboles culturels identifiables ; Quotidien : activités ordinaires ; Objet : objets/nature morte ; Personnage : figure/portrait ; Nature : paysages/faune/flore ; Architecture : bâti. Style visuel probable en mots courts (ex. naturaliste, géométrique, impressionniste), sans affirmer une appartenance historique. Mets indéterminé si nécessaire. Ne confonds pas technique, sujet et style. Indique les limites et justifie les choix.",
+    "metadata": {},
+    "model": "gpt-5.6-luna",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_05a4ac94ad273927016aad317bc02087d19d129b1d7d66d006",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTGA_mYl9fT0yZZsmv76zjHcYPASeg73niMNRxD7LqdoINN1sv1rLNUc8BwtHcbLlV9ysE1fcrosxMtcTPnOi6lYRcPnJWAh9-nO9YQQgw2-OHZPnC0V4RJkpGG6ZF_aA3Fv9Foq4g9bCO3G90gA4Lv_6_TbMcmhDQxPSZOuwSt51wSHwxBnv_yXFDoHMWtK_oucPuHF6rrHMCwUB_51OqdHI_hvwfbaEAGX80-Us5gjl5WWe6PQauJV9pS5e3eRfbUdtM09g-B_CR2KnzdMzrNYTrr4um-YjOGwCNC7VM85pemh4AnlIr9Lt6vl8IVtHU79OIUi9T1WCNUsbvbHVY-YFLP0BKk0_OzbVBnqORcgvjZfrVPFB1DB6E9VllKbr3Y2dDMBoCYg5nZJZhB7RCsIfiR8Gpdj7U3AlbejxCMTMEBIL-x_NVRMj4MqM9BIpd1eE-PJz-g0yLNhoG-DVFHrskC3ihZ1WRa_hrIulnhom-arOQTihFc14aPCvh7g6H7y7qLh8L-w22lldlNmeWTJLB4Ul9GJMpBEgS59G_kRHUKzWaEyBVIieF8_JnaHQg8fTmz6aMJAKnwKd6aKxeFBpNW9UI-DKW5P2gM_7Oyp7h757W4B0fzZcVeSrBji_rSqNU7QYFLK3QJJmJcGYxsG39SurzDhEM-QvlCKknxDVPCLdoYzQ6QjKeg25QmVnKOuusi9WJOsoQBhVpe-r3ubxgxoe5jqAtJWuykeySKaV2pDp_q-BTkcKz_1DOVB3b5JVSjofXnv5kSJiReavGUETy7HnDj6gBbgB6XfrLaGBpEz11fqf4W7AO9iII-fEA8lKnw1b_yAxWZb76Cn5Wh4rw20PvSDCZYiZVW8oYmPRx6FzjYrajJ2optiW6KCtx9MbkgxbCVHWAnLdIq92_HILjnT3DHiO0s3cHxQm0mK8CyTf6P7J3vl-a8w-JQ7XK61D6UIHoPO7-cNidbwLKnLlVcKoliV5AVG37M5RuKbfXsMg27boaouxZiVuf3OgyGFlZKBeW_mKu4s3wDzEaUV-m0DMvtpWxL0TYLGysbJNPiNRm5eidPBjqk0WiUe-YfCGr9wZBPkY3vkb6hMlge1xxj8FLsU2psJrH1mJFlFwPaYcIZRlcQaKwAyvSrWt9zpKQDP4-bBvyEecjUPmozCavoCwqM7K2SMmU_Hu4Uo3e4WQUOLHh8WcXOg_q7X1zYPhm7iq-xbymm18Ay4HRNrWjZhqQsaXZzmybQ_VpUxV7QDDs3TMOG8pmYuFdT9NRvgDaoGf_qiKVo-JYP-VRKJSMoHNukoXb1OtLk3V8gBDbukH92YYcdbDiIybusOVcnWThuohfLuJ7Yd10jbnGSiZlbF-fBXAz7ovEx0DYm6psgdZmkb4m5bbFL8GQZvRjPO4KeaTq0F4DV9vm09JRlgW8oMlZns9PPtClHQKEetWpzlM8Cyzix3ms1IFfplgeyrE0owozj6JjuWXgM6G4_B5Mcy0RKWQfcqN8jwMaHHauX4QcCFx9A_E13x_SkCzTlt1wsbcgw3f7CF9jl94SM1py3AqsWRfvLXIbgsf7jC3LaHE0cmPhqX1NpN1ZOotxG5sVap0GejJ95UKog1mDE30-t8DaYfZ-so5m4koHwr5PLbABeDd_LHnQkaOQ-csDws2ru-FDa-Gu79SwzjUu8-XGcUrVgV2LKJWtamJwXP-OK26j0HCkSUEix7CtMBH-uDTdkuj06EuSS9oeF_qr8bRrr7Pz2Hddcx1zbUyREiLg7GIjm4ZUCL6Xa4Efu6e-Zx_L4rPSeRCGZQTMtR6a9HluZknKk_BFe_P-GzIbNWZhh0PdGC7YKlrOCOTCVKxns-",
+        "status": null
+      },
+      {
+        "id": "msg_05a4ac94ad273927016aad317cc4f887d1a7d4d64fed0661df",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\"description_visuelle\":\"Reproduction d’un paysage peint, présenté dans un cadre rectangulaire doré à décor sculpté de volutes et d’ornements végétaux aux quatre angles. La scène montre une végétation dense dominée par de grands arbres, un chemin ou cours d’eau sombre au premier plan, quelques petites figures humaines près du bas et, au loin, un relief ou des constructions faiblement visibles sous un ciel nuageux.\",\"sujet_principal\":\"Nature\",\"sujets_secondaires\":[\"Personnage\",\"Objet\"],\"justification_sujet\":\"Le paysage boisé et la végétation occupent l’essentiel de la composition ; les figures humaines sont secondaires et le cadre constitue un objet visible distinct.\",\"style_visuel_probable\":\"figuratif, paysager, tonal, sombre, détaillé\",\"justification_style\":\"La scène représente des formes reconnaissables avec une profondeur organisée par plans successifs, une palette assombrie et des contours souvent fondus dans les ombres.\",\"figuration\":\"figuratif\",\"couleurs_dominantes\":[\"brun\",\"vert sombre\",\"noir\",\"bleu gris\",\"ocre doré\"],\"elements_visibles\":[\"cadre en bois doré\",\"ornements en volutes\",\"grands arbres\",\"arbustes et végétation dense\",\"chemin ou cours d’eau sombre\",\"petites figures humaines\",\"relief ou constructions lointaines\",\"ciel nuageux\"],\"composition\":\"Composition verticale centrée dans un médaillon ovale, encadré par une bordure dorée. Les arbres forment une masse latérale et une ouverture visuelle conduit du premier plan sombre vers l’arrière-plan plus clair ; les petites figures se concentrent près du bas de l’image.\",\"limites_visuelles\":[\"Les détails des petites figures sont trop peu nets pour déterminer précisément leur activité, leur identité ou leur époque.\",\"Les formes lointaines peuvent correspondre à des constructions, à du relief ou à des effets de lumière ; leur nature reste indéterminée.\",\"La reproduction est sombre et les limites entre certains éléments végétaux sont difficiles à distinguer.\"]}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1789735296.0,
+    "conversation": null,
+    "max_output_tokens": 3500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "medium",
+      "generate_summary": null,
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "resultat",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "description_visuelle": {
+              "type": "string"
+            },
+            "sujet_principal": {
+              "type": "string",
+              "enum": [
+                "Architecture",
+                "Culture",
+                "Histoire",
+                "Mythologie",
+                "Nature",
+                "Objet",
+                "Personnage",
+                "Quotidien",
+                "Religion",
+                "NA"
+              ]
+            },
+            "sujets_secondaires": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "Architecture",
+                  "Culture",
+                  "Histoire",
+                  "Mythologie",
+                  "Nature",
+                  "Objet",
+                  "Personnage",
+                  "Quotidien",
+                  "Religion"
+                ]
+              }
+            },
+            "justification_sujet": {
+              "type": "string"
+            },
+            "style_visuel_probable": {
+              "type": "string"
+            },
+            "justification_style": {
+              "type": "string"
+            },
+            "figuration": {
+              "type": "string",
+              "enum": [
+                "figuratif",
+                "abstrait",
+                "mixte",
+                "indetermine"
+              ]
+            },
+            "couleurs_dominantes": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "elements_visibles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "composition": {
+              "type": "string"
+            },
+            "limites_visuelles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "description_visuelle",
+            "sujet_principal",
+            "sujets_secondaires",
+            "justification_sujet",
+            "style_visuel_probable",
+            "justification_style",
+            "figuration",
+            "couleurs_dominantes",
+            "elements_visibles",
+            "composition",
+            "limites_visuelles"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 853,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cached_tokens": 0
+      },
+      "output_tokens": 539,
+      "output_tokens_details": {
+        "reasoning_tokens": 103
+      },
+      "total_tokens": 1392
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  }
+}

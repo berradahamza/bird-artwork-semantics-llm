@@ -1,0 +1,61 @@
+{
+  "image_id": "0_5838",
+  "titre": "Fête de nuit",
+  "artiste": "Théophile-Alexandre Steinlen",
+  "room_id": "Room_5",
+  "sujet_existant": "Quotidien",
+  "model": "gpt-5.6-luna",
+  "prompt_version": "bird-vision-v1",
+  "date_utc": "2026-09-23T13:33:30.309449+00:00",
+  "mode_acquisition": "image_locale",
+  "fichier_fourni": "0_5838.jpg",
+  "controle_identite": "association_par_id_fournie_par_utilisateur",
+  "raison_identite": "Image associée à cette œuvre par son nom de fichier ; identité non contrôlée automatiquement.",
+  "source_page": "",
+  "source_image": "",
+  "erreurs_telechargement": [],
+  "sha256_image_locale": "0ff9774f862ccda4055a37f01e5960313ae0a48caa4ec2cc41017579bc2d75b1",
+  "fingerprint": "ba15bd37c753e180bf1d988ef49953f67969b8f572a395d97b8b2dfef118bb81",
+  "original_width": 1000,
+  "original_height": 500,
+  "statut": "ok",
+  "image_path": "images\\0_5838.jpg",
+  "description_visuelle": "La reproduction montre plusieurs figures humaines en vêtements colorés, réunies au premier plan autour d’un grand récipient vert, tandis que deux personnages à gauche semblent se tourner vers une grande forme orange. À l’arrière-plan apparaît une ville nocturne illuminée, avec des édifices à colonnes, une statue ou silhouette monumentale et des lumières dispersées. L’ensemble est présenté dans un cadre en bois sombre à contour arrondi, avec une signature partiellement lisible dans l’angle inférieur droit.",
+  "sujet_principal": "Personnage",
+  "sujets_secondaires": [
+    "Architecture",
+    "Culture",
+    "Quotidien"
+  ],
+  "justification_sujet": "Les figures humaines nombreuses et leurs attitudes constituent le centre visuel de la scène. L’architecture urbaine et le récipient suggèrent un contexte collectif ou social, mais aucune activité précise ni aucun événement identifiable ne sont démontrables.",
+  "style_visuel_probable": "figuratif, décoratif, stylisé, contours souples, palette contrastée",
+  "justification_style": "Les personnages, les bâtiments et les objets sont reconnaissables mais simplifiés par des formes aplaties, des contours marqués et des couleurs intenses. La composition semble conçue comme une scène ornementale plutôt que comme une représentation strictement naturaliste.",
+  "figuration": "figuratif",
+  "couleurs_dominantes": [
+    "bleu sombre",
+    "orange",
+    "jaune doré",
+    "rose",
+    "vert",
+    "brun",
+    "noir"
+  ],
+  "elements_visibles": [
+    "groupe de personnages",
+    "récipient ou vase vert",
+    "grande forme circulaire orange",
+    "ville éclairée de nuit",
+    "bâtiments à colonnes",
+    "silhouette monumentale claire",
+    "cadre en bois sombre",
+    "signature partiellement visible"
+  ],
+  "composition": "La scène est organisée horizontalement dans un panneau aux extrémités arrondies. Les personnages forment deux groupes latéraux encadrant la zone centrale, où se trouvent la forme orange et la vue urbaine; la profondeur est obtenue par la superposition des figures et la diminution des bâtiments vers l’arrière-plan.",
+  "limites_visuelles": [
+    "L’identité des personnes, le lieu exact et la signification de la scène ne sont pas déterminables à partir de l’image seule.",
+    "La fonction précise du récipient vert et de la grande forme orange reste incertaine.",
+    "La signature est seulement partiellement lisible et ne permet pas une attribution fiable.",
+    "La photographie montre la reproduction dans son cadre, avec une visibilité limitée des détails fins."
+  ],
+  "desaccord_sujet": true
+}

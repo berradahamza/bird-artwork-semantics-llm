@@ -1,0 +1,57 @@
+{
+  "image_id": "1_0212",
+  "titre": "Byblis changée en source",
+  "artiste": "Henri-Léopold Lévy",
+  "room_id": "Room_28",
+  "sujet_existant": "Mythologie",
+  "model": "gpt-5.6-luna",
+  "prompt_version": "bird-vision-v1",
+  "date_utc": "2026-09-23T13:34:45.715014+00:00",
+  "mode_acquisition": "image_locale",
+  "fichier_fourni": "1_0212.png",
+  "controle_identite": "association_par_id_fournie_par_utilisateur",
+  "raison_identite": "Image associée à cette œuvre par son nom de fichier ; identité non contrôlée automatiquement.",
+  "source_page": "",
+  "source_image": "",
+  "erreurs_telechargement": [],
+  "sha256_image_locale": "d198f770728f1468a0900d6eca446c67a4785cb08fe7fdf881a719b033f30f95",
+  "fingerprint": "707aaea9c416f8ea450edf15d38b94cf613ef85765600ad55313f456dd11d2ad",
+  "original_width": 644,
+  "original_height": 235,
+  "statut": "ok",
+  "image_path": "images\\1_0212.jpg",
+  "description_visuelle": "La reproduction montre une scène peinte en format horizontal avec deux figures humaines nues près d’un ruisseau ou d’une petite cascade. Au centre, une figure allongée s’appuie contre un rocher ou un tronc, tandis qu’une seconde figure est accroupie à droite et semble manipuler un objet ou puiser de l’eau. L’arrière-plan comprend des arbres sombres, une étendue de ciel nuageux et un paysage lointain bleuté.",
+  "sujet_principal": "Personnage",
+  "sujets_secondaires": [
+    "Nature",
+    "Objet"
+  ],
+  "justification_sujet": "Les figures humaines nues occupent la plus grande partie de la scène et structurent l’action visible. Aucun attribut suffisamment explicite ne permet d’identifier avec certitude un épisode religieux, mythologique ou historique.",
+  "style_visuel_probable": "Figuratif, pictural, naturaliste",
+  "justification_style": "Les corps et le paysage sont représentés de manière reconnaissable, avec des contours fondus, une matière de peinture apparente et une lumière atmosphérique. L’image est une reproduction et certains détails restent indistincts.",
+  "figuration": "figuratif",
+  "couleurs_dominantes": [
+    "brun",
+    "ocre",
+    "beige rosé",
+    "vert sombre",
+    "bleu gris",
+    "noir"
+  ],
+  "elements_visibles": [
+    "Deux figures humaines nues",
+    "Ruisseau ou petite cascade",
+    "Rocher ou tronc au centre",
+    "Arbres et feuillage",
+    "Ciel nuageux",
+    "Paysage lointain bleuté",
+    "Petit objet sombre ou récipient près de la figure de droite"
+  ],
+  "composition": "La composition est horizontale et organisée autour de la grande figure diagonale au centre-gauche. La seconde figure forme un contrepoids à droite, tandis que la végétation sombre encadre la scène et que le paysage s’ouvre vers la gauche en profondeur.",
+  "limites_visuelles": [
+    "La faible résolution et le cadrage partiel empêchent de distinguer précisément les visages et l’objet tenu à droite.",
+    "La fonction exacte de l’objet central et de l’action représentée n’est pas démontrable visuellement.",
+    "L’identité des personnages, le titre, l’auteur et toute interprétation narrative ou mythologique restent indéterminés."
+  ],
+  "desaccord_sujet": true
+}

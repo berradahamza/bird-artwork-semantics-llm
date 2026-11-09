@@ -1,0 +1,32 @@
+{
+  "image_id": "0_0789",
+  "titre": "Paysage de neige",
+  "artiste": "André Marchand",
+  "room_id": "Room_8",
+  "sujet_existant": "Nature",
+  "fingerprint": "174ef84640475a80347ffc3a64340ede1afe4e0f11ed5f5621fc4df3f181ddce",
+  "model": "gpt-4.1",
+  "prompt_version": "bird-vision-v1",
+  "date_utc": "2026-09-17T13:15:30.948423+00:00",
+  "statut": "a_verifier",
+  "motif": "Aucune correspondance suffisamment étayée.",
+  "nombre_candidats": 9,
+  "erreurs_telechargement": [
+    {
+      "url": "https://webfiddle.net/21ideas-org/fr.wikipedia.org/wiki/Andr%C3%A9_Marchand_%28peintre%29?utm_source=openai",
+      "error": "HTTPError"
+    },
+    {
+      "url": "https://musee-des-beaux-arts.nancy.fr/typo3/sysext/core/Resources/Public/Icons/Flags/FR.png",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://musee-des-beaux-arts.nancy.fr/typo3/sysext/core/Resources/Public/Icons/Flags/en-us-gb.png",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://musee-des-beaux-arts.nancy.fr/typo3/sysext/core/Resources/Public/Icons/Flags/DE.png",
+      "error": "ValueError"
+    }
+  ]
+}

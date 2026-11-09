@@ -1,0 +1,112 @@
+{
+  "image_id": "0_2100",
+  "titre": "On air",
+  "artiste": "Edwart Vignot",
+  "room_id": "Room_5",
+  "sujet_existant": "NA",
+  "fingerprint": "cb39c626f9f949656f0d3023dc9e80ecfc955046d93ed876a672b2f7fa4ca263",
+  "model": "gpt-4.1",
+  "prompt_version": "bird-vision-v1",
+  "date_utc": "2026-09-17T13:34:22.373875+00:00",
+  "statut": "a_verifier",
+  "motif": "Aucune correspondance suffisamment étayée.",
+  "nombre_candidats": 8,
+  "erreurs_telechargement": [
+    {
+      "url": "https://www.arts-spectacles.com/photo/iphone_titre_10612669.png?v=1447022686",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://www.arts-spectacles.com/photo/titre_9126409.jpg?v=1430511428",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://www.arts-spectacles.com/_images/preset/puces/arrow30.gif?v=1732287502",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://www.arts-spectacles.com/_images/preset/puces/arrow57.png?v=1732287502",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://www.arts-spectacles.com/_images/preset/puces/arrow29.gif?v=1732287502",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://www.arts-spectacles.com/_images/preset/puces/arrow58.png?v=1732287502",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://www.arts-spectacles.com/_images/icones/rssmini.gif",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Edwart_Vignot?utm_source=openai",
+      "error": "HTTPError"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/755c0e_9b8d3d5dc1ea45d8a5d1544021066178.jpg/v1/fit/w_2500,h_1330,al_c/755c0e_9b8d3d5dc1ea45d8a5d1544021066178.jpg",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://www.nancy-focus.com/nancy-evenements/nancy-evenements-expositions/quality_auto/DSC_0256_JPG.jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/755c0e_3ce488599e324b6c8015b81edbf848de~mv2.jpg/v1/fill/w_177,h_177,q_90,enc_avif,quality_auto/755c0e_3ce488599e324b6c8015b81edbf848de~mv2.jpg",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/755c0e_479d3c45386d44e2abca2059a9e37bfa~mv2.jpg/v1/fill/w_177,h_177,q_90,enc_avif,quality_auto/755c0e_479d3c45386d44e2abca2059a9e37bfa~mv2.jpg",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/755c0e_e73ded8d0ca64efcb20ce7487e5c064a~mv2.jpg/v1/fill/w_177,h_177,q_90,enc_avif,quality_auto/755c0e_e73ded8d0ca64efcb20ce7487e5c064a~mv2.jpg",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/755c0e_43f88b33ef694dae9a9a67aae221c6a5~mv2.jpg/v1/fill/w_177,h_177,q_90,enc_avif,quality_auto/755c0e_43f88b33ef694dae9a9a67aae221c6a5~mv2.jpg",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/755c0e_b0a444abb9b0481c86005299e1f3ed18~mv2.jpg/v1/fill/w_177,h_177,q_90,enc_avif,quality_auto/755c0e_b0a444abb9b0481c86005299e1f3ed18~mv2.jpg",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/755c0e_318ce89211e640de9d1879fa68545a71~mv2.jpg/v1/fill/w_177,h_177,q_90,enc_avif,quality_auto/755c0e_318ce89211e640de9d1879fa68545a71~mv2.jpg",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://www.nancy-focus.com/nancy-evenements/nancy-evenements-expositions/quality_auto/info_2.png",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/755c0e_b5da257010cf4725bb5bf6481357c917~mv2.png/v1/fill/w_60,h_60,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/info_2.png",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://www.nancy-focus.com/nancy-evenements/nancy-evenements-expositions/quality_auto/m%C3%A9tro'folies%20Nancy.jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.nancy-focus.com/nancy-evenements/nancy-evenements-expositions/quality_auto/Jacques%20Callot.jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.nancy-focus.com/nancy-evenements/nancy-evenements-expositions/quality_auto/755c0e_0e1bcc46ef344c02bae446a698557756~mv2.jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/755c0e_0e1bcc46ef344c02bae446a698557756~mv2.jpg/v1/fill/w_154,h_176,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/755c0e_0e1bcc46ef344c02bae446a698557756~mv2.jpg",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://www.nancy-focus.com/nancy-evenements/nancy-evenements-expositions/quality_auto/Pierre-Hippolyte%20P%C3%A9net.jpg",
+      "error": "UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.lorrainemag.com/wp-content/uploads/2019/04/Site-LorraineMag-135.pdf?utm_source=openai",
+      "error": "ValueError"
+    }
+  ]
+}

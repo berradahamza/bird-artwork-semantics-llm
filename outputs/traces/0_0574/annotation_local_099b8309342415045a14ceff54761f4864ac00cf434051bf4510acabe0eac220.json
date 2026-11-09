@@ -1,0 +1,205 @@
+{
+  "signature": "107bbe7c4aee1d63d5db095120505291f2d6a6057addf851bbb5aea7878ed251",
+  "response": {
+    "id": "resp_09e66fe9c2753cb9016aae9bc8212c87d290d82ea51f5fec8c",
+    "created_at": 1789828040.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": "Analyse uniquement ce qui est visible dans cette image, sans recherche web ni identification de mémoire. Réponds en français. Décris précisément objets, personnages, décor et composition en 2 à 4 phrases. Pas de noms de personnes, dates ou récits non démontrables visuellement. Sujet principal parmi les neuf catégories ou NA. Religion/Mythologie/Histoire exigent des indices visibles, sinon NA ou catégorie plus générale. Culture : pratiques/symboles culturels identifiables ; Quotidien : activités ordinaires ; Objet : objets/nature morte ; Personnage : figure/portrait ; Nature : paysages/faune/flore ; Architecture : bâti. Style visuel probable en mots courts (ex. naturaliste, géométrique, impressionniste), sans affirmer une appartenance historique. Mets indéterminé si nécessaire. Ne confonds pas technique, sujet et style. Indique les limites et justifie les choix.",
+    "metadata": {},
+    "model": "gpt-5.6-luna",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_09e66fe9c2753cb9016aae9bc8b0e887d299d3513588035faf",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrpvMDZuxmneWe5c4zb31HuI9HL2kJPcJvQ0el4miwfMnT4d6dZHnmFcY8gs5paYJDvfhEFQrIgvYJX9ChnV3fQWMCvooP3v8bnEK3irE7zqwCLRHfJptGrqyuD0ZCtfz9cRmHFxgAFOMYaDEu4n1qQZ3KjqI6wV6XLGVQGjfk4vw-SR8j2jHgRffcoj5pVDZLCRF2bG6uGB5pjapIA0f7IlKRvKiPlLpFkEPCLp3ym7xwWDSdGSy2k_x1jbk4nBV4kiYaPAkRDiCFAwS6m0rzHbeC2QujXM4ldzzj2Y2SOStHulHh4ccV2JoIn6PfMSK5dPTVoeKfGog7rpv01lDFm5NeY0lfoxTeqpk_fBE0sr6pxS4RRjTV0qlfsdyP9mJeXg955eL6UUqe_EL77yyW7TEPxM-V0NupC0a2rvVIVunIj_p9ikKNDZWF8NC4GVsUcLngeKKVFPw7SgB40Q0SIkX_ypRAwjjuHpFaEVHGjmC_YL8pEy3Q5H-ldud7QB63FUiZ-Xj1jFohXNeLzzOmidXmBeZzlpu8BnJLho8jc3BgVf2lu_yjFpn1dbZboUmCZlGswWZ-1DDS0FzuDs9cHvVrEYpowpETyISUsy3Rp1dzYJ7aEyFV4frFVZipmNuVLAVyJUjR3RGZdSRPDOIQw2fq1EjbxuKtNWvJVJHNKmU5ngC1mKaZpAgLUPOjCcvZJwnH8vf6VCiP6nDjTs8kvzAW0upaU0mgqgQJUWe9mFM5kpakTGrAJ49eSBkv6dqADHrLt5AcAslnnqVhv_6No0eSpG4HDVr6CD5Izpw6HICD8WjzffgpgJbsftMBMKIGr8WAZabyqH4xZbwmZrEkuyej_v8cuX8r_DVtTDU31kFTNVbbKxok2Y5QWEwyGrkttRfDEcZV-bUGZg4SJXub5sF4uvH27sR1GX73oIGxYgxwrdvwz7tsvcS7Kfb3rk1AYOlVxH8XOAqjUeoBUs1fkaHym12abG1rdGmppw11VgdjcsskEqM7LgMuwJNVJRA1w1miQPou7rPjtq0fGEmT9Ap1WeDke2MoRBUPwcJUch1UzuHBo4aiLaxckv6cXrDL9KPDnUutHvyiw9tl2VOM_zvEzBn7754dCEOUXPV7gCnK7orb_mC6NLJlZM7sn7fpEN3tFwcxzM2E9m2j9ZXbwPdOwK413_rI7MOY4cwURvfWl5zJNx3LDOHk3fSd1yZOzStIvVNBV2ZrG9adE8pNE96hJUoqySITB2kqZ5JE6W874YREh4vjv2T7I-xUKi7jHFgaTERc_lx_YmsiayUTWoXnMUMGAbjacGP38Rw2KJFVAAYLSs4f1wbGWVizzt9vaIKseUgp1FtVE96sMrdXoSjdXc9hEHnbVM-dJm3MHJgYhhwLkjMiuKM7m7SDSvL_WSGrYy-9C2gx4aP_KpBwUmKrQ8RJ9isnleCrGBQPPU5aWNqLe-bplxERpHLTk4Cw4708vHxyMM9jUHWXPaPSNswwbgGgmlZTgyCk3BtizSd3iCQW0U7ChHaaxScjzRvgz3c8XCpKdz5GMN9HXID4SEorMaEiuQtNJ4zRJXaHWHvggUv-TvvpJI8ouF_lSwnv8q2WJAPmlgud-LNu7HKdQg4W4vaHyUpbKBgStUSyKuA3hVXu45umayRUuEee0zLgMt4hO9O6eeWr7NN1LsYWbUb3GSzY2HOsi-uUPAdGj1VKE8SuWAlb0h-qgrA0RACfAWF4sUfUp6UyDsb3Fh-bka-d6HTQiy7l0jRPaeGeGffIczWwyVGxee2ZzIRvvtt0klF",
+        "status": null
+      },
+      {
+        "id": "msg_09e66fe9c2753cb9016aae9bc9dce087d2981f4d27d95dcccc",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\"description_visuelle\":\"Reproduction en noir et blanc montrant plusieurs poutres ou planches rectangulaires, claires et texturées, qui se croisent en diagonale sur un fond noir. Des formes planes ou cubiques sombres apparaissent entre les éléments, tandis que l’ensemble est cadré de très près et partiellement coupé par les bords de l’image.\",\"sujet_principal\":\"Objet\",\"sujets_secondaires\":[],\"justification_sujet\":\"Les éléments visibles ressemblent à des pièces de bois ou à des structures rectangulaires, sans indice suffisant pour identifier un bâtiment ou un contexte architectural précis.\",\"style_visuel_probable\":\"abstrait, géométrique, monochrome, contrasté\",\"justification_style\":\"La composition privilégie les lignes diagonales, les formes anguleuses, les textures de surface et le contraste marqué entre les éléments clairs et le fond noir, au détriment d’une représentation figurative identifiable.\",\"figuration\":\"abstrait\",\"couleurs_dominantes\":[\"noir\",\"blanc\",\"gris\",\"gris clair\"],\"elements_visibles\":[\"plusieurs poutres ou planches rectangulaires\",\"surfaces claires présentant des stries et des irrégularités\",\"formes cubiques ou planes sombres\",\"fond noir\",\"intersections et superpositions diagonales\"],\"composition\":\"Les pièces s’entrecroisent selon plusieurs diagonales et forment un réseau de lignes obliques. Une longue poutre traverse l’image du bas gauche vers le haut droit, tandis que d’autres éléments convergent vers le centre ; plusieurs extrémités sont tronquées par le cadrage.\",\"limites_visuelles\":[\"La fonction exacte des pièces n’est pas identifiable.\",\"Le matériau semble être du bois, mais la reproduction en niveaux de gris ne permet pas de le confirmer avec certitude.\",\"Aucun personnage, paysage ou symbole culturel reconnaissable n’est visible.\",\"La profondeur et le contexte spatial restent ambigus en raison du fond très sombre et du cadrage rapproché.\"]}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1789828044.0,
+    "conversation": null,
+    "max_output_tokens": 3500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "medium",
+      "generate_summary": null,
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "resultat",
+        "schema_": {
+          "type": "object",
+          "properties": {
+            "description_visuelle": {
+              "type": "string"
+            },
+            "sujet_principal": {
+              "type": "string",
+              "enum": [
+                "Architecture",
+                "Culture",
+                "Histoire",
+                "Mythologie",
+                "Nature",
+                "Objet",
+                "Personnage",
+                "Quotidien",
+                "Religion",
+                "NA"
+              ]
+            },
+            "sujets_secondaires": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "Architecture",
+                  "Culture",
+                  "Histoire",
+                  "Mythologie",
+                  "Nature",
+                  "Objet",
+                  "Personnage",
+                  "Quotidien",
+                  "Religion"
+                ]
+              }
+            },
+            "justification_sujet": {
+              "type": "string"
+            },
+            "style_visuel_probable": {
+              "type": "string"
+            },
+            "justification_style": {
+              "type": "string"
+            },
+            "figuration": {
+              "type": "string",
+              "enum": [
+                "figuratif",
+                "abstrait",
+                "mixte",
+                "indetermine"
+              ]
+            },
+            "couleurs_dominantes": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "elements_visibles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "composition": {
+              "type": "string"
+            },
+            "limites_visuelles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "description_visuelle",
+            "sujet_principal",
+            "sujets_secondaires",
+            "justification_sujet",
+            "style_visuel_probable",
+            "justification_style",
+            "figuration",
+            "couleurs_dominantes",
+            "elements_visibles",
+            "composition",
+            "limites_visuelles"
+          ],
+          "additionalProperties": false
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 627,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cached_tokens": 0
+      },
+      "output_tokens": 517,
+      "output_tokens_details": {
+        "reasoning_tokens": 92
+      },
+      "total_tokens": 1144
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  }
+}

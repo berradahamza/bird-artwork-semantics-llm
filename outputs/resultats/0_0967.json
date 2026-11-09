@@ -1,0 +1,53 @@
+{
+  "image_id": "0_0967",
+  "titre": "L'Allée ombragée",
+  "artiste": "Charles de Meixmoron de Dombasle",
+  "room_id": "Room_9",
+  "sujet_existant": "Nature",
+  "model": "gpt-5.6-luna",
+  "prompt_version": "bird-vision-v1",
+  "date_utc": "2026-09-23T13:33:22.021797+00:00",
+  "mode_acquisition": "image_locale",
+  "fichier_fourni": "0_0967.jpg",
+  "controle_identite": "association_par_id_fournie_par_utilisateur",
+  "raison_identite": "Image associée à cette œuvre par son nom de fichier ; identité non contrôlée automatiquement.",
+  "source_page": "",
+  "source_image": "",
+  "erreurs_telechargement": [],
+  "sha256_image_locale": "6905c8c68e63435b3e52c6d42496451f15c55b6f42d6c2820e1dd13346f540bf",
+  "fingerprint": "fb4871fc8c3de7546e6a4ab6a71ee28a0e68e719f02b743d3961227d8820c621",
+  "original_width": 190,
+  "original_height": 250,
+  "statut": "ok",
+  "image_path": "images\\0_0967.jpg",
+  "description_visuelle": "Une allée forestière étroite s’enfonce au centre de l’image entre de hauts arbres aux troncs sombres et aux branches fines. Le sol est couvert de feuilles brun-roux, tandis qu’une lumière diffuse traverse le feuillage et éclaire l’arrière-plan. Aucun personnage ni bâtiment n’est visible ; une petite marque blanche apparaît dans l’angle inférieur gauche.",
+  "sujet_principal": "Nature",
+  "sujets_secondaires": [],
+  "justification_sujet": "La scène représente principalement un sous-bois composé d’arbres, de feuillage et d’un chemin naturel.",
+  "style_visuel_probable": "pictural, naturaliste, légèrement impressionniste",
+  "justification_style": "Les formes sont rendues par des touches visibles et des contours peu accentués, avec une attention portée aux variations de lumière et de couleur plutôt qu’à une précision photographique.",
+  "figuration": "figuratif",
+  "couleurs_dominantes": [
+    "vert",
+    "brun",
+    "ocre",
+    "gris",
+    "rouge-roux"
+  ],
+  "elements_visibles": [
+    "chemin forestier",
+    "troncs d’arbres",
+    "branches",
+    "feuillage",
+    "feuilles mortes",
+    "lumière diffuse",
+    "marque blanche dans l’angle inférieur gauche"
+  ],
+  "composition": "Le chemin forme un axe central qui crée une profondeur vers le fond de la forêt. Les troncs verticaux encadrent la perspective et les branches composent une voûte irrégulière dans la partie supérieure.",
+  "limites_visuelles": [
+    "La faible résolution empêche d’identifier précisément les espèces d’arbres et les détails du feuillage.",
+    "La marque blanche dans l’angle inférieur gauche n’est pas interprétable avec certitude.",
+    "Aucun indice visible ne permet de situer le lieu, l’époque ou l’auteur."
+  ],
+  "desaccord_sujet": false
+}

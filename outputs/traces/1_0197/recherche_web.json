@@ -1,0 +1,735 @@
+{
+  "signature": "893d67425cf74df77441d246f46a9e5b6768b932fe05c3f1e4d5e061792e8140",
+  "response": {
+    "id": "resp_033d4433cafb0478016aad3aab966487d2a933a8646f57bcd8",
+    "created_at": 1789737643.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.6-luna",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_033d4433cafb0478016aad3aac25e087d29b103ccb56f52797",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTrYxeBHK1Py4jezXYU7OVy_RnebQTUqtJJoeSmtd8YAjK_ruziB7iwMCvWG74nKhsCoVAfQIBMJdee_Y0wQiRMC5aCefAt_IDGcw3Sb6BhDBeqdyvzr9N9gPNpwPo1E9MP9kHbdG5UW7yHqGcLx8NfEDfPy8f22hU2Jhsi2SgBI99NshACyauTTVEy-vKlhGodxsxjebuyky2PhWA3XnUdSKF6IBZVk0FgULnkbKyH1ONIWCzepFu9POChuaaLalccxpfavDKa_d4VIWmPgTkroVN-s736108S3v_8UqVr7jLNnz2b57eW-a1b-QhnC5tEizAbUVmZp95-HTyfwjaMao-sEv313gUIAu9AG5rYszVzQTR9mUMJL7Tz1EGbEHzAT8NqKbpo9ovO79uWYD64Gk7JYBfwukBVzLrrdO7neCZmfRdK8QENVl2z55DWBO8s6rwAJC69VZNWCl5loHolrK5UNy6CPWdx79CSMsmQo7-2I9pEue-ksKeruGNiFiJ5mwfKM_CpPz9hfoyMMgIuKMFIoNWnJXpfLnIlElIJ1UKbVOwlvypAa8q1lWzD1XvxznvBcKSNldaFT-9LLpSrKcJ3tzQqGAKPu9zVNUwBYP-O03iqeebOtaBz1pfIZBrEA1H08afPA1AGKdBQVaeg_3vVCFSLD3Q5g4gzf7EihrzDLsg2R5FogVy_k4No6FiZ_m4IR2p5f7yGP74NHIqRY2JGc3RDIx88mLJqp2HnMDLBA3j1qRoX1Ge-DgKJKcFU6pnvlQrXOvGdOH-AxCJ7SaCiYMlvtyX0_Yb4V7KS_o6wnCTbyF3QdeGJG0dNKERabrB0e1mfdezePqrlBIBoyUksThWBWIlW07RCA7bJDD-EJ32lz_uqB03ezuN2BUU1pOQv2LjG3gmh5E6eZNCjsJ8MLkgMr80D0cZmh88NhasnSMFWKnqtbU_1R8RpnhVzaD0XBNF1V3EIme5cxCZKamnojVh_UFV35mDGe-W5X_Xc-cBEUonuEylG-oXMypsW3XEn_PMu6KFe-VFS3DKq0qwsBtYEX24qlKtulNLw1hHC_W84gxsjlmS0l8BO9J0o9RNAM4MQw42UxevNhyCyspLMPhtItrp3t3gzhOR6mKVlvYS-cY60rpQfDOOkybmGwNn6pYYYFrqk2aGqKyA3Re090RoifHwVN6CtJ01cBNRU9pf2MqXEH6PUtryz1iwdBudw0wrB4gfX_-xeXWzhFhoGfWfmjhTSuC1ohHOQeySnLEBhAPAnbcPfgvLmd0fEVZDrXpwl89x2ZyAulAbkT3xWj0KFYK6_O3n5v9fsfx0I=",
+        "status": null
+      },
+      {
+        "id": "ws_033d4433cafb0478016aad3aacb3c887d28e0e972f86c8d274",
+        "action": {
+          "type": "search",
+          "queries": [
+            "site:mban.nancy.fr \"L'offrande à l'Amour\" \"Claude Michel\"",
+            "\"93.7.1\" \"L'offrande à l'Amour\"",
+            "\"L'offrande à l'Amour\" \"Claude Michel\" musée",
+            "\"L'offrande à l'Amour\" \"93.7.1\""
+          ],
+          "query": "site:mban.nancy.fr \"L'offrande à l'Amour\" \"Claude Michel\"",
+          "sources": [
+            {
+              "type": "url",
+              "url": "https://collections-mba.nancy.fr/fr/search?f=562291&o=562261"
+            },
+            {
+              "type": "url",
+              "url": "https://docs.prod-indb.io/2023/03/23/151643_241465498_82fe6d3399fe23d5f5cea5ab6708bd24.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://www.interencheres.com/art-decoration/entre-art-manufactures-et-cabinet-de-curiosites-vente-dun-collectionneur-652242/lot-82372542.html"
+            },
+            {
+              "type": "url",
+              "url": "https://lotsearch.de/index.php/lot/plaque-ovale-en-terre-cuite-figurant-loffrande-su-dieu-signee-dans-le-39136159?order=ASC&orderBy=lot-title&page=1&perPage=50"
+            },
+            {
+              "type": "url",
+              "url": "https://www.mutualart.com/Artwork/-L-offrande-a-l-amour--and--Le-sacrifice/0009D7A731A35156F5773B06D343F509"
+            },
+            {
+              "type": "url",
+              "url": "https://www.gazette-drouot.com/ventes-aux-encheres/164379-vente-d-un-collectionneur?modeDiapo=false&page=2"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.scribd.com/document/1054405849/Le-guide-du-Louvre-Muse-e-du-Louvre-Sefrioui-etc-z-library-sk-1lib-sk-z-lib-sk"
+            },
+            {
+              "type": "url",
+              "url": "https://www.gazette-drouot.com/en/auctions/164379-between-art-manufactures-and-cabinet-of-curiosities-collector-s-sale?modeDiapo=false&page=2"
+            },
+            {
+              "type": "url",
+              "url": "https://paperzz.com/doc/9398853/american-paintings-and-sculpture"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.scribd.com/document/613558745/Victor-Lalevee-Histoire-de-Fraize"
+            },
+            {
+              "type": "url",
+              "url": "https://bone.piednoir.fr/titre_rubrique/infos_diverses/mise_a_jour/maj111.html"
+            },
+            {
+              "type": "url",
+              "url": "https://www.bibliotheque-monastique.ch/bibliotheque/bibliotheque/saints/nddulaus/005.htm"
+            },
+            {
+              "type": "url",
+              "url": "https://en.unionpedia.org/i/Choreography"
+            }
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_033d4433cafb0478016aad3aaef28487d2a26410650487c449",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTrYWPXIXhcVjlNqnGgjM9KFRuqMP66e6Lxe_Eogi754MPgHIAW8caNT3dfA9gIYOcfFG_yHytPzlVjp-xLAJEz2k4CMRQli2TmTLAnNLdxGgaup12GD5bmMGe4pJBqns7qdzWwmjmvnt5Yyb2KePRQPuWYfxqzOmgCMV3RDAoD2okBJGLVMdTNvy2i1VSRDPDuTpeCpGmVAR8PcTUpcZNDiAED4BrE-FYdm5BA-qkcNSIBYimyLstPGyETYivZB2JezHK6nvR9t2UG8uHtQJQOSA5uGkaNyJrkjFzykXI_-zLS-o3OPSVJDOS51Ua_d5evChavPdd8a0TT_ZwmDatLUk3soO1zpU48T3RSdB-9-HCkheSiGxKitRf6QD4btQG_-igmIhu6IXLMEOHBLtvzOI4iylL4n6ZacXvfrRkn30wnrDY_V2XdWT26kF1pBvZHMOGX1B5pfoKpMKdBFv6ND4eb7wyuE3wVFMocaMnpNUPxlzLMUzOYyOqe8bLmLCzoSiX31NqQDkJG2wAjwY5M2iHzYJQwM5h9RpMC-k2SfpObgxJbJ0SJaESuCEvR5qWE9SYzPj424ABLiMwXdUU3sDcP0RXy2H_823zFB1qnR2Kn1uacN_evYKaz-pwvWVCtgxhvEm34vOoiH4Zfnge03aFucMBU3I78JrqXnEiCN9TuvWm8EBQ_pSsVfKYZlm5pdFASQNz3WfnpyRynTyjZeoe4LyDRGgtJ3pgxvFkChPUd_q3MN6EVLbthkTQGP-A0OahEu1ii9xmHlH6XXt0iY-Mi55_lcYWuvvMOhGuBZrTOTs8MSkGhNcHNMVIMg3AzTBNuHeh1scvS3DZz4vfnttALOG7QGok19pa0h3zUlxr52wWQqIhamYEvQodeBmJ9pl8yh96t5GMlHWqeBvmg2bvTX7lVuTUi84T8ot3nQpq4V4r8VpRYGm6GZgeymaSi3N4bhrm2Cy2StnwmS9VvkUaZajaYL4YyzmXbDuGXWxK-MISrzni5wwV6tPiWIcqKfChhus0BzHYQ-Nlvow6FE82HMVoMgOix9_CV1LQeO9VCDsevD4UF4sxwJhzAtBskaBIdsL0CT83K4kzLBmfyhSiaAU0FBmBKTLLMAk6WxfSkpKI6fpdJ-MVjaJzMdjMY-aeoEtrmCjlx3MVW3BTca6z842G7ZJsElLouvzV2BhzczSjiqOSk9UsjPMXdzkhf4VsR6MpifCyizLcBFSTbxTbzvB6kL4eLzKHbL1Jxa7oo=",
+        "status": null
+      },
+      {
+        "id": "ws_033d4433cafb0478016aad3aaf2f1487d295cf3175754ba4da",
+        "action": {
+          "type": "open_page",
+          "url": "https://collections-mba.nancy.fr/fr/search?f=562291&o=562261"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_033d4433cafb0478016aad3ab01d6c87d2881ca0413fddc7b1",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTrYRF3QQy3b_NC93N4SUcdL78NkxjntIppw1IA5OHq5k0W0i8EbQzBxrklJ4Q023Y4gN1tvkpnM1_9a3Z0qM-D1X9u-j-Q7WlNurqvwa09ClechzdFUX-6Aeh_-JQXaYB7jsmIJXk3-SliRL0lr4h3Ov0MrjadJtnGrjBqwDCPx5FD_VmmvvdIEQtSLGhCo8ymqEjAazFjEYaGlqxqft9INj9VoP_x0qxXt06tfZ0Gvap5Gh_2niNho19qElgwawx_0zmZmZGnoyKzZwbYR9nbBiCPPYuTGHWuNrBkApGUGsyTXwQ918ixfv_tXrKHU3yZJYEPTPdcz5FIJuLmLnTdqYDwHbhaHZvXjgXLMxk43NaGle4UijOMYsJPyxCQevSo1k2KiSGfN4aTqZAKqvSssDCQYOV4fZoI_deEIBXKZ675N7l9tijYJyeImXLS8N7YedCpgxgbt4cqKuocE-DZF9jvguilxfd8KfF2hQpV2BqkqeuLSDKWBfK1CyS-SsMJJa9Ww7LRKqes7ZvbCl85ALx3S8ZHaSkG9HTpJG1EveB4BrGPvckoebI00yBFs_X_QgStsZdDzR3YiCp72p5YTtFP0hfe7xe9igOFm3-cXtk9CGwv9nIyU5LiUF83QFSh9bcqGIF9XsJTCaOgE-OH9J8GB-x8uaS-v-yuR_ioD4cyHI5vcGGdeG3CsofTI9QqLr9MYw4Vw4W9OTVO5CMoffAKWcSyfVyvRibuEbcDbnKjeX6vFsLfNmm7VED-Y8VCgngT07IcqVQYC1qx_u0QWj50YqTFrbRLAxqGZ1ToG8Kz3kS8SFy9fLJ0m6YBugbNJ1lmic2dmfwloGcrd9iB-M2CVaY8GpEvQ-fJ4U7435paVdE7ZqwurX-B9mFgnRaJLhLerquf91qWgFj3iBt2-VhPCCaC8tXEAVkW9t17LfaTKPxYG2-5xJjM8Ucj5xz5nntjj0I1XvrKwPtRQEf21m52cTlYUJ7_DXElaFFw9QYrwkIFbikq8L0ERBRLYeWreekcQmd6MRy0aNry977glpqU9V4nuG6mFd7LPSGw65UQPbCmTZsjUtxGwaCoFz8mMHD8z6Qeq9l93PtICweza0cCq6QHMf8TCsCGJzOemWvRh3cKjPb73Gjma6anww1rekYd97fudfTNS1UC5tWuyWgvdzbXPDX0H5zoLREd-3nwW-4RrxLck_IXLc73meQ4WAOViwm4XDIR5s9IrBp07JcmBdbO9awp89PCcmiOdoj8amaTXtDfnCDomFh6ncgtrvMY0Yij5I9hoM-_QzTaK008m9aoZH9lrbNFalNnrAWRYRGs3a5ltrhvu9ZAM9Ov3Jh53OwZdhza6K0ZAUd0qbnarj_SJXMglIgDpTGqdywd3dxHS6yUUeNnMmfAMOSgT",
+        "status": null
+      },
+      {
+        "id": "ws_033d4433cafb0478016aad3ab0a7c487d2a829c96267a6a3ba",
+        "action": {
+          "type": "search",
+          "queries": [
+            "site:collections-mba.nancy.fr/fr/notice \"L’Offrande à l’Amour\"",
+            "site:collections-mba.nancy.fr/fr/notice \"Offrande à l'Amour\"",
+            "site:collections-mba.nancy.fr \"93.7.1\"",
+            "site:collections-mba.nancy.fr \"Clodion\" \"Offrande\""
+          ],
+          "query": "site:collections-mba.nancy.fr/fr/notice \"L’Offrande à l’Amour\"",
+          "sources": null
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_033d4433cafb0478016aad3ab23cd487d2a42f14b2a78a5979",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTrYXXXRcQwi4XLxyXuNGOQeW0OM0jlORKuQ2qlaOpv0hTlMDlra-G-0kyJtLd7DfrCtupGnItZNqZ2nsqEc43gCgrM8iOLZ10C9kX3sj54yDt68JplG0qd_2UmLUKLuwlY8j0CWd4Pqb1_j2NhIkenCgIAgbSE7JGuL84___Olyex8qTEei6EO6jJN-Yo_5L8UgsGKFoOU6f4akakM3VEIdwtZqpOa0mrttuNAtd88MxFxHBexYkKchm4cPn-UpAthR_dt7PvYnfGExLNpQjLCXoTcK_tPf4k6wHrN2E8vcohjke0lf3m-mUYQa5mC5Hw0Ec64E7-LwcIvgv5jw8NyGuck_L2pYG2QhW2fmZave-My3Khq2CExoHHjgDsKjhmciGgoJP7rn-aSpjYzOs4JsOfs7Lhl2oMBk8bu09yhSa-4f2DAEI4MiDZ32Z7dsQFAeE9mIVpGRYLugMmE1BUmRYOsg94sS7-O9ad3GC__w7yY9dS_HPYsp2F5KrJHJXvLtnXITD9TszJIC46efjknEajsIoGemdRo8poaIeQzQ_CYMF-aS4KwtNliITHqFrjQzxS0W2malRrEcR8LlQmiWkKNE0dGfLHWvEBmv-sRKkoXNxj8AHcvuD4oCX2zhU1hEnui1ErUbvhEr9AJL9lgrtN9sx35ZlX38zaa-UQU-N5BpO5RbK8-wTt5ho7XsxhC2RrDl-noXdilQPLz32iSCddspU-CokFA0d4rFT78oArZKWFxnyg47KJH7Eh7AwMNltk-D163RsYwIoBz8SPx3up6nH3lU4IA0kIWwl--mG3CvdR99QmeCWq4S5ePs-LHsZOEvmm7qZZble3ckJ2C6zm-D47taGvNjJDAFDLhIygDFA1bCBpepFRBdFqsbzHHTIAcuIXDZCb5xILe8zSptkj7NXv6OxzdvKANu8Ccg_X4k7l8QT0V5syJxCGckkDzvZCKlueig0S38Xcd24pE6otLAqbYp-KSjkewT7tDQALVrwdimCrmygls6L2VIOl4Q9Ww4uWJGacAVEBE4Ud_BimZ9YXxJWpzmX37YH6EI7lsIMfSOjpTaCVacGJKb1vnS2XCp4iqeubRIrPqdUxH0nm1kH12sL-lI-DR7vFXfpgUuPjJUKHGdq2yj8ztAFs7DHR6Y253G_7hqUL1vf15xZ0B5OIpALCdIWeTKhrLpx0s_vAyfizTcHY3ctko8WMa5PJvaC0lw-4zA2vy6GkKGlQSKgKByJrjFY-o08ayYxvja7k6b_896arCkr0WdOCCGj-xBOsnUmbBkEOkgPyBTO1M7Srfh4rXGuHwL6lShHIlQHHCqTwXVVArY_PkygLC3y4mFQsa4oEweu_bCzWLXvvct4jTXRut7mSDmNPfeyqfEk5j15S4AylDihCjLC44rzBmIZNi4YtgadPjOEzd1mIFGsv9T_nfr26DxQ_ulVp_KzaJrsTRiK8D1IWf5Ac5tnZFjG-BDwjQo5QdK2mHspuO62dOvq0fhgqj5OK3rOtFuAIS1fXsSdRMDbr3cNPmvkK80zOskOfXAeCM8kOwo257LN2SJQkDYMU_WeFOV-C0=",
+        "status": null
+      },
+      {
+        "id": "ws_033d4433cafb0478016aad3ab3549c87d2aed3d570d512fbcf",
+        "action": {
+          "type": "search",
+          "queries": [
+            "\"L'Offrande à l'Amour\" Clodion Nancy",
+            "\"L’Offrande à l’Amour\" Clodion Nancy",
+            "\"L'Offrande à l'Amour\" \"Musée des Beaux-Arts de Nancy\"",
+            "\"93.7.1\" Clodion"
+          ],
+          "query": "\"L'Offrande à l'Amour\" Clodion Nancy",
+          "sources": [
+            {
+              "type": "url",
+              "url": "https://musee-des-beaux-arts.nancy.fr/de/die-sammlungen/skulptur"
+            },
+            {
+              "type": "url",
+              "url": "https://www.nancy.fr/fileadmin/NAN/culture/scolaires/2017/2017-la_mythologie.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://www.nancy.fr/fileadmin/NAN/culture/scolaires/2017/2017-dossier-enseignant-la-sculpture.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Clodion_%28sculpteur%29"
+            },
+            {
+              "type": "url",
+              "url": "https://www.nancy.fr/fileadmin/NAN/culture/scolaires/2018/parcours-la-ville-de-stanislas-les-arts-web.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://www.gazette-drouot.com/telechargement/catalogue?venteId=151535"
+            },
+            {
+              "type": "url",
+              "url": "https://lotsearch.de/index.php/lot/plaque-ovale-en-terre-cuite-figurant-loffrande-su-dieu-signee-dans-le-39136159?order=ASC&orderBy=lot-title&page=1&perPage=50"
+            },
+            {
+              "type": "url",
+              "url": "https://data2.collectionscanada.ca/001094/pdf/18570817-le-courrier-du-canada-quebec.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://docs.prod-indb.io/2023/03/23/151643_241465498_82fe6d3399fe23d5f5cea5ab6708bd24.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://www.interencheres.com/art-decoration/entre-art-manufactures-et-cabinet-de-curiosites-vente-dun-collectionneur-652242/lot-82372542.html"
+            },
+            {
+              "type": "url",
+              "url": "https://www.mutualart.com/Artwork/-L-offrande-a-l-amour--and--Le-sacrifice/0009D7A731A35156F5773B06D343F509"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/L%27Offrande_%C3%A0_l%27amour"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Louis-Simon_Boizot"
+            },
+            {
+              "type": "url",
+              "url": "https://en.wikipedia.org/wiki/The_Sacrifices_to_Cupid"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.zenit.org/2020/06/09/loffrande-a-lamour-misericordieux-centre-de-la-vie-et-de-la-doctrine-de-therese-de-lisieux/"
+            },
+            {
+              "type": "url",
+              "url": "https://elibrary.narr.digital/xibrary/oec-2016-1"
+            },
+            {
+              "type": "url",
+              "url": "https://www.clerus.org/clerus/dati/2001-05/09-13/offrir.html"
+            },
+            {
+              "type": "url",
+              "url": "https://pop.culture.gouv.fr/notice/joconde/01370004483"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Charles-Fran%C3%A7ois-Adrien_Macret"
+            },
+            {
+              "type": "url",
+              "url": "https://oblates-sainte-therese.org/offrande-a-lamour-misericordieux-9-juin-1895/"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Variations_%C3%A9nigmatiques"
+            },
+            {
+              "type": "url",
+              "url": "https://www.scribd.com/document/350738086/Nancy-Jean-Luc-the-Inoperative-Community"
+            },
+            {
+              "type": "url",
+              "url": "https://lasource.diocese85.org/index.php?dcote=&id=14&lcote=0&location=5&lvl=section_see&main=0&nb_per_page_custom=25&nbr_lignes=4045&nc=0&page=84&plettreaut=&ssub=0"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.scribd.com/document/374788041/La-Vierge-de-Misericorde-Perdrizet-Paul"
+            }
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_033d4433cafb0478016aad3ab8a2f887d2bae0a120244418b9",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTrYLxWhKkwegDLgYrVtYzKt3aeUxPzoeS4ynBRAQewtry8bGnD9uwdAp4DGL8P1e9WU524oG6gEGEsrMiFEGiYu1nk0_uu3aI_mgaXNG6wRDzQgwwNP9PE3F8SuC-2S2l3WiM-KdBfuHQSy2or6laLmYWrAWZCixyjY-F_rZQZRb7_vchZx6qSGTPmPD6MTZGIfjKFwkkVCHkyHJmQOA9PptkCS3FN5SkG_XcnkVC2dvGugsTKBkTNciVv89N3skeQ00r7_YsEY9NCGLNl3jF4i750hRlUt_r3x05OYafz8loJyQCdy7lvPBwaOlVHwClMFQpflpJ8vjuzczCDXBjvftIffGs-Qj1DCfKpgb29ZXh4_YIpDr7BDDIFevkl6t9wgpT3ao1ycqh0Vt3_VRPeweyIRDgGOB9jnrUEQlREqyc2TgWs8PX9BXLyTIzCPYaEjyHO1bzp3keryEBukg-HAD-3wJktT9N7nElf7jck_P4DM4bGUSj6bD9dDudf80agEsoJyYUhq6XkGlWVVXL3uI5AEFYI7IhG9o2zsm6D4OgISvDsnqajWkVfzYDavRoEGWNcNuBcQGjGKCneJ4g1T9WWjTfgwj9C2EcCTUXOil7QogtQWC-boJwbmkQvFcbr4HnMysl0jztfds1lXlnz_upvBOYvs1YUrOlnm0YmhbQuyIj6eL-Vhf8IxT2tN4qzVXDsQ0VHaBL8ka42l68GdzP0MfagQ7I-pOa3U0Mp6TBHiEcbpfQCpE4wroHJJq6kDu4CGw-e4FapzNp15nN8V0WPO799fY7Ue1Sv6HvEkZIrIeHLNE52Gh60ENrafo62AacmetdWL8JW9cTwjJfWckqGzIqK1lzzZAMpJPeQ5HqwnEmiksmr5EgiTG02PGPQTodLSzjpI7ekxwEfaQ3eVyLHVDJKjuKZZbaN3k-4x3YIaAWK0L0gJNRdeUZah4kDlL4QSkJHbKjtZ-8x3O0RtRwKMSdS4xNo7JlLqyY-EUSABrFLYJhj-9y09owizG5e4gXooSPe4RI7dw3DWJL606ITEFCpeLAV17ETglRis7zQo-dMyajrjpQ-1_bjYgoCWZF19tTdJBGXFvS4pl_DQSD8ivL9quE0qET1NIYcJBeMAqSSE3US24q0WFyYzug8BrOb_fyuk-hg4dSi5HWBeEL1khvRTF8tyNhvkidDFjqGDR3Q8YjSSdh-g1BAczeW01D_wr7E_WdGgwNPGLSPPKmZm4FjvO7NVsMyLP3gd8rGg5LtYzOTFTeUq9R09nf4IAydsK2eUYSinuIVDM06foV1feE5nqucaruAirgeCeFv7H2f6pqXk57_qxQEaBtNpXQD1fSI_7EIU_v_YftO_vg==",
+        "status": null
+      },
+      {
+        "id": "ws_033d4433cafb0478016aad3ab8d78487d2ac8e09172af99770",
+        "action": {
+          "type": "search",
+          "queries": [
+            "site:pop.culture.gouv.fr \"L'offrande à l'Amour\" Clodion",
+            "site:pop.culture.gouv.fr \"Claude Michel\" \"Nancy\" \"Offrande\"",
+            "site:collections.louvre.fr \"L'offrande à l'Amour\" Clodion",
+            "site:metmuseum.org Clodion \"offrande\""
+          ],
+          "query": "site:pop.culture.gouv.fr \"L'offrande à l'Amour\" Clodion",
+          "sources": [
+            {
+              "type": "url",
+              "url": "https://collections.louvre.fr/ark%3A/53355/cl020017889"
+            },
+            {
+              "type": "url",
+              "url": "https://collections.louvre.fr/en/ark%3A/53355/cl020017889"
+            },
+            {
+              "type": "url",
+              "url": "https://collections.louvre.fr/ark%3A/53355/cl020521438"
+            },
+            {
+              "type": "url",
+              "url": "https://collections.louvre.fr/ark%3A/53355/cl020550044"
+            },
+            {
+              "type": "url",
+              "url": "https://collections.louvre.fr/en/ark%3A/53355/cl020521438"
+            },
+            {
+              "type": "url",
+              "url": "https://collections.louvre.fr/en/ark%3A/53355/cl020550044"
+            },
+            {
+              "type": "url",
+              "url": "https://collections.louvre.fr/ark%3A/53355/cl010113614"
+            },
+            {
+              "type": "url",
+              "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Hubert_Roberts_Decorations_for_Chateau_de_Bagatelle_The_Metropolitan_Museum_Journal_v_27_1992.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://collections.louvre.fr/en/ark%3A/53355/cl010113614"
+            },
+            {
+              "type": "url",
+              "url": "https://collections.louvre.fr/ark%3A/53355/cl010099990"
+            },
+            {
+              "type": "url",
+              "url": "https://collections.louvre.fr/en/ark%3A/53355/cl010099990"
+            },
+            {
+              "type": "url",
+              "url": "https://collections.louvre.fr/en/recherche?lt=list&q=offrande"
+            },
+            {
+              "type": "url",
+              "url": "https://collections.louvre.fr/en/ark%3A/53355/cl020582891"
+            },
+            {
+              "type": "url",
+              "url": "https://resources.metmuseum.org/resources/metpublications/pdf/New_Terracottas_by_Boizot_and_Julien_The_Metropolitan_Museum_Journal_v_12_1977.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://resources.metmuseum.org/resources/metpublications/pdf/A_Sacrifice_to_Jupiter_An_Early_Drawing_by_Bon_Boullogne_The_Metropolitan_Museum_Journal_v_46_2011.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://resources.metmuseum.org/resources/metpublications/pdf/La_Statue_dun_Chef_de_Chanteurs_dEpoque_Saite_The_Metropolitan_Museum_Journal_v_8_1973.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://resources.metmuseum.org/resources/metpublications/pdf/The_Metropolitan_Museum_Journal_v_48_2013.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://resources.metmuseum.org/resources/metpublications/pdf/The_Metropolitan_Museum_Journal_v_46_2011.pdf"
+            }
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_033d4433cafb0478016aad3abd768887d2bbe6867c8d3f576a",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTrYS-k51alYio66bftT1sMz-Peajmj5jT6bYSwj1XDdmZw8_mMCxCOecnI1wsEQOIyr8avAAHBsIKWPiI6NHe72L-kA_JQbbXiPA3KPmY8RRqyBqxFT3wZhX28C95P0KqkYMUSSXsoHjDD56kbOrY8dvO47wFWQuwNP9ZRmuGMPXXtQSMOL7l4bSLwCE3p1g9qOEjghdETka-_J_P0d0xBUhtzwJD_tTAnqn8rAxEl_jBskzHYt5E18HwYNo40CGonsU2DJ9H5gx_Y7CAaasWPZSuoSiEJiWv7fNBd5YXuviYOIkGZIhfFmVLrQ6kNUyRcrdAO96vqHKus_Y6kfk7RZHiGv1bLjN9w-GLtajhGMB4Bb1xAoIIwhiGjFjAOxi5WoNm5bWkhq7FP7SXxXzMJalOFsrA1hb-6g2Quqb7YSScQX8Qo_CPigawt3_WLHAG699p2Or4IK60CedCLph_bCh5HNZFSw52csJg2nk_26vffyGD7XutbyoG-HlUuVpGrZu3yleQU4r5owZ32eQyfy9L51wVp0ll8RRhYRsMLFgqP3YQdG1H5vQypUnQsXiY5VTnofJGpe6rXeiIshB_TkmGvK3nKcql5lqY-LuQ9Q-aiNNrGqG7ehfHMUgje0IMow-_uUyJ_uhcEKJPlFwFipePvgjvVjLyFrppkI90dosdeinrBK795nvK-TNbDaSN8l323XTX7wyESHb9h5XKIabQyGm6HVZPL1LVXy56hyfVHoZZuuLWtfS5hu-NEBSSifiNV_GfOwQw3ZalH4qgjpE0cauDO-LT1A1jvzySbrHeX3DAFhikO7hnrFSgd9841hc5nKoIcrhgmFjyGF0MeJ7ZzoKg-lI1ZYBad_L5KGs5VyoRLmr8mARsRJvKwQ6kJ34Ibl0mFigzc1jQhhi9ZscbdmfLzNSucZQNiQ103sPiMeRqGTW_ccAp3hv4f50EsdcphEvO13NYyyaRVsrlf3md7ug9HDk7KiIHAK2lyiZ8Ioin5NkycZkOIxyUIhQ1KLE17tXocgMqasvy-TqiAsAepfZupXdIzr-7TtG91DPyBs3O03iA8aj6BosDQJzZVvl_zz5HhYnthQaIK_KDpYUMWQ7YK8-4oTRQ7Iq0eDbbKEzB094pNFdIhmacAlb_pTiSjJurBP-lEQug29qxE0ODp0XCwHnSEZCs9NFWTo0iOyGaL5G9dY2MCmiG8zYSRzb2-7vMGljLJRlIBYQVo7noOF_wDsp3kvhFUFXktRmZQMy7HFbhK35QwQjC8-DvozCquLLAVE06RsarMcWwoeVw==",
+        "status": null
+      },
+      {
+        "id": "ws_033d4433cafb0478016aad3abda04c87d28cbea933970f44b7",
+        "action": {
+          "type": "open_page",
+          "url": "https://musee-des-beaux-arts.nancy.fr/de/die-sammlungen/skulptur"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_033d4433cafb0478016aad3abf329487d2b14e02f094fd3446",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTrY5Oin0IashDAuGbKUpVV_SuZE3o0RpWZFR1qo7k5k1AqQf0eHe8y4KOXShzhFN9KBHsNgAmSxFi6G7FMX3YD7YCZLfrwKVX6wx3Mi7lO84FQqrdniK-l_bNMjnMURB275wouP4KumNrbTiYP-qylEF2RuDSZC3q-UUslTbK5nqGy2x6gjp2ig2fgfYM9dymbGQ7ncFtpOhqvcAbkeFar6BzrBIwbP8eQCWQ1z2dGoToFwy8DCYOa-BNmYd97eFtHvl_yceRhefV0yc3tlo9oi9VT-zVkOKM3LvROOob06J9o4dn-kl7iG6NcQyjDLCYHHrwNxYyVcMQn1zKV-nUPV4C2hn_PbxuxP2y7ogmKtJJkm3wk2iGa35h8lMk1pgEW_6E2VyQqHmrbcXxXf45O-VJWhejsS6MigW_-6pCzasmaFX2hoaUIdHwyUFWvkCKH4wextW7hbEgZhG0TW4zTHhL-XOf38E-aVF6v8fyRoGQbozwjkxFJvYvAxJyfMwGo0pdI1EK8nOXrzdFh1jGGpgr1mzi-owhcqyleOnRDirfHUOn8vNtdsTyVDAZk02opTZtv8ThIjLmBWFaEGNivW7swKCjNHVbPk2jXrNEu-kmeLgcE7WwVT11apreVoan5I1AIwAtZFV8yKlVMlOsiPjXigoQkZzuEptWaPvx1dSBiVAHJe2abY4XCGinjGofwp-sp1DcoU8M-Jab_VfxirRorItyS2fodQJ-dKOcAOLuTqY36vuVh7rxwsv7GBfTFVqI6JZkAxS2kBIxrDl5XNoKH4CTsxNCNeCW_C4lCh7PhC7rGHL-lPujF2TtqMWbcI7Y-d3dd9eAcx-UsBs5mB0f3x_9non3EJ075FBndtzopf9-DTfPwFe7baN4a5-wLg9iUDhvKFWsZuV_R8jrCOavWseq1UlIWYWf7ACQlYJkLyCEH8bPGTAKLNHpKizfiC_CA_NTgkpkq7ai3fGGHDNbyOtv6XnSckWjyEPb3j68-TF8BAZKAQjKzyiOkSZ0zT7Saowya1L3RPFCrfoGtmJq96ngtjOSHjYD54RhigK8gj3rNf3blb_MjHHcukh2i1M2QD0QozS6h0M84aFO9jjcz1zPDzFG5kLN-k6HDZ3SbY0LE4UpLZqCyfVUivEzrqpd-lM3Am5JwducbDECfCnX94_UTIJLmLT0v2OI1_WU8=",
+        "status": null
+      },
+      {
+        "id": "ws_033d4433cafb0478016aad3abf5a6887d2bd638949b23513db",
+        "action": {
+          "type": "open_page",
+          "url": "https://musee-des-beaux-arts.nancy.fr/de/die-sammlungen/skulptur"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_033d4433cafb0478016aad3ac2480487d2b5f882c2909c1d4a",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTrYRddwX8XTFtBZJYrj18G8pCl-19MS8rA9td242Tsn2HFpkjVtGjBAtYbo8LEG_ym9j2p3sGR5X7ZpFHMlqv84P-q1iL4cCshSetxNwppfNzq81bS5Y9GpV-AUxntEAWHeSq7VctB5w9oOVOca_XgeI7PvXsSHFQXwlENB5mpeU46vK5OSdlfiGhc74m3-aW7ppN3EW43kH9t0S5K6qK51PXoeMYahnjemsZwrKZn5RU2PNf8KKRpLW69znsAhywPhx2OpetkftsBVsayeGxEju0RiPpPzTXCiimORQY6EO0NVVgdi6qbO9YecVmmH7wPNAJ3mhdFzmKaWJV7paPofci8i2f0mxTwbFpez_R27yGoGpw6SSCzBYmdlVWXTkN43H1MUbr3fuJMv6Gn2Zn_-qTsWKMwxKFcL4UzzR-OA0dmwzSdRD0tgUkhluTxn9Ab5hoBGrv6NaPvPXVS6IfK9ym5NVMMOzMicaIcftP64resJVhDJcs_CdPv4R7uZyct_zwRekRly6sint-y9NAvNNEo1Xrk86lKJ7grfQHh7007iyYcPxESn7OoVISdd3nY2e5-7K3EE2gB7pg4h5tOht9LC3pxOpv00qdAs1Mrw1Xxz7Vs2AKobz4B4uV7NTqJ5BYf7LqovRFiZCk2O4Wao8umy3o2IwF-Pl_QCJ7MEJ5OB7Pjc1xGjYwgs0gR3z5jPEoXDyrLlqlvch6qhSp61KXHaMz0eVVU4xhztJfp7a9mg5SDCzw6RQwubKArtDJss2Jxvbeqkj_iKYFucTotbxMiAVwjJBGsRNp1Y1JOIyXG1EbZURQ4Ek97T7Lbq1Ql_i809sYUUh8sHiM2MTf56C2DXIkaZJH1LfrZzN58LgaC7KgtK1uNfF4eBtdF2hbwc-MFRFYQu433iEkFgwjXxtP4BpTiuXYN-ssTko8IZVtkGbgYdFHxR6qampFl9a_Bka7Pec3ELnQ6Lxg-DWzDl3l6FgF_ugTp4BvgLN1sMPaVUt1pgVzAQZXKPbAnANHBq7MaF9fH_Twg9K8hVh1_vW52LLP3ftnZPbqV-w8tlzXZnYCQgGAhVp8SQUhB3UOcJJDmq5dll1esWSaG2o7oVb3Eu1pJ9S7MWuzZlaudw_09xS-NHS7lhmfE5oC_g91TkOYwf2LE3EMYO4Pk_6B24f64ggeOLm5t5K9WOwxhp7EzpKzVKbOnEKsZllkLrNqOE3rtbN6XqNVyfrKi2It_6OOZtgnzjog9n-tSIO7JYHi8T3YKJGzoHx0qfnJLs__SExW9GVftZM3SOjKbOjp1w2oKy4HHn8vQoJbQZB4zqs8n6ZSCnY6PxZl-aD8WQPH4j",
+        "status": null
+      },
+      {
+        "id": "ws_033d4433cafb0478016aad3ac2b5cc87d28bfa872021e11094",
+        "action": {
+          "type": "open_page",
+          "url": "https://musee-des-beaux-arts.nancy.fr/de/die-sammlungen/skulptur"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_033d4433cafb0478016aad3ac3e34c87d2928aab5a4ac4fff2",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTrYjAhyQfibw2ggjbw135rEnKsRSzQAdwrBwTKgM-5oQq6qvBCd_52ynIaPxyUqkcWuSOMQ7klUlyphX5rvZ0xJihB1sG8mmuyxE772FzMe269uAAKdvhyVBtxmnDmPkilub76LcSuQ8Gb0_TDUHJVblfd8NBXkFFM_CjQRqXmerPItsnvi_lBSJntbWJZW4X6h4n-b3if_WMHjR06ck-m1hKoqle9Xx1c4bTKUrt9ylL9wxegA9JmSwSudKdwmDi28qrt_9L3Ay7sqf9kEXHwx9gFaHkWAiubqz-HbRCPc4mFdOogOTE8jz-0TjTzg8BHRfITK0Qe4ZLtKdU79zVASVCw1Mdrel48MO3eJ-aQSZyKlZxXErWV_ta03_GbpUh-Fw5VBQsFPKTT6hQmsvmHN26KI7oumKFYv1-HW4RXSAYzE4K-3vYS49lJ1exA1BGYOicKhd6Zs1cQOhgzYLsPy5vEWQP5KE4NjFGRYI6fsF-q5r4CyUVtAGq7NhJ3bjJFFj6ueLYkGpOCu7S8_3n34sZWBJsjJhlYkhWGOQYe4HEekyG7LNK3PC0TLn0d7VWrs0XEjNJ7J7I-80WWbUDgX_TxBpY9cHCtQ2Jsy0GROImR7jn1p4kRWDDPBOe7-4xKeUYBGpNCMrjytL9AfpFm74B-r7qpT3wGqizD1ERizZWGov-CatD3OyaMjXPKIGJPnQ8aRaX7P0N_YJQtJZP7gkeoRxWMoX1YY2MYrRMHLxttqYb8T2qgNqUpjYIvSHltg5B6MP0ieS_qX2NCKkGVPB28j6IGb3zkpGh6zxkWNdCL18h6ty0TE6d2fQIpke_mc5zDXq4-Hgeu3wyDI-YoWetiSi5Ha3Vxdbbo9HqiLAwTHmXdSgLpXIpPZuULSMVxsfv1_1eeLGyQpZoWXPAT2IqaZST73Ck5m3hW9t0rEAZJbRMHjhQ75nvAkGrwcL2bavwulN_6hcSTdGF3JoFu27AfUhoAFhHuK4G0W5a6oK_fgetb0RdSaEhU2grXvSbmsH3iu5C_geI8W_wQWAqdWbY6odATxz-8crkp3yG38h1O8xkRPESxQEZdUXLclBfNIGKNj1EMoa_rv3WSzARc6TB7wN2xBw0MAHGnn07CIADaVT_w7zdH6Fa-TnhWJJn8KgXj5d-8zsa0oqFlXOb4wzWfqxm_SaWiW5QAvkoULXwFjZ1oWhOx4NkV-Ab71FOei",
+        "status": null
+      },
+      {
+        "id": "ws_033d4433cafb0478016aad3ac4272c87d296837c32f6cf3438",
+        "action": {
+          "type": "open_page",
+          "url": "https://musee-des-beaux-arts.nancy.fr/les-collections/sculpture"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_033d4433cafb0478016aad3ac6038c87d2addd8842fb58b0b4",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTrYweyvQ7GkMIQmjo7ry6O1D7ZYPNshkZ6tCmw6hSkBIXsrw5HQ8B9mRS-f_38y1ZL0wCF3FqI7292ZrBFbRl4rcl6D3qNovvofRilgx6SA5kn2Ei7KmbSTutkBCh0n_AhN4UqBEwgkmVUI7_YoHiukDkVjGG_9S3Ui6ataUqK7MOk-_zqfAuZl4-V7xXo0_314WykZsvHfdf1KY62jMRpByvt1Ekj1PjM3n45cdCMeaNj3cHkljYgQnES_fzwNCaqbNmIZTaftJm_wrGf95IV63KM7qBwoVDzRAT7R7Qje2fCE_Yza-iG-0FbroA-TiK-Hzeydr-5U1hyXAEl8Kfbg3oE6cJ15DwhqylV7unzv6sAmAaWeZfDJGQ406dgFVvHxsr3vRx-BmKN4NiphVX8VLg_3ndpg3MMoCJVlFot9GibV5lQSiNOHD0R19rOyLWp6OxiGFRppHZE5TzZheeG5_w3oFlj15RSqcsb5JjVnp9h-s0besmhpCGFeinmQGdBuFETsfT16ISIE_bPEYXD-b4auC_26tr85wGnwzxSYP4yA7Yxp5KYx6eudE54gcehxMzoasiqX5wuq49JkOG1KEfnIhC4V2j1eQp3S-GC1F2Rlfy040L_0VvjFw91XHmEYJdRNOidQWQTosd_UUWTw61NhoQqtep5oFxeNSEg_PGn6XNtwiC3E31y1tjzrPgXU2fq2-7TU-U-wwMcKWuP0c_yBAAAtiIjOFzSQ1MHrxdfIcvCrhyd4J06yB21Y5-OZBcwVlk8KaTZpVtXQAUXGYO8WAWAUGwYqxdC9-YT2kNwqSoZVSKACb_4UrCpezKkKv4VHCOFApdtPw20glfZrt7cXecArFE9cbNW0IAtmdDLcql00plOCDZ44KZvNB1gjrH6DGo97qmO5lYuXObM0IzK2u2bht_PGvCDGDWUkMGb0IA7MJJkyK1BTnFB6Pqr0nWD1Qu1c5TowH_JUPGtUyf1G_IeBAiETW9nZJ-Qysctoc5jwKNjXfvCFM5nZsTCqbj2_zQ-Fg5xuJzDlH4vBXXXPymkONhrbd3dxDyZRweladmQ7kHq18PMyqloTqBBloRGYn8XaEgjYm0f2kdX893lGvOgZDDRBdw52rDCmnIWKPphnbnyVckA6VOgHdZ8qTRgpDbM7FF3LDVO52Z8crk-24ybUEatCIT_xuQUNll-dhhxl3TlO-CuVaejJYvrCsaMtr52J2Y3GTA1i9TfvmOUSR69qOdEKFhWPhEcOsA607HuUAz9lK-62ySUmOk0U34DUEt3mbf-bDgQ7rwBt2AI9qWulR3JhjSEmKQWF0NqGPtwws4Z54q8VIiayvv6EFdvCNAPsvTYU2U5NAkfGdXj8-NuKjKIEL396ulKGHyGVoVMLnpJo81zhu--G1_-koj7k53e3IsoNPnzNlMce52dnYHw18lY4uYlMj_oqjbDRfnlee2ISA6DkpcLdfmhMNYuNfxQAYfL-6CMoEn5tPiOkiYNYbTBnOkdeEAn8TjWD3KGSUN5bxQbFg_uK8SPAW05Yee4ytM-EPk1RwwEGzOereHJyss6F3L3IFp-wSeDtmgZFQgDdBZq1BTrvKQsBKLCEQyd0qbRu_hLwEiQtYvJt0-NxoX8VNlz4xlW5t9C2T00WDyrLNPucs5j34IrS5vnJlOyfgnSeoM0Ss6zaCLuI4PE7b98xCwP6btaXSZgOrFKHmDHuqcHGwuFGxdFbFoHPCl_0ebmWTZeQf18rYm8bq0EraGJNQa1MM-6n602AzY3ORvItVh7IJ37zaoT3D2bnVWbIyef4c6krqHs8zdLBhwNCx8JhSeQvEBEXkjVG2CwPuvNVrmxY3_0FL1lgYjej2fEFCoUw7hGc1VawCLoey0tIvQhCJNqqpeBcEDO5u5yk7GWhutyUdo10R1QusYP_JA9AQD-j09eDjvuJldnPesKRg9etYlaj2PknHo0YjPOoRl_BxH7Hamoh3ko_ceOEhuAK18U5PMZhXnXXogtIUaXFPvffrK7Z_P3Hxamq5-P6r34eOI97ynm1QepqdmwLVPoW5N45k5sWxG1gHtehYE-8AiSVccrYEZZ4GYY=",
+        "status": null
+      },
+      {
+        "id": "ws_033d4433cafb0478016aad3ac8279087d2b33e4a8d51beb3be",
+        "action": {
+          "type": "search",
+          "queries": [
+            "\"L’Offrande à l’Amour\" \"terre cuite\" Nancy Clodion",
+            "\"L'offrande à l'Amour\" \"terre cuite\" Clodion Nancy",
+            "\"L’Offrande à l’Amour\" \"Claude-Michel\" \"1765-1768\"",
+            "\"L'offrande à l'Amour\" \"Musée des Beaux-Arts\" Nancy Clodion terre cuite"
+          ],
+          "query": "\"L’Offrande à l’Amour\" \"terre cuite\" Nancy Clodion",
+          "sources": [
+            {
+              "type": "url",
+              "url": "https://musee-des-beaux-arts.nancy.fr/les-collections/sculpture"
+            },
+            {
+              "type": "url",
+              "url": "https://www.nancy.fr/fileadmin/NAN/culture/scolaires/2017/2017-dossier-enseignant-la-sculpture.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Clodion_%28sculpteur%29"
+            },
+            {
+              "type": "url",
+              "url": "https://www.nancy.fr/fileadmin/NAN/culture/scolaires/2017/2017-la_mythologie.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://lotsearch.de/index.php/lot/plaque-ovale-en-terre-cuite-figurant-loffrande-su-dieu-signee-dans-le-39136159?order=ASC&orderBy=lot-title&page=1&perPage=50"
+            },
+            {
+              "type": "url",
+              "url": "https://manualzilla.com/doc/6405166/la-mythologie---mus%C3%A9e-des-beaux"
+            },
+            {
+              "type": "url",
+              "url": "https://www.expertise-ottavi.com/wp-content/uploads/2019/02/168.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://www.expertise-ottavi.com/resultats/168.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/L%27H%C3%B4tel_Drouot_en_..._%28IA_lhoteldrouoten00eude_0%29.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Louis-Simon_Boizot"
+            },
+            {
+              "type": "url",
+              "url": "https://www.gazette-drouot.com/lots/22896087-edouard-cazaux-1889-1974----"
+            },
+            {
+              "type": "url",
+              "url": "https://gargantuart.com/books/plaisir-de-france-1967-06"
+            },
+            {
+              "type": "url",
+              "url": "https://www.christies.com/en/lot/lot-6000079"
+            },
+            {
+              "type": "url",
+              "url": "https://dagr.univ-tlse2.fr/consulter/1198/DIANA/texte"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikisource.org/wiki/Le_Chariot_de_terre_cuite_%28trad._Regnaud%29/Texte_entier"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.scribd.com/document/334318263/Gazette-Archeologique-Recueil-de-Bpt6k5730056w"
+            },
+            {
+              "type": "url",
+              "url": "https://pop.culture.gouv.fr/notice/joconde/01370004483"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.scribd.com/document/706950234/L-image-d-Eros-en-Egypte-de-l-epoque-ptolemaique-a-l-antiquite-tardive-323-av-J-C-VIIe-s-apr-J-C-iconographie-et-acculturation"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Charles-Fran%C3%A7ois-Adrien_Macret"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Liste_de_peintures_de_Jean_II_Restout"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Liste_de_peintures_de_Jean-Baptiste_Greuze"
+            },
+            {
+              "type": "url",
+              "url": "https://musee-des-beaux-arts.nancy.fr/les-collections/sculpture/focus-sur-loeuvre/claude-michel-dit-clodion-loffrande-a-lamour-vers-1765-1768"
+            },
+            {
+              "type": "url",
+              "url": "https://collections-mba.nancy.fr/fr/search?f=562291&o=562261&utm_source=openai"
+            },
+            {
+              "type": "url",
+              "url": "https://www.nancy.fr/fileadmin/NAN/culture/scolaires/2017/2017-dossier-enseignant-la-sculpture.pdf?utm_source=openai"
+            },
+            {
+              "type": "url",
+              "url": "https://www.nancy.fr/fileadmin/NAN/culture/scolaires/2017/2017-la_mythologie.pdf?utm_source=openai"
+            },
+            {
+              "type": "url",
+              "url": "https://collections.louvre.fr/ark%3A/53355/cl020017889?utm_source=openai"
+            },
+            {
+              "type": "url",
+              "url": "https://collections.louvre.fr/ark%3A/53355/cl020521438?utm_source=openai"
+            },
+            {
+              "type": "url",
+              "url": "https://collections.louvre.fr/ark%3A/53355/cl020550044?utm_source=openai"
+            },
+            {
+              "type": "url",
+              "url": "https://www.interencheres.com/art-decoration/entre-art-manufactures-et-cabinet-de-curiosites-vente-dun-collectionneur-652242/lot-82372542.html?utm_source=openai"
+            }
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_033d4433cafb0478016aad3acdcf0087d2982ea86c524db07d",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTrYCnTaDER2a1PnHZse91l7TZDy7UA6S82bYyk2gHJHGeww3wQ1CPRVRvhvUFsdrjMdsITa3rxyKx9hEybaZS3HmlPp3nXaA36jj7Tk7Ua8CDBeG8BmWwF0F-pVZAqB1mYg44W_BGo0Wcjp79znnbUCXneP_Ynd7C0hrxRJlSHIjo78KAuk686qHHNoEKKMeeyOMSgrGM0SDZCm3CjzYKzFcpfF829bAGWuX41AVyy4e8ZjgK-DO1dFdqlfzibwc15R00pmLTFnV2-X9TWw_EGWBWegjJ8i1cTMdhXhCJaTcpFF5AuiSn2IvDBKaF0WOdStVTpl4fdhx7IXPB8a5H1hxa-Go_uocObc5rL33XXxAI8HSYTwHE2K7h3R-2w430cu3KUZJZgvx-Mj-Psr_9Ch-Bj-687fg6uMIi3RJs6yH1ui4dQF3SicN1oM1ThtVm2QdlCgdpRBvkOF3pk92-jNaqRXWl_LXeyTKvPMsphPtDoLxueFm8zz07ZTzp9IaONv-aqzYNkXgt08iiH55kYHUX1sWKv6UAEk6U43a_a8Bo3Khz20RSnAC9QrJ4NUwGts4PQ63ZJn4k-cVoPiXpVsXlYPAo4rubervZ4sJpY81VUvI1VnPX8HTBMxmwUQ7Li8aXozGt0xsXIcrid3OJZpAIylhUYBEijF1ztpQl4fY0Jen_NTAGdX3ZyClf3GWk9Fbf-41xhyRgPdrSn4ud5yZXs4M6x6I3oAApM5g7Tr3XaYeKw9pDDncnJrq95CgjQ1L-g48PRR9IVbjLBBlOhaRg92hhjU_HbcPEyL0LEV8guAA8kLjpYAdoLId524zlRhsNkp3yWN4Wox5Q_yf8GhlqvTKFE5BTDOhF0Lj0iqDjpEDogx3N8lwMN79Sy4YPtZuv45kcKdKIxYZPiTCWWgfatNoThFC6_dD8dXjWb50TRnn0NrffQzYvLbeATwH_4cz4mx-oi_I8pIqPHYBlDd8mGLm9SfFK-h_ZTpGBGEvvL-ihHjQ1NhdH_PI0TqC3VLfqvLNX9H211o5IWjUT_njop4kqhWSKwVHB1MwygkFwEQLQhJBS8e8Sm-JbSoScUkF7VS2IWCXfi11JHKa2rDmuZMsPkhfZxtxC5fG9R-4S5fzbYyvtaizL0nXS0HBzRnmivhSxw134TS93UaAA7a1qGUaZpUfs5u6pQHM9D0Y3yz4hhREx5IIgZsU6DY0IvLxL2JruC8LO7alqBuZHN68PAcaIG4hwTRR-Pk-ZEhKypEzgJ_hwxtqEcAxtFhCcTRq0uRC_gt8Sg_Ijxv1rvavlA8waU8_zw-6i4K0B698AjtURC9cF1JMG6kY2JAwN-X0e7SOhdaKF0eLVEde9D4sSYHClTjgjgiXSYdVyFizqrBRgngGZRxhgXd3V33ArAKrC3SFroj1B_o3iP6Z-5UWJI73l_jdNaESEqqbZJpGnsCODINqmLUqRPL1K3IOp-CUqsKmiOqgvDi1CbxXpUbhWoSiqL0fM42q31OHccrPcb08lMuMbe2vbnXUf46PgYiHTdx2Uc0V50uavlkPquSsb24L4dvDRdwrWCdUHENivm6kpq0QP8KyrysFkdv_v6YaggU_3xI0kB8LSIy5n8RumhL9TnCalXjqL_uvVNl_B8RmGwcko4jmmGX1hoD9QlWzKnPBfTwG0EkSNKDG7UIoRmXcRCUq8SThY_Hl3UZLFJ1HsHGOUHcW60Hr_LC_Hgb_Y47jZ37rFlhq5wRBIu19F5ByYIHL4AnvL0jHT1RE6jLrhyBrM4AMJeYCIQ5yV6ia7XxL9SqRW2e78lFzI69ErIIHf82hbvtkCVKehQZfucgPtSjxoHeOKWkioPkPsiiX5ojOvfWDuEaB-ntlY84Wg0e2R-eBJFvEDKYchRa5UswtrSJtn7bPMoYRVS8FGuzrz8DZaKB_uKQJXbGCwi4xm_oIlSvOPVtBkTtLg642douKF2hLSilGCcDzxlnuCZ54ZtqNzXqLdH-t3D6CjRQ2XiV4bpNxwv7m2Ll6tjnNcvkqi5bNfu4V2KObZuSuSk2NRKJLJ39VbFxv7Ef5hG7qq0GsyM5MOoD0Qm6yZz3xwKHmKP8GUyeEg6g4HSSACEdvSyYjofZekgGcZ9QHZUkTF-czRm33uNbkwp37mAyqTdYbO7ng9rTxyxA67dp3tsE_2M6HBmubZWktrffxYZOIG68i37GCX8QkuO-DeLt6rKnPfHHFMuXGZfcHQKe_Q9wvgjxKgnvR8F7b_4NI82NvXoaVLWdXqNBU8tvnDUvVeaseg9KBaDBw6hpSCSlDx2WtgcObOn1cKrVmKmFMJMOy-_-qYgnYGeW9LAXFD8bL5AX_nfgPriByMvyEK5BZbgSntoteOA2P2x2uj3jOsBze0L6m0D4HQLdAKBzqQzvQR81InKhkeQPAr3tWYvCTJQLQ5iQMwNIiaNmf8OB5hUw2KpmHpZ9OqzsfNo_joHdEdPPrtqzJY-vuLW68vF3zrPOA9Wjn0AE2pv81mX3tuKi5XQtesfqMjMKonstec86F4Fex4m3YpMsg5OAobco-77ZItovUxiyyKTO5RF264acBEqOjYzKjKcPb8osqgLT2Vey-c5wpEhe5e5c1sv5g3h8nLt4hX-WD2zI3ymg_tPITzLzFkDgJTHZX6wFwMepUHfXWHcS32wVjHNcjJMK6iGSxdv82nIrx0yblqUmzyWp46ep5QxRMplgRJDB2CB4pKW0KZutqMZqNZjA8FMoQXFnRqfJntcgf-RC-zVHQTIwqLxKrqSkfLR6dlP6ob4r5lwtg44LCM13etbtjRaR1roi-offkdoEYbs3ClsQBMExuD4o-A3OGQjKWPoxhQkL4RU1myCGYkL9EwwcxikTKQALsHsI1QBxX0Hkvg1N_IgZ9LTy42gWCBHmZIYoY1KQk3oXL5Xkas_CyM0MsSnMWkEdjPFdI39O2pIDq0EYiC8QiuX12GpDfX0JTEloDA2M2chNGcB_elHcM3JVMa-YdOrXOF-h4TWYHWGQKhLh92nd3565XmZ-ZIyofLKJ3Iw_iDLQTe8jcxZeKwYJ_3SutReDZF93tVmQb_De3mZ01pp8g6Hla9aD6L6WLCn4Hn4FVHIzXkjT3nr5al12uVZmpjkjc2rrarzr6s6et8rDgY0-O6qKaRJgrFO002wuZx756qx1X-mnbQKB_umYz-a10CLxCoXzKuOUQIjf2GmgloWuRfKaQXC3PuRuShWob7IrBP392yojTnw_PE_leh8d7ieaVW_Y03sHAQeU2C5BsiH6ixN8RtxNqZltm3BSkXL4jH2Am9siEpMUOH2iomq5RLZebCaKPpIR1Mq_hCOlQ3RZJ1zuxx0ysFIxp_y184bMd9OPs7HyXYoA5TUQcnW0Hlq8zauJdCL_WmIiSQ_r2NGGcqWx5hgrs17fNA3aA_75hnoPj2BDorW6qDJsGChoSLNBiepp4-Ax51m1u41PZzNmFTL-o6Q8JU9XPCLeuUvp91CaMmMwXrCTbXal4wXPBkDhG81BGz_UTgssJYedeIb-DQ==",
+        "status": null
+      },
+      {
+        "id": "msg_033d4433cafb0478016aad3ad0f0a887d2a2b15380717446bc",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 1042,
+                "start_index": 944,
+                "title": "Sculpture - Les collections — Musée des Beaux-arts de Nancy - Ville de Nancy",
+                "type": "url_citation",
+                "url": "https://musee-des-beaux-arts.nancy.fr/les-collections/sculpture"
+              },
+              {
+                "end_index": 1393,
+                "start_index": 1217,
+                "title": "Focus sur l'œuvre - Les collections — Musée des Beaux-arts de Nancy - Ville de Nancy",
+                "type": "url_citation",
+                "url": "https://musee-des-beaux-arts.nancy.fr/les-collections/sculpture/focus-sur-loeuvre/claude-michel-dit-clodion-loffrande-a-lamour-vers-1765-1768"
+              },
+              {
+                "end_index": 1942,
+                "start_index": 1834,
+                "title": "Rechercher dans la collection",
+                "type": "url_citation",
+                "url": "https://collections-mba.nancy.fr/fr/search?f=562291&o=562261&utm_source=openai"
+              },
+              {
+                "end_index": 2386,
+                "start_index": 2256,
+                "title": "La sculpture_La sculpture.qxd",
+                "type": "url_citation",
+                "url": "https://www.nancy.fr/fileadmin/NAN/culture/scolaires/2017/2017-dossier-enseignant-la-sculpture.pdf?utm_source=openai"
+              },
+              {
+                "end_index": 2632,
+                "start_index": 2520,
+                "title": "La mythologie 1er dossier_mythologie.qxd",
+                "type": "url_citation",
+                "url": "https://www.nancy.fr/fileadmin/NAN/culture/scolaires/2017/2017-la_mythologie.pdf?utm_source=openai"
+              },
+              {
+                "end_index": 3027,
+                "start_index": 2928,
+                "title": "L'offrande à l'Amour - Louvre site des collections",
+                "type": "url_citation",
+                "url": "https://collections.louvre.fr/ark%3A/53355/cl020017889?utm_source=openai"
+              },
+              {
+                "end_index": 3287,
+                "start_index": 3188,
+                "title": "L'offrande à l'amour - Louvre site des collections",
+                "type": "url_citation",
+                "url": "https://collections.louvre.fr/ark%3A/53355/cl020521438?utm_source=openai"
+              },
+              {
+                "end_index": 3500,
+                "start_index": 3401,
+                "title": "L'offrande à l'amour - Louvre site des collections",
+                "type": "url_citation",
+                "url": "https://collections.louvre.fr/ark%3A/53355/cl020550044?utm_source=openai"
+              },
+              {
+                "end_index": 3890,
+                "start_index": 3707,
+                "title": "Claude Michel, dit Clodion (1738 - 1814) dans le goût. \"... - 82372542-88 | Interencheres.com",
+                "type": "url_citation",
+                "url": "https://www.interencheres.com/art-decoration/entre-art-manufactures-et-cabinet-de-curiosites-vente-dun-collectionneur-652242/lot-82372542.html?utm_source=openai"
+              }
+            ],
+            "text": "## Résultat vérifié\n\nL’œuvre correspondant aux données fournies est bien la sculpture de **Claude Michel, dit Clodion**, intitulée **_L’Offrande à l’Amour_**, conservée au **Musée des Beaux-Arts de Nancy**.\n\n- **Titre retenu par le musée :** _L’offrande à l’Amour_\n- **Artiste :** Claude-Michel dit **Clodion** — Claude Michel (1738-1814)\n- **Date :** vers **1765-1768**\n- **Technique :** terre cuite\n- **Musée :** Musée des Beaux-Arts de Nancy\n- **Numéro d’inventaire fourni :** **93.7.1**\n\n### 1. Notice et reproduction — Musée des Beaux-Arts de Nancy\n\nLa page officielle des collections du musée identifie explicitement l’œuvre comme :\n\n> « Sculpture Claude-Michel dit Clodion, L’offrande à l’Amour, vers 1765-1768 »\n\nLa page comporte une vignette cliquable donnant accès à la reproduction photographique de l’œuvre. Le musée précise également qu’il s’agit d’une **terre cuite** et la distingue de _La Marchande d’amour_, qui est en marbre. ([musee-des-beaux-arts.nancy.fr](https://musee-des-beaux-arts.nancy.fr/les-collections/sculpture))\n\n**Notice ciblée :** la page officielle « Focus sur l’œuvre » reprend le titre, l’artiste et la datation : _Claude-Michel dit Clodion, L’offrande à l’Amour, vers 1765-1768_. ([musee-des-beaux-arts.nancy.fr](https://musee-des-beaux-arts.nancy.fr/les-collections/sculpture/focus-sur-loeuvre/claude-michel-dit-clodion-loffrande-a-lamour-vers-1765-1768))\n\n### 2. Notice de recherche dans la base des collections de Nancy\n\nLa base en ligne des collections du musée fait apparaître séparément :\n\n- **Clodion Claude-Michel, dit — _La Marchande d’Amours_**\n- **Clodion Claude-Michel, dit — _L’Offrande à l’Amour_**\n- pour cette dernière : **vers 1765-1768**\n\nCette distinction est importante : l’œuvre recherchée n’est pas _La Marchande d’Amours_, autre sculpture de Clodion conservée par le musée. ([collections-mba.nancy.fr](https://collections-mba.nancy.fr/fr/search?f=562291&o=562261&utm_source=openai))\n\n### 3. Reproduction dans un document public du musée\n\nLe dossier pédagogique du Musée des Beaux-Arts de Nancy confirme la notice sous la forme :\n\n> _L’Offrande à l’Amour_, Clodion — Claude Michel, dit — terre cuite, vers 1765/1768.\n\nLe document distingue également l’œuvre de _La Marchande d’Amours_, en marbre. ([nancy.fr](https://www.nancy.fr/fileadmin/NAN/culture/scolaires/2017/2017-dossier-enseignant-la-sculpture.pdf?utm_source=openai))\n\nLe dossier consacré à la mythologie reprend encore l’identification : _L’Offrande à l’Amour_, Claude Michel dit Clodion, 1765-1768. ([nancy.fr](https://www.nancy.fr/fileadmin/NAN/culture/scolaires/2017/2017-la_mythologie.pdf?utm_source=openai))\n\n## Contrôle des homonymes\n\nPlusieurs notices portant le même titre ne correspondent **pas** à l’œuvre de Nancy :\n\n- **Musée du Louvre, RF 4283 :** miniature sur ivoire intitulée _L’offrande à l’Amour_, attribuée à François Dumont ou à un anonyme français du XIXe siècle — ce n’est pas Clodion. ([collections.louvre.fr](https://collections.louvre.fr/ark%3A/53355/cl020017889?utm_source=openai))\n- **Musée du Louvre, 6328 LR :** gravure de Charles-François-Adrien Macret, d’après Nicolas de Launay et Robert de Launay — ce n’est pas la sculpture de Nancy. ([collections.louvre.fr](https://collections.louvre.fr/ark%3A/53355/cl020521438?utm_source=openai))\n- **Musée du Louvre, 19542 LR :** gravure en couleurs de Jean-François Janinet — également une œuvre différente. ([collections.louvre.fr](https://collections.louvre.fr/ark%3A/53355/cl020550044?utm_source=openai))\n- Des annonces de ventes récentes mentionnent aussi des bas-reliefs en plâtre du XIXe siècle « dans le goût de Clodion » : ils ne doivent pas être confondus avec la terre cuite originale conservée à Nancy. ([interencheres.com](https://www.interencheres.com/art-decoration/entre-art-manufactures-et-cabinet-de-curiosites-vente-dun-collectionneur-652242/lot-82372542.html?utm_source=openai))\n\n### Conclusion\n\nLa concordance est solide pour l’œuvre suivante :\n\n**Claude Michel, dit Clodion, _L’Offrande à l’Amour_, vers 1765-1768, terre cuite, Musée des Beaux-Arts de Nancy, inv. 93.7.1.**\n\nLes pages officielles du musée vérifient le **titre**, l’**artiste**, la **datation**, la **technique** et fournissent une **reproduction photographique**. Le numéro d’inventaire **93.7.1** n’apparaît toutefois pas dans le texte indexé des pages publiques consultées ; il reste à confirmer directement dans la notice détaillée de la base de collections ou auprès du musée.",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "required",
+    "tools": [
+      {
+        "type": "web_search",
+        "filters": null,
+        "search_context_size": "medium",
+        "user_location": {
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null,
+          "type": "approximate"
+        },
+        "return_token_budget": "default",
+        "search_content_types": [
+          "text"
+        ]
+      }
+    ],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1789737688.0,
+    "conversation": null,
+    "max_output_tokens": 2500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "medium",
+      "generate_summary": null,
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 43403,
+      "input_tokens_details": {
+        "cache_write_tokens": 98,
+        "cached_tokens": 4251
+      },
+      "output_tokens": 2470,
+      "output_tokens_details": {
+        "reasoning_tokens": 1393
+      },
+      "total_tokens": 45873
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 5
+      }
+    }
+  }
+}

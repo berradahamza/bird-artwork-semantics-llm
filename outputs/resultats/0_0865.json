@@ -1,0 +1,91 @@
+{
+  "image_id": "0_0865",
+  "titre": "La Toussaint",
+  "artiste": "Sylvain Lang",
+  "room_id": "Room_13",
+  "sujet_existant": "Religion",
+  "fingerprint": "d5189ceb68811fb35ab387ebacd84c9094c97097a6976d676ef77f027a4b2d03",
+  "model": "gpt-4.1",
+  "prompt_version": "bird-vision-v1",
+  "date_utc": "2026-09-17T13:21:11.541183+00:00",
+  "statut": "ok",
+  "image_path": "images\\0_0865.jpg",
+  "source_page": "https://www.sylvainlang.com/musee-des-beaux-arts-de-nancy",
+  "source_image": "https://static.wixstatic.com/media/7c782f_3bc9fedb8b5147409f91b4ff4fcd2406~mv2.jpg/v1/fill/w_466,h_311,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/7c782f_3bc9fedb8b5147409f91b4ff4fcd2406~mv2.jpg",
+  "controle_identite": "retenu_par_IA_non_verifie_humain",
+  "raison_identite": "La notice rattache clairement l'image à l'œuvre \"La Toussaint\" de Sylvain Lang (2007), installation vidéo au Musée des Beaux-Arts de Nancy. Le contexte de la page confirme le titre, l'artiste, la date et le musée correspondant aux métadonnées. Le descriptif explique précisément le principe de l'installation en lien avec l'œuvre évoquée, et la photographie montre bien la présentation muséale avec une œuvre vidéo installée à côté du tableau historique, ce qui correspond à la démarche décrite.",
+  "original_width": 466,
+  "original_height": 311,
+  "download_url": "https://static.wixstatic.com/media/7c782f_3bc9fedb8b5147409f91b4ff4fcd2406~mv2.jpg/v1/fill/w_466,h_311,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/7c782f_3bc9fedb8b5147409f91b4ff4fcd2406~mv2.jpg",
+  "sha256_download": "132722bb903852c3220dfd81e1c7afe6c1e7d53b66ebd2466475f65eb78bed20",
+  "description_visuelle": "L'image montre une salle d'exposition avec deux grands tableaux accrochés aux murs, l'un très grand à gauche sur un fond rouge et l'autre plus petit à droite sur un mur clair. Au centre, un banc noir moderne pour visiteurs. Le grand tableau de gauche représente des personnages humains dans une scène où une femme en noir et un enfant font face à un homme assis, donnant une impression de contexte narratif ou dramatique.",
+  "sujet_principal": "Personnage",
+  "sujets_secondaires": [
+    "Architecture",
+    "Objet"
+  ],
+  "justification_sujet": "Les figures humaines dominent clairement la scène peinte, occupant l'espace central du grand tableau exposé. L'environnement muséal (architecture) et les accessoires (banc, cadres) sont présents mais secondaires.",
+  "style_visuel_probable": "naturaliste",
+  "justification_style": "Le grand tableau expose des formes réalistes et une attention au détail narratif dans la représentation des personnages, typique d'une approche naturaliste.",
+  "figuration": "figuratif",
+  "couleurs_dominantes": [
+    "noir",
+    "gris",
+    "blanc",
+    "ocre",
+    "rouge (mur)"
+  ],
+  "elements_visibles": [
+    "grands cadres",
+    "tableaux figuratifs",
+    "banc moderne",
+    "murs colorés",
+    "personnages peints",
+    "panneaux explicatifs"
+  ],
+  "composition": "La composition oppose un mur rouge avec un grand tableau à gauche à un mur clair avec un tableau plus petit à droite ; le banc est centré dans l'espace ouvert.",
+  "limites_visuelles": [
+    "Aucune vue en dehors de la salle",
+    "Absence de détails rapprochés sur les tableaux",
+    "Pas d'indication textuelle lisible sur les panneaux"
+  ],
+  "desaccord_sujet": true,
+  "erreurs_telechargement": [
+    {
+      "url": "https://www.sylvainlang.com/quality_auto/7c782f_5f9e1a32ba95495e8da54976c513d98c~mv2.png",
+      "error": "HTTPError"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/7c782f_5f9e1a32ba95495e8da54976c513d98c~mv2.png/v1/fill/w_215,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/7c782f_5f9e1a32ba95495e8da54976c513d98c~mv2.png",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/7c782f_feffc148bf584cac898e81808b050248~mv2.jpg/v1/fill/w_121,h_75,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/7c782f_feffc148bf584cac898e81808b050248~mv2.jpg",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/7c782f_c4e6706d257545c99f14781996d367ae~mv2.jpg/v1/fill/w_121,h_75,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/7c782f_c4e6706d257545c99f14781996d367ae~mv2.jpg",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/7c782f_f362c0bee3c343cdbfda06096f9e2f0b~mv2.jpg/v1/fill/w_121,h_76,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/7c782f_f362c0bee3c343cdbfda06096f9e2f0b~mv2.jpg",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/7c782f_b0376953ebac4024be69289e8ecafa2b~mv2.jpg/v1/fill/w_121,h_75,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/7c782f_b0376953ebac4024be69289e8ecafa2b~mv2.jpg",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/7c782f_6ecd96093f2845f7a6c02dd0665df2c6~mv2.jpg/v1/fill/w_121,h_75,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/7c782f_6ecd96093f2845f7a6c02dd0665df2c6~mv2.jpg",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/7c782f_50bc54dba80043ffa9d55a48c57452b0~mv2.jpg/v1/fill/w_121,h_75,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/7c782f_50bc54dba80043ffa9d55a48c57452b0~mv2.jpg",
+      "error": "ValueError"
+    },
+    {
+      "url": "https://www.sylvainlang.com/quality_auto/7c782f_3bc9fedb8b5147409f91b4ff4fcd2406~mv2.jpg",
+      "error": "HTTPError"
+    }
+  ]
+}

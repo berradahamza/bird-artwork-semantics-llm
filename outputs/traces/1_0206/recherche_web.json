@@ -1,0 +1,497 @@
+{
+  "signature": "e4d1f59a664c588d925a22dd55c7002eadd894c7c6c9d04759d5d13b56783850",
+  "response": {
+    "id": "resp_06f224734f905446016aad3b1197e087d2b30b421f3b1cd162",
+    "created_at": 1789737745.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.6-luna",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_06f224734f905446016aad3b12d70887d2a2b0c83d71219e62",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTsoumtpXIePWA_DNkoH31dz7dj97fRSEbUg8aMn5IBI4Krt_56YgoDYIBGLtruZ-eZI8BaRVd6kruqie2gm4vYfRnJwj2KV8xZsqX6YJkhiDJ0LKFrl6Ye_-Cv-Qtnups14XaE57KMLEjFuDCWNFERg1osmZdSlR0-KeX6Du-Ni4rFJ11y-0STbu0U8E1gXLn9ycFjL1Xgmb9J3BkPIcV49V4DWHO9vUX44LswGO0BVQN_5pt_yC_gk9f5abYSoAYCaOJgFJEvVa-f0KYA_ZTBng6tMathfUuLxeAiF7jmf7obkflaEPl2Y091GAWXwbulS160T-6-Q6uDIih9zifGmGQbYdklIWhwk0nJVzE67IEeNZ2AEiAa0jTYlStlRarUd4EzIfz3UwGicklVoU6RB64eCRSY7AWhIh8mRxl0bPNSnHK0cf7Jq9ZSKrW_-zrYPZKUle2NYB_n-4x4iXRrxRDtUoM_SnHxdsTw-SuHSAqCUEiZQJIPFM4L-wv2mYdy8He5XLcUyFXnM2bbNf_Bk9sUrdi_guPQd3fSiFzilFpw3CCUWWgtiPWqXrRSN7voBFzz7Hj0PQOk46sPkIGbzfSXbg0fq2T-8Ip1ysFkClVqjuOv-wTbNtdYjHvItcGti4758sZvzPhxc1TyTqt7lUbezXjAqmyvqUqkIMC5o44wtMbt6fRV-Zt2aUOU018YeHoP4snsy_qm4z71WUvR9Xfca0WpZKDbzeKKsU84tin0jbo-2O8xDvb9P09ebe59eWUgmbshMReX323_LB4DWOCCiVW5c0Wzmkaw7T2MrUhxvJV8sN3QtPELbyZDewK8-n2MMkDgUxBKCAgzANeLUULy6ujIGDIPIPU1YZs0YzZYcm-04JacjX4wMHdvhpxy4hp_WZc74-osILePHXqkc07Yu8DJQhnBhf2WBmuT79mFpOJ7VrXCIwZ0cQcVtpd8E2zWkjodYigvGN9YQLN-jpP2G96HuDGY_TGu__t5723oJJuo90mbZv8-ab7SHhOsw46mXX8wRE55WWDFnZ4q5_qKUGfCCTV2pr72c-7PLnu19X9I-hSugrxZ56sMKD8gttipSgQFBEXSrkENJmlEaNiKFC8g0w73zKO1K9zr6Y160RchPbmBUCbFLvRZ3TSFgQZDfHqvzupyIa_KmwR2CAKCx12TdOhA_fbWm71uGfPdsjmL5axuWr4oF8xc4g0u87SQ9yn_Aye-CqtlykdQI2SOg1ZhmQcNypb3Sh7MMJHXd9XI0F18TxkAQanyiwkuLBRzFbSWw9jyU2W31S3P3uJuNRDelsyrZMud326tC8k8=",
+        "status": null
+      },
+      {
+        "id": "ws_06f224734f905446016aad3b132dc487d2b8c38ab4333c26d6",
+        "action": {
+          "type": "search",
+          "queries": [
+            "site:mban.nancy.fr \"Clytie changée en tournesol\"",
+            "site:pop.culture.gouv.fr \"Clytie changée en tournesol\" Lévy",
+            "\"Clytie changée en tournesol\" \"Henri-Léopold Lévy\"",
+            "\"Henri-Léopold Lévy\" \"1365\" Clytie"
+          ],
+          "query": "site:mban.nancy.fr \"Clytie changée en tournesol\"",
+          "sources": [
+            {
+              "type": "url",
+              "url": "https://pop.culture.gouv.fr/notice/joconde/000PE009025"
+            },
+            {
+              "type": "url",
+              "url": "https://pop.culture.gouv.fr/notice/joconde/000PE012330"
+            },
+            {
+              "type": "url",
+              "url": "https://commons.wikimedia.org/wiki/File%3AClitia_chang%C3%A9e_en_tournesol_H-L_L%C3%A9vy_0727_%28cropped%29.JPG"
+            },
+            {
+              "type": "url",
+              "url": "https://www.wikidata.org/wiki/Wikidata%3AWikiProject_sum_of_all_paintings/Collection/Mus%C3%A9e_des_Beaux-Arts_de_Nancy"
+            },
+            {
+              "type": "url",
+              "url": "https://www.wikidata.org/wiki/Wikidata%3AMus%C3%A9e_des_Beaux-Arts_de_Nancy"
+            },
+            {
+              "type": "url",
+              "url": "https://www.wikidata.org/wiki/Q60411370"
+            },
+            {
+              "type": "url",
+              "url": "https://www.wikidata.org/wiki/Wikidata%3AWikiProject_sum_of_all_paintings/Collection/Museum_of_Fine_Arts_of_Nancy"
+            },
+            {
+              "type": "url",
+              "url": "https://www.patrimoine-histoire.fr/P_Lorraine/Nancy/Nancy-Musee-des-Beaux-Arts.htm"
+            },
+            {
+              "type": "url",
+              "url": "https://lecloitredelart.com/produit/henri-leopold-levy-apollon/"
+            },
+            {
+              "type": "url",
+              "url": "https://commons.wikimedia.org/wiki/Paintings_in_the_mus%C3%A9e_des_Beaux-Arts_de_Nancy"
+            },
+            {
+              "type": "url",
+              "url": "https://itoldya420.getarchive.net/amp/media/esquisse-pour-la-mairie-de-pantin-allegories-du-canal-de-lourcq-du-travail-60e9a5"
+            },
+            {
+              "type": "url",
+              "url": "https://www.routes-touristiques.com/tourisme/visiter-nos-regions/bourgogne/cote-d-or/visites-et-voir/chateaux-monuments-et-patrimoines/palais-des-ducs-de-bourgogne-dijon-21.html"
+            }
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_06f224734f905446016aad3b16091487d285f4e3696ef3e7df",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTsoRphFxKYgV6rAiamm516E5QsMbo33tmcHWQad8BebeEJrKyIHTZU_XsqZQpEOFnbW1rrXMTomHYOYdfvjff5E0jvetPY1HoeUJYqnUcYX1Pl7gYbQaElzAuf7QNjpgjHPCYchQSX2R5qXJrOeYNd9Un-IuDHLtOJP1Qb2_IdWLB3OVqAu83C5FsbSAROGcaZDP7rjG2vXUkp8MFwg8C0j674pERXjsxUeT_W47PulLcclgQXCrvQMZH78yBciND0Jsn8sHUVLk2Xf7S3CmJyiRhxzXZnbbsY3Q-zBNvLE2Il_FpAEQXaIFoKwxGi1j8Z2R8vG8dOtK0-dQS-jGPsVKYfv5qj-pdhRW5edLL0-xgbOGbt-GwkrfOeWjdZhBw2Xu_sqwJcMdizeAzMaqn2u77dT7KkFd_MinXwaEnvoFK9eTDLenKG6DE_lzB_Q0uAtH0Bb0lNqjuxuByZ8PyRQwxvzp11ZGxndI6WCs7hIgGiWeRygrxr9rmdmGEZ5CY5-or5Xq8z8VIZtdCoHbX6Gju1VJIY0ZzOxohAHHpZkkZ6Fnen8aoMe9KvcAvlXxvZy3Galw0hGVLa_8YV1szI_C0weSM9_PFtSBuN9ub3VpHWP9L5gByAY5YpBbQTSq21LpDthZ2SyHfEXHrk-SyeXgOGNDk0J_fDvjZvO2fNitB5nr2OOHL5MkQd55DWP9B9o87wxjd9hBwL-0SvCvT-fl3-bT3j5r-YcOZt9tSDN7AAYsSxznJEVRAiHJTC2840yWtUneIyUpK-h5E6Ohe8Wz0NbwwlekJtUIxNZGvTCPGyph81kQ9FbdYaTLA68x9QwTVkel8REEQ6NZhOJgmwun5lDO8dbA6JGFdSY5yPZRUzRNqLl0IlRdqgJEVE41lunRPNZR69fcFhLKJ9TH6Dh2eaEW1TD0IT-mdsYeqU0YpmFXyrHQ7M3j0XjgBvDPIc9U96gIlzP7TTuJcnkyBOlngI4UTHLlDxP2IjMZoc5Z6eJdrS73JqZ4SF_CJkVRxNB5qySJ3Spl4-E2iOHa-Ffbe4srF1lYO_n8eRq_j9dcGjZj09IExlefmWud8J3aX8jgMNH9CCmXxjRbFXbc5-uR4NYGo4Ihi-5lBnzvMrR7-POSHU8ULhRzjnW9mz9hYHfjtEfZb9avwHOdLJZVk0hIm6YNNa3o3RApjS7UwCZCvXNmJxmPtwYHAIWTCAO2GJ1",
+        "status": null
+      },
+      {
+        "id": "ws_06f224734f905446016aad3b168d1487d299465b48cc718bf9",
+        "action": {
+          "type": "open_page",
+          "url": "https://commons.wikimedia.org/wiki/File%3AClitia_chang%C3%A9e_en_tournesol_H-L_L%C3%A9vy_0727_%28cropped%29.JPG"
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_06f224734f905446016aad3b17e04c87d2886f0e31c7ed6e0c",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTsoXpHNVaou4qZJQG7aUkifNKqtJgrrxM24Hulc_9Trt7qG6su5IEivj0bRQbN6LhTbHSurBJzTNvdfpNRpypogNguhDwumEYxKA1Dsq8Zmoq6hOVbcK7Bo34jd5oTeszwP79F9YwTaoWefxkK19vs_79ITpk1R8XWt2TcxMq91e-8WjM2ZdeWqXpF2TCDtWTLEPDaGO2Hk0ZAK5AFcCQ0N9HoT2VIqQhPm3UlKw_WBfCcSFIHa7VTHCcOlXnybzavjA5curlVcJ228BigB3OOTj5zTgk_VyObNxphJPKi5G6IzEuKrT4ItoAS3LWqmm8sf0IPP3yVKdgoAeqVYuySqxHV-GcHPE4gbyUuIYHiaSwsIOJCnrzV2huAiFKaQaE26UfgYyD8CID9wy-cquWgk4GiKk5Zhi6q39lnIUWvDKYPg_RUuA2nVEJxUxjtLRn4l-pzpoJ17xHj6DljSW9DTNJRm8FR_Y6C9vpi00sOPTXvXWDV0AcbY3jFp36PSvJ5qlfCVDgkSQ5OzmF6-LnVu33u0sXlSTcvLiu56dI9HtjcwMotvZ6MqIkvqsOiykRVYz_9id9KWfP6pR9nYmg9KqtPm8BUk5iUbey8rxKKsw4WEMc5CxBqQY93U1GJZdJ7LBxCnc5nwYQhgNfQHrMT27i_slQKPi_eZBh9zkb91xCaYFR7x9qQfpym1mkPP7y0wkTrSHsiZUEpbwYdaF9W_DjpL5WKTEgCbiasKDSygqGvBxSVEkC10hy0kXL5cU2F__DFNJUGWSETKStAnZzq09hYKbKqYKxM3Qj9Is4TESz9763RbXNZzVqJ-SwnK3tSth4uK56UQb_LyD4pSVTlsSG1rXv_lSyWLhlwXuOKVcENgIxU1WIgnPTfKYFv2lf4o9CQNZYk4OfdNHgIyWEWeBua77UvqJXl8NLhdc6lT7652hzhyEpslSIvr_rAGFm3dCVT58uKSY522W6wOujW_W5n0oR_7C8Q7vEetutqBzMhnmLVc7U5RII9qN1BMNR5DSo9CE3tI2uTnkT__RYmnNJKpERsDUzfOBYkkBR0-H4wFvVo0bO987EJW-VT4XNmm6u-5mP4MwJp_fqo5HxIgpDLIijkMjUFpXt_TAJjBG7c6xHKuB0HdVUo6Md8tbeXwd1M1XOIAVlPbzXM7CLImCliKIL_HyPNbO9YqWfbDxamlruHazgXwPx-jp9f89QEA_sEKKsyZBSam2-nl5y8Yq23bxPO5cSvcDoOO7aqqU5O5oalHCoiR32eZB3m6PmEsaYf2lWS9mfTlo907ASDjpQ==",
+        "status": null
+      },
+      {
+        "id": "ws_06f224734f905446016aad3b183c0887d2a9555683f1798e7e",
+        "action": {
+          "type": "search",
+          "queries": [
+            "site:collections-mba.nancy.fr/r/f52cb426-0479-40de-92a7-6cc49c17b6f9",
+            "site:collections-mba.nancy.fr \"Clytie\" \"1365\"",
+            "site:collections-mba.nancy.fr \"Clytie changée en tournesol\""
+          ],
+          "query": "site:collections-mba.nancy.fr/r/f52cb426-0479-40de-92a7-6cc49c17b6f9",
+          "sources": [
+            {
+              "type": "url",
+              "url": "https://collections-mba.nancy.fr/"
+            },
+            {
+              "type": "url",
+              "url": "https://collections-mba.nancy.fr/fr/search?f=564170&o=562263%2C562261"
+            },
+            {
+              "type": "url",
+              "url": "https://collections-mba.nancy.fr/fr/search?f=562379&o=562380"
+            },
+            {
+              "type": "url",
+              "url": "https://collections-mba.nancy.fr/fr/search?f=564299&o=562365%2C562331"
+            },
+            {
+              "type": "url",
+              "url": "https://collections-mba.nancy.fr/fr/search?f=1025170&o=562629%2C562380"
+            },
+            {
+              "type": "url",
+              "url": "https://collections-mba.nancy.fr/fr/search?f=563316&o=562326%2C562285%2C562250%2C562237"
+            },
+            {
+              "type": "url",
+              "url": "https://collections-mba.nancy.fr/fr/search?f=563714&o=562680%2C562261"
+            },
+            {
+              "type": "url",
+              "url": "https://collections-mba.nancy.fr/fr/search?f=562868&o=562373%2C562238%2C562239%2C562237"
+            },
+            {
+              "type": "url",
+              "url": "https://collections-mba.nancy.fr/fr/search?f=562291&o=562261"
+            },
+            {
+              "type": "url",
+              "url": "https://collections-mba.nancy.fr/fr/search?f=563402&o=562246%2C562247"
+            },
+            {
+              "type": "url",
+              "url": "https://collections-mba.nancy.fr/fr/collections/architectures-impossibles"
+            },
+            {
+              "type": "url",
+              "url": "https://collections-mba.nancy.fr/fr/search?f=563184&o=563145%2C562311%2C562266%2C562261"
+            }
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_06f224734f905446016aad3b1a9fd087d2a75041d4a59271dd",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTso-SPMVlQMAwTnx73ZvzV4rRDN3E7JEGWNf1N4QaJe5SVJ7g04fM_YFZGVxstFTIDywGU3lW0NvAB4dTSwaiBsFFXwo17-PtEDWsBJFYsX7gfg8-FzMdpjhywe8Aj8wp3gQfBfKoglpyxohTfekyQDC0i9qjcQt3FaoXcHShDOfIAd1XlneRcYdSArg0Lmp3vx7bDbaXRcjjonQMCNkGTGG88uWXDNsjs9rb84LK8xafIaegHiuWkO2w60THZGhJzjxMJTLsf8LAZ0Kbo16zDuIWW6lMMVLEdd_inhDxP0m4s5MhZuKm_S-lWGtj0J3b96IBR_ufqgO6HgT36z_xlUZTpRbqMVO5IDptW03CR-NSjf7cqV7XhXNEvzr27N031iX4W5dC39ANxWkErjWiG8DxzFb2_v6YDuTTJrx-7xxns5ELZA3G1-Qunl6h0o6DR1BHbKm78BUaylx0VpV9-OWgpPL3oA4UrV8rWt6pCoXVtE2rP-nSqUOt5oz8jnkAvWXQbSGPshnbUXdExEGqB2ewxSnfsEnoIQc28rDU-oQAsO8z3qU_VkdApXLxFP3NLYqdWwwD-iKWpDGOzngmfqRh4AKTelSTbBsVYhd5uXCJnc5Mtt4kJJREeU6PU43Azxuf6vXzFziUzAFKrhokr_C0gNSu7wGPc37mM8bwasf2krB75mOj0C3VtBWD7WY_J7QrF7HBxUhjmTdA3R8HGUVXP3vfj2np9MR_eDwRlqhdW2uXjRQX_tnkNKxa3uJnuAUSVzZen08SkQPDFk-LlntvlbhYp7zeBQoUpBeubVJpqMXIeTH-jS0X7Yli9vH1K3wdG-44HB49u53I7m_GfBQYo3SgguP3mZb6SSlnhQU9Kr-cANhxKp7EGgSZI55WpxHOJ771TIhgot8JC0uFwPfY6X8jC_N52U7MFuN40z9trg7vwkl6jubHm4_FotBex2aatWS6HHqwfXfsa9eF5RYmWkZMPSqj6DQgrsEQy4Pp3XXCPsnFbUs3akL_Zz3vUpFtkkuW_chrJoXjTz40mbfIrfCra-8ZNptQ_8EvRR6FRxDAm8SBnqn5KHyIhLKiWpNaNYHWQ6Ws84LIufxKEceFk6LVX1Fcj_Siu8Ucev0vVyIaPwS9EEwBRf6Zdw51VkyDf7Me3DERsi3ggdqk_goC9xt0aMUm2BGJPGaw8A6iq6RfxIX0ZoNp_AWs1SZRwSM1HG2PSJspoR7-Ypb0j48DKKv8QhP10amMlRqGPrv0Kt44jelbFB4Ooy_FU9ZPN7JDS52FK8-5GELQyzYpyUvQBS09pCX5F53AEbubRB8nB3ZT3Egy01BH-c7wThdk21C2bhKqCXoBy6wLG2yCmMvUgZLae0W0WzozqmQZqPM-0rlGm4nBK_mTZTwY4JnZ77FmvxhxVJcLBBjH3FnsiSVvqH24nFx0TgdHbeRb4OUSUzzhtffBMhEEDHz0jOSvOb",
+        "status": null
+      },
+      {
+        "id": "ws_06f224734f905446016aad3b1b672c87d287815e3cce1dbe6f",
+        "action": {
+          "type": "search",
+          "queries": [
+            "\"Clytie changée en tournesol\" Lévy 1876 228 73,5",
+            "\"Clytie changée en tournesol\" musée Nancy",
+            "\"Clitia changée en tournesol\" Lévy",
+            "\"Clytie changed to sunflower\" Henri Lévy Nancy"
+          ],
+          "query": "\"Clytie changée en tournesol\" Lévy 1876 228 73,5",
+          "sources": [
+            {
+              "type": "url",
+              "url": "https://www.wikidata.org/wiki/Q60411370"
+            },
+            {
+              "type": "url",
+              "url": "https://commons.wikimedia.org/wiki/File%3AClitia_chang%C3%A9e_en_tournesol_H-L_L%C3%A9vy_0727_%28cropped%29.JPG"
+            },
+            {
+              "type": "url",
+              "url": "https://lecloitredelart.com/produit/henri-leopold-levy-apollon/"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Henri-L%C3%A9opold_L%C3%A9vy"
+            },
+            {
+              "type": "url",
+              "url": "https://www.patrimoine-histoire.fr/P_Lorraine/Nancy/Nancy-Musee-des-Beaux-Arts.htm"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Liste_de_peintures_de_Jean-Fran%C3%A7ois_de_Troy"
+            },
+            {
+              "type": "url",
+              "url": "https://timelessmoon.getarchive.net/media/clitia-changee-en-tournesol-h-l-levy-0727-e29836"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Clytie_chang%C3%A9e_en_tournesol"
+            },
+            {
+              "type": "url",
+              "url": "https://collections.louvre.fr/ark%3A/53355/cl020136355"
+            },
+            {
+              "type": "url",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Manuel_de_l%27amateur_d%27estampes%2C_contenant-_%28IA_bub_gb_urJCAAAAYAAJ%29.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://collections.louvre.fr/en/ark%3A/53355/cl010236328"
+            },
+            {
+              "type": "url",
+              "url": "https://datos.bne.es/resource/a7481487"
+            },
+            {
+              "type": "url",
+              "url": "https://museedugrandsiecle.hauts-de-seine.fr/musee/les-collections-du-musee/les-restaurations/jean-francois-de-troy-1679-1752-clytie-changee-en-tournesol/"
+            },
+            {
+              "type": "url",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Le_temple_des_muses_-_orn%C3%A9_de_LX_tableaux_o%C3%B9_sont_repr%C3%A9sent%C3%A9s_les_evenemens_les_plus_remarquables_de_l%27antiquit%C3%A9_fabuleuse_%28IA_gri_33125012263162%29.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Liste_de_peintures_de_Nicolas_Colombel"
+            },
+            {
+              "type": "url",
+              "url": "https://utpictura18.univ-amu.fr/notice/5662-clytie-changee-en-tournesol-jean-francois-troy"
+            },
+            {
+              "type": "url",
+              "url": "https://digi.ub.uni-heidelberg.de/diglit/blanc_peintres_francaise_bd1/0364/image%2Cinfo"
+            },
+            {
+              "type": "url",
+              "url": "https://www.arc-codex.com/library/44765"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_du_Grand_Si%C3%A8cle"
+            },
+            {
+              "type": "url",
+              "url": "https://www.chateauversailles.fr/sites/default/files/presse/documents/ressource-pedagogique_commentaire-clytie_par_de_la_fosse.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://www.chateauversailles.fr/resources/pdf/fr/presse/grands-rdv-2015.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://en.chateauversailles.fr/sites/default/files/rapport_activites_2008_fr.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://media.interencheres.com/medias/69009/201503010051/resultats/resultats69009-201503010051.pdf"
+            },
+            {
+              "type": "url",
+              "url": "https://fr.wikipedia.org/wiki/Nicolas-Ren%C3%A9_Jollain"
+            },
+            {
+              "type": "url",
+              "url": "https://www.wikidata.org/wiki/Wikidata%3AWikiProject_sum_of_all_paintings/Collection/Mus%C3%A9e_des_Beaux-Arts_de_Nancy?utm_source=openai"
+            },
+            {
+              "type": "url",
+              "url": "https://lecloitredelart.com/produit/henri-leopold-levy-apollon/?utm_source=openai"
+            },
+            {
+              "type": "url",
+              "url": "https://pop.culture.gouv.fr/notice/joconde/000PE012330?utm_source=openai"
+            },
+            {
+              "type": "url",
+              "url": "https://pop.culture.gouv.fr/notice/joconde/000PE009025?utm_source=openai"
+            },
+            {
+              "type": "url",
+              "url": "https://museedugrandsiecle.hauts-de-seine.fr/musee/les-collections-du-musee/les-restaurations/jean-francois-de-troy-1679-1752-clytie-changee-en-tournesol/?utm_source=openai"
+            },
+            {
+              "type": "url",
+              "url": "https://collections.louvre.fr/ark%3A/53355/cl020136355?utm_source=openai"
+            }
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_06f224734f905446016aad3b1fdc1c87d2aadd37b227ced635",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrTso49hbIgx2WU_c1izBeTazBLqktrW7aiP6DH9xzPoQ53X0yRVKSeDOh90lxC8J5BexugebD7URUjYPhjUw6OWVBcwiav2FXqlupSqKzkCndMwH_fmZ4lq1JWvaEpYe_jrQ-7exzU0ipbu0CizhuKrTnNS_jzRy6ZFLJlBDnGmIxJEHZUC6t4h5HD3RwH_L3h9G2P4DBublcv4d-ikdkODw-4_XfAC-sctRvd_HtKaQ6KYC15jwndjIeGkLOnHRzde_VGyUc1OnekO-SZYxsAGTMmdJEFQa5Ws2_7Af5i12FY71Kc5V_gxg3lt9XMc525OFZnKEUGaSZUXm6MpZ2TJwJwyh0ozz2EvYno3X2AcA9Hi-NLPsTsimT9KmJ3enQSa9Cw_6IaCOftk1Q-h7hSG1thXspMU8XtqMjqbGqTYKjd05uT6b8pTO-1RhuP4uHnb4MceakQokqlu0FhpEV4ONeIkURJ6ot4h-YyTmhQqoD-WYf3oBGnZwic7HirwOD9x_edTD5f5jA7_3n5cuY0X5aF2HATnKhhooI_FC5yW9QtjLGqbKWzKK46-Wmd_TGUpageWECQDO15etmml7ipRUgm8u2N8RtOswCpR5HEsWZCYzTAiLCQyRasWHq-5kVtVYg7X7OdRJhBALZctI5Uu6I1aIPIhT56C9qtMsw7sG1nVzZL03g6K0gfO3IOMF_hd-VZUIonyqWrPM65yP5A_59mSk9QpgM85s__rup1dXNoXXYAj8KhImc8-d1y7g26tHccgVTP8vHDraS0huZtGvk1nv2MVBtjmC7qvStvrgy8JD1fFklxfZDHziCwrCMEdoWHDAl0HdGeC4VVVGMzgAS4FV44sM5F6c5nPfTrIkPxpmdAs5sPj9_UhEcNhLYeyGOmzNFhxkQd7Vuo5b-f5HE8beJYszzkazfpH3NBaLXuUNFFgVCOwaDr62U--hcft36Rznu1i_pRczm7eM_eNsIbIBceY1yUnB6f7e_Yi1Ee6Qx4N8dsXLv7RQNDp_hIXApKNHjTv1b4lrwAfVoYrCYJThAUq5aZAGbQZI6b_9Gtqo0Ny_m3s0CLQ-9A4InpeRSUgk3zNTRLjkPW6QQanrx40uQNVg0mp96rQyArIAahwKsDsf17YlyLsFGoOZ0RobunRTJb90Ns1x-tnuE984spZT_rE4DXe0n6JNx0HB3hUzYdN370FOmwFdB3vL7_BJjrw1oVaejwpcctOyNCCE9TfJT66k-xwYvoXJPsaZVbium108OmsSIno2NlJlQ-lF5NvvDZj9EgLz-tsRvzLlO_W61_4SwkpzylIlfft5Sik4yT3OJNN7-X8ULt1y8BBEN-9ErFXhcyXXYY5PxQTHBqrh2BRBX76PhXZVaXswVAaXafSHvfGHfEtXgTesgsC2h9M77NQ9mVtJ7JwUe5Fm2CUBzVK6_dffwzwB6U-3GA9KhzKyBPojfOXSH_Dg3gEFzZKUF_VXqEfzoL84Gwgjgu8qWPYU-5YnVu7dCsRGxZTnULA1HoOgpqKBWNjQ2HhAZTI2nWaJYA6R77khREPFfK9sx2mgghnE23aDlgkP1Djq2MKYzO2bItdJTRRUQMFB_q9qopblbDGBiD7MxqlCSlA6qONvBLF6u1QnCa5foGbouSThR6gR69Mg8wd-mq_WMvDYw20iKY2TYjDYM8Szy24KOjh8_B_9a9xZJKD5SmKYauS_eMbW8FEc6Ym9Q96kPALsB5-6xS4oYgzr8RkG3tblS9ye15KIyTIPXPKGQYTR1gW-wUsGtcAZn8m8rlF7F06OBDCOr5eeuE99wi_tyVArF60AMRWATHqj1EWWqkNqVO1_TynwJtSvOXvmLacrM1c1PJSnB5qvURsESydHs68IikanxxhfBBW9lmUsflJz4vkyEN-lkj4jvhbyjpOYSqwfyEHJVaaY8f4eOyKydF-NUXKgPxH8MW2YAZ9s9xyl4w1_702lscVmJruHylF3XPj6Blz4xMqeH7iSBXAR-fegmhnKlJc6Dh64bsZf5_yY4Gsyk5dWTaOuRSBC3ntCpG5cGTgzpnHuiYtMq_FQ4Oi7q74ft84SBQDJ741PkJ0-otE5rj7clgxcpBCnrkDXFIBZzgQ1qkWwWrYSxQcLnsIzhY_ZyjZyUXqpDb0NCE8slNF2a---IbvpGNYNhiwjCexGQAiTTpe-r99bILawyUtiiR1s08-7mc2za8Bh8JslAf1XIUc1KSIyPiwUwVvVetEp0bCerEk-hV7kmEbQrB7GE-bD1c_KiQryYgfQBOlqr6YShDCEXo4EhteSXnCwNZh-JeJH7-2NGdixC_zshSIhYgBjeUrHzWR9h7Engvc5clzFGUijnf9vAOJ4tH8l2N0C8hUe8JlgkHIc43frrvyjEbegPBatq7ibIPubGg3G5KfAmeIN-SGj4WMonhGf0ALoEAfOFAi1MOhYart5ho0J4jPQvye1Hmd73rKonp4KUL1cDmU759zKju5inDts7qFTnTSGL8JK-baUy_prbEKzrBmGTKv_9Q00lYFj9BzPLrMM8vjfWQzyDxnpP14OwnHm0ghhgOSRaSk5xF_AQslQxKv7NMgVgVqKE3Mm8wAo92sTEoqxZnRUZdfUNUj8JM_KxMU68Zx3j-pCAG32abumceC7VSqT6Zs_PFojxPeha8eBJQWxprvb7Yrmu9vkk-IguYRigAmFzEgzRDjz_gcKzvPsYLSxbqYf-TIMYH7rwKRImSy2cDRr4212sOENq1vdxYtFbydtDHSpuleTbY0ssTWIuiU6-DL0-E6-zh8JDEVY7P2RRkodN27BpteMDlySmmpCUUPS6E_rQftLNYUZG8Qe2XVcb7jw_0GP5khQTGDD6Jo5ac8YAbqGalxW9SfIMRbj-st0e3i6FdmH_9356BvEmHVm48S5Yc6V2O9NsShPxfh6yu41fHqG31_juisyEAl_9GjaN44er2ibA58Wg0GOvPy6A7senoaube4zV6WrdtjzvBn_7dc19_qg-77OrjvCK3fDFJ2f0fmB2if_EugkJuA577bx0jeNaiZd3KXd9otvd3KQJrR6dL8XqF9WbIE7LvuqktK4RZ4Jf0abxBp1eBt0Jiz3m4TSOIAP70yF6btSje9YrFdiUKs4",
+        "status": null
+      },
+      {
+        "id": "msg_06f224734f905446016aad3b21bcd087d2894dc53f46c20d12",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 733,
+                "start_index": 578,
+                "title": "Wikidata:WikiProject sum of all paintings/Collection/Museum of Fine Arts of Nancy - Wikidata",
+                "type": "url_citation",
+                "url": "https://www.wikidata.org/wiki/Wikidata%3AWikiProject_sum_of_all_paintings/Collection/Mus%C3%A9e_des_Beaux-Arts_de_Nancy?utm_source=openai"
+              },
+              {
+                "end_index": 1251,
+                "start_index": 1096,
+                "title": "Wikidata:WikiProject sum of all paintings/Collection/Museum of Fine Arts of Nancy - Wikidata",
+                "type": "url_citation",
+                "url": "https://www.wikidata.org/wiki/Wikidata%3AWikiProject_sum_of_all_paintings/Collection/Mus%C3%A9e_des_Beaux-Arts_de_Nancy?utm_source=openai"
+              },
+              {
+                "end_index": 1874,
+                "start_index": 1736,
+                "title": "File:Clitia changée en tournesol H-L Lévy 0727 (cropped).JPG - Wikimedia Commons",
+                "type": "url_citation",
+                "url": "https://commons.wikimedia.org/wiki/File%3AClitia_chang%C3%A9e_en_tournesol_H-L_L%C3%A9vy_0727_%28cropped%29.JPG"
+              },
+              {
+                "end_index": 2328,
+                "start_index": 2218,
+                "title": "Musée des Beaux-Arts de Nancy",
+                "type": "url_citation",
+                "url": "https://www.patrimoine-histoire.fr/P_Lorraine/Nancy/Nancy-Musee-des-Beaux-Arts.htm"
+              },
+              {
+                "end_index": 2936,
+                "start_index": 2830,
+                "title": "Henri Léopold Lévy – Apollon | Le Cloître de l'art",
+                "type": "url_citation",
+                "url": "https://lecloitredelart.com/produit/henri-leopold-levy-apollon/?utm_source=openai"
+              },
+              {
+                "end_index": 3278,
+                "start_index": 3181,
+                "title": "",
+                "type": "url_citation",
+                "url": "https://pop.culture.gouv.fr/notice/joconde/000PE012330?utm_source=openai"
+              },
+              {
+                "end_index": 3505,
+                "start_index": 3408,
+                "title": "",
+                "type": "url_citation",
+                "url": "https://pop.culture.gouv.fr/notice/joconde/000PE009025?utm_source=openai"
+              },
+              {
+                "end_index": 3817,
+                "start_index": 3603,
+                "title": "Jean-François de Troy, Clytie changée en tournesol- | Musée du Grand Siècle",
+                "type": "url_citation",
+                "url": "https://museedugrandsiecle.hauts-de-seine.fr/musee/les-collections-du-musee/les-restaurations/jean-francois-de-troy-1679-1752-clytie-changee-en-tournesol/?utm_source=openai"
+              },
+              {
+                "end_index": 4053,
+                "start_index": 3954,
+                "title": "Etude pour Clytie - Louvre site des collections",
+                "type": "url_citation",
+                "url": "https://collections.louvre.fr/ark%3A/53355/cl020136355?utm_source=openai"
+              }
+            ],
+            "text": "## Résultat vérifié\n\nL’œuvre recherchée est bien :\n\n- **Titre :** *Clytie changée en tournesol*\n- **Artiste :** **Henri-Léopold Lévy** (1840–1904)\n- **Date :** **1876**\n- **Technique :** huile sur toile\n- **Dimensions :** 228 × 73,5 cm\n- **Inventaire :** **1365**\n- **Conservation :** Musée des Beaux-Arts de Nancy\n\nLa notice officielle du musée est celle qui fait foi : [notice du Musée des Beaux-Arts de Nancy](https://collections-mba.nancy.fr/r/f52cb426-0479-40de-92a7-6cc49c17b6f9). Elle est également référencée comme la source de l’image reproduite sur Wikimedia Commons. ([wikidata.org](https://www.wikidata.org/wiki/Wikidata%3AWikiProject_sum_of_all_paintings/Collection/Mus%C3%A9e_des_Beaux-Arts_de_Nancy?utm_source=openai))\n\n### Notices ou pages avec reproduction\n\n1. **Musée des Beaux-Arts de Nancy — notice de collection**  \n   Notice institutionnelle de l’œuvre, avec reproduction numérique : [*Clytie changée en tournesol*](https://collections-mba.nancy.fr/r/f52cb426-0479-40de-92a7-6cc49c17b6f9).  \n   Les données concordent avec le titre, l’artiste, la date et l’inventaire 1365. ([wikidata.org](https://www.wikidata.org/wiki/Wikidata%3AWikiProject_sum_of_all_paintings/Collection/Mus%C3%A9e_des_Beaux-Arts_de_Nancy?utm_source=openai))\n\n2. **Wikimedia Commons — reproduction photographique de l’œuvre**  \n   Page de fichier : [*Clitia changée en tournesol H-L Lévy*](https://commons.wikimedia.org/wiki/File:Clitia_chang%C3%A9e_en_tournesol_H-L_L%C3%A9vy_0727_(cropped).JPG).  \n   La page donne le titre français, Henri-Léopold Lévy, 1876, le musée de Nancy, l’inventaire **1365**, les dimensions et renvoie à la notice officielle du musée. C’est la reproduction la plus directement exploitable parmi les pages trouvées. ([commons.wikimedia.org](https://commons.wikimedia.org/wiki/File%3AClitia_chang%C3%A9e_en_tournesol_H-L_L%C3%A9vy_0727_%28cropped%29.JPG))\n\n3. **Patrimoine-Histoire — présentation du Musée des Beaux-Arts de Nancy**  \n   La page reproduit une vue de l’œuvre et l’identifie explicitement comme *Clytie changée en tournesol*, par Henri-Léopold Lévy, huile sur toile, 1876 : [page consacrée au musée](https://www.patrimoine-histoire.fr/P_Lorraine/Nancy/Nancy-Musee-des-Beaux-Arts.htm). ([patrimoine-histoire.fr](https://www.patrimoine-histoire.fr/P_Lorraine/Nancy/Nancy-Musee-des-Beaux-Arts.htm))\n\n4. **Le Cloître de l’art — page consacrée à une étude préparatoire**  \n   Cette page n’est pas une notice de l’œuvre finale, mais elle reproduit ou présente une **figure préparatoire pour Apollon**, reliée explicitement à la toile de Nancy. Elle confirme également les dimensions, la date et l’inventaire 1365 de la peinture finale : [Henri-Léopold Lévy – Apollon](https://lecloitredelart.com/produit/henri-leopold-levy-apollon/). À utiliser comme source complémentaire, non comme notice principale. ([lecloitredelart.com](https://lecloitredelart.com/produit/henri-leopold-levy-apollon/?utm_source=openai))\n\n## Homonymes écartés\n\nLe titre est partagé par plusieurs œuvres, mais elles ne correspondent pas à l’œuvre de Nancy :\n\n- **Charles de La Fosse**, *Clytie changée en tournesol*, conservée à Versailles, inventaires MV 7256 / INV 4534 / MR 1700. ([pop.culture.gouv.fr](https://pop.culture.gouv.fr/notice/joconde/000PE012330?utm_source=openai))\n- **Nicolas-René Jollain**, autre *Clytie changée en tournesol*, également à Versailles, inventaires MV 7799 / INV 5463 / B 666. ([pop.culture.gouv.fr](https://pop.culture.gouv.fr/notice/joconde/000PE009025?utm_source=openai))\n- **Jean-François de Troy**, *Clytie changée en tournesol*, vers 1730, au Musée du Grand Siècle. ([museedugrandsiecle.hauts-de-seine.fr](https://museedugrandsiecle.hauts-de-seine.fr/musee/les-collections-du-musee/les-restaurations/jean-francois-de-troy-1679-1752-clytie-changee-en-tournesol/?utm_source=openai))\n- Les pages du Louvre relatives à **Clytie** concernent des études ou des œuvres différentes, et non la toile de Lévy inventoriée 1365. ([collections.louvre.fr](https://collections.louvre.fr/ark%3A/53355/cl020136355?utm_source=openai))\n\n**Conclusion :** pour une citation fiable, privilégier la notice du **Musée des Beaux-Arts de Nancy**, puis la reproduction Wikimedia Commons qui reprend les mêmes identifiants et fournit l’image en haute résolution.",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "required",
+    "tools": [
+      {
+        "type": "web_search",
+        "filters": null,
+        "search_context_size": "medium",
+        "user_location": {
+          "city": null,
+          "country": "US",
+          "region": null,
+          "timezone": null,
+          "type": "approximate"
+        },
+        "return_token_budget": "default",
+        "search_content_types": [
+          "text"
+        ]
+      }
+    ],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1789737768.0,
+    "conversation": null,
+    "max_output_tokens": 2500,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "medium",
+      "generate_summary": null,
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 36098,
+      "input_tokens_details": {
+        "cache_write_tokens": 96,
+        "cached_tokens": 4251
+      },
+      "output_tokens": 1800,
+      "output_tokens_details": {
+        "reasoning_tokens": 745
+      },
+      "total_tokens": 37898
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 3
+      }
+    }
+  }
+}

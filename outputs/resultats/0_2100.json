@@ -1,0 +1,56 @@
+{
+  "image_id": "0_2100",
+  "titre": "On air",
+  "artiste": "Edwart Vignot",
+  "room_id": "Room_5",
+  "sujet_existant": "NA",
+  "model": "gpt-5.6-luna",
+  "prompt_version": "bird-vision-v1",
+  "date_utc": "2026-09-19T14:28:23.271105+00:00",
+  "mode_acquisition": "image_locale",
+  "fichier_fourni": "0_2100.jpg",
+  "controle_identite": "association_par_id_fournie_par_utilisateur",
+  "raison_identite": "Image associée à cette œuvre par son nom de fichier ; identité non contrôlée automatiquement.",
+  "source_page": "",
+  "source_image": "",
+  "erreurs_telechargement": [],
+  "sha256_image_locale": "e8900dc97967a9a356a7730387428a896f720d992b65e0772d79d8d51ab73de3",
+  "fingerprint": "f301daabde442c2701559ce27c8e40cb4bbdae73d1137d64d228a9b43ffca798",
+  "original_width": 440,
+  "original_height": 698,
+  "statut": "ok",
+  "image_path": "images\\0_2100.jpg",
+  "description_visuelle": "Peinture figurative sombre représentant deux figures humaines dans un intérieur peu éclairé : en haut à gauche, une figure drapée de blanc et de brun se penche ou semble flotter vers la droite, tandis qu’en bas à droite une femme vêtue d’un manteau bleu est agenouillée, les mains rapprochées de la poitrine. L’arrière-plan montre des étoffes ou des coussins bruns, une structure en bois à droite et un amas de tissu au premier plan, le tout entouré d’un cadre doré.",
+  "sujet_principal": "Personnage",
+  "sujets_secondaires": [
+    "Objet"
+  ],
+  "justification_sujet": "Les deux figures humaines dominent la scène et structurent l’action visible ; aucun attribut suffisamment explicite ne permet d’identifier avec certitude un épisode religieux, mythologique ou historique.",
+  "style_visuel_probable": "Figuratif, naturaliste, clair-obscur",
+  "justification_style": "Les corps, les draperies et les gestes sont rendus de manière reconnaissable, avec un fort contraste entre les zones éclairées et le fond brun très sombre. Les reflets sur le cadre et la surface indiquent qu’il s’agit d’une reproduction photographiée, et non de la peinture originale observée directement.",
+  "figuration": "figuratif",
+  "couleurs_dominantes": [
+    "brun sombre",
+    "noir",
+    "blanc cassé",
+    "bleu profond",
+    "ocre doré"
+  ],
+  "elements_visibles": [
+    "figure drapée de blanc et de brun en haut à gauche",
+    "femme agenouillée vêtue de bleu",
+    "mains rapprochées de la poitrine",
+    "étoffes ou coussins bruns à droite",
+    "structure en bois à droite",
+    "amas de tissu au premier plan",
+    "cadre doré",
+    "reflets sur la surface de la reproduction"
+  ],
+  "composition": "La composition est diagonale : la figure claire située en hauteur attire le regard vers la femme agenouillée en bas à droite. Les masses sombres de l’arrière-plan encadrent les zones éclairées des vêtements et accentuent la profondeur.",
+  "limites_visuelles": [
+    "La fonction exacte de la figure supérieure est indéterminable à partir de l’image seule.",
+    "Les éléments bruns à droite peuvent être des coussins, des étoffes ou du mobilier, sans identification certaine.",
+    "Les reflets, la faible luminosité et le cadrage photographique masquent certains détails de la peinture."
+  ],
+  "desaccord_sujet": false
+}
